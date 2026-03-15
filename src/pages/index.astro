@@ -13,10 +13,11 @@ const base = import.meta.env.BASE_URL;
       : 'es';
     const saved = localStorage.getItem('legis-cpm-lang');
     const target = saved || lang;
-    window.location.replace(`${base}${target}/`);
+    const b = base.endsWith('/') ? base : base + '/';
+    window.location.replace(`${b}${target}/`);
   </script>
   <noscript>
-    <meta http-equiv="refresh" content={`0;url=${base}es/`} />
+    <meta http-equiv="refresh" content={`0;url=${base.endsWith('/') ? base : base + '/'}es/`} />
   </noscript>
 </head>
 <body>
