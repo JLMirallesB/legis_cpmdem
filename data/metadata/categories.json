@@ -1,0 +1,67 @@
+{
+  "categories": [
+    {
+      "id": "curriculo",
+      "label": { "es": "Curr\u00edculo", "va": "Curr\u00edculum" },
+      "description": {
+        "es": "Normas sobre planes de estudio y curr\u00edculo de ense\u00f1anzas profesionales de m\u00fasica",
+        "va": "Normes sobre plans d'estudi i curr\u00edculum d'ensenyaments professionals de m\u00fasica"
+      },
+      "icon": "book"
+    },
+    {
+      "id": "organizacion",
+      "label": { "es": "Organizaci\u00f3n y funcionamiento", "va": "Organitzaci\u00f3 i funcionament" },
+      "description": {
+        "es": "Normas sobre organizaci\u00f3n, funcionamiento y r\u00e9gimen interno de conservatorios",
+        "va": "Normes sobre organitzaci\u00f3, funcionament i r\u00e8gim intern de conservatoris"
+      },
+      "icon": "building"
+    },
+    {
+      "id": "acceso",
+      "label": { "es": "Acceso y admisi\u00f3n", "va": "Acc\u00e9s i admissi\u00f3" },
+      "description": {
+        "es": "Normas sobre acceso, admisi\u00f3n y pruebas de ingreso",
+        "va": "Normes sobre acc\u00e9s, admissi\u00f3 i proves d'ingr\u00e9s"
+      },
+      "icon": "door"
+    },
+    {
+      "id": "evaluacion",
+      "label": { "es": "Evaluaci\u00f3n", "va": "Avaluaci\u00f3" },
+      "description": {
+        "es": "Normas sobre evaluaci\u00f3n, calificaci\u00f3n y promoci\u00f3n del alumnado",
+        "va": "Normes sobre avaluaci\u00f3, qualificaci\u00f3 i promoci\u00f3 de l'alumnat"
+      },
+      "icon": "check"
+    },
+    {
+      "id": "profesorado",
+      "label": { "es": "Profesorado", "va": "Professorat" },
+      "description": {
+        "es": "Normas sobre el profesorado de ense\u00f1anzas de r\u00e9gimen especial",
+        "va": "Normes sobre el professorat d'ensenyaments de r\u00e8gim especial"
+      },
+      "icon": "users"
+    },
+    {
+      "id": "titulaciones",
+      "label": { "es": "Titulaciones", "va": "Titulacions" },
+      "description": {
+        "es": "Normas sobre t\u00edtulos, certificaciones y equivalencias",
+        "va": "Normes sobre t\u00edtols, certificacions i equival\u00e8ncies"
+      },
+      "icon": "award"
+    },
+    {
+      "id": "general",
+      "label": { "es": "Normativa general", "va": "Normativa general" },
+      "description": {
+        "es": "Legislaci\u00f3n general de educaci\u00f3n aplicable a conservatorios",
+        "va": "Legislaci\u00f3 general d'educaci\u00f3 aplicable a conservatoris"
+      },
+      "icon": "scale"
+    }
+  ]
+}

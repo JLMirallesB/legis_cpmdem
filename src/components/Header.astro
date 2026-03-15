@@ -1,0 +1,114 @@
+---
+import type { Lang } from '../lib/types';
+import { t, getAlternateUrl, getOtherLang } from '../i18n/utils';
+
+interface Props {
+  lang: Lang;
+  currentUrl: URL;
+}
+
+const { lang, currentUrl } = Astro.props;
+const base = import.meta.env.BASE_URL;
+const otherLang = getOtherLang(lang);
+const alternateUrl = getAlternateUrl(currentUrl, otherLang);
+---
+
+<header class="header">
+  <div class="header-inner container">
+    <a href={`${base}${lang}/`} class="logo">
+      <span class="logo-icon">&#9878;</span>
+      <span class="logo-text">{t('site.title', lang)}</span>
+    </a>
+
+    <nav class="nav">
+      <a href={`${base}${lang}/`} class="nav-link">{t('nav.catalog', lang)}</a>
+      <a href={`${base}${lang}/buscar`} class="nav-link">{t('nav.search', lang)}</a>
+    </nav>
+
+    <a href={alternateUrl} class="lang-switch btn" title={t('lang.switch', lang)}>
+      {t('lang.switch', lang)}
+    </a>
+  </div>
+</header>
+
+<style>
+  .header {
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    background: var(--color-primary);
+    color: white;
+    height: var(--header-height);
+    box-shadow: var(--shadow-md);
+  }
+
+  .header-inner {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 100%;
+    gap: var(--space-md);
+  }
+
+  .logo {
+    display: flex;
+    align-items: center;
+    gap: var(--space-sm);
+    color: white;
+    font-weight: 700;
+    font-size: 1.25rem;
+    text-decoration: none;
+  }
+
+  .logo:hover {
+    color: white;
+    text-decoration: none;
+    opacity: 0.9;
+  }
+
+  .logo-icon {
+    font-size: 1.5rem;
+  }
+
+  .nav {
+    display: flex;
+    gap: var(--space-md);
+  }
+
+  .nav-link {
+    color: rgba(255, 255, 255, 0.85);
+    font-size: 0.9rem;
+    padding: var(--space-xs) var(--space-sm);
+    border-radius: var(--radius-sm);
+    transition: all 0.2s;
+    text-decoration: none;
+  }
+
+  .nav-link:hover {
+    color: white;
+    background: rgba(255, 255, 255, 0.1);
+    text-decoration: none;
+  }
+
+  .lang-switch {
+    background: rgba(255, 255, 255, 0.15);
+    color: white;
+    border-color: rgba(255, 255, 255, 0.3);
+    font-size: 0.8rem;
+    padding: var(--space-xs) var(--space-sm);
+  }
+
+  .lang-switch:hover {
+    background: rgba(255, 255, 255, 0.25);
+    color: white;
+  }
+
+  @media (max-width: 640px) {
+    .logo-text {
+      display: none;
+    }
+    .nav {
+      gap: var(--space-sm);
+    }
+  }
+</style>

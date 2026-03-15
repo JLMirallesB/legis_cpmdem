@@ -1,0 +1,25 @@
+---
+// Página raíz: redirige al idioma detectado del navegador.
+const base = import.meta.env.BASE_URL;
+---
+
+<html>
+<head>
+  <meta charset="UTF-8" />
+  <title>Legis CPM - Redirigiendo...</title>
+  <script define:vars={{ base }}>
+    const lang = navigator.language?.startsWith('ca') || navigator.language?.startsWith('va')
+      ? 'va'
+      : 'es';
+    const saved = localStorage.getItem('legis-cpm-lang');
+    const target = saved || lang;
+    window.location.replace(`${base}${target}/`);
+  </script>
+  <noscript>
+    <meta http-equiv="refresh" content={`0;url=${base}es/`} />
+  </noscript>
+</head>
+<body>
+  <p>Redirigiendo... / Redirigint...</p>
+</body>
+</html>

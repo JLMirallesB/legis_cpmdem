@@ -1,0 +1,41 @@
+---
+import type { Lang } from '../lib/types';
+import { t } from '../i18n/utils';
+
+interface Props {
+  lang: Lang;
+}
+
+const { lang } = Astro.props;
+---
+
+<footer class="footer">
+  <div class="container footer-inner">
+    <p class="footer-text">{t('footer.description', lang)}</p>
+    <p class="footer-copy">&copy; {new Date().getFullYear()} Legis CPM</p>
+  </div>
+</footer>
+
+<style>
+  .footer {
+    margin-top: var(--space-2xl);
+    padding: var(--space-lg) 0;
+    background: var(--color-primary-dark);
+    color: rgba(255, 255, 255, 0.7);
+    font-size: 0.85rem;
+  }
+
+  .footer-inner {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  @media (max-width: 640px) {
+    .footer-inner {
+      flex-direction: column;
+      gap: var(--space-sm);
+      text-align: center;
+    }
+  }
+</style>
