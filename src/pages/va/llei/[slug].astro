@@ -3,7 +3,6 @@ import type { GetStaticPaths } from 'astro';
 import type { StructureNode } from '../../../lib/types';
 import LawReaderLayout from '../../../layouts/LawReaderLayout.astro';
 import ArticleContent from '../../../components/ArticleContent.astro';
-import LegalAnalysis from '../../../components/LegalAnalysis.astro';
 import { getAllLaws, getLawBySlug } from '../../../lib/laws';
 
 const lang = 'va' as const;
@@ -45,9 +44,6 @@ const allNodes = renderNodes(law.structure);
     }
     return null;
   })}
-  {law.legalAnalysis && (
-    <LegalAnalysis analysis={law.legalAnalysis} vigpiracy={law.vigpiracy} lang={lang} />
-  )}
 </LawReaderLayout>
 
 <style>

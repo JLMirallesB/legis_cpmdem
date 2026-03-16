@@ -17,6 +17,7 @@ const nodeId = node.id;
 
   {hasVersions && (
     <div class="version-selector" data-article-id={nodeId}>
+      <span class="version-indicator version-current" data-indicator-id={nodeId}></span>
       <label>
         <span class="version-label">{t('law.select_version', lang)}:</span>
         <select class="version-select">
@@ -44,16 +45,22 @@ const nodeId = node.id;
     <script define:vars={{ nodeId, versions: node.versions }}>
       const selector = document.querySelector(`.version-selector[data-article-id="${nodeId}"] select`);
       const textContainer = document.querySelector(`.article-text[data-article-id="${nodeId}"]`);
+      const indicator = document.querySelector(`.version-indicator[data-indicator-id="${nodeId}"]`);
 
       if (selector && textContainer) {
         selector.addEventListener('change', (e) => {
           const selectedId = e.target.value;
-          const version = versions.find((v) => v.versionId === selectedId);
+          const selectedIdx = versions.findIndex((v) => v.versionId === selectedId);
+          const version = versions[selectedIdx];
           if (version) {
             textContainer.innerHTML = version.content
               .split('\n\n')
               .map((p) => `<p>${p}</p>`)
               .join('');
+          }
+          if (indicator) {
+            indicator.classList.toggle('version-current', selectedIdx === 0);
+            indicator.classList.toggle('version-old', selectedIdx !== 0);
           }
         });
       }
@@ -86,6 +93,26 @@ const nodeId = node.id;
     background: #fffbeb;
     border: 1px solid #fef3c7;
     border-radius: var(--radius-sm);
+    display: flex;
+    align-items: center;
+    gap: var(--space-sm);
+  }
+
+  .version-indicator {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    flex-shrink: 0;
+  }
+
+  .version-current {
+    background: #38a169;
+    box-shadow: 0 0 0 2px rgba(56, 161, 105, 0.3);
+  }
+
+  .version-old {
+    background: #d69e2e;
+    box-shadow: 0 0 0 2px rgba(214, 158, 46, 0.3);
   }
 
   .version-label {

@@ -3,9 +3,10 @@ import type { StructureNode } from '../lib/types';
 
 interface Props {
   structure: StructureNode[];
+  sidebarLabel?: string;
 }
 
-const { structure } = Astro.props;
+const { structure, sidebarLabel } = Astro.props;
 
 function getNavItems(nodes: StructureNode[]): { id: string; title: string; depth: number }[] {
   const items: { id: string; title: string; depth: number }[] = [];
@@ -26,6 +27,9 @@ const navItems = getNavItems(structure);
 
 <aside class="law-sidebar">
   <nav class="sidebar-nav" aria-label="Índice de la norma">
+    {sidebarLabel && (
+      <div class="sidebar-label">{sidebarLabel}</div>
+    )}
     <ul>
       {navItems.map((item) => (
         <li class={`nav-item depth-${item.depth}`}>
@@ -66,6 +70,17 @@ const navItems = getNavItems(structure);
     max-height: calc(100vh - var(--header-height) - var(--space-xl));
     overflow-y: auto;
     padding-right: var(--space-md);
+  }
+
+  .sidebar-label {
+    font-size: 0.75rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    color: var(--color-primary);
+    padding: var(--space-xs) 8px var(--space-sm);
+    border-bottom: 1px solid var(--color-border);
+    margin-bottom: var(--space-xs);
   }
 
   .sidebar-nav ul {
