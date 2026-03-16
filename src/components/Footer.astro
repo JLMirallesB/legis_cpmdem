@@ -20,7 +20,7 @@ const kofiUrl = 'https://ko-fi.com/miralles';
       <p class="footer-disclaimer">{t('footer.disclaimer', lang)}</p>
     </div>
 
-    <div class="footer-links">
+    <nav class="footer-links" aria-label={t('footer.contact', lang)}>
       <div class="footer-col">
         <h4>{t('footer.contact', lang)}</h4>
         <ul>
@@ -29,7 +29,7 @@ const kofiUrl = 'https://ko-fi.com/miralles';
           <li><a href={kofiUrl} target="_blank" rel="noopener">{t('footer.buy_orxata', lang)} &#9749;</a></li>
         </ul>
       </div>
-    </div>
+    </nav>
 
     <div class="footer-bottom">
       <p>&copy; {new Date().getFullYear()} Jos&eacute; Luis Miralles Bono &middot; Legis CPM v{VERSION}</p>
@@ -66,7 +66,7 @@ const kofiUrl = 'https://ko-fi.com/miralles';
   }
 
   .footer-disclaimer {
-    color: rgba(255, 255, 255, 0.55);
+    color: rgba(255, 255, 255, 0.7);
     font-size: 0.8rem;
     max-width: 800px;
     font-style: italic;
@@ -87,7 +87,7 @@ const kofiUrl = 'https://ko-fi.com/miralles';
   }
 
   .footer-links a {
-    color: rgba(255, 255, 255, 0.65);
+    color: rgba(255, 255, 255, 0.75);
     text-decoration: none;
     transition: color 0.2s;
   }
@@ -101,7 +101,7 @@ const kofiUrl = 'https://ko-fi.com/miralles';
     border-top: 1px solid rgba(255, 255, 255, 0.1);
     padding-top: var(--space-md);
     text-align: center;
-    color: rgba(255, 255, 255, 0.4);
+    color: rgba(255, 255, 255, 0.6);
     font-size: 0.75rem;
   }
 

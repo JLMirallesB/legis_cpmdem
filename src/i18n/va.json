@@ -44,5 +44,19 @@
   "changelog.subtitle": "Historial de normatives afegides i actualitzades",
   "changelog.version": "Versi\u00f3 {version}",
   "changelog.date": "Data",
-  "changelog.empty": "Encara no hi ha entrades en l'historial."
+  "changelog.empty": "Encara no hi ha entrades en l'historial.",
+  "analysis.relationship.habilitante": "Norma habilitant",
+  "analysis.relationship.desarrollo": "Desplegament de",
+  "analysis.relationship.conformidad": "De conformitat amb",
+  "analysis.affectation.modifica": "Modifica",
+  "analysis.affectation.deroga": "Deroga",
+  "analysis.affectation.deroga_parcial": "Deroga parcialment",
+  "analysis.affectation.anade": "Afig",
+  "analysis.affectation.sustituye": "Substitueix",
+  "analysis.no_data": "No hi ha dades d'anàlisi jurídica disponibles.",
+  "analysis.articles": "Articles afectats",
+  "search.results_count": "{count} resultat(s) trobat(s)",
+  "search.in_article": "en {article}",
+  "search.match_title": "Coincidència en títol",
+  "search.match_content": "Coincidència en contingut"
 }

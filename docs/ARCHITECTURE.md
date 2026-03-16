@@ -10,7 +10,7 @@ Legis CPM es una aplicaci&oacute;n web **100% est&aacute;tica** construida con [
 |------------|------------|-----------|
 | Framework | Astro 6.x | Generaci&oacute;n de HTML est&aacute;tico |
 | Lenguaje | TypeScript | Tipado del modelo de datos |
-| B&uacute;squeda | FlexSearch (futuro) | B&uacute;squeda cliente full-text |
+| B&uacute;squeda | &Iacute;ndice JSON + JS nativo | B&uacute;squeda cliente full-text (sin dependencias) |
 | Hosting | GitHub Pages | Despliegue autom&aacute;tico |
 | CI/CD | GitHub Actions | Build + deploy en push a main |
 
@@ -24,8 +24,9 @@ src/i18n/{lang}.json     &rarr;                       &rarr;
 
 1. Los datos de las leyes est&aacute;n en `data/laws/es/` y `data/laws/va/` como archivos JSON
 2. En build time, Astro lee estos JSON y genera p&aacute;ginas HTML para cada ley
-3. El resultado se despliega como sitio est&aacute;tico en GitHub Pages
-4. La b&uacute;squeda funciona en el cliente con un &iacute;ndice pre-generado
+3. Endpoints Astro (`/api/search-index-{lang}.json`) generan &iacute;ndices de b&uacute;squeda JSON
+4. El resultado se despliega como sitio est&aacute;tico en GitHub Pages
+5. La b&uacute;squeda funciona en el cliente cargando el &iacute;ndice JSON bajo demanda
 
 ## Estructura de Carpetas
 
@@ -46,8 +47,7 @@ legis_cpm/
 &boxv;   &boxvr;&boxh; laws/es/                # JSON de leyes en castellano
 &boxv;   &boxvr;&boxh; laws/va/                # JSON de leyes en valenciano
 &boxv;   &boxur;&boxh; metadata/               # Categor&iacute;as y metadatos
-&boxvr;&boxh; scripts/                  # Scripts de build (&iacute;ndice b&uacute;squeda, validaci&oacute;n)
-&boxvr;&boxh; public/                   # Assets est&aacute;ticos (favicon, &iacute;ndice b&uacute;squeda)
+&boxvr;&boxh; public/                   # Assets est&aacute;ticos (favicon)
 &boxur;&boxh; docs/                     # Documentaci&oacute;n del proyecto
 ```
 

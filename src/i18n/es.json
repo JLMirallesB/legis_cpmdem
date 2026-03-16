@@ -44,5 +44,19 @@
   "changelog.subtitle": "Historial de normativas a\u00f1adidas y actualizadas",
   "changelog.version": "Versi\u00f3n {version}",
   "changelog.date": "Fecha",
-  "changelog.empty": "A\u00fan no hay entradas en el historial."
+  "changelog.empty": "A\u00fan no hay entradas en el historial.",
+  "analysis.relationship.habilitante": "Norma habilitante",
+  "analysis.relationship.desarrollo": "Desarrollo de",
+  "analysis.relationship.conformidad": "De conformidad con",
+  "analysis.affectation.modifica": "Modifica",
+  "analysis.affectation.deroga": "Deroga",
+  "analysis.affectation.deroga_parcial": "Deroga parcialmente",
+  "analysis.affectation.anade": "A\u00f1ade",
+  "analysis.affectation.sustituye": "Sustituye",
+  "analysis.no_data": "No hay datos de an\u00e1lisis jur\u00eddico disponibles.",
+  "analysis.articles": "Art\u00edculos afectados",
+  "search.results_count": "{count} resultado(s) encontrado(s)",
+  "search.in_article": "en {article}",
+  "search.match_title": "Coincidencia en t\u00edtulo",
+  "search.match_content": "Coincidencia en contenido"
 }

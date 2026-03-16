@@ -48,14 +48,16 @@ Registro de decisiones importantes del proyecto (ADR - Architecture Decision Rec
 
 ---
 
-## ADR-004: B&uacute;squeda - FlexSearch del lado del cliente
+## ADR-004: B&uacute;squeda - &Iacute;ndice JSON + b&uacute;squeda cliente sin dependencias
 
 **Fecha**: 2026-03-15
-**Estado**: Aceptada
+**Estado**: Aceptada (actualizada 2026-03-16)
 
 **Contexto**: La b&uacute;squeda debe funcionar en un sitio est&aacute;tico sin backend.
 
-**Decisi&oacute;n**: FlexSearch con &iacute;ndice pre-generado en build time. El &iacute;ndice se serializa a JSON y se carga en el cliente cuando se usa el buscador. Estimaci&oacute;n: 200KB-1.5MB para 20-50 leyes.
+**Decisi&oacute;n inicial**: FlexSearch con &iacute;ndice pre-generado.
+
+**Decisi&oacute;n final**: Endpoints Astro (`/api/search-index-{lang}.json`) generan un &iacute;ndice JSON en build time con t&iacute;tulos y fragmentos de texto. El cliente normaliza acentos y busca por coincidencia de t&eacute;rminos. Suficiente para 20-50 leyes sin a&ntilde;adir dependencias. Si el volumen crece significativamente, se reconsiderar&aacute; FlexSearch.
 
 ---
 

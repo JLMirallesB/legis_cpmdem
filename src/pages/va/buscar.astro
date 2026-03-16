@@ -3,6 +3,7 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 import { t } from '../../i18n/utils';
 
 const lang = 'va' as const;
+const base = import.meta.env.BASE_URL;
 ---
 
 <BaseLayout lang={lang} title={t('search.results', lang)}>
@@ -10,23 +11,191 @@ const lang = 'va' as const;
     <h1>{t('search.results', lang)}</h1>
 
     <div class="search-box">
-      <form action={`${import.meta.env.BASE_URL}va/buscar/`} method="get">
+      <form action={`${base}va/buscar/`} method="get" id="search-form">
         <input
           type="search"
           name="q"
           placeholder={t('search.placeholder', lang)}
           class="search-input"
           aria-label={t('nav.search', lang)}
+          id="search-input"
         />
         <button type="submit" class="btn btn-primary">{t('nav.search', lang)}</button>
       </form>
     </div>
 
-    <div class="results-area">
-      <p class="coming-soon">El buscador estar&agrave; disponible pr&ograve;ximament. Per ara, navega el cat&agrave;leg des de la <a href={`${import.meta.env.BASE_URL}va/`}>p&agrave;gina principal</a>.</p>
+    <div class="results-area" id="results-area">
+      <p class="searching" id="searching-msg" style="display:none;">{t('search.searching', lang)}</p>
+      <p class="no-results" id="no-results-msg" style="display:none;"></p>
+      <p class="results-count" id="results-count" style="display:none;"></p>
+      <div id="results-list"></div>
     </div>
   </div>
 </BaseLayout>
+
+<script define:vars={{ base, lang: 'va', lawPath: 'llei' }}>
+  const searchInput = document.getElementById('search-input');
+  const searchForm = document.getElementById('search-form');
+  const searchingMsg = document.getElementById('searching-msg');
+  const noResultsMsg = document.getElementById('no-results-msg');
+  const resultsCount = document.getElementById('results-count');
+  const resultsList = document.getElementById('results-list');
+
+  const params = new URLSearchParams(window.location.search);
+  const query = params.get('q') || '';
+  if (query) {
+    searchInput.value = query;
+    performSearch(query);
+  }
+
+  searchForm.addEventListener('submit', (e) => {
+    e.preventDefault();
+    const q = searchInput.value.trim();
+    if (!q) return;
+    const url = new URL(window.location);
+    url.searchParams.set('q', q);
+    window.history.pushState({}, '', url);
+    performSearch(q);
+  });
+
+  async function performSearch(q) {
+    searchingMsg.style.display = 'block';
+    noResultsMsg.style.display = 'none';
+    resultsCount.style.display = 'none';
+    resultsList.innerHTML = '';
+
+    try {
+      const res = await fetch(`${base}api/search-index-${lang}.json`);
+      const index = await res.json();
+      const results = search(index, q);
+      searchingMsg.style.display = 'none';
+      renderResults(results, q);
+    } catch (err) {
+      searchingMsg.style.display = 'none';
+      noResultsMsg.textContent = "Error al carregar l'índex de cerca.";
+      noResultsMsg.style.display = 'block';
+    }
+  }
+
+  function normalize(str) {
+    return str.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase();
+  }
+
+  function search(index, q) {
+    const terms = normalize(q).split(/\s+/).filter(Boolean);
+    const results = [];
+
+    for (const law of index) {
+      const titleNorm = normalize(law.title);
+      const titleShortNorm = normalize(law.titleShort);
+      const titleMatch = terms.every(t => titleNorm.includes(t) || titleShortNorm.includes(t));
+
+      const matchingFragments = [];
+      for (const frag of law.fragments) {
+        const fragNorm = normalize(frag.text);
+        const fragTitleNorm = normalize(frag.title);
+        if (terms.every(t => fragNorm.includes(t) || fragTitleNorm.includes(t))) {
+          matchingFragments.push(frag);
+        }
+      }
+
+      if (titleMatch || matchingFragments.length > 0) {
+        results.push({
+          slug: law.slug,
+          title: law.title,
+          titleShort: law.titleShort,
+          type: law.type,
+          date: law.date,
+          vigpiracy: law.vigpiracy,
+          titleMatch,
+          fragments: matchingFragments,
+        });
+      }
+    }
+
+    return results;
+  }
+
+  function highlightText(text, q) {
+    const terms = normalize(q).split(/\s+/).filter(Boolean);
+    let result = text;
+    for (const term of terms) {
+      const regex = new RegExp(`(${term.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')})`, 'gi');
+      result = result.replace(regex, '<mark>$1</mark>');
+    }
+    return result;
+  }
+
+  function getSnippet(text, q, maxLen = 200) {
+    const terms = normalize(q).split(/\s+/).filter(Boolean);
+    const normText = normalize(text);
+    let firstIdx = normText.length;
+    for (const term of terms) {
+      const idx = normText.indexOf(term);
+      if (idx !== -1 && idx < firstIdx) firstIdx = idx;
+    }
+    const start = Math.max(0, firstIdx - 60);
+    const end = Math.min(text.length, start + maxLen);
+    let snippet = text.slice(start, end);
+    if (start > 0) snippet = '...' + snippet;
+    if (end < text.length) snippet = snippet + '...';
+    return highlightText(snippet, q);
+  }
+
+  const vigencyLabels = {
+    vigente: 'Vigent',
+    vigente_parcial: 'Vigent amb modificacions',
+    derogada_parcial: 'Derogada parcialment',
+    derogada: 'Derogada',
+  };
+
+  function renderResults(results, q) {
+    if (results.length === 0) {
+      noResultsMsg.textContent = `No s'han trobat resultats per a "${q}"`;
+      noResultsMsg.style.display = 'block';
+      return;
+    }
+
+    resultsCount.textContent = `${results.length} resultat(s) trobat(s)`;
+    resultsCount.style.display = 'block';
+
+    for (const r of results) {
+      const card = document.createElement('div');
+      card.className = 'result-card';
+
+      const titleHtml = highlightText(r.titleShort, q);
+      const lawUrl = `${base}${lang}/${lawPath}/${r.slug}/`;
+      const vigLabel = vigencyLabels[r.vigpiracy] || r.vigpiracy;
+
+      let fragmentsHtml = '';
+      const maxFragments = 3;
+      const shown = r.fragments.slice(0, maxFragments);
+      for (const frag of shown) {
+        const snippet = getSnippet(frag.text, q);
+        fragmentsHtml += `
+          <div class="result-fragment">
+            <a href="${lawUrl}#${frag.id}" class="fragment-link">${highlightText(frag.title, q)}</a>
+            <p class="fragment-snippet">${snippet}</p>
+          </div>`;
+      }
+      if (r.fragments.length > maxFragments) {
+        fragmentsHtml += `<p class="more-fragments">...i ${r.fragments.length - maxFragments} coincidència(es) més</p>`;
+      }
+
+      card.innerHTML = `
+        <div class="result-header">
+          <a href="${lawUrl}" class="result-title">${titleHtml}</a>
+          <span class="vigency-badge vigency-${r.vigpiracy}">${vigLabel}</span>
+        </div>
+        <p class="result-meta">${r.type.replace(/_/g, ' ')} — ${r.date}</p>
+        ${r.titleMatch ? "<p class=\"match-type\">Coincidència en títol</p>" : ''}
+        ${fragmentsHtml}
+      `;
+
+      resultsList.appendChild(card);
+    }
+  }
+</script>
 
 <style>
   .search-page {
@@ -63,8 +232,120 @@ const lang = 'va' as const;
     border-color: var(--color-primary);
   }
 
-  .coming-soon {
+  .searching {
     color: var(--color-text-muted);
     font-style: italic;
+  }
+
+  .no-results {
+    color: var(--color-text-muted);
+    font-style: italic;
+  }
+
+  .results-count {
+    font-size: 0.9rem;
+    color: var(--color-text-secondary);
+    margin-bottom: var(--space-md);
+  }
+</style>
+
+<style is:global>
+  .result-card {
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-md);
+    padding: var(--space-md);
+    margin-bottom: var(--space-md);
+    transition: box-shadow 0.2s;
+  }
+
+  .result-card:hover {
+    box-shadow: var(--shadow-md);
+  }
+
+  .result-header {
+    display: flex;
+    align-items: center;
+    gap: var(--space-sm);
+    flex-wrap: wrap;
+    margin-bottom: var(--space-xs);
+  }
+
+  .result-title {
+    font-weight: 700;
+    font-size: 1rem;
+    color: var(--color-primary);
+    text-decoration: none;
+  }
+
+  .result-title:hover {
+    text-decoration: underline;
+  }
+
+  .result-meta {
+    font-size: 0.8rem;
+    color: var(--color-text-muted);
+    text-transform: capitalize;
+    margin-bottom: var(--space-sm);
+  }
+
+  .match-type {
+    font-size: 0.8rem;
+    color: var(--color-text-secondary);
+    font-style: italic;
+    margin-bottom: var(--space-xs);
+  }
+
+  .result-fragment {
+    padding-left: var(--space-md);
+    border-left: 2px solid var(--color-border);
+    margin-bottom: var(--space-sm);
+  }
+
+  .fragment-link {
+    font-size: 0.9rem;
+    font-weight: 600;
+    color: var(--color-primary);
+    text-decoration: none;
+  }
+
+  .fragment-link:hover {
+    text-decoration: underline;
+  }
+
+  .fragment-snippet {
+    font-size: 0.85rem;
+    color: var(--color-text-secondary);
+    line-height: 1.4;
+    margin-top: 2px;
+  }
+
+  .fragment-snippet mark {
+    background: #fef3c7;
+    color: inherit;
+    padding: 0 2px;
+    border-radius: 2px;
+  }
+
+  .result-card .vigency-badge {
+    display: inline-block;
+    font-size: 0.7rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    padding: 2px 8px;
+    border-radius: 3px;
+    white-space: nowrap;
+    letter-spacing: 0.02em;
+  }
+
+  .result-card .vigency-vigente { background: #c6f6d5; color: #22543d; }
+  .result-card .vigency-vigente_parcial { background: #fefcbf; color: #744210; }
+  .result-card .vigency-derogada_parcial { background: #feebc8; color: #7b341e; }
+  .result-card .vigency-derogada { background: #fed7d7; color: #742a2a; }
+
+  .more-fragments {
+    font-size: 0.8rem;
+    color: var(--color-text-muted);
+    font-style: italic;
+    padding-left: var(--space-md);
   }
 </style>

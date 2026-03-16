@@ -1,0 +1,336 @@
+---
+import type { Lang, LegalAnalysis as LegalAnalysisType, Affectation } from '../lib/types';
+import VigencyBadge from './VigencyBadge.astro';
+import { t } from '../i18n/utils';
+
+interface Props {
+  analysis: LegalAnalysisType;
+  vigpiracy: import('../lib/types').Vigency;
+  lang: Lang;
+}
+
+const { analysis, vigpiracy, lang } = Astro.props;
+const base = import.meta.env.BASE_URL;
+const lawPath = lang === 'va' ? 'llei' : 'ley';
+
+const hasEnacted = analysis.enactedPursuantTo.length > 0;
+const hasPrior = analysis.priorAffectations.length > 0;
+const hasPosterior = analysis.posteriorAffectations.length > 0;
+const hasDerogations = analysis.derogations.length > 0;
+const hasConcordances = analysis.concordances.length > 0;
+const hasAnyData = hasEnacted || hasPrior || hasPosterior || hasDerogations || hasConcordances;
+
+function formatDate(dateStr?: string): string {
+  if (!dateStr) return '';
+  return new Date(dateStr).toLocaleDateString(lang === 'va' ? 'ca-ES' : 'es-ES', {
+    year: 'numeric',
+    month: 'short',
+    day: 'numeric',
+  });
+}
+---
+
+<section class="legal-analysis" id="analisis-juridico">
+  <h2 class="analysis-title">{t('analysis.title', lang)}</h2>
+
+  <!-- Vigency status -->
+  <div class="analysis-section">
+    <h3>{t('analysis.vigency', lang)}</h3>
+    <div class="vigency-info">
+      <VigencyBadge status={vigpiracy.status} lang={lang} />
+      <span class="vigency-date">
+        {formatDate(vigpiracy.effectiveDate)}
+        {vigpiracy.lastModifiedDate && (
+          <span class="last-modified">
+            — {lang === 'va' ? 'Última modificació' : 'Última modificación'}: {formatDate(vigpiracy.lastModifiedDate)}
+          </span>
+        )}
+      </span>
+    </div>
+  </div>
+
+  {!hasAnyData && (
+    <p class="no-data">{t('analysis.no_data', lang)}</p>
+  )}
+
+  {/* Enacted pursuant to */}
+  {hasEnacted && (
+    <div class="analysis-section">
+      <h3>{t('analysis.enacted_pursuant', lang)}</h3>
+      <ul class="analysis-list">
+        {analysis.enactedPursuantTo.map((ref) => (
+          <li>
+            <span class={`relationship-badge rel-${ref.relationship}`}>
+              {t(`analysis.relationship.${ref.relationship}`, lang)}
+            </span>
+            {ref.lawId ? (
+              <a href={`${base}${lang}/${lawPath}/${ref.lawId}/`}>{ref.title}</a>
+            ) : (
+              <span class="ref-title">{ref.title}</span>
+            )}
+            {ref.articles && ref.articles.length > 0 && (
+              <span class="ref-articles">({ref.articles.join(', ')})</span>
+            )}
+          </li>
+        ))}
+      </ul>
+    </div>
+  )}
+
+  {/* Prior affectations */}
+  {hasPrior && (
+    <div class="analysis-section">
+      <h3>{t('analysis.prior', lang)}</h3>
+      <ul class="analysis-list affectation-list">
+        {analysis.priorAffectations.map((aff) => (
+          <li>
+            <span class={`affectation-badge aff-${aff.type}`}>
+              {t(`analysis.affectation.${aff.type}`, lang)}
+            </span>
+            {aff.lawId ? (
+              <a href={`${base}${lang}/${lawPath}/${aff.lawId}/`}>{aff.title}</a>
+            ) : (
+              <span class="ref-title">{aff.title}</span>
+            )}
+            {aff.date && <span class="aff-date">{formatDate(aff.date)}</span>}
+            {aff.articles && aff.articles.length > 0 && (
+              <span class="ref-articles">({t('analysis.articles', lang)}: {aff.articles.join(', ')})</span>
+            )}
+            {aff.description && <p class="aff-description">{aff.description}</p>}
+          </li>
+        ))}
+      </ul>
+    </div>
+  )}
+
+  {/* Posterior affectations */}
+  {hasPosterior && (
+    <div class="analysis-section">
+      <h3>{t('analysis.posterior', lang)}</h3>
+      <ul class="analysis-list affectation-list">
+        {analysis.posteriorAffectations.map((aff) => (
+          <li>
+            <span class={`affectation-badge aff-${aff.type}`}>
+              {t(`analysis.affectation.${aff.type}`, lang)}
+            </span>
+            {aff.lawId ? (
+              <a href={`${base}${lang}/${lawPath}/${aff.lawId}/`}>{aff.title}</a>
+            ) : (
+              <span class="ref-title">{aff.title}</span>
+            )}
+            {aff.date && <span class="aff-date">{formatDate(aff.date)}</span>}
+            {aff.articles && aff.articles.length > 0 && (
+              <span class="ref-articles">({t('analysis.articles', lang)}: {aff.articles.join(', ')})</span>
+            )}
+            {aff.description && <p class="aff-description">{aff.description}</p>}
+          </li>
+        ))}
+      </ul>
+    </div>
+  )}
+
+  {/* Derogations */}
+  {hasDerogations && (
+    <div class="analysis-section">
+      <h3>{t('analysis.derogations', lang)}</h3>
+      <ul class="analysis-list affectation-list">
+        {analysis.derogations.map((aff) => (
+          <li>
+            <span class={`affectation-badge aff-${aff.type}`}>
+              {t(`analysis.affectation.${aff.type}`, lang)}
+            </span>
+            {aff.lawId ? (
+              <a href={`${base}${lang}/${lawPath}/${aff.lawId}/`}>{aff.title}</a>
+            ) : (
+              <span class="ref-title">{aff.title}</span>
+            )}
+            {aff.date && <span class="aff-date">{formatDate(aff.date)}</span>}
+            {aff.description && <p class="aff-description">{aff.description}</p>}
+          </li>
+        ))}
+      </ul>
+    </div>
+  )}
+
+  {/* Concordances */}
+  {hasConcordances && (
+    <div class="analysis-section">
+      <h3>{t('analysis.concordances', lang)}</h3>
+      <ul class="analysis-list">
+        {analysis.concordances.map((conc) => (
+          <li>
+            {conc.lawId ? (
+              <a href={`${base}${lang}/${lawPath}/${conc.lawId}/`}>{conc.title}</a>
+            ) : (
+              <span class="ref-title">{conc.title}</span>
+            )}
+            {conc.description && <span class="conc-description"> — {conc.description}</span>}
+          </li>
+        ))}
+      </ul>
+    </div>
+  )}
+</section>
+
+<style>
+  .legal-analysis {
+    margin-top: var(--space-2xl);
+    padding-top: var(--space-xl);
+    border-top: 2px solid var(--color-border);
+  }
+
+  .analysis-title {
+    font-size: 1.3rem;
+    color: var(--color-primary-dark);
+    margin-bottom: var(--space-lg);
+    padding-bottom: var(--space-xs);
+    border-bottom: 2px solid var(--color-border);
+  }
+
+  .analysis-section {
+    margin-bottom: var(--space-lg);
+  }
+
+  .analysis-section h3 {
+    font-size: 0.95rem;
+    color: var(--color-text-secondary);
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    margin-bottom: var(--space-sm);
+  }
+
+  .vigency-info {
+    display: flex;
+    align-items: center;
+    gap: var(--space-sm);
+    flex-wrap: wrap;
+  }
+
+  .vigency-date {
+    font-size: 0.85rem;
+    color: var(--color-text-secondary);
+  }
+
+  .last-modified {
+    color: var(--color-text-muted);
+  }
+
+  .analysis-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-sm);
+  }
+
+  .analysis-list li {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    gap: var(--space-xs);
+    padding: var(--space-sm);
+    background: var(--color-bg-alt, #f8f9fa);
+    border-radius: var(--radius-md);
+    border-left: 3px solid var(--color-border);
+    font-size: 0.9rem;
+  }
+
+  .analysis-list a {
+    color: var(--color-primary);
+    text-decoration: underline;
+    text-decoration-style: dotted;
+    text-underline-offset: 2px;
+  }
+
+  .analysis-list a:hover {
+    color: var(--color-primary-dark);
+    text-decoration-style: solid;
+  }
+
+  .ref-title {
+    color: var(--color-text);
+  }
+
+  .ref-articles {
+    font-size: 0.8rem;
+    color: var(--color-text-muted);
+  }
+
+  .relationship-badge,
+  .affectation-badge {
+    display: inline-block;
+    font-size: 0.7rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    padding: 1px 6px;
+    border-radius: 3px;
+    white-space: nowrap;
+    letter-spacing: 0.02em;
+    flex-shrink: 0;
+  }
+
+  .rel-habilitante {
+    background: #e8daef;
+    color: #6c3483;
+  }
+
+  .rel-desarrollo {
+    background: #d4efdf;
+    color: #1e8449;
+  }
+
+  .rel-conformidad {
+    background: #d6eaf8;
+    color: #2471a3;
+  }
+
+  .aff-modifica {
+    background: #fef9e7;
+    color: #7d6608;
+  }
+
+  .aff-deroga {
+    background: #fdedec;
+    color: #922b21;
+  }
+
+  .aff-deroga_parcial {
+    background: #fdebd0;
+    color: #935116;
+  }
+
+  .aff-anade {
+    background: #d5f5e3;
+    color: #1e8449;
+  }
+
+  .aff-sustituye {
+    background: #ebf5fb;
+    color: #2e86c1;
+  }
+
+  .aff-date {
+    font-size: 0.8rem;
+    color: var(--color-text-muted);
+  }
+
+  .aff-description {
+    width: 100%;
+    margin: var(--space-xs) 0 0;
+    font-size: 0.85rem;
+    color: var(--color-text-secondary);
+    line-height: 1.4;
+  }
+
+  .conc-description {
+    color: var(--color-text-muted);
+    font-size: 0.85rem;
+  }
+
+  .no-data {
+    color: var(--color-text-muted);
+    font-style: italic;
+    font-size: 0.9rem;
+  }
+</style>

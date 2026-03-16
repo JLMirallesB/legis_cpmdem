@@ -1,0 +1,96 @@
+---
+import type { Lang, Law } from '../lib/types';
+import { t } from '../i18n/utils';
+import { lawToMarkdownConsolidated, lawToMarkdownWithHistory } from '../lib/markdown-export';
+
+interface Props {
+  law: Law;
+  lang: Lang;
+}
+
+const { law, lang } = Astro.props;
+
+// Pre-generate markdown at build time
+const mdConsolidated = lawToMarkdownConsolidated(law);
+const mdHistory = lawToMarkdownWithHistory(law);
+const jsonData = JSON.stringify(law, null, 2);
+---
+
+<div class="download-buttons" role="group" aria-label={lang === 'va' ? 'Descàrregues' : 'Descargas'}>
+  <button class="btn btn-download" id={`dl-json-${law.slug}`} type="button" aria-label={t('download.json', lang)}>
+    <span class="dl-icon" aria-hidden="true">&#123;&#125;</span>
+    {t('download.json', lang)}
+  </button>
+  <button class="btn btn-download" id={`dl-md-cons-${law.slug}`} type="button" aria-label={t('download.md_consolidated', lang)}>
+    <span class="dl-icon" aria-hidden="true">&#9997;</span>
+    {t('download.md_consolidated', lang)}
+  </button>
+  <button class="btn btn-download" id={`dl-md-hist-${law.slug}`} type="button" aria-label={t('download.md_history', lang)}>
+    <span class="dl-icon" aria-hidden="true">&#128196;</span>
+    {t('download.md_history', lang)}
+  </button>
+</div>
+
+<script define:vars={{ slug: law.slug, jsonData, mdConsolidated, mdHistory }}>
+  function downloadFile(content, filename, mimeType) {
+    const blob = new Blob([content], { type: mimeType });
+    const url = URL.createObjectURL(blob);
+    const a = document.createElement('a');
+    a.href = url;
+    a.download = filename;
+    document.body.appendChild(a);
+    a.click();
+    document.body.removeChild(a);
+    URL.revokeObjectURL(url);
+  }
+
+  document.getElementById(`dl-json-${slug}`)?.addEventListener('click', () => {
+    downloadFile(jsonData, `${slug}.json`, 'application/json');
+  });
+
+  document.getElementById(`dl-md-cons-${slug}`)?.addEventListener('click', () => {
+    downloadFile(mdConsolidated, `${slug}-consolidado.md`, 'text/markdown');
+  });
+
+  document.getElementById(`dl-md-hist-${slug}`)?.addEventListener('click', () => {
+    downloadFile(mdHistory, `${slug}-historial.md`, 'text/markdown');
+  });
+</script>
+
+<style>
+  .download-buttons {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-sm);
+    margin-top: var(--space-md);
+  }
+
+  .btn-download {
+    font-size: 0.8rem;
+    padding: var(--space-xs) var(--space-sm);
+    cursor: pointer;
+    border: 1px solid var(--color-border-dark);
+    background: var(--color-bg-white);
+    color: var(--color-text-secondary);
+    border-radius: var(--radius-sm);
+    transition: all 0.2s;
+    display: inline-flex;
+    align-items: center;
+    gap: var(--space-xs);
+  }
+
+  .btn-download:hover {
+    background: var(--color-bg-secondary);
+    color: var(--color-primary);
+    border-color: var(--color-primary);
+  }
+
+  .btn-download:focus-visible {
+    outline: 2px solid var(--color-primary);
+    outline-offset: 2px;
+  }
+
+  .dl-icon {
+    font-size: 0.9rem;
+  }
+</style>

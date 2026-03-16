@@ -9,7 +9,7 @@ El sitio se despliega autom&aacute;ticamente en GitHub Pages cuando se hace push
 Archivo: `.github/workflows/deploy.yml`
 
 1. Checkout del c&oacute;digo
-2. Setup Node.js 20
+2. Setup Node.js 22
 3. `npm ci` (instalar dependencias)
 4. `npm run build` (build de Astro)
 5. Upload del directorio `dist/` como artefacto
@@ -43,6 +43,6 @@ npm run preview
 
 ## Notas
 
-- `astro.config.mjs` tiene `base: '/legis_cpm'` para que las rutas funcionen correctamente en GitHub Pages
+- `astro.config.mjs` tiene `base: '/legis_cpm/'` (con trailing slash) para que las rutas funcionen correctamente en GitHub Pages
 - El `site` est&aacute; configurado como `https://JLMirallesB.github.io`
 - Todas las rutas internas usan `import.meta.env.BASE_URL` para el prefijo correcto
