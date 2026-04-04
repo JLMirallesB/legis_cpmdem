@@ -17,7 +17,7 @@
     "status": "vigente_parcial",
     "statusLabel": "Vigente con modificaciones",
     "effectiveDate": "2007-09-26",
-    "lastModifiedDate": "2020-06-19"
+    "lastModifiedDate": "2026-04-03"
   },
   "structure": [
     {
@@ -342,6 +342,19 @@
         "type": "modifica",
         "date": "2020-05-22",
         "description": "Regula la organización y funcionamiento de los conservatorios profesionales"
+      },
+      {
+        "lawId": "decreto-46-2026",
+        "title": "Decreto 46/2026, de 27 de marzo, del Consell",
+        "type": "modifica",
+        "articles": [
+          "art-9",
+          "art-10",
+          "art-13",
+          "art-14"
+        ],
+        "date": "2026-04-03",
+        "description": "Modifica artículos relativos al acceso y flexibilización"
       }
     ],
     "derogations": [],

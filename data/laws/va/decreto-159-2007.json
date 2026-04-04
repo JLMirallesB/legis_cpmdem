@@ -17,7 +17,7 @@
     "status": "vigente_parcial",
     "statusLabel": "Vigent amb modificacions",
     "effectiveDate": "2007-09-26",
-    "lastModifiedDate": "2020-05-22"
+    "lastModifiedDate": "2026-04-03"
   },
   "structure": [
     {
@@ -327,6 +327,20 @@
         ],
         "date": "2020-05-22",
         "description": "Modifica els annexos II i III mitjançant la disposició final quarta"
+      },
+      {
+        "lawId": "decreto-46-2026",
+        "title": "Decret 46/2026, de 27 de març, del Consell",
+        "type": "modifica",
+        "articles": [
+          "art-7",
+          "art-8",
+          "art-9",
+          "art-13",
+          "art-19"
+        ],
+        "date": "2026-04-03",
+        "description": "Modifica articles relatius a l'accés i flexibilització"
       }
     ],
     "derogations": [],
