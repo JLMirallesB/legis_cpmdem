@@ -14,6 +14,13 @@
       "status": "ingested",
       "category": "organizacion",
       "notes": "Primera ley real ingresada. Contenido resumido (artículos extensos). Modifica Decreto 156/2007 (art 9) y Decreto 159/2007 (anexos II y III)."
+    },
+    {
+      "slug": "decreto-159-2007",
+      "title": "Decreto 159/2007 - Currículo enseñanzas elementales de música",
+      "status": "ingested",
+      "category": "curriculo",
+      "notes": "Texto completo con 4 anexos. Modificado por Decreto 57/2020 (anexos II y III)."
     }
   ]
 }
