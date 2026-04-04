@@ -4,9 +4,9 @@
     {
       "slug": "decreto-158-2007",
       "title": "Decreto 158/2007 - Currículo EEPP de música",
-      "status": "example",
+      "status": "ingested",
       "category": "curriculo",
-      "notes": "Datos ficticios, estructura real. Reemplazar con datos reales al ingerir."
+      "notes": "Texto completo con Anexo I (currículos de especialidades). Tablas del anexo pueden necesitar revisión."
     },
     {
       "slug": "decreto-57-2020",
