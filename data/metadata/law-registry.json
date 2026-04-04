@@ -1,0 +1,19 @@
+{
+  "description": "Registro de leyes para tracking de ingesta. NO usado por Astro, solo para seguimiento.",
+  "laws": [
+    {
+      "slug": "decreto-158-2007",
+      "title": "Decreto 158/2007 - Currículo EEPP de música",
+      "status": "example",
+      "category": "curriculo",
+      "notes": "Datos ficticios, estructura real. Reemplazar con datos reales al ingerir."
+    },
+    {
+      "slug": "decreto-57-2020",
+      "title": "Decreto 57/2020 - Organización y funcionamiento de conservatorios profesionales",
+      "status": "ingested",
+      "category": "organizacion",
+      "notes": "Primera ley real ingresada. Contenido resumido (artículos extensos). Modifica Decreto 156/2007 (art 9) y Decreto 159/2007 (anexos II y III)."
+    }
+  ]
+}

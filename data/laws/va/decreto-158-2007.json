@@ -10,8 +10,8 @@
     "date": "2007-09-25",
     "url": "https://dogv.gva.es/datos/2007/09/25/pdf/2007_11701.pdf"
   },
-  "title": "Decret 158/2007, de 21 de setembre, del Consell, pel qual s'establix el curr\u00edculum dels ensenyaments professionals de m\u00fasica i es regula l'acc\u00e9s a estos ensenyaments",
-  "titleShort": "Curr\u00edculum ensenyaments professionals de m\u00fasica",
+  "title": "Decret 158/2007, de 21 de setembre, del Consell, pel qual s'establix el currículum dels ensenyaments professionals de música i es regula l'accés a estos ensenyaments",
+  "titleShort": "Currículum ensenyaments professionals de música",
   "category": "curriculo",
   "vigpiracy": {
     "status": "vigente_parcial",
@@ -23,39 +23,39 @@
     {
       "type": "preambulo",
       "id": "preambulo",
-      "title": "Pre\u00e0mbul",
-      "content": "La Llei Org\u00e0nica 2/2006, de 3 de maig, d'Educaci\u00f3, establix en el seu article 45 que els ensenyaments art\u00edstics professionals tindran com a finalitat proporcionar a l'alumnat una formaci\u00f3 art\u00edstica de qualitat. En desplegament d'esta llei, el present decret establix el curr\u00edculum dels ensenyaments professionals de m\u00fasica en l'\u00e0mbit de la Comunitat Valenciana."
+      "title": "Preàmbul",
+      "content": "La Llei Orgànica 2/2006, de 3 de maig, d'Educació, establix en el seu article 45 que els ensenyaments artístics professionals tindran com a finalitat proporcionar a l'alumnat una formació artística de qualitat. En desplegament d'esta llei, el present decret establix el currículum dels ensenyaments professionals de música en l'àmbit de la Comunitat Valenciana."
     },
     {
       "type": "titulo",
       "id": "titulo-1",
-      "title": "T\u00edtol I. Disposicions generals",
+      "title": "Títol I. Disposicions generals",
       "children": [
         {
           "type": "capitulo",
           "id": "titulo-1-cap-1",
-          "title": "Cap\u00edtol I. Objecte, \u00e0mbit i organitzaci\u00f3",
+          "title": "Capítol I. Objecte, àmbit i organització",
           "children": [
             {
               "type": "articulo",
               "id": "art-1",
               "number": "1",
-              "title": "Article 1. Objecte i \u00e0mbit d'aplicaci\u00f3",
-              "content": "1. El present decret t\u00e9 per objecte establir el curr\u00edculum dels ensenyaments professionals de m\u00fasica a la Comunitat Valenciana, aix\u00ed com regular l'acc\u00e9s a estos ensenyaments.\n\n2. L'\u00e0mbit d'aplicaci\u00f3 d'este decret s'est\u00e9n a tots els centres de la Comunitat Valenciana, tant p\u00fablics com privats autoritzats, que impartisquen ensenyaments professionals de m\u00fasica."
+              "title": "Article 1. Objecte i àmbit d'aplicació",
+              "content": "1. El present decret té per objecte establir el currículum dels ensenyaments professionals de música a la Comunitat Valenciana, així com regular l'accés a estos ensenyaments.\n\n2. L'àmbit d'aplicació d'este decret s'estén a tots els centres de la Comunitat Valenciana, tant públics com privats autoritzats, que impartisquen ensenyaments professionals de música."
             },
             {
               "type": "articulo",
               "id": "art-2",
               "number": "2",
               "title": "Article 2. Finalitat",
-              "content": "Els ensenyaments professionals de m\u00fasica tenen com a finalitat proporcionar a l'alumnat una formaci\u00f3 art\u00edstica de qualitat, aix\u00ed com garantir la qualificaci\u00f3 dels futurs professionals de la m\u00fasica."
+              "content": "Els ensenyaments professionals de música tenen com a finalitat proporcionar a l'alumnat una formació artística de qualitat, així com garantir la qualificació dels futurs professionals de la música."
             },
             {
               "type": "articulo",
               "id": "art-3",
               "number": "3",
-              "title": "Article 3. Organitzaci\u00f3 dels ensenyaments",
-              "content": "1. Els ensenyaments professionals de m\u00fasica s'organitzaran en sis cursos de duraci\u00f3.\n\n2. Estos ensenyaments s'organitzaran en les especialitats arreplegades en l'Annex I del present decret.\n\n3. Els centres podran organitzar els ensenyaments de forma presencial o semipresencial en els termes que establisca l'administraci\u00f3 educativa.",
+              "title": "Article 3. Organització dels ensenyaments",
+              "content": "1. Els ensenyaments professionals de música s'organitzaran en sis cursos de duració.\n\n2. Estos ensenyaments s'organitzaran en les especialitats arreplegades en l'Annex I del present decret.\n\n3. Els centres podran organitzar els ensenyaments de forma presencial o semipresencial en els termes que establisca l'administració educativa.",
               "versions": [
                 {
                   "versionId": "v2",
@@ -64,13 +64,13 @@
                     "lawId": "decreto-90-2020",
                     "title": "Decret 90/2020, de 19 de juny, del Consell"
                   },
-                  "content": "1. Els ensenyaments professionals de m\u00fasica s'organitzaran en sis cursos de duraci\u00f3.\n\n2. Estos ensenyaments s'organitzaran en les especialitats arreplegades en l'Annex I del present decret.\n\n3. Els centres podran organitzar els ensenyaments de forma presencial o semipresencial en els termes que establisca l'administraci\u00f3 educativa."
+                  "content": "1. Els ensenyaments professionals de música s'organitzaran en sis cursos de duració.\n\n2. Estos ensenyaments s'organitzaran en les especialitats arreplegades en l'Annex I del present decret.\n\n3. Els centres podran organitzar els ensenyaments de forma presencial o semipresencial en els termes que establisca l'administració educativa."
                 },
                 {
                   "versionId": "v1",
                   "effectiveDate": "2007-09-26",
                   "modifiedBy": null,
-                  "content": "1. Els ensenyaments professionals de m\u00fasica s'organitzaran en sis cursos de duraci\u00f3.\n\n2. Estos ensenyaments s'organitzaran en les especialitats arreplegades en l'Annex I del present decret."
+                  "content": "1. Els ensenyaments professionals de música s'organitzaran en sis cursos de duració.\n\n2. Estos ensenyaments s'organitzaran en les especialitats arreplegades en l'Annex I del present decret."
                 }
               ]
             }
@@ -79,21 +79,21 @@
         {
           "type": "capitulo",
           "id": "titulo-1-cap-2",
-          "title": "Cap\u00edtol II. Curr\u00edculum",
+          "title": "Capítol II. Currículum",
           "children": [
             {
               "type": "articulo",
               "id": "art-4",
               "number": "4",
-              "title": "Article 4. Curr\u00edculum",
-              "content": "1. S'ent\u00e9n per curr\u00edculum dels ensenyaments professionals de m\u00fasica el conjunt d'objectius, continguts, m\u00e8todes pedag\u00f2gics i criteris d'avaluaci\u00f3 que han de regular la pr\u00e0ctica docent en estos ensenyaments.\n\n2. El curr\u00edculum dels ensenyaments professionals de m\u00fasica \u00e9s el que s'establix en els annexos del present decret."
+              "title": "Article 4. Currículum",
+              "content": "1. S'entén per currículum dels ensenyaments professionals de música el conjunt d'objectius, continguts, mètodes pedagògics i criteris d'avaluació que han de regular la pràctica docent en estos ensenyaments.\n\n2. El currículum dels ensenyaments professionals de música és el que s'establix en els annexos del present decret."
             },
             {
               "type": "articulo",
               "id": "art-5",
               "number": "5",
               "title": "Article 5. Objectius generals",
-              "content": "Els ensenyaments professionals de m\u00fasica hauran de contribuir que els alumnes i alumnes adquirisquen les capacitats seg\u00fcents:\n\na) Habituar-se a escoltar m\u00fasica i establir un concepte est\u00e8tic propi.\n\nb) Valorar la import\u00e0ncia de la m\u00fasica com a llenguatge art\u00edstic i mitj\u00e0 d'expressi\u00f3 cultural.\n\nc) Con\u00e9ixer i valorar el patrimoni musical valenci\u00e0."
+              "content": "Els ensenyaments professionals de música hauran de contribuir que els alumnes i alumnes adquirisquen les capacitats següents:\n\na) Habituar-se a escoltar música i establir un concepte estètic propi.\n\nb) Valorar la importància de la música com a llenguatge artístic i mitjà d'expressió cultural.\n\nc) Conéixer i valorar el patrimoni musical valencià."
             }
           ]
         }
@@ -102,70 +102,73 @@
     {
       "type": "titulo",
       "id": "titulo-2",
-      "title": "T\u00edtol II. De l'acc\u00e9s i l'admissi\u00f3",
+      "title": "Títol II. De l'accés i l'admissió",
       "children": [
         {
           "type": "articulo",
           "id": "art-6",
           "number": "6",
-          "title": "Article 6. Requisits d'acc\u00e9s",
-          "content": "1. Per a accedir als ensenyaments professionals de m\u00fasica ser\u00e0 prec\u00eds superar una prova espec\u00edfica d'acc\u00e9s.\n\n2. Podr\u00e0 accedir-se a cada curs sense haver superat els anteriors sempre que, a trav\u00e9s d'una prova, l'aspirant demostre tindre els coneixements necessaris per a cursar amb aprofitament els ensenyaments corresponents."
+          "title": "Article 6. Requisits d'accés",
+          "content": "1. Per a accedir als ensenyaments professionals de música serà precís superar una prova específica d'accés.\n\n2. Podrà accedir-se a cada curs sense haver superat els anteriors sempre que, a través d'una prova, l'aspirant demostre tindre els coneixements necessaris per a cursar amb aprofitament els ensenyaments corresponents."
         },
         {
           "type": "articulo",
           "id": "art-7",
           "number": "7",
-          "title": "Article 7. Prova d'acc\u00e9s a primer curs",
-          "content": "1. La prova d'acc\u00e9s a primer curs dels ensenyaments professionals de m\u00fasica valorar\u00e0 la maduresa, les aptituds i els coneixements de l'aspirant per a cursar amb aprofitament estos ensenyaments.\n\n2. La prova constar\u00e0 de dos exercicis:\n\na) Interpretaci\u00f3, en l'instrument de l'especialitat a la qual s'opte, de dos obres de lliure elecci\u00f3 per l'aspirant.\n\nb) Exercici te\u00f2ric-pr\u00e0ctic per a avaluar els coneixements de llenguatge musical."
+          "title": "Article 7. Prova d'accés a primer curs",
+          "content": "1. La prova d'accés a primer curs dels ensenyaments professionals de música valorarà la maduresa, les aptituds i els coneixements de l'aspirant per a cursar amb aprofitament estos ensenyaments.\n\n2. La prova constarà de dos exercicis:\n\na) Interpretació, en l'instrument de l'especialitat a la qual s'opte, de dos obres de lliure elecció per l'aspirant.\n\nb) Exercici teòric-pràctic per a avaluar els coneixements de llenguatge musical."
         }
       ]
     },
     {
       "type": "disposicion_adicional",
       "id": "da-1",
-      "title": "Disposici\u00f3 addicional primera. Adaptaci\u00f3 curricular",
-      "content": "Els centres docents adaptaran el curr\u00edculum establit en el present decret al context socioecon\u00f2mic i cultural del centre i a les caracter\u00edstiques de l'alumnat."
+      "title": "Disposició addicional primera. Adaptació curricular",
+      "content": "Els centres docents adaptaran el currículum establit en el present decret al context socioeconòmic i cultural del centre i a les característiques de l'alumnat."
     },
     {
       "type": "disposicion_adicional",
       "id": "da-2",
-      "title": "Disposici\u00f3 addicional segona. Autonomia dels centres",
-      "content": "Els centres docents, en l'exercici de la seua autonomia pedag\u00f2gica, podran elaborar projectes educatius que contemplen les particularitats del seu context."
+      "title": "Disposició addicional segona. Autonomia dels centres",
+      "content": "Els centres docents, en l'exercici de la seua autonomia pedagògica, podran elaborar projectes educatius que contemplen les particularitats del seu context."
     },
     {
       "type": "disposicion_transitoria",
       "id": "dt-1",
-      "title": "Disposici\u00f3 transit\u00f2ria \u00fanica. Implantaci\u00f3",
-      "content": "La implantaci\u00f3 del curr\u00edculum establit en el present decret es dur\u00e0 a terme segons el calendari que establisca la Conselleria competent en mat\u00e8ria d'educaci\u00f3."
+      "title": "Disposició transitòria única. Implantació",
+      "content": "La implantació del currículum establit en el present decret es durà a terme segons el calendari que establisca la Conselleria competent en matèria d'educació."
     },
     {
       "type": "disposicion_derogatoria",
       "id": "dd-unica",
-      "title": "Disposici\u00f3 derogat\u00f2ria \u00fanica",
+      "title": "Disposició derogatòria única",
       "content": "Queden derogades totes les disposicions d'igual o inferior rang que s'oposen al que establix el present decret."
     },
     {
       "type": "disposicion_final",
       "id": "df-1",
-      "title": "Disposici\u00f3 final primera. Desplegament normatiu",
-      "content": "S'autoritza el conseller competent en mat\u00e8ria d'educaci\u00f3 per a dictar totes les disposicions que siguen necess\u00e0ries per al desplegament i aplicaci\u00f3 del present decret."
+      "title": "Disposició final primera. Desplegament normatiu",
+      "content": "S'autoritza el conseller competent en matèria d'educació per a dictar totes les disposicions que siguen necessàries per al desplegament i aplicació del present decret."
     },
     {
       "type": "disposicion_final",
       "id": "df-2",
-      "title": "Disposici\u00f3 final segona. Entrada en vigor",
-      "content": "El present decret entrar\u00e0 en vigor l'endem\u00e0 de la seua publicaci\u00f3 en el Diari Oficial de la Generalitat Valenciana."
+      "title": "Disposició final segona. Entrada en vigor",
+      "content": "El present decret entrarà en vigor l'endemà de la seua publicació en el Diari Oficial de la Generalitat Valenciana."
     }
   ],
   "legalAnalysis": {
     "enactedPursuantTo": [
       {
-        "title": "Llei Org\u00e0nica 2/2006, de 3 de maig, d'Educaci\u00f3 (LOE)",
-        "articles": ["art-45", "art-46"],
+        "title": "Llei Orgànica 2/2006, de 3 de maig, d'Educació (LOE)",
+        "articles": [
+          "art-45",
+          "art-46"
+        ],
         "relationship": "habilitante"
       },
       {
-        "title": "Reial Decret 1577/2006, de 22 de desembre, pel qual es fixen els aspectes b\u00e0sics del curr\u00edculum dels ensenyaments professionals de m\u00fasica",
+        "title": "Reial Decret 1577/2006, de 22 de desembre, pel qual es fixen els aspectes bàsics del currículum dels ensenyaments professionals de música",
         "relationship": "desarrollo"
       }
     ],
@@ -175,7 +178,9 @@
         "lawId": "decreto-90-2020",
         "title": "Decret 90/2020, de 19 de juny, del Consell",
         "type": "modifica",
-        "articles": ["art-3"],
+        "articles": [
+          "art-3"
+        ],
         "date": "2020-06-19",
         "description": "Modifica l'article 3, afegint la possibilitat d'ensenyament semipresencial"
       }

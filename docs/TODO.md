@@ -37,9 +37,12 @@
 ## Próximos Pasos
 
 ### Fase 8 - Ingesta de leyes reales
-- [ ] Recibir PDFs del DOGV del usuario
-- [ ] Parsear, separar idiomas, generar JSONs
-- [ ] Cargar 20-50 leyes reales
+- [x] Script de validación (`npm run validate`)
+- [x] Plantilla de prompt y checklist en CONTENT-GUIDE.md
+- [x] Registro de leyes (`data/metadata/law-registry.json`)
+- [ ] Ingerir leyes reales desde PDFs del DOGV (asistida por Claude)
+- [ ] Actualizar cross-references bidireccionales
+- [ ] Reemplazar ley de ejemplo (decreto-158-2007) con datos reales
 
 ## Notas
 
