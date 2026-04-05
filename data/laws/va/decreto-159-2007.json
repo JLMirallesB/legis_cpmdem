@@ -64,7 +64,24 @@
           "id": "art-5",
           "number": "5",
           "title": "Article 5. Especialitats dels ensenyaments elementals de música",
-          "content": "Són especialitats de les ensenyances elementals de Música: – Acordió – Arpa – Clarinet – Clavecí – Contrabaix – Fagot – Flauta travessera – Flauta dolça – Guitarra – Instruments de plectre – Oboé – Percussió – Piano – Saxòfon – Trombó – Trompa – Trompeta – Tuba – Viola – Viola de gamba – Violí – Violoncel Num. 5606 / 25.09.2007"
+          "content": "Són especialitats de les ensenyances elementals de música: – Acordió. – Arpa. – Clarinet. – Clavecí. – Contrabaix. – Dolçaina. – Fagot. – Flauta travessera. – Flauta de bec. – Guitarra. – Instruments de pua. – Oboé. – Percussió. – Piano. – Saxòfon. – Trombó. – Trompa. – Trompeta. – Tuba. – Viola. – Viola de Gamba. – Violí. – Violoncel",
+          "versions": [
+            {
+              "versionId": "v2",
+              "effectiveDate": "2014-09-16",
+              "modifiedBy": {
+                "lawId": "decreto-148-2014",
+                "title": "Decret 148/2014, de 12 de setembre, del Consell"
+              },
+              "content": "Són especialitats de les ensenyances elementals de música: – Acordió. – Arpa. – Clarinet. – Clavecí. – Contrabaix. – Dolçaina. – Fagot. – Flauta travessera. – Flauta de bec. – Guitarra. – Instruments de pua. – Oboé. – Percussió. – Piano. – Saxòfon. – Trombó. – Trompa. – Trompeta. – Tuba. – Viola. – Viola de Gamba. – Violí. – Violoncel"
+            },
+            {
+              "versionId": "v1",
+              "effectiveDate": "2007-09-26",
+              "modifiedBy": null,
+              "content": "Són especialitats de les ensenyances elementals de Música: – Acordió – Arpa – Clarinet – Clavecí – Contrabaix – Fagot – Flauta travessera – Flauta dolça – Guitarra – Instruments de plectre – Oboé – Percussió – Piano – Saxòfon – Trombó – Trompa – Trompeta – Tuba – Viola – Viola de gamba – Violí – Violoncel Num. 5606 / 25.09.2007"
+            }
+          ]
         },
         {
           "type": "articulo",
@@ -426,6 +443,16 @@
         ],
         "date": "2026-04-03",
         "description": "Modifica articles relatius a l'accés i flexibilització"
+      },
+      {
+        "lawId": "decreto-148-2014",
+        "title": "Decret 148/2014, de 12 de setembre, del Consell",
+        "type": "modifica",
+        "articles": [
+          "art-5"
+        ],
+        "date": "2014-09-16",
+        "description": "Incorpora la Dolçaina al catàleg d'especialitats de les ensenyances elementals de música"
       }
     ],
     "derogations": [],

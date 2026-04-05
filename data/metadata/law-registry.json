@@ -28,6 +28,48 @@
       "status": "ingested",
       "category": "general",
       "notes": "Decreto ómnibus. Modifica D.156/2007, D.157/2007, D.158/2007, D.159/2007, D.167/2017, D.2/2022. Art 5 marcado como no relativo a conservatorios."
+    },
+    {
+      "slug": "decreto-156-2007",
+      "title": "Decreto 156/2007 - Currículo EEPP de danza",
+      "status": "ingested",
+      "category": "curriculo",
+      "notes": "Texto completo con Anexo I (currículos de especialidades de danza). Modificado por Decreto 46/2026 (arts 9, 10, 15)."
+    },
+    {
+      "slug": "decreto-157-2007",
+      "title": "Decreto 157/2007 - Currículo enseñanzas elementales de danza",
+      "status": "ingested",
+      "category": "curriculo",
+      "notes": "Texto completo con 3 anexos. Modificado por Decreto 46/2026 (arts 7, 8, 9, 12, 18 + título cap III)."
+    },
+    {
+      "slug": "decreto-148-2014",
+      "title": "Decreto 148/2014 - Incorporación Dulzaina a EE música",
+      "status": "ingested",
+      "category": "curriculo",
+      "notes": "Modifica D.159/2007 art-5 (añade Dulzaina). Incluye currículo en anexo único."
+    },
+    {
+      "slug": "decreto-109-2011",
+      "title": "Decreto 109/2011 - Currículo Bajo Eléctrico y Guitarra Eléctrica (EEPP)",
+      "status": "ingested",
+      "category": "curriculo",
+      "notes": "Desarrolla currículo de Bajo Eléctrico y Guitarra Eléctrica del D.158/2007. 5 arts + 3 anexos."
+    },
+    {
+      "slug": "orden-64-2013",
+      "title": "Orden 64/2013 - Horario y acceso Acordeón, Cuerda pulsada, Púa, Viola de gamba (EEPP)",
+      "status": "ingested",
+      "category": "curriculo",
+      "notes": "Desarrolla horario y prueba de acceso de especialidades del D.158/2007. 3 artículos."
+    },
+    {
+      "slug": "decreto-90-2015",
+      "title": "Decreto 90/2015 - Incorporación Cant Valencià a EEPP música",
+      "status": "ingested",
+      "category": "curriculo",
+      "notes": "Modifica D.158/2007: arts 6, 8, 14 + Anexos I y II. Incorpora Cant Valencià. 5 arts + 5 anexos."
     }
   ]
 }

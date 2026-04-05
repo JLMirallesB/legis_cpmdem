@@ -1,5 +1,79 @@
 [
   {
+    "version": "0.3.0",
+    "date": "2026-04-05",
+    "entries": {
+      "es": [
+        {
+          "type": "nuevo",
+          "description": "Decreto 156/2007: currículo de las enseñanzas profesionales de danza (30 artículos + anexo de especialidades)"
+        },
+        {
+          "type": "nuevo",
+          "description": "Decreto 157/2007: currículo de las enseñanzas elementales de danza (26 artículos + 3 anexos)"
+        },
+        {
+          "type": "nuevo",
+          "description": "Decreto 90/2015: incorporación del Cant Valencià a las enseñanzas profesionales de música"
+        },
+        {
+          "type": "nuevo",
+          "description": "Decreto 109/2011: currículo de Bajo Eléctrico y Guitarra Eléctrica (enseñanzas profesionales)"
+        },
+        {
+          "type": "nuevo",
+          "description": "Decreto 148/2014: incorporación de la Dulzaina a las enseñanzas elementales de música"
+        },
+        {
+          "type": "nuevo",
+          "description": "Orden 64/2013: horario y prueba de acceso de Acordeón, Cuerda pulsada, Instrumentos de púa y Viola de gamba"
+        },
+        {
+          "type": "actualizado",
+          "description": "Decreto 158/2007: nuevas versiones de artículos 6, 8 y 14 (modificados por D.90/2015) y referencias cruzadas con D.109/2011, O.64/2013 y D.90/2015"
+        },
+        {
+          "type": "actualizado",
+          "description": "Decreto 159/2007: nueva versión del artículo 5 (incorporación de Dulzaina por D.148/2014)"
+        }
+      ],
+      "va": [
+        {
+          "type": "nou",
+          "description": "Decret 156/2007: currículum de les ensenyances professionals de dansa (30 articles + annex d'especialitats)"
+        },
+        {
+          "type": "nou",
+          "description": "Decret 157/2007: currículum de les ensenyances elementals de dansa (26 articles + 3 annexos)"
+        },
+        {
+          "type": "nou",
+          "description": "Decret 90/2015: incorporació del Cant Valencià a les ensenyances professionals de música"
+        },
+        {
+          "type": "nou",
+          "description": "Decret 109/2011: currículum de Baix Elèctric i Guitarra Elèctrica (ensenyances professionals)"
+        },
+        {
+          "type": "nou",
+          "description": "Decret 148/2014: incorporació de la Dolçaina a les ensenyances elementals de música"
+        },
+        {
+          "type": "nou",
+          "description": "Orde 64/2013: horari i prova d'accés d'Acordió, Corda polsada, Instruments de pua i Viola de gamba"
+        },
+        {
+          "type": "actualitzat",
+          "description": "Decret 158/2007: noves versions dels articles 6, 8 i 14 (modificats pel D.90/2015) i referències creuades amb D.109/2011, O.64/2013 i D.90/2015"
+        },
+        {
+          "type": "actualitzat",
+          "description": "Decret 159/2007: nova versió de l'article 5 (incorporació de Dolçaina pel D.148/2014)"
+        }
+      ]
+    }
+  },
+  {
     "version": "0.2.0",
     "date": "2026-04-04",
     "entries": {

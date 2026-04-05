@@ -64,7 +64,24 @@
           "id": "art-5",
           "number": "5",
           "title": "Artículo 5. Especialidades de las enseñanzas elementales de música",
-          "content": "Son especialidades de las enseñanzas elementales de música: – Acordeón. – Arpa. – Clarinete. – Clave. – Contrabajo. – Fagot. – Flauta travesera. – Flauta de pico. – Guitarra. – Instrumentos de púa. – Oboe. – Percusión. – Piano. – Saxofón. – Trombón. – Trompa. – Trompeta. – Tuba. – Viola. – Viola de Gamba. – Violín. – Violoncelo"
+          "content": "Son especialidades de las enseñanzas elementales de música: – Acordeón. – Arpa. – Clarinete. – Clave. – Contrabajo. – Dulzaina. – Fagot. – Flauta travesera. – Flauta de pico. – Guitarra. – Instrumentos de púa. – Oboe. – Percusión. – Piano. – Saxofón. – Trombón. – Trompa. – Trompeta. – Tuba. – Viola. – Viola de Gamba. – Violín. – Violoncelo",
+          "versions": [
+            {
+              "versionId": "v2",
+              "effectiveDate": "2014-09-16",
+              "modifiedBy": {
+                "lawId": "decreto-148-2014",
+                "title": "Decreto 148/2014, de 12 de septiembre, del Consell"
+              },
+              "content": "Son especialidades de las enseñanzas elementales de música: – Acordeón. – Arpa. – Clarinete. – Clave. – Contrabajo. – Dulzaina. – Fagot. – Flauta travesera. – Flauta de pico. – Guitarra. – Instrumentos de púa. – Oboe. – Percusión. – Piano. – Saxofón. – Trombón. – Trompa. – Trompeta. – Tuba. – Viola. – Viola de Gamba. – Violín. – Violoncelo"
+            },
+            {
+              "versionId": "v1",
+              "effectiveDate": "2007-09-26",
+              "modifiedBy": null,
+              "content": "Son especialidades de las enseñanzas elementales de música: – Acordeón. – Arpa. – Clarinete. – Clave. – Contrabajo. – Fagot. – Flauta travesera. – Flauta de pico. – Guitarra. – Instrumentos de púa. – Oboe. – Percusión. – Piano. – Saxofón. – Trombón. – Trompa. – Trompeta. – Tuba. – Viola. – Viola de Gamba. – Violín. – Violoncelo"
+            }
+          ]
         },
         {
           "type": "articulo",
@@ -426,6 +443,16 @@
         ],
         "date": "2026-04-03",
         "description": "Modifica artículos relativos al acceso y flexibilización"
+      },
+      {
+        "lawId": "decreto-148-2014",
+        "title": "Decreto 148/2014, de 12 de septiembre, del Consell",
+        "type": "modifica",
+        "articles": [
+          "art-5"
+        ],
+        "date": "2014-09-16",
+        "description": "Incorpora la Dulzaina al catálogo de especialidades de las enseñanzas elementales de música"
       }
     ],
     "derogations": [],

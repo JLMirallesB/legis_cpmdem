@@ -1,0 +1,93 @@
+{
+  "id": "orden-64-2013",
+  "slug": "orden-64-2013",
+  "type": "orden",
+  "number": "64/2013",
+  "date": "2013-06-21",
+  "publishedIn": {
+    "source": "DOGV",
+    "number": "7054",
+    "date": "2013-06-25",
+    "url": "https://dogv.gva.es/datos/2013/06/25/pdf/2013_6657.pdf"
+  },
+  "title": "Orde 64/2013, de 21 de juny, de la Conselleria d'Educació, Cultura i Esport, per la qual es desplega i inclou l'horari del currículum i es determina la prova d'accés de les especialitats d'Acordió, Instruments de corda polsada del Renaixement i Barroc, Instruments de pua i Viola de gamba establides en el Decret 158/2007",
+  "titleShort": "Currículum d'Acordió, Corda polsada, Pua i Viola de gamba (EEPP música)",
+  "category": "curriculo",
+  "vigpiracy": {
+    "status": "vigente",
+    "statusLabel": "Vigent",
+    "effectiveDate": "2013-06-26"
+  },
+  "structure": [
+    {
+      "type": "preambulo",
+      "id": "preambulo",
+      "title": "Preàmbul",
+      "content": "L’Estatut d’Autonomia de la Comunitat Valenciana, aprovat per la Llei Orgànica 5/1982, d’1 de juliol, d’Estatut d’Autonomia de la Comunitat Valenciana, i la reforma aprovada per la Llei Orgànica 1/2006, de 10 d’abril, de reforma de la Llei Orgànica 5/1982, d’1 de juliol, d’Estatut d’Autonomia de la Comunitat Valenciana, en l’article 53, establixen que és de competència exclusiva de la Generalitat la regulació i administració de l’ensenyança en tota la seua extensió, nivells i graus, modalitats i especialitats, sense perjuí del que disposen l’article 27 de la Constitució Espanyola i les lleis orgàniques que el despleguen d’acord amb l’apartat 1 de l’article 81 d’aquella, de les facultats que atribuïx a l’Estat el número 30 de l’apartat 1 de l’article 149 de la Constitució Espanyola i de l’alta inspecció necessària per al seu compliment i garantia. La Llei Orgànica 2/2006, de 3 de maig, d’Educació, dedica el capítol VI del títol I a les ensenyances artístiques, que tenen com a finalitat proporcionar a l’alumnat una formació artística de qualitat i garantir la qualificació dels futurs professionals, entre altres, de la música. El Reial Decret 1577/2006, de 22 de desembre, pel qual es fixen els aspectes bàsics del currículum de les ensenyances professionals de música regulades per la Llei Orgànica 2/2006, de 3 de maig, d’Educació, establix, entre altres, l’organització i la finalitat d’estes ensenyances, els objectius generals i específics, i la llista d’especialitats de les ensenyances professionals de música. En l’article 5.3, es disposa que les administracions educatives establiran el currículum de les ensenyances professionals de música, del qual formaran part en tot cas els aspectes bàsics que, per a cada especialitat, s’establixen en l’annex I del mencionat reial decret. El Decret 158/2007, de 21 de setembre, del Consell, pel qual s’establix el currículum de les ensenyances professionals de música i es regula l’accés a estes ensenyances, determina els objectius, el currículum, les especialitats, l’accés a les ensenyances en els seus diferents cursos i l’avaluació, així com altres aspectes addicionals relacionats amb l’organització i l’ordenació acadèmica d’estes ensenyances a la Comunitat Valenciana. En l’article 6, s’establixen les especialitats de les ensenyances professionals de música que es poden impartir a la Comunitat Valenciana, entre les quals figuren: acordió, Instruments de corda polsada del Renaixement i Barroc, instruments de plectre i viola de gamba. En la disposició addicional quarta del mencionat Decret 158/2007, de 21 de setembre, del Consell, es disposa que les especialitats que s’especifiquen en l’article 6 i que no han sigut previstes en l’annex del mencionat decret es desenrotllaran en el moment en què siguen autoritzades per l’Administració educativa corresponent. Addicionalment, la prova específica d’accés a estes especialitats, no prevista en els annexos, tindrà l’estructura que l’Administració educativa determine. Davant de la sol·licitud de regulació d’algunes de les especialitats d’acordió, instruments de corda polsada del Renaixement i Barroc, instruments de plectre i viola de gamba en conservatoris de titularitat municipal, esta orde desenrotlla l’horari i la prova d’accés de les mencionades especialitats reconegudes en el Decret 158/2007, de 21 de setembre, del Consell. Per això, a proposta del director general de Formació Professional i Ensenyances de Règim Especial de data 31 de maig de 2013, de conformitat amb esta, i en virtut de les competències que m’atribuïx l’article 28.e de la Llei 5/1983, de 30 de desembre, del Consell, i el Decret 5/2011, de 21 de juny, del president de la Generalitat, pel qual es determinen les conselleries en què s’organitza l’Administració de la Generalitat,"
+    },
+    {
+      "type": "articulo",
+      "id": "art-1",
+      "number": "1",
+      "title": "Article 1. Objecte i àmbit d’aplicació",
+      "content": "1. Esta orde té com a objecte desenrotllar l’horari i la prova d’accés de les especialitats d’acordió, instruments de corda polsada del Renaixement i Barroc, instruments de plectre i viola de gamba, establides en el Decret 158/2007, de 21 de setembre, del Consell, pel qual s’establix el currículum de les ensenyances professionals de música i es regula l’accés a estes ensenyances. 2. Esta orde serà aplicable en tots els centres prèviament autoritzats per a impartir les ensenyances professionals de música en les especialitats d’acordió, instruments de corda polsada del Renaixement i Barroc, instruments de plectre i viola de gamba en l’àmbit territorial de la Comunitat Valenciana."
+    },
+    {
+      "type": "articulo",
+      "id": "art-2",
+      "number": "2",
+      "title": "Article 2. Horari",
+      "content": "La distribució per cursos i el total d’hores de cada assignatura, corresponents a les ensenyances professionals de Música de les especialitats d’acordió, instruments de corda polsada del Renaixement i Barroc, instruments de plectre i viola de gamba, són els especificats en l’annex I."
+    },
+    {
+      "type": "articulo",
+      "id": "art-3",
+      "number": "3",
+      "title": "Article 3. Accés a les ensenyances professionals",
+      "content": "1. Les proves específiques d’accés al primer curs d’ensenyances professionals es faran d’acord amb l’article 9 del Decret 158/2007, de 21 de setembre, del Consell, pel qual s’establix el currículum de les ensenyances professionals de Música i es regula l’accés a estes ensenyances (DOCV 25.09.2007). 2. Les proves específiques d’accés a cursos diferents de primer d’ensenyances professionals es faran d’acord amb l’article 12 de l’Orde 28/2011, de 10 de maig, de la Conselleria d’Educació, per la qual es regula l’admissió, l’accés i la matrícula, així com els aspectes d’ordenació general, per a l’alumnat que curse les ensenyances elementals i professionals de Música i Dansa a la Comunitat Valenciana (DOCV 17.05.2011)."
+    },
+    {
+      "type": "disposicion_adicional",
+      "id": "da-unica",
+      "title": "Disposició addicional única",
+      "content": "Única. Incidència en les dotacions de gasto La implementació i el posterior desplegament d’esta orde no podran tindre cap incidència en la dotació de tots i cada un dels capítols de gasto assignats a la conselleria competent en matèria d’educació, i en tot cas s’haurà d’atendre amb els mitjans personals i materials de la conselleria competent per raó de la matèria."
+    },
+    {
+      "type": "disposicion_derogatoria",
+      "id": "dd-unica",
+      "title": "Disposició derogatòria única",
+      "content": "Única. Derogació normativa Queden derogades totes les disposicions del mateix rang o d’un rang inferior que s’oposen al que disposa la present orde."
+    },
+    {
+      "type": "disposicion_final",
+      "id": "df-1",
+      "title": "Disposicions finals",
+      "content": "Primera. Aplicació i desplegament S’autoritza la conselleria competent en matèria d’educació a dictar les disposicions necessàries per a aplicar i desplegar esta orde. Segona. Entrada en vigor Esta orde entrarà en vigor l’endemà de publicar-se en el Diari Oficial de la Comunitat Valenciana. València, 21 de juny de 2013 La consellera d’Educació, Cultura i Esport, MARÍA JOSÉ CATALÁ VERDET ANNE Temps l Especialitat: Acordió C Assignatura Hore A. Pròpies de l’especialitat 1r 2n 3r Conjunt 1 1 1 Cor 2 Música de Cambra 1 B. Comunes Instrument 1 1 1 Ll. Musical 2 2 Harmonia 2 Anàlisi Història de la música C. Optativitat Optativa Total setmanal 4 4 7 Total Especialitat: Instruments de Corda Polsada del Renaixement i Barroc C Assignatura Hore A. Pròpies de l’especialitat 1r 2n 3r Conjunt 1 1 1 Cor 2 Música de Cambra 1 Piano / Clavecí Complementari 0,5 0,5 B. Comunes Instrument 1 1 1 Ll. Musical 2 2 Harmonia 2 Anàlisi Història de la Música C. Optativitat Optativa Total setmanal 4 4,5 7,5 Total Especialitat: Instruments de plectre C Assignatura Hore A. Pròpies de l’especialitat 1r 2n 3r Conjunt 1 1 1 Cor 2 Música de Cambra 1 Piano / Clavecí Complementari 0,5 0,5 B. Comunes Instrument 1 1 1 Ll. Musical 2 2 Harmonia 2 Anàlisi Història de la Música C. Optativitat Optativa Total setmanal 4 4,5 7,5 Total Especialitat: Viola de Gamba C Assignatura Hore A. Pròpies de l’especialitat 1r 2n 3r Conjunt 1 1 1 Cor 2 Música de Cambra 1 Clavecí Complementari 0,5 0,5 B. Comunes Instrument 1 1 1 Ll. Musical 2 2 Harmonia 2 Anàlisi Història de la Música C. Optativitat Optativa Total setmanal 4 4,5 7,5 Total * * * * ANEX Tiempos l Especialidad: Acordeón C Asignatura Hora A. Propias de la especialidad 1.º 2.º 3.º Conjunto 1 1 1 Coro 2 Música de cámara 1 B. Comunes Instrumento 1 1 1 L. Musical 2 2 Armonía 2 Análisis Historia de la música C. Optatividad Optativa Total semanal 4 4 7 Total Especialidad: Instrumentos de cuerda pulsada del Renacimiento y Barroco C Asignatura Hora A. Propias de la especialidad 1.º 2.º 3.º Conjunto 1 1 1 Coro 2 Música de cámara 1 Piano/Clave complementario 0,5 0,5 B. Comunes Instrumento 1 1 1 L. Musical 2 2 Armonía 2 Análisis Historia de la música C. Optatividad Optativa Total semanal 4 4,5 7,5 Total Especialidad: Instrumentos de púa C Asignatura Hora A. Propias de la especialidad 1.º 2.º 3.º Conjunto 1 1 1 Coro 2 Música de cámara 1 Piano/Clave complementario 0,5 0,5 B. Comunes Instrumento 1 1 1 L. Musical 2 2 Armonía 2 Análisis Historia de la música C. Optatividad Optativa Total semanal 4 4,5 7,5 Total Especialidad: Viola da gamba C Asignatura Hora A. Propias de la especialidad 1.º 2.º 3.º Conjunto 1 1 1 Coro 2 Música de cámara 1 Clave complementario 0,5 0,5 B. Comunes Instrumento 1 1 1 L. Musical 2 2 Armonía 2 Análisis Historia de la música C. Optatividad Optativa Total semanal 4 4,5 7,5 Total"
+    }
+  ],
+  "legalAnalysis": {
+    "enactedPursuantTo": [
+      {
+        "lawId": "decreto-158-2007",
+        "title": "Decret 158/2007 - Currículum EEPP de música",
+        "articles": [
+          "art-6"
+        ],
+        "relationship": "desarrollo"
+      }
+    ],
+    "priorAffectations": [],
+    "posteriorAffectations": [],
+    "derogations": [],
+    "concordances": [
+      {
+        "lawId": "decreto-158-2007",
+        "title": "Decret 158/2007 - Currículum EEPP de música"
+      },
+      {
+        "lawId": "decreto-109-2011",
+        "title": "Decret 109/2011 - Currículum Baix Elèctric i Guitarra Elèctrica"
+      }
+    ]
+  }
+}

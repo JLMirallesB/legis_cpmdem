@@ -1,0 +1,100 @@
+{
+  "id": "decreto-109-2011",
+  "slug": "decreto-109-2011",
+  "type": "decreto",
+  "number": "109/2011",
+  "date": "2011-09-02",
+  "publishedIn": {
+    "source": "DOGV",
+    "number": "6597",
+    "date": "2011-09-06",
+    "url": "https://dogv.gva.es/datos/2011/09/06/pdf/2011_9167.pdf"
+  },
+  "title": "Decreto 109/2011, de 2 de septiembre, del Consell, por el que se desarrolla el currículo de las especialidades de Bajo Eléctrico y Guitarra Eléctrica establecidas en el Decreto 158/2007",
+  "titleShort": "Currículo de Bajo Eléctrico y Guitarra Eléctrica (EEPP música)",
+  "category": "curriculo",
+  "vigpiracy": {
+    "status": "vigente",
+    "statusLabel": "Vigente",
+    "effectiveDate": "2011-09-07"
+  },
+  "structure": [
+    {
+      "type": "preambulo",
+      "id": "preambulo",
+      "title": "Preámbulo",
+      "content": "Preámbulo El Estatut d’Autonomia de la Comunitat Valenciana, aprobado por la Ley Orgánica 5/1982, de 1 de julio, y reformado por la Ley Orgánica 1/2006, de 10 de abril, en su artículo 53, establece que es de competencia exclusiva de la Generalitat la regulación y administración de la enseñanza en toda su extensión, niveles y grados, modalidades y especialidades, sin perjuicio de lo que disponen el artículo 27 de la Constitución Española y las leyes orgánicas que, de acuerdo con el apartado 1 del artículo 81 de aquélla, lo desarrollan, de las facultades que atribuye al Estado el número 30 del apartado 1 del artículo 149 de la Constitución Española, y de la alta inspección necesaria para su cumplimiento y garantía. La Ley Orgánica 2/2006, de 3 de mayo, de Educación, dedica el capítulo VI del título I a las enseñanzas artísticas, que tienen como finalidad proporcionar al alumnado una formación artística de calidad y garantizar la cualificación de los futuros profesionales, entre otros, de la música. El Real Decreto 1577/2006, de 22 de diciembre, por el que se fijan los aspectos básicos del currículo de las enseñanzas profesionales de Música reguladas por la Ley Orgánica 2/2006, de 3 de mayo, de Educación, establece, entre otros, la organización y finalidad de estas enseñanzas, los objetivos generales y específicos, y el listado de especialidades de las enseñanzas profesionales de Música. En su artículo 5.3 se dispone que las administraciones educativas establecerán el currículo de las enseñanzas profesionales de Música, del que formarán parte en todo caso los aspectos básicos que, para cada especialidad, se establecen en el anexo I del mencionado real decreto. El Decreto 158/2007, de 21 de septiembre, del Consell, por el que se establece el currículo de las enseñanzas profesionales de Música y se regula el acceso a estas enseñanzas, determina los objetivos, currículo, especialidades, acceso a las enseñanzas en sus diferentes cursos, evaluación, así como otros aspectos adicionales relacionados con la organización y la ordenación académica de estas enseñanzas en la Comunitat Valenciana. En el artículo 6 se establecen las especialidades de las enseñanzas profesionales de Música que se pueden impartir en la Comunitat Valenciana, entre las cuales, figuran el Bajo Eléctrico y la Guitarra Eléctrica. En la disposición adicional cuarta del mencionado Decreto 158/2007, de 21 de septiembre, del Consell, se dispone que las especialidades que se relacionan en el artículo 6 y que no han sido previstas en el anexo de dicho decreto se desarrollarán en el momento en que sean autorizadas por la administración educativa correspondiente. Adicionalmente, la prueba específica de acceso a estas especialidades, no prevista en los anexos, tendrá la estructura que la administración educativa determine. Ante la solicitud de los conservatorios y centros privados autorizados en cuanto a la autorización para impartir nuevas especialidades, el presente decreto desarrolla el currículo de las especialidades de Bajo Eléctrico y Guitarra Eléctrica reconocidas en el Decreto 158/2007, de 21 de septiembre, del Consell. Por todo ello, previo dictamen del Consell Escolar de la Comunitat Valenciana, consultados los agentes sociales, a propuesta del conseller de Educación, Formación y Empleo, conforme con el Consell Jurídic Consultiu de la Comunitat Valenciana y previa deliberación del Consell, en la reunión del día 2 de septiembre de 2011,"
+    },
+    {
+      "type": "articulo",
+      "id": "art-1",
+      "number": "1",
+      "title": "Artículo 1. Objeto y ámbito de aplicación",
+      "content": "1. Este decreto tiene por objeto desarrollar el currículo de las especialidades de Bajo Eléctrico y Guitarra Eléctrica establecidas en el Decreto 158/2007, de 21 de septiembre, del Consell, por el que se establece el currículo de las enseñanzas profesionales de Música y se regula el acceso a estas enseñanzas. 2. Este decreto será de aplicación en todos los centros, previamente autorizados, para impartir las enseñanzas profesionales de Música en las especialidades de Bajo Eléctrico y Guitarra Eléctrica en el ámbito territorial de la Comunitat Valenciana."
+    },
+    {
+      "type": "articulo",
+      "id": "art-2",
+      "number": "2",
+      "title": "Artículo 2. Currículo",
+      "content": "Los objetivos, contenidos y criterios de evaluación que constituyen el currículo de la asignatura de Instrumento de las enseñanzas profesionales de Música en las especialidades de Bajo Eléctrico y de Guitarra Eléctrica, serán los indicados en el anexo I."
+    },
+    {
+      "type": "articulo",
+      "id": "art-3",
+      "number": "3",
+      "title": "Artículo 3. Horario",
+      "content": "La distribución por cursos y el total de horas de cada asignatura, correspondientes a las enseñanzas profesionales de Música de las especialidades de Bajo Eléctrico y de Guitarra Eléctrica, son los especificados en el anexo II."
+    },
+    {
+      "type": "articulo",
+      "id": "art-4",
+      "number": "4",
+      "title": "Artículo 4. Acceso a las enseñanzas profesionales",
+      "content": "1. Las pruebas específicas de acceso al primer curso de enseñanzas profesionales se realizarán de acuerdo con el artículo 9 del Decreto 158/2007, de 21 de septiembre, del Consell, por el que se establece el currículo de las enseñanzas profesionales de Música y se regula el acceso a estas enseñanzas. 2. Para las especialidades de Bajo Eléctrico y de Guitarra Eléctrica, en la prueba indicada en el artículo 9.5.c del Decreto 158/2007, de 21 de septiembre, del Consell, los aspirantes deberán interpretar una obra, estudio o fragmento elegido por el tribunal de una lista de tres que presentará el alumno o alumna. El nivel técnico-instrumental corresponderá a los contenidos que permita+n al alumno o alumna iniciar los estudios de enseñanzas profesionales con los recursos técnicos adecuados. Se valorará la ejecución de memoria de las obras presentadas. 3. Para el acceso al primer curso de las enseñanzas profesionales de la especialidad de Bajo Eléctrico, el alumno o alumna podrá realizar la prueba con los instrumentos de bajo eléctrico, guitarra, guitarra eléctrica o contrabajo, indistintamente. En el caso de la especialidad de Guitarra Eléctrica, la prueba la podrá realizar con dicho instrumento, o bien con guitarra. En ambas especialidades, para el acceso a cursos diferentes del primero, la prueba se realizará con el instrumento correspondiente a la especialidad."
+    },
+    {
+      "type": "disposicion_derogatoria",
+      "id": "dd-unica",
+      "title": "Disposición derogatoria única",
+      "content": "Única. Derogación normativa Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en el presente decreto."
+    },
+    {
+      "type": "disposicion_final",
+      "id": "df-1",
+      "title": "Disposiciones finales",
+      "content": "Primera. Aplicación y desarrollo Se autoriza a la persona titular de la conselleria competente en materia de educación para dictar las disposiciones necesarias para la aplicación y el desarrollo de este decreto. Segunda. Entrada en vigor El presente decreto entrará en vigor el día siguiente al de su publicación en el Diari Oficial de la Comunitat Valenciana. Castellón de la Plana, 2 de septiembre de 2011 El president de la Generalitat, ALBERTO FABRA PART El conseller de Educación, Formación y Empleo, JOSÉ CISCAR BOLUFER"
+    },
+    {
+      "type": "anexo",
+      "id": "anexo-1",
+      "title": "Anexo I",
+      "content": "Currículo de los instrumentos bajo eléctrico y guitarra eléctrica Objetivos comunes para bajo eléctrico y guitarra eléctrica Las enseñanzas correspondientes a la asignatura de Instrumento de las enseñanzas profesionales de Bajo Eléctrico y de Guitarra Eléctrica tendrán como objetivo el desarrollo en los alumnos de las capacidades siguientes: 1. Desarrollar en su conjunto la técnica y las posibilidades sonoras y expresivas del instrumento, así como alcanzar y demostrar la sensibilidad auditiva necesaria para perfeccionar gradualmente la calidad sonora. 2. Adquirir las diferentes técnicas para la afinación del instrumento como fase previa para la ejecución. 3. Entender la historia, evolución y características del instrumento en relación con los diferentes géneros musicales que forman parte de la música moderna y el jazz. 4. Asimilar los conceptos propios del lenguaje musical y de la armonía, lograr el nivel de lectura necesario para la interpretación de guiones, partituras y notaciones específicas para guitarra eléctrica, con fluidez. 5. Conocer las características técnicas del instrumento y su mantenimiento, utilizar los accesorios, los efectos, el material de amplificación y de ecualización para la adaptación adecuada a una situación musical concreta y para investigar en la creación de nuevas sonoridades. 6. Adquirir destrezas en el dominio de arreglos musicales. 7. Aplicar con autonomía progresivamente mayor los conocimientos musicales para solucionar por sí mismo los diversos problemas de ejecución que puedan presentarse relativos a digitación, fraseo, dinámica. 8. Profundizar en la ejecución con precisión rítmica y en la interiorización del tempo. 9. Adquirir y aplicar progresivamente herramientas y competencias para el desarrollo de la memoria. 10. Desarrollar la capacidad de lectura a primera vista y aplicar con autonomía progresivamente mayor los conocimientos musicales para la improvisación con el instrumento. 11. Practicar la música de conjunto. 12. Interpretar un repertorio que incluya obras representativas de dificultad adecuada a este nivel. Contenidos de Bajo Eléctrico Posición de la mano izquierda. Pulsación. Combinaciones de dedos de la mano derecha. Profundización de estudios de la mano derecha en posición fija. Conocimiento y profundización en los cambios de posiciones: primeras posiciones y posiciones superiores. Saltos de cuerda. Ejercicios rítmicos sobre cuerdas al aire. Acordes. Arpegios. Escalas. Estructuras armónicas. Patrones rítmicos: transposición de patrones rítmicos sobre estructuras armónicas. Estudios con cambios de figuras en distintos compases. Acompañamiento V-I sobre secuencias de acordes mayores y menores. Control de tono, volumen y cambio de pastilla del instrumento. Ritmos básicos. Estudios en compases simples y compuestos. Transposición de patrones rítmicos sobre estructuras armónicas. Acompañamiento de secuencias con arpegios hasta la séptima. Arreglos musicales. Práctica de la lectura a vista. Práctica de conjunto. Contenidos de Guitarra Eléctrica Contexto histórico, social y cultural de la guitarra. Análisis de los géneros e intérpretes más representativos en diferentes formatos gráficos y de audio. Comprensión de las funciones rítmicas, melódicas y estilísticas inherentes a la guitarra. Aprendizaje gradual de los valores rítmicos, compases, armaduras, escalas y tablaturas mediante el sistema de posiciones. Lectura a vista. Notación estándar y tablatura. Lectura rítmica, melódica y armónica. Cifrados de acordes. Articulaciones, dinámicas y estructuras. Desarrollo de la independencia y coordinación de las dos manos de forma progresiva mediante ejercitaciones mecánicas. Técnicas de la mano derecha con púa y con dedos. Técnicas de la mano izquierda y elementos expresivos. Recursos armónicos y técnicos aplicados al acompañamiento. Construcción, materiales y partes de la guitarra, ajuste de piezas. La tecnología propia de la guitarra eléctrica. Controles de volumen y tono. Pastillas simples, dobles, activas y pasivas. Pedales analógicos y multiefectos digitales. Ecualización y configuración del sonido en los equipos de amplificación. Ejercitación del calentamiento, relajación, concentración y posicionamiento del cuerpo hacia el instrumento. Aplicación de los recursos adquiridos para tocar en grupo. Técnicas de acompañamiento. Aplicación de los recursos y las técnicas propias de la improvisación de manera gradual fomentando su uso creativo. Dictados rítmicos, melódicos y armónicos. Transcripciones de solos. Arreglos musicales. Participación y asistencia a exposiciones, conciertos, jams y seminarios especializados. Producción musical, edición de partituras, secuenciación e Internet. Criterios de evaluación Los criterios de evaluación serán los establecidos en el anexo I del Decreto 158/2007, de 21 de septiembre, del Consell, por el que se establece el currículo de las enseñanzas profesionales de Música y se regula el acceso a estas enseñanzas, para la asignatura de Instrumento: 1. Utilizar el esfuerzo muscular, la respiración y relajación adecuados a las exigencias de la ejecución instrumental. Con este criterio se pretende evaluar el dominio de la coordinación motriz y el equilibrio entre los indispensables esfuerzos musculares que requiere la ejecución instrumental y el grado de relajación necesaria para evitar tensiones que conduzcan a una pérdida de control en la ejecución. 2. Demostrar el dominio en la ejecución de estudios y obras sin desligar los aspectos técnicos de los musicales. Este criterio evalúa la capacidad de interrelacionar los conocimientos técnicos y teóricos necesarios para alcanzar una interpretación adecuada. 3. Demostrar sensibilidad auditiva en la afinación y en el uso de las posibilidades sonoras del instrumento. Mediante este criterio se pretende evaluar el conocimiento de las características y del funcionamiento mecánico del instrumento y la utilización de sus posibilidades. 4. Demostrar capacidad para abordar individualmente el estudio de las obras de repertorio. Con este criterio se pretende evaluar la autonomía del alumnado y su competencia para emprender el estudio individualizado y la resolución de los problemas que se le planteen en el estudio. 5. Demostrar solvencia en la lectura a primera vista y capacidad progresiva en la improvisación sobre el instrumento. Este criterio evalúa la competencia progresiva que adquiere el alumnado en la lectura a primera vista, así como su desenvoltura para abordar la improvisación en el instrumento aplicando los conocimientos adquiridos. 6. Interpretar obras de las distintas épocas y estilos como solista y en grupo. Se trata de evaluar el conocimiento que el alumnado posee del repertorio de su instrumento y de sus obras más representativas, así como el grado de sensibilidad e imaginación para aplicar los criterios estéticos correspondientes. 7. Interpretar de memoria obras de repertorio solista de acuerdo con los criterios del etilo correspondiente. Mediante este criterio se valora el dominio y la comprensión que el alumnado posee de las obras, así como la capacidad de concentración sobre el resultado sonoro de las mismas. 8. Demostrar la autonomía necesaria para abordar la interpretación dentro de los márgenes de flexibilidad que permita el texto musical. Este criterio evalúa el concepto personal estilístico y la libertad de interpretación dentro del respeto al texto. 9. Mostrar una autonomía progresivamente mayor en la resolución de problemas técnicos e interpretativos. Con este criterio se quiere comprobar el desarrollo que el alumnado ha alcanzado en cuanto a los hábitos de estudio y la capacidad de autocrítica. 10. Presentar en público un programa adecuado a su nivel demostrando capacidad comunicativa y calidad artística. Mediante este criterio se pretende evaluar la capacidad de autocontrol y grado de madurez de su personalidad artística. EX II lectius CURSOS TOTAL HORES SETMANALS GRAU 3r. 4t. 5t. 6t. 1 1 1 1 180 2 2 120 0,5 0,5 45 2 2 120 1 1 1 1 180 120 2 2 120 2 2 120 2 2 120 3 3 180 6,5 6,5 11 11 1.305 * * XO II lectivos CURSOS TOTAL HORAS SEMANALES GRADO 3º 4º 5º 6º 1 1 1 1 180 2 2 120 0,5 0,5 45 2 2 120 1 1 1 1 180 120 2 2 120 2 2 120 2 2 120 3 3 180 6,5 6,5 11 11 1.305"
+    }
+  ],
+  "legalAnalysis": {
+    "enactedPursuantTo": [
+      {
+        "title": "Ley Orgánica 2/2006, de 3 de mayo, de Educación",
+        "relationship": "habilitante"
+      },
+      {
+        "lawId": "decreto-158-2007",
+        "title": "Decreto 158/2007, de 21 de septiembre, del Consell - Currículo EEPP de música",
+        "articles": [
+          "art-6"
+        ],
+        "relationship": "desarrollo"
+      }
+    ],
+    "priorAffectations": [],
+    "posteriorAffectations": [],
+    "derogations": [],
+    "concordances": [
+      {
+        "lawId": "decreto-158-2007",
+        "title": "Decreto 158/2007 - Currículo EEPP de música"
+      }
+    ]
+  }
+}

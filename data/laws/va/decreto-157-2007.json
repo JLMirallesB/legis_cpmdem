@@ -1,0 +1,415 @@
+{
+  "id": "decreto-157-2007",
+  "slug": "decreto-157-2007",
+  "type": "decreto",
+  "number": "157/2007",
+  "date": "2007-09-21",
+  "publishedIn": {
+    "source": "DOGV",
+    "number": "5606",
+    "date": "2007-09-25",
+    "url": "https://dogv.gva.es/datos/2007/09/25/pdf/2007_11703.pdf"
+  },
+  "title": "Decret 157/2007, de 21 de setembre, del Consell, pel qual s'establix el currículum de les ensenyances elementals de dansa i es regula l'accés a estes ensenyances",
+  "titleShort": "Currículum de les ensenyances elementals de dansa",
+  "category": "curriculo",
+  "vigpiracy": {
+    "status": "vigente_parcial",
+    "statusLabel": "Vigent amb modificacions",
+    "effectiveDate": "2007-09-26",
+    "lastModifiedDate": "2026-04-03"
+  },
+  "structure": [
+    {
+      "type": "preambulo",
+      "id": "preambulo",
+      "title": "Preàmbul",
+      "content": "Les ensenyances elementals de Dansa que es regulen en el present decret es plantegen amb un objectiu clarament definit: iniciar les alumnes i els alumnes en el coneixement de les tècniques bàsiques de la dansa, en les seues diferents facetes i modalitats. En els quatre cursos en què s’han estructurat les ensenyances elementals de Dansa d’aplicació en la Comunitat Valenciana, els estudiants han de rebre, en funció de les aptituds i preferències, segons es vagen manifestant, les orientacions adequades a l’efecte que aconseguisquen el nivell de coneixements que els permeta cursar amb aprofitament les distintes especialitats que configuren les ensenyances professionals de Dansa. Per això, la totalitat de les ensenyances elementals de Dansa tenen caràcter comú, una mesura que pretén proporcionar als estudiants els recursos tècnics necessaris per a abordar els continguts més especialitzats corresponents a les especialitats de Dansa en un nivell immediat superior. S’ha considerat convenient incorporar l’assignatura d’Expressió Musical i Rítmica, amb un contingut formatiu que possibilite la comprensió i el coneixement bàsic del repertori dansístic, a fi que l’obra musical que s’interprete siga realment entesa en termes formals. El decret pel qual es regula el currículum de les ensenyances elementals de Dansa, en l’àmbit territorial de la Comunitat Valenciana, incorpora, com a novetat, la convocatòria de proves específiques per a l’obtenció directa del certificat d’ensenyances elementals de Dansa, amb la finalitat que els alumnes i les alumnes que cursen estudis no reglats de Dansa, en les escoles públiques i privades de caràcter no reglat, puguen obtindre’n directament el certificat i acreditar oficialment els seus coneixements. En síntesi, els objectius que es fixen en esta norma, a l’empara del que disposa l’article 48.1 de la Llei Orgànica 2/2006, de 3 de maig, d’Educació (BOE, de 04.05.2006), que conferix a les administracions educatives les competències per a determinar les característiques i l’organització de les ensenyances elementals de Dansa, pretenen proporcionar a l’alumnat una formació bàsica en les tècniques de la dansa, així com orientar els estudiants perquè, d’acord amb les seues aptituds i preferències, puguen accedir a les especialitats que conformen els estudis professionals de Dansa, amb la preparació i la informació adequades. Per tot això, amb el dictamen previ del Consell Escolar Valencià, a proposta del conseller d’Educació, conforme amb el Consell Jurídic Consultiu de la Comunitat Valenciana, i amb la deliberació prèvia del Consell, en la reunió del dia 21 de setenbre de 2007,"
+    },
+    {
+      "type": "capitulo",
+      "id": "cap-1",
+      "title": "Capítol I. De la finalitat i organització de les ensenyances elementals de Dansa",
+      "children": [
+        {
+          "type": "articulo",
+          "id": "art-1",
+          "number": "1",
+          "title": "Article 1. Objecte",
+          "content": "1. Correspon a la conselleria competent en matèria d’Educació, regular i organitzar les ensenyances elementals de dansa en l’àmbit de les seues competències. El present decret establix el currículum de les ensenyances elementals de Dansa, i en regula l’organització, en virtut del que disposa l’article 48, punt 1, del capítol VI de la Llei Orgànica 2/2006, de 3 de maig, d’Educació. 2. Igualment, este decret regula la prova d’aptituds que permetran l’ingrés a les ensenyances elementals, així com la prova que permetrà l’accés directe a cursos diferents del primer. També establix els documents d’avaluació propis d’estes ensenyances."
+        },
+        {
+          "type": "articulo",
+          "id": "art-2",
+          "number": "2",
+          "title": "Article 2. Àmbit d’aplicació",
+          "content": "Este decret s’aplicarà en tots els centres de l’àmbit territorial de la Comunitat Valenciana que impartisquen les ensenyances que es regulen en esta norma."
+        },
+        {
+          "type": "articulo",
+          "id": "art-3",
+          "number": "3",
+          "title": "Article 3. Finalitat i organització",
+          "content": "1. Les ensenyances elementals de Dansa tenen com a finalitat proporcionar a l’alumnat una formació artística de qualitat i garantir la seua qualificació en el nivell competencial propi d’estes ensenyances. 2. La finalitat de les ensenyances elementals de Dansa s’ordena en tres funcions bàsiques: formativa, educativa, orientadora i preparatòria per a les ensenyances professionals de Dansa. 3. Les ensenyances elementals de Dansa tindran una estructura de quatre cursos de duració."
+        },
+        {
+          "type": "articulo",
+          "id": "art-4",
+          "number": "4",
+          "title": "Article 4. Objectius generals de les ensenyances elementals de Dansa",
+          "content": "Les ensenyances elementals de Dansa tenen com a objectiu contribuir a desenrotllar en els alumnes i les alumnes les capacitats generals i els valors cívics propis del sistema educatiu i, a més, les capacitats següents: a) Apreciar la importància de la dansa com a llenguatge artístic i com a mitjà d’expressió cultural dels pobles i de les persones. b) Adquirir i desenrotllar la sensibilitat dansística i musical a través de la interpretació i del gaudi d’estes, en les seues diferents manifestacions per a enriquir les possibilitats de comunicació i de realització personal. c) Interpretar en públic amb la suficient seguretat en si mateix per a comprendre la funció comunicativa de la interpretació de la dansa. d) Ballar individualment i en grup, per a habituar-se a interactuar amb altres persones i aconseguir l’equilibri de conjunt. e) Improvisar formes lliures de dansa amb sensibilitat creativa. f) Valorar el silenci com a element indispensable per a desenrotllar la concentració, l’audició interna i el pensament musical, així com la seua funció expressiva en el discurs musical en el context de la dansa. g) Conéixer i valorar la importància de la dansa i de la música pròpies de la Comunitat Valenciana, així com les seues característiques i manifestacions més importants. h) Adquirir l’autonomia adequada, en l’àmbit de l’audició, comprensió i expressió musical. i) Conéixer i valorar el domini del cos i la seua importància per a desenrotllar la tècnica i l’experiència artística. j) Conéixer el propi cos fins a adquirir la capacitat d’observar-se, ser crític amb si mateix i buscar solucions pràctiques als problemes que apareguen en la realització dels exercicis o fragments de material coreogràfic. k) Conéixer la importància de la concentració prèvia a la interpretació artística, com a punt de partida per a una correcta execució."
+        },
+        {
+          "type": "articulo",
+          "id": "art-5",
+          "number": "5",
+          "title": "Article 5. Assignatures de les ensenyances elementals de Dansa",
+          "content": "Són assignatures de les ensenyances elementals de Dansa: – Dansa Acadèmica. – Folklore. – Expressió Musical i Rítmica. – Tècnica de Sabata. – Iniciació a la Dansa Contemporània – Escola Bolera."
+        }
+      ]
+    },
+    {
+      "type": "capitulo",
+      "id": "cap-2",
+      "title": "Capítol II. Del currículum",
+      "children": [
+        {
+          "type": "articulo",
+          "id": "art-6",
+          "number": "6",
+          "title": "Article 6. Currículum",
+          "content": "1. A l’efecte del que disposa este decret, s’entén per currículum de les ensenyances elementals de Dansa el conjunt d’objectius, continguts, principis metodològics i criteris d’avaluació que han de regular el procés d’ensenyança/aprenentatge d’estes ensenyances i que s’inclouen en l’annex I d’este decret. 2. La distribució per cursos i el total d’hores de cada assignatura s’establix en l’annex II d’este decret. 3. En l’annex III del present decret figura la relació numèrica professor/alumne d’aplicació a les ensenyances regulades en esta norma. 4. Correspon a la conselleria competent en matèria d’Educació regular l’organització i el règim acadèmic dels centres integrats que impartisquen les ensenyances elementals de Dansa i l’Educació Primària per mitjà de les adaptacions curriculars corresponents."
+        }
+      ]
+    },
+    {
+      "type": "capitulo",
+      "id": "cap-3",
+      "title": "Capítol III. De l'accés a les ensenyances elementals de Dansa",
+      "children": [
+        {
+          "type": "articulo",
+          "id": "art-7",
+          "number": "7",
+          "title": "Article 7. Accés a primer curs",
+          "content": "1. El procediment d'admissió a les ensenyances elementals de Dansa es realitzarà segons el que determine la conselleria competent en matèria d'educació.\n\n2. Per a iniciar els estudis del primer curs de les ensenyances elementals de Dansa, serà necessari realitzar una prova mitjançant la qual es valoraran les aptituds de l'aspirant per a cursar estes ensenyances.\n\n3. Les ensenyances elementals de Dansa es cursaran ordinàriament a partir dels 8 anys fets l'any natural de la prova d'accés. La conselleria competent en matèria d'educació regularà l'accés d'aspirants menors de l'edat establida com a ordinària.\n\n4. La prova d'accés al primer curs de les ensenyances elementals de Dansa tindrà l'estructura i els criteris de qualificació i ponderació que determine la conselleria competent en matèria d'educació.\n\n5. La prova d'accés als centres que impartixen les ensenyances elementals de Dansa es realitzarà d'acord amb el que determine la conselleria competent en matèria d'educació.",
+          "versions": [
+            {
+              "versionId": "v2",
+              "effectiveDate": "2026-04-03",
+              "modifiedBy": {
+                "lawId": "decreto-46-2026",
+                "title": "Decret 46/2026, de 27 de març, del Consell"
+              },
+              "content": "1. El procediment d'admissió a les ensenyances elementals de Dansa es realitzarà segons el que determine la conselleria competent en matèria d'educació.\n\n2. Per a iniciar els estudis del primer curs de les ensenyances elementals de Dansa, serà necessari realitzar una prova mitjançant la qual es valoraran les aptituds de l'aspirant per a cursar estes ensenyances.\n\n3. Les ensenyances elementals de Dansa es cursaran ordinàriament a partir dels 8 anys fets l'any natural de la prova d'accés. La conselleria competent en matèria d'educació regularà l'accés d'aspirants menors de l'edat establida com a ordinària.\n\n4. La prova d'accés al primer curs de les ensenyances elementals de Dansa tindrà l'estructura i els criteris de qualificació i ponderació que determine la conselleria competent en matèria d'educació.\n\n5. La prova d'accés als centres que impartixen les ensenyances elementals de Dansa es realitzarà d'acord amb el que determine la conselleria competent en matèria d'educació."
+            },
+            {
+              "versionId": "v1",
+              "effectiveDate": "2007-09-26",
+              "modifiedBy": null,
+              "content": "1. El consell escolar de cada centre públic, o l’òrgan competent en el cas de centres privats, establirà, respectant les instruccions que dicte amb esta finalitat la conselleria competent en matèria d’Educació, el procediment d’ingrés a les ensenyances elementals de Dansa, d’acord amb el projecte educatiu i amb les possibilitats organitzatives del centre docent. 2. Per a iniciar els estudis del primer curs de les ensenyances elementals de Dansa, cal realitzar una prova per mitjà de la qual es valoraran les aptituds de l’aspirant per a cursar les dites ensenyances. 3. Les ensenyances elementals de Dansa es cursaran ordinàriament entre els huit i els dotze anys d’edat. L’inici de les ensenyances elementals amb menys de huit anys o més de dotze s’entendrà com a excepcional. A este efecte, la conselleria competent en matèria d’Educació atendrà el tractament d’esta excepcionalitat. 4. Els conservatoris i centres autoritzats de Dansa de caràcter reglat, en l’àmbit de gestió de la conselleria competent en matèria d’Educació, establiran en els seus projectes educatius els criteris de valoració de les proves d’ingrés, ateses les aptituds dels aspirants per a cursar l’ensenyança de Dansa i l’edat idònia establida. 5. La prova d’ingrés als centres que impartixen les ensenyances elementals de Dansa es realitzarà en una única convocatòria en el mes de setembre, efectuada pel centre docent corresponent."
+            }
+          ]
+        },
+        {
+          "type": "articulo",
+          "id": "art-8",
+          "number": "8",
+          "title": "Article 8. Adjudicació de places escolars",
+          "content": "1. L'adjudicació dels llocs escolars vacants en cada especialitat es realitzarà d'acord amb les puntuacions finals obtingudes en les proves d'accés i l'orde de prelació establit.\n\n3. La realització i valoració de les proves estarà a càrrec d'un tribunal designat per la direcció del centre.",
+          "versions": [
+            {
+              "versionId": "v2",
+              "effectiveDate": "2026-04-03",
+              "modifiedBy": {
+                "lawId": "decreto-46-2026",
+                "title": "Decret 46/2026, de 27 de març, del Consell"
+              },
+              "content": "1. L'adjudicació dels llocs escolars vacants en cada especialitat es realitzarà d'acord amb les puntuacions finals obtingudes en les proves d'accés i l'orde de prelació establit.\n\n3. La realització i valoració de les proves estarà a càrrec d'un tribunal designat per la direcció del centre."
+            },
+            {
+              "versionId": "v1",
+              "effectiveDate": "2007-09-26",
+              "modifiedBy": null,
+              "content": "1. L’adjudicació de les places escolars vacants en cada especialitat es realitzarà d’acord amb les puntuacions finals obtingudes en les proves d’ingrés. 2. L’elaboració d’estes proves, així com la seua estructuració, competix a l’òrgan de coordinació docent del centre que corresponga. 3. La realització i valoració de les proves serà a càrrec d’una comissió de valoració designada pel director del centre."
+            }
+          ]
+        },
+        {
+          "type": "articulo",
+          "id": "art-9",
+          "number": "9",
+          "title": "Article 9. De l’accés a altres cursos diferents del primer",
+          "content": "1. Es podrà accedir a cada curs de les ensenyances elementals sense haver cursat els anteriors sempre que, a través d'una prova realitzada davant d'un tribunal designat per la direcció del centre, l'aspirant demostre posseir els coneixements teoricopràctics necessaris per a seguir amb aprofitament les ensenyances corresponents.\n\n2. Les proves d'accés, que tindran l'estructura i organització que determine la conselleria competent en matèria d'educació, versaran sobre els continguts dels cursos precedents al que l'aspirant opta.\n\n3. La prova d'accés a cada curs de les ensenyances regulades en este decret es realitzarà atenent les instruccions que la conselleria competent en matèria d'educació determine.",
+          "versions": [
+            {
+              "versionId": "v2",
+              "effectiveDate": "2026-04-03",
+              "modifiedBy": {
+                "lawId": "decreto-46-2026",
+                "title": "Decret 46/2026, de 27 de març, del Consell"
+              },
+              "content": "1. Es podrà accedir a cada curs de les ensenyances elementals sense haver cursat els anteriors sempre que, a través d'una prova realitzada davant d'un tribunal designat per la direcció del centre, l'aspirant demostre posseir els coneixements teoricopràctics necessaris per a seguir amb aprofitament les ensenyances corresponents.\n\n2. Les proves d'accés, que tindran l'estructura i organització que determine la conselleria competent en matèria d'educació, versaran sobre els continguts dels cursos precedents al que l'aspirant opta.\n\n3. La prova d'accés a cada curs de les ensenyances regulades en este decret es realitzarà atenent les instruccions que la conselleria competent en matèria d'educació determine."
+            },
+            {
+              "versionId": "v1",
+              "effectiveDate": "2007-09-26",
+              "modifiedBy": null,
+              "content": "1. Es podrà ingressar en els centres accedint a cada curs de les ensenyances elementals sense haver cursat els anteriors sempre que, per mitjà d’una prova realitzada davant d’una comissió d’avaluació designada pel director del centre, l’aspirant demostre posseir els coneixements teoricopràctics necessaris per a seguir amb aprofitament les ensenyances corresponents, valorant-se l’edat idònia. 2. Les proves, que tindran l’estructura i l’organització que el Projecte Educatiu del Centre determinen, versaran sobre els continguts dels cursos precedents a aquell a què l’aspirant 3. La prova d’accés a cada curs de les ensenyances regulades en este decret, es realitzarà en una convocatòria anual durant el mes de setembre, efectuada pel centre docent. Els centres obriran, amb la suficient antelació, un termini perquè els interessats sol·liciten el curs al qual volen accedir. 4. La superació d’esta prova d’accés faculta exclusivament per a matricular-se en el curs acadèmic per al qual ha sigut convocada. 5. La prova d’accés a cursos diferents del primer es realitzarà després de la d’ingrés al primer curs, i estarà condicionada a l’existència de places vacants després d’acabat el procés ordinari d’adjudicació i matriculació."
+            }
+          ]
+        },
+        {
+          "type": "articulo",
+          "id": "art-10",
+          "number": "10",
+          "title": "Article 10. Reclamació de qualificacions a la prova d’accés",
+          "content": "1. S’establix un període de tres dies hàbils, a partir de la publicació dels resultats de la prova perquè els aspirants puguen presentar reclamació contra la puntuació aconseguida en la prova d’accés a les ensenyances elementals de Dansa. Esta reclamació es farà per escrit dirigit al director del centre, amb l’al·legació, en cada cas, dels motius que consideren oportuns. El director del centre, amb l’informe previ de la comissió de valoració, resoldrà en el termini de tres dies hàbils. 2. Els interessats podran interposar recurs d’alçada davant del director territorial d’Educació, en els terminis que establix l’article 115 de la Llei de Règim Jurídic de les Administracions Públiques i del Procediment Administratiu Comú."
+        },
+        {
+          "type": "articulo",
+          "id": "art-11",
+          "number": "11",
+          "title": "Article 11. Admissió i matriculació",
+          "content": "1. L’admissió d’alumnes estarà sotmesa als principis d’igualtat, mèrit i capacitat, i supeditada als resultats obtinguts en les proves referides. 2. L’oferta de places escolars, en les ensenyances elementals de Dansa que han de convocar anualment els centres de titularitat de la conselleria competent en matèria d’Educació, serà determinada per l’administració educativa valenciana. 3. L’alumnat no podrà simultaniejar les ensenyances elementals de Dansa en dos centres. Conseqüentment, cada alumne o alumna tindrà un únic expedient acadèmic en un centre només."
+        },
+        {
+          "type": "articulo",
+          "id": "art-12",
+          "number": "12",
+          "title": "Article 12. Flexibilització de les ensenyances",
+          "content": "La conselleria competent en matèria d'educació establirà els criteris que regulen la flexibilització en les ensenyances elementals de Dansa, d'acord amb la normativa vigent.",
+          "versions": [
+            {
+              "versionId": "v2",
+              "effectiveDate": "2026-04-03",
+              "modifiedBy": {
+                "lawId": "decreto-46-2026",
+                "title": "Decret 46/2026, de 27 de març, del Consell"
+              },
+              "content": "La conselleria competent en matèria d'educació establirà els criteris que regulen la flexibilització en les ensenyances elementals de Dansa, d'acord amb la normativa vigent."
+            },
+            {
+              "versionId": "v1",
+              "effectiveDate": "2007-09-26",
+              "modifiedBy": null,
+              "content": "És competència del consell escolar de cada centre públic, o dels òrgans competents en el cas de centres privats, autoritzar amb caràcter excepcional la matriculació en més d’un curs a aquells alumnes que, amb l’orientació prèvia del professorat, així ho sol·liciten, sempre que el conjunt de professors que impartixen classes als dits alumnes assegure la seua adequada capacitat d’aprenentatge."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "capitulo",
+      "id": "cap-4",
+      "title": "Capítol IV. De l'avaluació",
+      "children": [
+        {
+          "type": "articulo",
+          "id": "art-13",
+          "number": "13",
+          "title": "Article 13. Avaluació",
+          "content": "1. Els professors avaluaran l’aprenentatge dels alumnes, els processos d’ensenyança i la seua pròpia pràctica docent. 2. L’avaluació de l’aprenentatge dels alumnes serà contínua i integradora, encara que diferenciada segons les distintes assignatures del currículum. 3. L’avaluació de l’alumnat en les ensenyances elementals de Dansa es durà a terme tenint en compte els objectius educatius i els criteris d’avaluació establits en el currículum que s’aprova en este decret i en coherència amb el projecte educatiu elaborat pel centre docent. 4. L’avaluació serà realitzada pel conjunt de professors de l’alumne coordinats pel professor tutor, actuant els dits professors de manera integrada al llarg del procés d’avaluació i en l’adopció de les decisions resultants del dit procés. 5. Es faran tres avaluacions al llarg del curs, més una avaluació final. Esta última avaluació i la qualificació de l’alumnat es realitzarà en el mes de juny. 6. Els resultats de l’avaluació final de les distintes assignatures que componen el currículum s’expressaran per mitjà de l’escala numèrica d’1 a 10 sense decimals, i es consideraran positives les qualificacions iguals o superiors a cinc i negatives les inferiors a cinc. 7. Els resultats de l’avaluació, i si és el cas les qualificacions, s’expressaran en els termes següents: – Insuficient: 1, 2, 3 o 4. – Suficient: 5. – Bé: 6. – Notable: 7 o 8. – Excel·lent: 9 o 10. 8. La nota mitjana del curs serà la mitjana aritmètica de les qualificacions de totes les assignatures que integren el curs a què pertany l’alumne, expressada amb una aproximació de dos decimals per mitjà d’arredoniment."
+        },
+        {
+          "type": "articulo",
+          "id": "art-14",
+          "number": "14",
+          "title": "Article 14. Tutoria",
+          "content": "1. L’acció tutorial, que forma part de la funció docent, es desenrotllarà al llarg de les ensenyances elementals de Dansa. 2. El professor tutor tindrà la responsabilitat de coordinar tant l’avaluació com la funció d’orientació de l’alumnat. 3. El professor tutor serà, preferentment, un dels professors del curs a què pertany l’alumne. Els centres educatius inclouran plans d’acció tutorial en els seus projectes educatius. 4. Els centres educatius promouran compromisos educatius entre les famílies i tutors legals, i el centre mateix, en què es contemplen activitats per a millorar el rendiment acadèmic dels alumnes."
+        },
+        {
+          "type": "articulo",
+          "id": "art-15",
+          "number": "15",
+          "title": "Article 15. Promoció",
+          "content": "1. Els alumnes promocionaran de curs quan hagen superat la totalitat de les assignatures de cada curs o quan tinguen avaluació negativa en una assignatura com a màxim. En el supòsit d’assignatures pendents, la recuperació haurà de realitzar-se en la classe del curs següent, sempre que forme part d’este curs posterior. En els altres casos, els centres establiran, en els seus projectes educatius, els criteris per a la recuperar-les. En cap cas es podrà qualificar l’assignatura motiu de promoció sense haver aprovat l’assignatura pendent. 2. Els alumnes que, en acabar el quart curs, tinguen pendents d’avaluació positiva tres assignatures o més, hauran de repetir el curs en la seua totalitat. Quan la qualificació negativa es produïsca en una o en dos assignatures, només serà preceptiu cursar les assignatures pendents."
+        },
+        {
+          "type": "articulo",
+          "id": "art-16",
+          "number": "16",
+          "title": "Article 16. Límits de permanència",
+          "content": "1. El límit de permanència en les ensenyances elementals de Dansa serà de cinc anys. L’alumne no podrà romandre més de dos anys en el mateix curs. 2. La conselleria competent en matèria d’Educació podrà autoritzar, amb caràcter excepcional, que determinats alumnes puguen ampliar un any més el límit de permanència en supòsits de malaltia greu o d’altres circumstàncies que meresquen una consideració semblant i que impedisquen el normal desenrotllament dels estudis."
+        },
+        {
+          "type": "articulo",
+          "id": "art-17",
+          "number": "17",
+          "title": "Article 17. Certificat d’ensenyances elementals",
+          "content": "Els alumnes i les alumnes que hagen superat les ensenyances elementals de Dansa obtindran el certificat d’Ensenyances Elementals de Dansa."
+        },
+        {
+          "type": "articulo",
+          "id": "art-18",
+          "number": "18",
+          "title": "Article 18. Obtenció directa del Certificat d'ensenyances elementals de Dansa",
+          "content": "Els conservatoris públics que impartisquen ensenyances elementals o professionals de Dansa organitzaran proves anuals per a l'obtenció directa del Certificat d'ensenyances elementals de Dansa. El Certificat d'ensenyances elementals de Dansa serà expedit pels conservatoris públics que impartisquen les ensenyances elementals o professionals de Dansa. La conselleria competent en matèria d'educació regularà el procediment i la convocatòria anual per a l'obtenció directa del Certificat d'ensenyances elementals de Dansa, així com l'estructura, qualificació i ponderació de les proves.",
+          "versions": [
+            {
+              "versionId": "v2",
+              "effectiveDate": "2026-04-03",
+              "modifiedBy": {
+                "lawId": "decreto-46-2026",
+                "title": "Decret 46/2026, de 27 de març, del Consell"
+              },
+              "content": "Els conservatoris públics que impartisquen ensenyances elementals o professionals de Dansa organitzaran proves anuals per a l'obtenció directa del Certificat d'ensenyances elementals de Dansa. El Certificat d'ensenyances elementals de Dansa serà expedit pels conservatoris públics que impartisquen les ensenyances elementals o professionals de Dansa. La conselleria competent en matèria d'educació regularà el procediment i la convocatòria anual per a l'obtenció directa del Certificat d'ensenyances elementals de Dansa, així com l'estructura, qualificació i ponderació de les proves."
+            },
+            {
+              "versionId": "v1",
+              "effectiveDate": "2007-09-26",
+              "modifiedBy": null,
+              "content": "de Dansa Els conservatoris públics elementals i professionals que impartisquen les ensenyances elementals de Dansa organitzaran en el primer trimestre del curs proves per a l’obtenció directa del certificat d’Ensenyances Elementals de Dansa. El certificat d’Ensenyances Elementals de Dansa serà expedit pels conservatoris públics que impartisquen les ensenyances corresponents."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "capitulo",
+      "id": "cap-5",
+      "title": "Capítol V. De la correspondència amb altres ensenyances",
+      "children": [
+        {
+          "type": "articulo",
+          "id": "art-19",
+          "number": "19",
+          "title": "Article 19. Correspondència amb altres ensenyances",
+          "content": "1. La conselleria competent en matèria d’Educació facilitarà a l’alumnat la possibilitat de cursar simultàniament les ensenyances elementals de Dansa i l’Educació Primària. 2. A fi de fer efectiu el que preveu l’apartat anterior, es podran adoptar mesures d’organització i d’ordenació acadèmica que inclouran, entre altres, les convalidacions i la coordinació horària entre centres educatius."
+        },
+        {
+          "type": "articulo",
+          "id": "art-20",
+          "number": "20",
+          "title": "Article 20. Admissió prioritària",
+          "content": "La conselleria competent en matèria d’Educació determinarà els centres que impartisquen ensenyances d’Educació Primària i Secundària que hauran d’aplicar l’admissió prioritària per a aquells alumnes que cursen simultàniament ensenyances elementals de Dansa i ensenyances d’Educació Primària i Secundària."
+        }
+      ]
+    },
+    {
+      "type": "capitulo",
+      "id": "cap-6",
+      "title": "Capítol VI. Dels centres",
+      "children": [
+        {
+          "type": "articulo",
+          "id": "art-21",
+          "number": "21",
+          "title": "Article 21. Autonomia curricular dels centres",
+          "content": "1. Els equips educatius dels centres docents concretaran i completaran el currículum de les ensenyances elementals de Dansa per mitjà de l’elaboració del projecte educatiu del seu centre. 2. El projecte educatiu, en l’apartat de concreció del currículum, haurà d’adequar els objectius generals i específics de les ensenyances elementals de Dansa a les característiques de l’alumnat i l’entorn del centre. També distribuirà per cursos els continguts i objectius específics, adoptarà criteris metodològics generals i unificarà totes les decisions sobre avaluació. 3. El projecte educatiu garantirà l’acció coherent i coordinada dels equips docents, estimulant l’activitat investigadora i el treball en equip dels professors. 4. Els centres, en l’exercici de la seua autonomia, podran adoptar experimentacions, plans de treball, projectes d’innovació educativa i formes d’organització o ampliació de l’horari escolar. Estes hauran de ser autoritzades per la conselleria competent en matèria d’Educació. 5. Els professors desenrotllaran programacions docents en coherència amb el currículum establit en este decret i amb el projecte educatiu de cada centre. 6. La conselleria competent en matèria d’Educació fomentarà i orientarà l’elaboració de materials curriculars que faciliten el treball del professorat en este sentit."
+        },
+        {
+          "type": "articulo",
+          "id": "art-22",
+          "number": "22",
+          "title": "Article 22. De la figura del pianista acompanyant de dansa",
+          "content": "En els centres dependents de la conselleria competent en matèria d’Educació, existirà la figura del pianista acompanyant de dansa. Estos professors s’integraran en un departament específic de contingut teoricomusical, sense perjuí de l’obligació d’assistir als departaments de les assignatures en què exercixen la seua activitat quan siga sol·licitada la seua presència. CAPITOL VII Dels documents d’avaluació"
+        }
+      ]
+    },
+    {
+      "type": "capitulo",
+      "id": "cap-7",
+      "title": "Capítol VII. Dels documents d'avaluació",
+      "children": [
+        {
+          "type": "articulo",
+          "id": "art-23",
+          "number": "23",
+          "title": "Article 23. Documents d’avaluació",
+          "content": "1. Són documents d’avaluació de les ensenyances elementals de Dansa l’expedient acadèmic personal, les actes d’avaluació i els informes d’avaluació individualitzats. 2. Els documents d’avaluació portaran les firmes fefaents de les persones que corresponga en cada cas, amb indicació del càrrec exercit. Així mateix, s’hi farà constar el nom i els cognoms dels firmants. 3. La conselleria competent en matèria d’Educació establirà el format d’estos documents d’avaluació."
+        },
+        {
+          "type": "articulo",
+          "id": "art-24",
+          "number": "24",
+          "title": "Article 24. Trasllats d’expedient",
+          "content": "1. Els trasllats d’expedients d’alumnes que cursen estudis elementals de Dansa en altres centres de caràcter reglat queden condicionats a l’existència de places escolars vacants en cada una de les assignatures que l’alumne haja de cursar en el centre receptor. Les places escolars vacants es convocaran una vegada escolaritzats els alumnes del centre i els que han superat la prova d’aptituds d’ingrés a les ensenyances elementals de Dansa. 2. Quan un alumne o una alumna es trasllade de centre abans d’haver conclòs els estudis d’ensenyances elementals de Dansa, el centre d’origen trametrà al de destinació, a petició d’este últim, els corresponents documents d’avaluació, fent constar, en la diligència corresponent, que les qualificacions concorden amb les actes que es custodien en el centre. 3. El trasllat d’expedient d’alumnes que cursen estudis en centres no pertanyents a l’àmbit de gestió de la conselleria competent en matèria d’Educació queda condicionat a l’existència de places vacants en el centre receptor. 4. El centre receptor obrirà el corresponent expedient acadèmic de l’alumne i hi incorporarà les dades acadèmiques trameses pel centre de procedència, sempre que els continguts curriculars de les ensenyances superades en els centres de gestió d’altres administracions s’ajusten als estudis que es regulen en el present decret. Per a això, en els centres elementals de Dansa es constituirà la corresponent comissió dictaminadora."
+        },
+        {
+          "type": "articulo",
+          "id": "art-25",
+          "number": "25",
+          "title": "Article 25. Llengües oficials dels documents bàsics",
+          "content": "Els documents d’avaluació seran redactats en les dos llengües oficials de la Comunitat Valenciana."
+        },
+        {
+          "type": "articulo",
+          "id": "art-26",
+          "number": "26",
+          "title": "Article 26. La conselleria competent en matèria d’Educació garantirà l’adequació de la prova d’accés a les ensenyances professionals de Dansa",
+          "content": "al currículum de les ensenyances elementals de Dansa."
+        }
+      ]
+    },
+    {
+      "type": "disposicion_adicional",
+      "id": "da-unica",
+      "title": "Disposició addicional única",
+      "content": "Única. Alumnat amb discapacitat i atenció a la diversitat 1. La conselleria competent en matèria d’Educació adoptarà les mesures oportunes per a l’adaptació del currículum a les necessitats de l’alumnat amb discapacitat i li facilitarà l’accés a estes ensenyances. 2. La conselleria competent en matèria d’Educació, a proposta dels centres educatius, autoritzarà les adaptacions necessàries per a permetre la realització de la prova específica d’ingrés a les persones amb discapacitat que opten a fer-la. 3. Aquells alumnes amb discapacitats que superen les proves específiques, i que s’hi hagen matriculat, seran objecte d’un adequat seguiment pel grup de professors. Els centres que escolaritzen alumnes amb discapacitat disposaran dels recursos necessaris, humans i materials, per a atendre el procés d’ensenyança/aprenentatge."
+    },
+    {
+      "type": "disposicion_transitoria",
+      "id": "dt-unica",
+      "title": "Disposició transitòria única",
+      "content": "Única. Incorporació d’alumnes procedents de plans anteriors amb assignatures pendents Els alumnes que a l’entrada en vigor d’este decret cursen estudis de grau elemental de Dansa, d’acord amb el pla d’estudis regulat pel Decret 152/1993, pel qual s’establix el currículum del grau elemental de Dansa i es regula l’accés al dit grau, s’incorporaran als cursos respectius de les ensenyances elementals de Dansa d’acord amb les condicions que es regulen en la present norma."
+    },
+    {
+      "type": "disposicion_derogatoria",
+      "id": "dd-unica",
+      "title": "Disposició derogatòria única",
+      "content": "Única a).Pel que fa a les ensenyances elementals de Dansa, queda derogat el Decret 152/1993, de 17 d’agost, pel qual s’establix el currículum oficial de les ensenyances de grau elemental de Dansa i es regula l’accés al dit grau, sense perjuí de la seua aplicació transitòria en funció de la nova ordenació del sistema educatiu que establix el Reial Decret 806/2006, de 30 de juny, del calendari d’aplicació de la Llei Orgànica d’Educació. b) També queden derogades totes les disposicions del mateix rang o d’un rang inferior que s’oposen al present decret."
+    },
+    {
+      "type": "disposicion_final",
+      "id": "df-unica",
+      "title": "Disposicions finals",
+      "content": "Primera S’autoritza la conselleria competent en matèria d’Educació a dictar les disposicions necessàries per a aplicar i desplegar este decret. Segona El present decret entrarà en vigor l’endemà de la seua publicació en el Diari Oficial de la Comunitat Valenciana, si bé el seu efecte acadèmic serà el referit en el calendari d’aplicació de la Llei Orgànica d’Educació, regulat pel Reial Decret 806/2006, de 30 de juny. Valencia, 21 de setembre de 2007 El president de la Generalitat, FRANCISCO CAMPS ORTIZ El conseller d’Educació, ALEJANDRO FONT DE MORA TURÓN ANEXO I Asignaturas del Grado Elemental DANZA ACADÉMICA Introducción El aprovechamiento óptimo del grado elemental revierte sobre el futuro bailarín como la estructura de preparación básica capaz de situarlo en condiciones de afrontar conocimientos más complejos y específicos de las distintas ramas de la danza. Por esto, la danza académica imprime en el discípulo el rigor y los condicionantes técnicos de apertura a otras expresiones y manifestaciones artísticas diferenciadas entre sí. El cimiento formativo del artista de la danza pasa necesariamente por la iniciación progresiva que se establece en este grado elemental. La ejecución e interpretación de la danza académica indica un aprendizaje tendente al total dominio y preparación del cuerpo para que la práctica de los diferentes estilos refleje su valor estético y adquiera su mensaje artístico significativo superando la mera calistenia. La formación y desarrollo de estas capacidades exige un largo proceso en el que resulta imprescindible la sistematización del estudio. Este proceso de enseñanza y aprendizaje, por sus propias características espaciales se localiza siempre en el ámbito de la escuela, con una dedicación diaria que precisa de la tutela permanente del profesor. Los contenidos del grado elemental se concentran en el aprendizaje de los elementos fundamentales de la técnica de la danza académica para la correcta colocación del cuerpo, que permita el desarrollo de una base sólida de las cualidades físicas y expresivas. Objetivos generales La enseñanza de danza académica en el grado elemental tendrá como objetivo contribuir a desarrollar en los alumnos las capacidades siguientes: 1. El estiramiento y sujeción controlada de todo el cuerpo. 2. La elasticidad controlada de las articulaciones de caderas y otros puntos anatómicos. 3. El control primero y la flexibilidad después, de la espalda como elemento axial básico. 4. El desarrollo controlado de las resistencias y musculación del cuerpo y las extremidades inferiores. 5. El control de la pelvis. 6. El desarrollo de la postura llamada técnicamente en-dehors, como punto de partida del vocabulario corporal del ballet. 7. El desarrollo del pie en cuanto a su fuerza, estiramiento y capacidad cómo punto de soporte dinámico; su utilización como elemento de transición, pausa y descanso. 8. El mayor dominio del plié, en cuanto a elasticidad y estiramiento por su conveniencia en la obtención de un rendimiento óptimo del equilibrio y la flexibilidad. 9. El dominio de la coordinación interior y rítmica de todos los movimientos (cabeza, brazos y piernas). 10. Descubrimiento del propio equilibrio corporal. 11. Desarrollo del empleo dinámico del espacio en los ejercicios, mediante la utilización progresiva de desplazamientos a la vez que se incentiva la coordinación de las partes del cuerpo. 12. Aprendizaje de la respiración correcta, tanto en el tiempo como en la dinámica específica del ejercicio para obtener su máximo rendimiento. Objetivos específicos 1. Adquirir calidad en el movimiento e interpretaciones expresivas con la aplicación de la sensibilidad corporal. 2. Adquirir bases técnicas sólidas mediante la correcta colocación del cuerpo. 3. Coordinar los movimientos de piernas, torso, cabeza y brazos, evitando la rigidez. 4. Buscar la realización correcta de los ejercicios de barra y de centro. 5. Adquirir la fuerza y la elasticidad necesarias para el salto en sus diferentes fases: empuje, fijación y caída, así como en la iniciación de la batería. 6. Cultivar el sentido del equilibrio como preparación a la técnica del giro. 7. Valorar la utilización del espacio de forma adecuada. 8. Tomar conciencia de la importancia de la respiración en la danza. 9. Realizar la ejecución de todos los movimientos que configuran la danza, con sentido rítmico y musicalidad. 10. Conocer la terminología propia del lenguaje de la Danza académica y su aplicación descriptiva de pasos, combinaciones de ellos o bailes. 11. Reconocer a primera vista y de memoria un paso, un ejercicio o el conjunto de ellos. Contenidos Conocimiento del cuerpo y su colocación. Realización de movimientos para el desarrollo del en dehors, el equilibrio, la elasticidad, la fuerza, el salto y el giro. Ejercicios en el suelo, la barra y el centro. Percepción, identificación e interiorización de las estructuras rítmicas de los diferentes pasos. Toma de conciencia de la importancia de la precisión en la realización de la danza (solo y en grupo), Utilización de la improvisación para el desarrollo de la creatividad. Elementos básicos de la calidad en el movimiento: dinámica, tempo, esfuerzo, etc. Aplicación de los mismos. La expresividad como elemento imprescindible de la interpretación. Desarrollo progresivo de la memoria. La coordinación y su función en el movimiento en relación con la intención expresiva. Realización de ejercicios de puntas sobre dos piernas (sólo para alumnas). Conocimiento del vocabulario específico de este nivel. Criterios de evaluación 1. Conocer y reconocer los pasos básicos aprendidos entendiendo su vocabulario técnico. Este criterio de evaluación pretende comprobar que el alumno ha aprendido el nombre de los pasos y su significado técnico en la danza. 2. Realizar todos los ejercicios que componen la barra de una clase de ballet que el profesor marque en el momento (pliés, battement tendus, degagés, rond de jambe, etc.), empleando el tiempo musical exigido en este nivel y la coordinación de los brazos, piernas y cabeza. Con este criterio se trata de comprobar la correcta colocación del cuerpo para la obtención de una base sólida y segura que permita al alumno más adelante realizar ejercicios más avanzados. 3. Repetir y realizar en el centro los ejercicios estudiados en la barra que el profesor marque en el momento, empleando correctamente el tiempo musical, la coordinación, el espacio y las direcciones. Con este criterio se trata de comprobar si el alumno ha tomado conciencia de su equilibrio y de las direcciones en el espacio, coordinando los movimientos entre ellas. 4. Realizar pequeñas variaciones que incluyan desplazamientos por el espacio, marcados por el profesor en el momento. Se busca con este criterio observar el sentido del alumno respecto al espacio, las dimensiones y las direcciones. 5. Realizar a primera vista pequeñas variaciones de pasos que incluyan los ejercicios fundamentales de la técnica del giro en dehors y en dedans. Este criterio pretende observar la coordinación de brazos, piernas y cabeza en el trabajo del giro y el control del equilibrio de todo el cuerpo en un movimiento con impulso ligado y continuado. 6. Realizar, siguiendo las indicaciones del profesor, los ejercicios que irán desarrollando la técnica del salto (pequeños saltos sobre dos piernas y sobre una sola y primeros saltos de batería). Este criterio pretende comprobar el impulso al doblar y estirar las piernas rápidamente, el control y sujeción del demi-plié para el empuje y la caída del salto, de dos piernas o una sola, la sujeción del torso, así como la elevación de las caderas en el salto. 7. Realizar en el centro pequeñas variaciones, que el alumno debe memorizar tras haber sido indicada verbalmente por el maestro, marcando los pasos dentro de su correspondiente ritmo. Este criterio pretende comprobar y observar los reflejos, la memoria y la musicalidad del alumno. 8. Realizar pequeñas combinaciones de pasos en puntas con los ejercicios básicos. Mediante este criterio se pretende observar el desarrollo de la fuerza de los pies y el conocimiento del trabajo del pie para la subida y bajada con las zapatillas de puntas. 9. Caminar y hacer un saludo, improvisado por cada alumno, sobre un fragmento musical. Se busca con este criterio observar las cualidades necesarias para la estética de la danza, como el desarrollo físico, la personalidad, musicalidad, sensibilidad, armonía y elegancia en el movimiento, y la comunicación con el público. 10. Reproducir e interpretar un ejercicio en tiempo de adagio con ports de bras y diferentes posiciones a terre. Este criterio pretende comprobar la expresión artística, la interpretación y la sensibilidad musical en el movimiento. FOLKLORE Objetivos El Folklore en las enseñanzas elementales de danza tendrá como objetivo contribuir a desarrollar en el alumnado las capacidades siguientes: 1. Adquirir conocimientos básicos de danzas folklóricas que se adecuen al nivel. 2. Desarrollar la especialidad a través de las danzas folklóricas. 3. Despertar el gusto y el interés por la comunicación y la expresividad que conlleva intrínsecamente el baile folklórico. 4. Conocer ritmos típicos de nuestro folklore. Contenidos Adquisición de técnicas y estilos básicos para la interpretación de bailes. Inicio al estudio de los instrumentos de percusión con que se acompaña el bailarín en las diferentes danzas populares: castañuelas, pulgaretas, palos, etc. Realización de los pasos con sus desplazamientos por el espacio en los bailes individuales, por parejas y en grupo. Estudio de algunas danzas características de nuestro folklore. Y apropiadas al nivel. Desarrollo permanente de la memoria. Criterios de evaluación 1. Interpretar y realizar las coplas y variaciones que en el momento marque el profesor o profesora, pertenecientes al folklore español más representativo, acompañándose del instrumento de percusión que la danza requiera. Este criterio pretende comprobar el conocimiento y la asimilación del alumno o alumna de los pasos, estilos y caracteres de nuestras danzas populares, así como de los instrumentos de percusión con que se acompañan los danzantes. 2. Componer e interpretar en grupo una danza sobre una música popular propuesta por el profesor o profesora. Este criterio pretende comprobar la capacidad de situar e identificar nuestro folklore a través de una muestra musical, mostrando sus características principales y su evolución por el espacio. 3. Identificar a través de imágenes, diferentes trajes folklóricos, ofrecidos por el profesor o la profesora. Este criterio pretende observar el grado de conocimiento adquirido por el alumnado sobre la indumentaria. 4. Interpretar una danza folklórica a libre elección del alumno o alumna. Este criterio pretende comprobar la versatilidad técnica e interpretativa del alumno o alumna en cuanto a forma, carácter y estilo. EXPRESIÓN MUSICAL Y RÍTMICA Introducción La música, como manifestación de las relaciones sonoras y espacio-temporales, presenta total correspondencia con el mundo de la danza, el movimiento y el lenguaje corporal. De hecho, la danza, desde sus orígenes, ha representado la vivencia corporal de la música: la imagen rítmica-plástica que expresa el contenido del pensamiento musical. Esta correspondencia música-rítmica, plástica-danza, de hecho, supone, la sinestesia más antigua y fructífera de la historia de las manifestaciones artísticas. La pedagogía musical, consciente de las posibilidades formativas de esa correspondencia, ha incorporado, desde las primeras décadas de nuestro siglo, la rítmica y la danza, como elementos básicos del aprendizaje de la expresión musical, conduciendo paralelamente el estudio de ambas, para traducir sus ritmos. Por su carácter temporal, el hecho musical está integrado por elementos que, en forma aislada como en conjunto están en íntima relación con el movimiento; por una parte, la organización de los elementos melódicos y armónicos conduce a un discurso integrado por una cadena de segmentos o gestos formales dotados de direccionalidad, determinada por la propia música y por el compositor; por otra parte y por ser esencialmente movimiento, no es ni siquiera concebible una mera comprensión racional del ritmo sin sentir la fuerza cinética que conduce a la acción. De igual manera que no puede entenderse la Danza como una mera técnica corporal desvinculada del impulso, la emoción y el carácter que proporciona la música. La música, que en el grado elemental se organizará como educación rítmica y musical debe considerarse como el complemento de la danza. Esta educación rítmico-musical contribuye de forma decisiva a la adquisición y desarrollo de las capacidades que se recogen en los objetivos de este grado, tales como mejorar la comprensión de las relaciones espacio-temporales y de su vinculación con la organización formal del lenguaje sonoro; tender a la correcta coordinación de movimientos a través del sentido rítmico y sensibilidad corporal; desarrollar la personalidad para expresar con precisión las relaciones de la dinámica y el fraseo con las exigencias del estilo. Los contenidos curriculares, en el caso del alumno de danza y dado lo esencial para esta disciplina de la práctica de conjunto, serán desarrollados a través de la rítmica, del canto, y de la práctica instrumental, con instrumentos de técnica no compleja como medios expresivos propios de la práctica musical de conjunto. La capacidad de interiorización del mensaje sonoro pasa necesariamente por el conocimiento teórico y práctico de los elementos que configuran su lenguaje (ritmo, melodía, armonía y forma) para poder encauzar de manera consciente y responsable la necesidad de expresar con el cuerpo el significado profundo e inapreciable de la música. Por último, junto a la adquisición de estos conocimientos, debe estimularse el desarrollo de las actitudes de curiosidad e interés por todo lo relativo al significado de la música como lenguaje artístico y medio de expresión cultural de las personas y de los pueblos. Objetivos La enseñanza de la música como expresión rítmico-musical en el estudio de la danza en el grado elemental, tendrá como objetivo contribuir a desarrollar en los alumnos las capacidades siguientes: 1. Compartir vivencias y experiencias musicales con los compañeros del grupo, para enriquecer su relación afectiva con la música a través de la rítmica, del canto, de la audición y de la práctica instrumental. 2. Demostrar la coordinación corporal necesaria para la correcta comprensión e interpretación rítmica, utilizando las destrezas de reacción, asociación-disociación, equilibrio y expresión correspondientes. 3. Desarrollar el «oído interno» para el reconocimiento de timbres, alturas, duraciones e intensidades, así como estructuras formales, indicaciones dinámicas, expresivas y agógicas, mediante la relación entre el sonido y su representación gráfica y corporal. 4. Interpretar de memoria y corporalmente ritmos, melodías y canciones que conduzcan a una mejor comprensión de los distintos parámetros musicales. 5. Leer, escribir e interpretar corporalmente, fórmulas rítmicas, melódicas, así como esquemas rítmicos, fragmentos o melodías sencillas y de corta duración. Contenidos Percepción, identificación, interiorización y ejecución rítmica del pulso. Percepción, identificación y ejecución rítmica del acento. Fórmulas rítmicas básicas: lectura, escritura e interpretación rítmica. Simultaneidad de ritmos. Relación de los elementos rítmicos con el movimiento corporal. Identificación y práctica rítmico-corporal de cambios de compás. Sensibilización vocal y corporal: práctica de la respiración, articulación y entonación con y sin movimiento corporal. Reconocimiento y ejecución rítmico-práctica de los movimientos melódicos ascendentes y descendentes. Reconocimiento, entonación y práctica rítmico-corporal de los sonidos de la escala. Lectura, entonación, palmeo del ritmo y práctica de la pulsación, con la lectura y la entonación de fragmentos melódicos o canciones sencillas. Práctica del canto en grupo. Utilización de instrumentos de pequeña percusión. Utilización del cuerpo como instrumento de percusión: gestos sonoros y recursos vocales. Percepción, identificación e interpretación corporal de elementos formales: repetición, pregunta-respuesta, canon, expresión musical. Improvisación vocal o instrumental y rítmico-corporal. Creatividad corporal. Criterios de evaluación 1. Imitar estructuras melódicas y rítmicas breves con la voz y con la percusión. Este criterio de evaluación pretende comprobar el grado de reacción y memoria y la capacidad de reproducir con fidelidad el mensaje recibido tanto en sus aspectos sonoros como en su realización motriz. 2. Interpretar vocal o rítmicamente piezas escritas en gráficas sencillas no convencionales de acuerdo con unos códigos preestablecidos. Este criterio de evaluación pretende comprobar la capacidad de relacionar los parámetros espacio-temporales comunes al discurso sonoro con su representación gráfica. 3. Reconocer auditivamente, percutir y ejecutar corporalmente el pulso de una obra o fragmento. Con este criterio de evaluación se comprobará la percepción y ejecución del pulso, como referencia básica para la interpretación rítmica. 4. Reconocer, identificar y realizar corporalmente el acento periódico de una obra o fragmento. Este criterio de evaluación tiene como objetivo comprobar la correcta percepción y ejecución práctica del acento periódico, base del compás, reconociendo el carácter binario, ternario o cuaternario de éste y el carácter binario o temario de cada pulso. 5. Ejecutar movimientos precisos acordes con aspectos rítmicos de una obra o fragmento escuchado. Se busca con este criterio comprobar la coordinación corporal del alumno, adecuando su movimiento a pulsos rítmicos precisos. 6. Mantener el pulso durante períodos breves de silencio. Tiene por objetivo lograr una correcta interiorización del pulso que le permita una adecuada ejecución individual o colectiva. 7. Identificar auditivamente e interpretar rítmicamente cambios sencillos de compás. Con este criterio de evaluación se verificará la capacidad de percepción auditiva y de realización práctica de cambios de compás de unidad igual o diferente. En este caso solamente: a) negra=negra; b) negra=negra con puntilla; c) negra=blanca; d) corchea=corchea; y viceversa en los casos b) y c). 8. Entonar una melodía o canción tonal con acompañamiento, polirritmia y palmear posteriormente el ritmo. Este criterio tiene como objetivo comprobar la capacidad del alumno para aplicar sus técnicas de entonación y justeza de afinación a un fragmento tonal aplicando indicaciones expresivas presentes en la partitura. Posteriormente en el trabajo de polirritmia y palmeo del ritmo, se verificará la interiorización correcta del pulso y la buena ejecución rítmica. El acompañamiento instrumental no reproducirá la melodía. 9. Reproducir modelos melódicos sencillos o escalas a partir de diferentes alturas. Se trata de comprobar la destreza del alumno para reproducir un mismo hecho melódico desde cualquier sonido manteniendo correctamente la interválica del modelo. 10. Improvisar estructuras rítmicas sobre un fragmento escuchado. Con este criterio de evaluación se pretende estimular la capacidad creativa del alumno aplicando libremente fórmulas rítmicas conocidas o no, acordándolas con el pulso, la división y el compás del fragmento escuchado. 11. Reproducir por escrito fragmentos sencillos rítmicos y melódicos escuchados. Mediante este criterio se evalúa la capacidad del alumno para reconocer y reproducir aspectos rítmicos y melódicos conocidos. 12. Describir con posterioridad a una audición los rasgos característicos de las obras escuchadas o interpretadas. Este criterio de evaluación pretende constatar la capacidad del alumno para percibir aspectos distintos: rítmicos, melódicos, cadenciales, formales, tímbricos, etc, seleccionando previamente los aspectos que deban ser identificados o bien dejando libremente que identifiquen los aspectos que les resulten más notorios. 13. Realizar pequeñas improvisaciones con procedimientos musicales convencionales o no convencionales (texturas, atmósferas, efectos, etc.) partiendo de un proyecto previo al que deberá ajustarse la, ejecución en la mayor medida posible. Este criterio de evaluación pretende comprobar el grado de control consciente de la realización de una idea musical previamente elaborada. 14. Ejecutar mediante la percusión, instrumental o vocalmente, estructuras rítmicas de una obra o fragmento. Con este criterio de evaluación se pretende constatar la capacidad de encadenar, con precisión y dentro de un tiempo fijado, fórmulas rítmicas adecuadas al nivel. 15. Improvisar melodías tonales breves Este criterio pretende comprobar la asimilación de los conceptos tonales básicos mediante la utilización libre de los elementos. TÉCNICA DE ZAPATO Objetivos 1. Iniciar y desarrollar la habilidad necesaria para el correcto uso del zapateado. 2. Saber matizar los zapateados. 3. Conocer el vocabulario propio del zapateado. 4. Adquirir cierta velocidad en el zapateado correspondiente al nivel. 5. Saber realizar diferentes zapateados con ritmos básicos del flamenco. Contenidos Ejecución de ejercicios teniendo en cuenta la musicalidad, acentos así como su correspondiente acompañamiento de zapateado. Realización de ejercicios de coordinación y matización. Conocimiento del lenguaje propio de los zapateados. Ejecución de ejercicios para desarrollar y potenciar la velocidad en los zapateados. Criterios de evaluación 1. Interpretación de ejercicios con un dominio técnico del zapato. Este criterio pretende valorar la capacidad y dominio alcanzado del alumno referente al zapateado. 2. Mostrar capacidad musical en los zapateados. Este criterio pretende comprobar la capacidad de mostrar la musicalidad mientras desarrolla diferentes ejecuciones y combinaciones de zapateados. 3. Demostrar un dominio suficiente de diferentes ritmos y velocidades en el zapateado. Este criterio pretende valorar en el alumno la capacidad musical al mismo tiempo que el dominio de los recursos técnicos necesarios. 4. Saber diferenciar los diferentes tipos de zapateado a través de la terminología especializada. Este criterio pretende comprobar el dominio teórico referente al vocabulario específico del zapateado. 5. Realizar siguiendo las indicaciones del profesor, los ejercicios de brazos y manos específicos para la iniciación al Flamenco. Este criterio pretende comprobar que el alumno ha comprendido el carácter y el estilo característico sin perder su colocación. 6. Demostrar el conocimiento de algunos ritmos de flamenco a través de las palmas, sobre el soporte de la guitarra. Este criterio pretende comprobar el sentido rítmico del alumno y el conocimiento de algunos ritmos del flamenco. INICIACIÓN A LA DANZA CONTEMPORÁNEA Introducción La danza es un hecho subjetivo, el bailarín puede recibir un mensaje o crearlo a partir de una improvisación, pero en cualquier caso el final del mensaje será suyo, lo modelará a través de sus propia sensibilidad. Por eso, en estas edades, el desarrollo de la personalidad y la sensibilidad del alumno es el fin último que se debe perseguir, enseñando a los niños y niñas a moverse con seguridad y eficacia a la vez que desarrollan su capacidad creadora. Sin duda, la danza creativa les ayudará a abrirse al mundo de los sentimientos, a prestar atención a lo que siente, a desarrollarlo y a utilizarlo. En definitiva a desarrollar las bases en las que se asienta la imaginación creativa. Por otro lado, la introducción a la técnica contemporánea garantiza una formación integral desde el punto de vista dancístico, aportando a los niños y niñas de estas edades una visión global de las diferentes disciplinas que se les ofrecerán como especialidades en las enseñanzas profesionales de danza. Objetivos 1. Identificar la postura corporal adecuada. 2. Concienciar de los apoyos, peso, contacto y alineación para mejorar el equilibrio general. 3. Conocer los límites de la movilidad articular y tomar conciencia de las movilizaciones efectuadas: amplitud, planos de movilización y posiciones de referencia. 4. Disociar las diferentes partes del cuerpo. 5. Practicar, mediante el juego los movimientos axiales. 6. Explorar las diferentes dinámicas del movimiento. 7. Usar la improvisación como herramienta en la resolución de problemas. 8. Mejorar la percepción propioceptiva a través de acciones de contracción y distensión. 9. Crear frases de movimiento con un inicio, un desarrollo y un final. 10. Aprender y practicar acciones básicas locomotoras y no locomotoras explorando las diferentes posibilidades de movimiento y buscando nuevas formas de ejecutarlas. 11. Identificar y explorar el espacio trabajando individualmente o con los compañeros. Contenidos Toma de conciencia del cuerpo a través de la alineación corporal y la movilidad del torso y las extremidades. Introducción a la sensibilización a través de la respiración. Uso consciente del espacio, orientación respecto a un punto determinado, desplazamiento por niveles respecto a un área de juego. Aplicación del movimiento en función de la duración y la velocidad. Relación tiempo-espacio con directrices corporales y musicales. Introducción a la composición partiendo de estímulos visuales, auditivos y táctiles. Criterios de evaluación 1. Imitar breves estructuras de movimiento. Con este criterio se pretende comprobar el grado de memoria y la capacidad de reproducir con fidelidad una estructura de movimiento dada. 2. Interpretar pequeñas composiciones de creación propia. Con este criterio se pretende comprobar la capacidad de estructurar frases de movimiento con inicio, desarrollo y final. 3. Practicar juegos de cambios de peso y apoyos sencillos. Con este criterio se pretende observar la capacidad para diferenciar entre fuerza y tensión, así como la alineación corporal general. 4. Ejecutar improvisación a partir de pautas externas previamente conocidas. Con este criterio se pretende valorar la capacidad de escucha, así como la capacidad para resolver problemas dados en propuestas de grupo. ESCUELA BOLERA Introducción El esfuerzo de formación del bailarín debe ir encaminado a la consecución del artista plural, cuya cultura complementaria a la especialidad que desarrolle después, le permita afrontar el trabajo profesional desde la perspectiva de su conocimiento amplio de la danza, como arte que contiene muchas ramas y variedades de expresión. (Interesante) La Escuela bolera en el grado elemental, contribuye al desarrollo de las capacidades recogidas en los objetivos de este grado de, fomentando la musicalidad, intensificando el sentido del ritmo, la flexibilidad y la percepción coreográfica. Los contenidos del grado elemental se centran esencialmente en el conocimiento de la escuela bolera, la adquisición de las habilidades necesarias para la buena utilización de las castañuelas y el contacto con el folclore, que permitirá al alumno experimentar vivencias relacionadas con formas coreográficas. Estos contenidos se refieren a los aspectos siguientes: La adquisición de la habilidad necesaria para el correcto toque de las castañuelas. El desarrollo de las habilidades necesarias para ejecutar correctamente ritmos elementales, como iniciación a la Escuela bolera. El desarrollo del sentido rítmico a través del acompañamiento con las castañuelas. La coordinación de todos los movimientos de cabeza, brazos, piernas, tronco y castañuelas, a través de un uso consciente de tales medios. El descubrimiento del propio equilibrio corporal manteniendo el carácter y la estética correspondiente al estilo sobre el que se trabaja. La adquisición a través del contacto con el folclore, del sentido dinámico que facilite una utilización correcta del espacio individualmente, en grupo o en parejas. El aprendizaje de la respiración correcta tanto en el tiempo como en la dinámica específica de los ejercicios, para obtener su máximo rendimiento y calidad interpretativa. A través de la Escuela bolera, el grado elemental deberá proporcionar al futuro bailarín la preparación corporal conjunta capaz de dotarle del sentido estético básico del movimiento que le permita acceder, en su caso, a la propia especialidad de la Escuela bolera o bien prepararlo para que dicha experiencia contribuya a dotarlo de calidad en cualquiera de las ramas de la danza que seleccione posteriormente. Objetivos La Escuela bolera en el grado elemental tendrá como objetivo contribuir al desarrollo inicial de los alumnos en las capacidades siguientes: 1. Adquirir calidad en el movimiento e interpretaciones ricas en expresividad, mediante la aplicación de la sensibilidad corporal. 2. Coordinar armónicamente los movimientos de piernas, torso, cabeza y brazos en función del estilo y la danza. (Con castañuelas). 3. Comprender la importancia de la utilización adecuada del espacio. 4. Adquirir conciencia de la importancia de la respiración en la ejecución de ejercicios y en la interpretación de la danza. 5. Realizar la ejecución de todos los movimientos que configuran la danza con sentido rítmico y musical. 6. Conocer la terminología propia del lenguaje de la Escuela bolera y su aplicación descriptiva de pasos, combinaciones de ellos, bailes y estilos. 7. Utilizar la percepción visual para aprender a primera vista y memorizar un paso, un ejercicio o un conjunto de ellos. 8. Adquirir la sensibilidad corporal que capacite para la ejecución de la Escuela bolera, acompañando el movimiento con los correspondientes medios rítmicos de apoyo (castañuelas) Contenidos Percepción del carácter de la Escuela bolera en relación a la actitud y postura general del cuerpo. Práctica de las castañuelas y de su coordinación con brazos, torso y cabeza. Diferentes toques y matices de las castañuelas. Estudios de danzas folclóricas de estructura simple para el desarrollo de la capacidad de bailar coordinadamente en grupo o parejas. Estudio de los pasos básicos que constituyen el vocabulario técnico de la escuela bolera dentro de la danza escénica española; integración del toque de las castañuelas dentro de éstos: baile de escuela y palillos. Variedades de giros coordinados con el apoyo de cabeza, brazos y el acompañamiento musical de las castañuelas. Aplicación del estudio de las danzas de pareja, con énfasis en la relación entre los intérpretes y en su proyección espacial, demostrando en la danza la identificación e incorporación del carácter y el estilo de la escuela bolera. Estudio de variaciones breves que contengan, entre otros elementos: formas de andar (lentas y rápidas); paradas y remates; vueltas simples con el apoyo sonoro del toque de las castañuelas, haciendo énfasis en el fraseo, la terminación de los pasos, la intención expresiva, los acentos y. matices musicales. Entrenamiento permanente y progresivo de la memoria. Criterios de evaluación 1. Memorizar e interpretar sobre una fragmento musical variaciones coreográficas marcadas por el profesor y elaboradas con pasos elementales y sus respectivos braceos y toques de castañuela (Escuela bolera). Este criterio de evaluación pretende comprobar la buena coordinación de movimientos (pasos, cuerpo, brazos, cabeza, castañuelas) y su correcta ejecución técnica dentro del ritmo. 2. Improvisar sencillas danzas empleando ritmo y fraseo musical adecuado, creatividad, espacio, recursos técnicos e instrumentales, así como los conocimientos adquiridos. Con este criterio de evaluación se pretende observar el concepto de estilo, el grado de asimilación y la personalidad del alumno. 3. Interpretar en público una Danza, en grupo o en parejas. Este criterio de evaluación pretende observar que el alumno es capaz de disfrutar de la danza y mantener una relación interpretativa y espacial con el resto de los componentes del grupo. 4. Realizar, siguiendo las indicaciones del profesor, los ejercicios que irán desarrollando la técnica de la Escuela bolera. Este criterio pretende comprobar la correcta colocación del cuerpo, el control y sujeción de la espalda, de la flexión de las rodillas y la calidad del movimiento especifico de la Escuela bolera. 5. Reproducir e interpretar un ejercicio de braceo adecuado a este nivel sobre un fragmento musical. Este criterio pretende comprobar el desarrollo artístico, expresivo y musical del alumno. ANNE Càrrega lectiva de les enseny Assignatures Curs Hores setmanals pe 1º 2º Dansa acadèmica 2 3 Folklore 1 1 Expressió musical i rítmica 1 1 Tècnica de sabata 1 Iniciació a la dança contemporània Escola bolera Total setmanal 4 6 Total hores de l’especialitat * * * ANEX Carga lectiva de las enseñan Asignaturas Curso Horas semanales po 1º 2º Danza académica 2 3 Folklore 1 1 Expresión musical y rítmica 1 1 Técnica de zapato 1 Iniciación a la danza contemporánea Escuela bolera Total semanal 4 6 Total horas de la especialidad"
+    },
+    {
+      "type": "anexo",
+      "id": "anexo-3",
+      "title": "Annex III. Relació numèrica professor-alumne",
+      "content": "Relació numèrica professor-alumne Màxim 1/20 en totes les assignatures descrites a l’annex II ANNE Equivalències, a l’efecte acadèmic, de les ensenyances de grau elemen d’octubre, d’Ordenació General del Sistema Educatiu, amb les ensenyance d’Educació. Pla d’estudis de grau elemental de Dansa, regulat per la Llei Pla d’estudis de grau elemental de Dansa, regulat per la Llei Pla Orgànica 1/1990, de 3 d’octubre, d’Ordenació General cor del Sistema Educatiu de 3 Primer curs ensenyances grau elemental LOGSE Prim Segon curs ensenyances grau elemental LOGSE Seg Tercer curs ensenyances grau elemental LOGSE Ter Quart curs ensenyances grau elemental LOGSE Qu * * * ANEX Equivalencias a efectos académicos, de las enseñanzas de grado elemen 3 de octubre, de Ordenación General del Sistema Educativo, con las enseñan mayo, de Educación. Plan de estudios de grado elemental de Danza, regulado Pla por la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación a la General del Sistema Educativo Primer curso enseñanzas grado elemental LOGSE Prim Segundo curso enseñanzas grado elemental LOGSE Seg Tercer curso enseñanzas grado elemental LOGSE Ter Cuarto curso enseñanzas grado elemental LOGSE Cua"
+    }
+  ],
+  "legalAnalysis": {
+    "enactedPursuantTo": [
+      {
+        "title": "Llei Orgànica 2/2006, de 3 de maig, d'Educació",
+        "articles": [
+          "art-48"
+        ],
+        "relationship": "habilitante"
+      }
+    ],
+    "priorAffectations": [],
+    "posteriorAffectations": [
+      {
+        "lawId": "decreto-46-2026",
+        "title": "Decret 46/2026, de 27 de març, del Consell",
+        "type": "modifica",
+        "articles": [
+          "art-7",
+          "art-8",
+          "art-9",
+          "art-12",
+          "art-18"
+        ],
+        "date": "2026-04-03",
+        "description": "Modifica els articles 7, 8 (aps. 1 i 3, suprimix ap. 2), 9 (aps. 1, 2 i 3), 12 i 18, i el títol del capítol III"
+      }
+    ],
+    "derogations": [],
+    "concordances": [
+      {
+        "lawId": "decreto-159-2007",
+        "title": "Decret 159/2007, de 21 de setembre, del Consell, pel qual s'establix el currículum de les ensenyances elementals de música"
+      },
+      {
+        "lawId": "decreto-156-2007",
+        "title": "Decret 156/2007, de 21 de setembre, del Consell, pel qual s'establix el currículum de les ensenyances professionals de dansa"
+      }
+    ]
+  }
+}
