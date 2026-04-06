@@ -33,7 +33,8 @@ export interface PublicationInfo {
   source: 'DOGV' | 'BOE' | string;
   number: string;
   date: string; // YYYY-MM-DD
-  url: string;
+  url: string; // Ficha de la disposición (análisis jurídico) en DOGV/BOE
+  pdfUrl?: string; // Enlace directo al PDF publicado
 }
 
 export interface Vigency {

@@ -39,6 +39,11 @@ const dateFormatted = new Date(law.date).toLocaleDateString(lang === 'va' ? 'ca-
             {t('download.view_source', lang, { source: law.publishedIn.source })} &nearr;
           </a>
         )}
+        {law.publishedIn.pdfUrl && (
+          <a href={law.publishedIn.pdfUrl} target="_blank" rel="noopener" class="btn btn-pdf">
+            {t('download.view_pdf', lang)} &darr;
+          </a>
+        )}
       </div>
       <DownloadButtons law={law} lang={lang} />
     </div>
@@ -103,7 +108,7 @@ const dateFormatted = new Date(law.date).toLocaleDateString(lang === 'va' ? 'ca-
     color: var(--color-text-secondary);
   }
 
-  .btn-source {
+  .btn-source, .btn-pdf {
     font-size: 0.8rem;
   }
 
