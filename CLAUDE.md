@@ -119,6 +119,16 @@ npm run build     # debe compilar sin errores
 - Categorías válidas: `curriculo`, `organizacion`, `acceso`, `evaluacion`, `profesorado`, `titulaciones`, `general`
 - IDs de estructura: `art-N`, `titulo-N`, `titulo-N-cap-N`, `cap-N`, `da-N`, `dt-N`, `dd-unica`, `df-N`, `anexo-N`, `preambulo`
 
+#### Enlaces de publicación oficial (OBLIGATORIO)
+- `publishedIn.url` → ficha de la disposición en DOGV/BOE (análisis jurídico, texto consolidado). Ejemplos:
+  - DOGV: `https://dogv.gva.es/es/eli/es-vc/d/2007/09/21/158` o `https://dogv.gva.es/va/resultat-dogv?signatura=2013/6657`
+  - BOE: `https://www.boe.es/eli/es/rd/2006/12/22/1577` (futuro, cuando se ingesten leyes estatales)
+- `publishedIn.pdfUrl` → enlace directo al PDF publicado. Ejemplo: `https://dogv.gva.es/datos/2007/09/25/pdf/2007_11706.pdf`
+- **AMBOS campos son obligatorios** en toda nueva ingesta
+- Si el usuario solo proporciona la URL del PDF, **pedir la URL de la ficha** antes de generar el JSON
+- Si el usuario solo proporciona la ficha, **pedir la URL del PDF**
+- El botón "Ver en DOGV" usa `url`; el botón "PDF oficial" usa `pdfUrl`
+
 #### Cross-references bidireccionales
 - Si Ley B modifica Ley A: actualizar AMBAS leyes
 - En Ley A: `posteriorAffectations` + versiones en artículos + `lastModifiedDate`

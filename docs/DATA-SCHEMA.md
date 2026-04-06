@@ -22,7 +22,8 @@ Cada ley es un archivo JSON con la siguiente estructura:
     "source": "DOGV",
     "number": "5606",
     "date": "2007-09-25",
-    "url": "https://dogv.gva.es/..."
+    "url": "https://dogv.gva.es/es/eli/es-vc/d/2007/09/21/158",
+    "pdfUrl": "https://dogv.gva.es/datos/2007/09/25/pdf/2007_11706.pdf"
   },
   "title": "T&iacute;tulo completo de la norma",
   "titleShort": "T&iacute;tulo corto para listados",

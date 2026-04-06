@@ -149,7 +149,8 @@ Después de generar los JSON, verificar:
 - [ ] JSON `va/` creado con estructura idéntica
 - [ ] `id` y `slug` siguen convención `{tipo}-{numero}-{año}`
 - [ ] `category` es una de las 7 categorías válidas
-- [ ] `publishedIn.url` apunta a DOGV/BOE real
+- [ ] `publishedIn.url` apunta a la ficha de la disposición en DOGV/BOE (no al PDF)
+- [ ] `publishedIn.pdfUrl` apunta al PDF publicado en DOGV/BOE
 - [ ] `vigpiracy.status` es correcto y coherente
 - [ ] Artículos con versiones: `content` = `versions[0].content`, array ordenado newest-first
 - [ ] Cross-refs bidireccionales actualizadas (Ley A ↔ Ley B)
