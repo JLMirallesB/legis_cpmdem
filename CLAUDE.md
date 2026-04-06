@@ -136,10 +136,11 @@ npm run build     # debe compilar sin errores
 - Los anexos de currículo (Anexo I de D.156, D.157, D.158, D.159) contienen múltiples asignaturas/especialidades
 - Se pueden dividir en sub-secciones con `children` para que aparezcan en el sidebar de navegación
 - Un nodo `anexo` puede tener `children` (array de nodos `seccion`) EN VEZ DE `content` — no ambos
-- Dos patrones de detección de asignaturas:
-  - **Música (D.158, D.159)**: headers en ALL CAPS (`ACOMPAÑAMIENTO`, `CONJUNTO`, `LENGUAJE MUSICAL`...)
+- Patrones de detección de asignaturas:
+  - **Música (D.158, D.159)**: headers en ALL CAPS (`ACOMPAÑAMIENTO`, `CONJUNTO`...) + algunos en Title Case (`Complemento coral`, `Cultura audiovisual`, `Fundamentos de informática`...)
   - **Danza (D.156)**: headers con `Especialidad: Nombre` (`Especialidad: Baile Flamenco`, `Especialidad: Danza clásica`...)
   - **Danza elemental (D.157)**: headers en ALL CAPS (`DANZA ACADÉMICA`, `FOLKLORE`...)
+- **Detección por lista cerrada** (PREFERIDO para D.158/2007): usar una lista cerrada de nombres de asignaturas conocidas (del art. 7 del decreto) y buscarlas como líneas standalone (`\nNOMBRE\n`) en el texto v1. Esto evita falsos positivos con líneas de tablas de distribución horaria que también aparecen como líneas cortas. La detección genérica por ALL CAPS captura basura de tablas (`Total 1365`, `A. Propias de la especialidad`, etc.)
 - Para detectar headers ALL CAPS usar el texto de `extract_text()` (v1), NO el texto con párrafos (v2), porque la detección de sangrado puede romper los headers en mayúsculas insertando `\n\n` dentro de ellos
 - **El contenido de cada sub-sección también necesita párrafos**: el texto v1 tiene `\n` en cada línea visual del PDF sin distinguir párrafos. Tras splitear por headers (v1), aplicar heurística de unión de líneas en párrafos:
   - Líneas ALL CAPS → párrafo standalone (sub-header)
