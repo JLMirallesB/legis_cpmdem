@@ -94,7 +94,12 @@ npm run build     # debe compilar sin errores
 - Las líneas de encabezado de página (Núm. XXXX, CVE:, https://dogv.gva.es/) deben eliminarse del texto
 - Los guiones de fin de línea (`-\n`) deben unirse
 - La firma del decreto/orden ("Valencia, NN de mes de AAAA" / "El president...") se captura a veces en la última disposición final → recortar en `Valencia,` o `València,`
-- Las tablas (distribución horaria, ratios profesor/alumno) se extraen como datos numéricos sueltos sin cabeceras — problema conocido pendiente de resolver
+- Las tablas (distribución horaria, ratios profesor/alumno) están en páginas a ancho completo (no dos columnas), primero un idioma y luego el otro — NO usar crop de media página para estas páginas
+- Usar `pdfplumber.extract_tables()` para extraer tablas — funciona bien para la mayoría de PDFs excepto los más antiguos (D.157/2007 donde agrupa toda la tabla en 1 fila)
+- Almacenar tablas como **markdown** en el `content` (formato `| col | col |` con separador `|---|---|`). Esto funciona en los 3 formatos de salida: web (renderizado como `<table>`), JSON (legible), markdown export (nativo)
+- `ArticleContent.astro` detecta bloques que empiezan con `|` y contienen `|---` y los renderiza como `<table>` HTML
+- Agrupar tablas por especialidad con título en negrita: `**Especialidad: Arpa**\n\n| ... |`
+- Las páginas de tablas se identifican buscando `page.extract_tables()` con más de 3 filas (las de 1 fila son basura)
 - Un `ANEXO` sin número romano (ej. "Anexo único") no se captura con la regex `ANEXO\s+(I{1,3}V?...)` → buscar también `ANEXO\s*\n` sin número
 
 #### Versiones de artículos (CRÍTICO)
