@@ -45,6 +45,21 @@ with pdfplumber.open(pdf_path) as pdf:
 ```
 `pdfplumber` suele estar disponible en el entorno aunque `pdftotext` no. Verificar con `python3 -c "import pdfplumber"` antes de empezar.
 
+**⚠️ Preservación de párrafos (CRÍTICO):**
+`extract_text()` de pdfplumber une todas las líneas de la columna con `\n` simple — NO distingue saltos de línea dentro de un párrafo de puntos y aparte reales. Si se usa `extract_text()` directamente y luego se unen líneas, el resultado es un bloque sin párrafos.
+
+Para preservar los puntos y aparte, usar `region.chars` y detectar **sangrado** (indentation):
+```python
+from collections import Counter
+chars = region.chars
+# Agrupar chars por línea (misma coordenada top)
+# Encontrar baseline x0 (el x0 más común entre todas las líneas)
+# Línea con indent > 10pts sobre baseline = inicio de nuevo párrafo → insertar \n\n
+```
+- Baseline típico en DOGV: indent ≈ 8-9 pts desde el borde de columna
+- Sangrado de párrafo: indent ≈ 22-23 pts (diferencia de ~14 pts)
+- Títulos/encabezados: indent > 35 pts (no confundir con sangrado de párrafo)
+
 #### 2. Analizar estructura
 ```bash
 # Buscar artículos, capítulos, disposiciones, anexos
@@ -78,6 +93,9 @@ npm run build     # debe compilar sin errores
 - Los títulos de artículo pueden ocupar varias líneas - el regex `^Artículo N.` puede no capturar todo
 - Las líneas de encabezado de página (Núm. XXXX, CVE:, https://dogv.gva.es/) deben eliminarse del texto
 - Los guiones de fin de línea (`-\n`) deben unirse
+- La firma del decreto/orden ("Valencia, NN de mes de AAAA" / "El president...") se captura a veces en la última disposición final → recortar en `Valencia,` o `València,`
+- Las tablas (distribución horaria, ratios profesor/alumno) se extraen como datos numéricos sueltos sin cabeceras — problema conocido pendiente de resolver
+- Un `ANEXO` sin número romano (ej. "Anexo único") no se captura con la regex `ANEXO\s+(I{1,3}V?...)` → buscar también `ANEXO\s*\n` sin número
 
 #### Versiones de artículos (CRÍTICO)
 - Cuando una ley modifica artículos de otra, HAY QUE crear el array `versions` en el artículo afectado
@@ -86,6 +104,7 @@ npm run build     # debe compilar sin errores
 - Versiones ordenadas de más reciente a más antigua
 - La versión original tiene `modifiedBy: null`
 - Tipos de modificación: reemplazo total del artículo, modificación de apartados, supresión de apartados
+- **Al re-extraer texto** de un artículo con versions[]: actualizar el `content` de la versión v1 (`modifiedBy: null`) con el texto re-extraído, pero el `content` del nodo debe seguir siendo `versions[0].content` (vigente). Nunca sobreescribir `content` del nodo con texto original si hay versiones
 
 #### Cadenas de versiones múltiples (v1 → v2 → v3...)
 - Un artículo puede ser modificado por más de una ley a lo largo del tiempo
@@ -112,6 +131,17 @@ npm run build     # debe compilar sin errores
 - La regex `\d+\. ` captura estos sub-ítems como falsos apartados de primer nivel
 - Para distinguir apartados principales: buscar solo números secuenciales (1→2→3→4→5) precedidos por fin de frase (`. N. `) o al inicio del texto
 - Alternativa segura: buscar manualmente las posiciones cuando el artículo tiene estructura compleja con sub-listados
+
+#### Sub-secciones de anexos curriculares
+- Los anexos de currículo (Anexo I de D.156, D.157, D.158, D.159) contienen múltiples asignaturas/especialidades
+- Se pueden dividir en sub-secciones con `children` para que aparezcan en el sidebar de navegación
+- Un nodo `anexo` puede tener `children` (array de nodos `seccion`) EN VEZ DE `content` — no ambos
+- Dos patrones de detección de asignaturas:
+  - **Música (D.158, D.159)**: headers en ALL CAPS (`ACOMPAÑAMIENTO`, `CONJUNTO`, `LENGUAJE MUSICAL`...)
+  - **Danza (D.156)**: headers con `Especialidad: Nombre` (`Especialidad: Baile Flamenco`, `Especialidad: Danza clásica`...)
+  - **Danza elemental (D.157)**: headers en ALL CAPS (`DANZA ACADÉMICA`, `FOLKLORE`...)
+- Para detectar headers ALL CAPS usar el texto de `extract_text()` (v1), NO el texto con párrafos (v2), porque la detección de sangrado puede romper los headers en mayúsculas insertando `\n\n` dentro de ellos
+- IDs de sub-sección: `anexo-1-{slugified-name}` (ej. `anexo-1-acompanamiento`, `anexo-1-baile-flamenco`)
 
 #### Estructura JSON
 - `id` y `slug` deben ser iguales y coincidir con el nombre del archivo (sin .json)
