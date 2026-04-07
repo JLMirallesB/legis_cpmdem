@@ -27,9 +27,9 @@
       "content": "La Ley Orgánica 8/1985, de 3 de julio, reguladora del Derecho a la Educación, establece, en su artículo 14, que todos los centros docentes, independientemente de su titularidad, deberán reunir unos requisitos mínimos referidos a titulación académica del profesorado, relación numérica alumno-profesor, instalaciones docentes y deportivas, y número de puestos escolares, para impartir enseñanzas con garantía de calidad. Por su parte, el artículo 23 de la misma ley condiciona la apertura y funcionamiento de los centros docentes privados al principio de autorización administrativa que se concederá siempre que aquellos reúnan los requisitos mínimos establecidos.\n\nLa Ley Orgánica 2/2006, de 3 de mayo, de Educación, incluye novedades en la ordenación de las enseñanzas artísticas, y especialmente en la ordenación de las enseñanzas artísticas superiores que han sido desarrolladas en el Real Decreto 1614/2009, de 26 de octubre. Por ello resulta necesario determinar los requisitos mínimos que deberán reunir los centros docentes para la impartición de las mismas. En este sentido, la normativa básica relativa a los requisitos de los centros docentes que imparten enseñanzas reguladas en la Ley Orgánica de Educación deberá constituir el denominador común que garantice la prestación del servicio educativo en condiciones de calidad e igualdad para satisfacer el derecho constitucional a la educación.\n\nAdemás de la habilitación expresa al Gobierno para que regule los requisitos mínimos de los centros docentes contenida en el artículo 14 de la Ley Orgánica 8/1985, reguladora del Derecho a la Educación, el rango reglamentario de esta norma está justificado por resultar un complemento indispensable a la legislación educativa, así como un complemento necesario para alcanzar el común denominador que persigue la normativa básica estatal: la norma reglamentaria resulta el instrumento idóneo dado el carácter técnico de la regulación relativa a la titulación académica del profesorado, relación numérica alumno- profesor, y a las instalaciones docentes de los centros docentes.\n\nPor otra parte, la Ley 17/2009, de 23 de noviembre, sobre el libre acceso a las actividades de servicios y su ejercicio, afecta a los requisitos a los que se somete la prestación de servicios educativos de interés económico general, en tanto que dichos requisitos deberán tener carácter reglado, ser claros e inequívocos, objetivos e imparciales, transparentes, proporcionados al objetivo de interés general y darse a conocer con antelación. En este sentido, se remite la regulación de los aspectos técnicos relacionados con los requisitos que deben reunir las instalaciones docentes a lo establecido en el Real Decreto 314/2006, de 17 de marzo, por el que se aprueba el Código Técnico de Edificación, donde se establecen las normas técnicas relativas a la seguridad estructural, la seguridad de utilización, la salubridad, la protección frente al ruido, el ahorro de energía y la seguridad en caso de incendio de los edificios docentes. Es, precisamente, en el documento básico de seguridad en caso de incendio donde el Código Técnico de Edificación fija, entre otros requisitos, una ocupación 1,5 metros cuadrados por persona en las aulas, y 5 metros cuadrados por persona en los espacios diferentes a las aulas como laboratorios, talleres, gimnasios, salas de dibujo, etc.\n\nPara la elaboración de este real decreto han sido consultadas las Comunidades Autónomas en el seno de la Conferencia Sectorial de Educación, y han emitido informe el Consejo Superior de Enseñanzas Artísticas, el Consejo Escolar del Estado, la Comisión Superior de Personal y el Ministerio de Política Territorial.\n\nEn su virtud, a propuesta del Ministro de Educación, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 12 de marzo de 2010,"
     },
     {
-      "type": "capitulo",
-      "id": "cap-1",
-      "title": "Capítulo I. Disposiciones generales",
+      "type": "titulo",
+      "id": "titulo-1",
+      "title": "Título I. Disposiciones de carácter general",
       "children": [
         {
           "type": "articulo",
@@ -62,261 +62,310 @@
       ]
     },
     {
-      "type": "capitulo",
-      "id": "cap-2",
-      "title": "Capítulo II. Enseñanzas profesionales de música y de danza",
+      "type": "titulo",
+      "id": "titulo-2",
+      "title": "Título II. De los centros docentes de enseñanzas artísticas profesionales",
       "children": [
         {
-          "type": "articulo",
-          "id": "art-5",
-          "number": "5",
-          "title": "Artículo 5. Denominación de los centros docentes de enseñanzas artísticas profesionales de música.",
-          "content": "1. En los centros docentes de enseñanzas artísticas profesionales de música se impartirán las enseñanzas reguladas en el artículo 48.2 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación. En estos centros se podrá impartir, igualmente, las enseñanzas a las que se refiere el artículo 48.1 de dicha ley.\n\n2. Los centros públicos que ofrecen enseñanzas artísticas profesionales y, en su caso, elementales, de música, se denominarán conservatorios. Los centros privados autorizados se denominarán centros autorizados de enseñanzas artísticas profesionales de música."
+          "type": "capitulo",
+          "id": "titulo-2-cap-1",
+          "title": "Capítulo I. De los centros de enseñanzas artísticas profesionales de música",
+          "children": [
+            {
+              "type": "articulo",
+              "id": "art-5",
+              "number": "5",
+              "title": "Artículo 5. Denominación de los centros docentes de enseñanzas artísticas profesionales de música.",
+              "content": "1. En los centros docentes de enseñanzas artísticas profesionales de música se impartirán las enseñanzas reguladas en el artículo 48.2 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación. En estos centros se podrá impartir, igualmente, las enseñanzas a las que se refiere el artículo 48.1 de dicha ley.\n\n2. Los centros públicos que ofrecen enseñanzas artísticas profesionales y, en su caso, elementales, de música, se denominarán conservatorios. Los centros privados autorizados se denominarán centros autorizados de enseñanzas artísticas profesionales de música."
+            },
+            {
+              "type": "articulo",
+              "id": "art-6",
+              "number": "6",
+              "title": "Artículo 6. Requisitos mínimos relativos a las instalaciones de los centros de enseñanzas artísticas profesionales de música.",
+              "content": "1. Los centros profesionales de música deberán impartir las especialidades de piano, canto y, al menos, las especialidades instrumentales de cuerda y viento que constituyen la plantilla de la orquesta de cámara. En el caso de que en un centro, de acuerdo con el artículo 6.3 del Real Decreto 1577/2006, de 22 de diciembre, por el que se fijan los aspectos básicos del currículo de las enseñanzas profesionales de música reguladas por la Ley\n\nOrgánica 2/2006, de 3 de mayo, de Educación, se potencie un perfil en la enseñanza de la música moderna, deberá impartir las especialidades de piano, canto y, al menos, las especialidades instrumentales que constituyen las plantillas de los distintos conjuntos de la música moderna.\n\n2. Estos centros deberán contar, como mínimo, con las siguientes instalaciones y condiciones materiales:\n\na) Una sala polivalente, con un escenario de una superficie adecuada que posibilite en todo caso la organización de conciertos de la orquesta, la banda y el coro del centro.\n\nb) Aulas de enseñanza no instrumental, con una superficie adecuada a la naturaleza de las asignaturas que en ellas se impartan y a la relación numérica profesorado-alumnado de las mismas.\n\nc) Aulas destinadas a la impartición de las asignaturas de música de cámara, conjunto u otras clases colectivas de instrumento o voz, con una superficie adecuada a la naturaleza de las agrupaciones instrumentales o vocales más características y/o, en su caso, a la relación numérica profesorado-alumnado de las asignaturas que en ellas se impartan.\n\nd) Aulas destinadas a las asignaturas de orquesta, banda y coro, con una superficie adecuada a la naturaleza de las diferentes agrupaciones y/o, en su caso, a la relación numérica profesorado-alumnado de las asignaturas que en ellas se impartan.\n\ne) Aulas de enseñanza instrumental o vocal individual, con una superficie adecuada a la naturaleza de la especialidad instrumental o vocal que en ella se imparta. En el caso de que la asignatura de Conjunto u otras clases colectivas se impartieran en estas aulas, la superficie de las mismas se adecuará a la relación numérica profesorado-alumnado de estas asignaturas.\n\n3. Las Administraciones educativas, en desarrollo del presente real decreto, determinarán, con carácter general, el número de aulas necesarias por puestos escolares en los supuestos contenidos en las letras b), c), d) y e) del apartado anterior, de acuerdo con el currículo que establezcan las Administraciones educativas, el horario de funcionamiento de los centros, las especialidades autorizadas y el número de puestos escolares."
+            },
+            {
+              "type": "articulo",
+              "id": "art-7",
+              "number": "7",
+              "title": "Artículo 7. Relaciones numéricas profesor-alumnado en los centros de enseñanzas artísticas profesionales de música.",
+              "content": "La relación numérica máxima profesorado-alumnado en las asignaturas de las enseñanzas profesionales de música será:\n\na) En las clases individuales de Instrumento o Voz, 1/1.\n\nb) En las clases de enseñanza no instrumentales, 1/15, sin perjuicio de que las Administraciones educativas puedan establecer en la normativa reguladora del plan de estudios, relaciones numéricas más reducidas para la impartición de determinadas clases prácticas.\n\nc) Corresponde a las Administraciones educativas determinar la relación numérica profesorado-alumnado en las clases de música de cámara, orquesta, banda, coro, conjunto u otras clases colectivas de instrumento o voz, en función de la naturaleza de las diferentes agrupaciones de que se trate y de lo que, en su caso, se pudiera establecer en la propia normativa reguladora del currículo."
+            }
+          ]
         },
         {
-          "type": "articulo",
-          "id": "art-6",
-          "number": "6",
-          "title": "Artículo 6. Requisitos mínimos relativos a las instalaciones de los centros de enseñanzas artísticas profesionales de música.",
-          "content": "1. Los centros profesionales de música deberán impartir las especialidades de piano, canto y, al menos, las especialidades instrumentales de cuerda y viento que constituyen la plantilla de la orquesta de cámara. En el caso de que en un centro, de acuerdo con el artículo 6.3 del Real Decreto 1577/2006, de 22 de diciembre, por el que se fijan los aspectos básicos del currículo de las enseñanzas profesionales de música reguladas por la Ley\n\nOrgánica 2/2006, de 3 de mayo, de Educación, se potencie un perfil en la enseñanza de la música moderna, deberá impartir las especialidades de piano, canto y, al menos, las especialidades instrumentales que constituyen las plantillas de los distintos conjuntos de la música moderna.\n\n2. Estos centros deberán contar, como mínimo, con las siguientes instalaciones y condiciones materiales:\n\na) Una sala polivalente, con un escenario de una superficie adecuada que posibilite en todo caso la organización de conciertos de la orquesta, la banda y el coro del centro.\n\nb) Aulas de enseñanza no instrumental, con una superficie adecuada a la naturaleza de las asignaturas que en ellas se impartan y a la relación numérica profesorado-alumnado de las mismas.\n\nc) Aulas destinadas a la impartición de las asignaturas de música de cámara, conjunto u otras clases colectivas de instrumento o voz, con una superficie adecuada a la naturaleza de las agrupaciones instrumentales o vocales más características y/o, en su caso, a la relación numérica profesorado-alumnado de las asignaturas que en ellas se impartan.\n\nd) Aulas destinadas a las asignaturas de orquesta, banda y coro, con una superficie adecuada a la naturaleza de las diferentes agrupaciones y/o, en su caso, a la relación numérica profesorado-alumnado de las asignaturas que en ellas se impartan.\n\ne) Aulas de enseñanza instrumental o vocal individual, con una superficie adecuada a la naturaleza de la especialidad instrumental o vocal que en ella se imparta. En el caso de que la asignatura de Conjunto u otras clases colectivas se impartieran en estas aulas, la superficie de las mismas se adecuará a la relación numérica profesorado-alumnado de estas asignaturas.\n\n3. Las Administraciones educativas, en desarrollo del presente real decreto, determinarán, con carácter general, el número de aulas necesarias por puestos escolares en los supuestos contenidos en las letras b), c), d) y e) del apartado anterior, de acuerdo con el currículo que establezcan las Administraciones educativas, el horario de funcionamiento de los centros, las especialidades autorizadas y el número de puestos escolares."
+          "type": "capitulo",
+          "id": "titulo-2-cap-2",
+          "title": "Capítulo II. De los centros de enseñanzas artísticas profesionales de danza",
+          "children": [
+            {
+              "type": "articulo",
+              "id": "art-8",
+              "number": "8",
+              "title": "Artículo 8. Denominación de los centros docentes de enseñanzas artísticas profesionales de danza.",
+              "content": "1. En los centros docentes de enseñanzas artísticas profesionales de danza se impartirán las enseñanzas reguladas en los artículos 48.2 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación. En estos centros se podrá impartir, igualmente, las enseñanzas a las que se refiere el artículo 48.1 de dicha ley.\n\n2. Los centros públicos que ofrecen enseñanzas profesionales y, en su caso, elementales, de danza, se denominarán conservatorios. Los centros privados autorizados se denominarán centros autorizados de enseñanzas artísticas profesionales de danza."
+            },
+            {
+              "type": "articulo",
+              "id": "art-9",
+              "number": "9",
+              "title": "Artículo 9. Requisitos mínimos relativos a las instalaciones de los centros de enseñanzas artísticas profesionales de danza.",
+              "content": "1. Los centros de enseñanzas artísticas profesionales de danza deberán cumplir, como mínimo, los siguientes requisitos referentes a instalaciones y condiciones materiales:\n\na) Una sala polivalente, con un escenario de una superficie adecuada que posibilite en todo caso las representaciones de danza.\n\nb) Aulas de enseñanza teóricas, con una superficie adecuada a la naturaleza de las asignaturas que en ellas se impartan y a la relación numérica profesor-alumnado de las mismas.\n\nc) Un aula para música, con una superficie adecuada a la relación numérica profesor- alumno.\n\nd) Vestuarios, con duchas adecuados al número de puestos escolares del centro.\n\ne) Aulas destinadas a clases de danza dotadas de materiales específicos para la prevención de lesiones corporales y con una superficie adecuada a la naturaleza de las asignaturas que en ellas se impartan y a la relación numérica profesor-alumnado de las mismas.\n\nf) Área sanitaria.\n\n2. Las Administraciones educativas, en desarrollo del presente real decreto, determinarán, con carácter general, el número de aulas necesarias en los supuestos contenidos en las letras b), d), y e) del apartado anterior, de acuerdo con el currículo que establezcan las Administraciones educativas, el horario de funcionamiento de los centros, las especialidades autorizadas y el número de puestos escolares."
+            },
+            {
+              "type": "articulo",
+              "id": "art-10",
+              "number": "10",
+              "title": "Artículo 10. Relación numérica profesor-alumnado en los centros de enseñanzas artísticas profesionales de danza.",
+              "content": "En las enseñanzas profesionales de danza, la relación numérica profesorado-alumnado será, como máximo, de 1/30 en las clases teóricas y de un máximo de 1/15 en las clases prácticas, sin perjuicio de que en la normativa reguladora del plan de estudios la Administración educativa determine grupos más reducidos para la impartición de determinadas asignaturas prácticas."
+            }
+          ]
         },
         {
-          "type": "articulo",
-          "id": "art-7",
-          "number": "7",
-          "title": "Artículo 7. Relaciones numéricas profesor-alumnado en los centros de enseñanzas artísticas profesionales de música.",
-          "content": "La relación numérica máxima profesorado-alumnado en las asignaturas de las enseñanzas profesionales de música será:\n\na) En las clases individuales de Instrumento o Voz, 1/1.\n\nb) En las clases de enseñanza no instrumentales, 1/15, sin perjuicio de que las Administraciones educativas puedan establecer en la normativa reguladora del plan de estudios, relaciones numéricas más reducidas para la impartición de determinadas clases prácticas.\n\nc) Corresponde a las Administraciones educativas determinar la relación numérica profesorado-alumnado en las clases de música de cámara, orquesta, banda, coro, conjunto u otras clases colectivas de instrumento o voz, en función de la naturaleza de las diferentes agrupaciones de que se trate y de lo que, en su caso, se pudiera establecer en la propia normativa reguladora del currículo."
+          "type": "capitulo",
+          "id": "titulo-2-cap-3",
+          "title": "Capítulo III. De los centros de enseñanzas artísticas profesionales de artes plásticas y diseño",
+          "children": [
+            {
+              "type": "articulo",
+              "id": "art-11",
+              "number": "11",
+              "title": "Artículo 11. Denominación de los centros de enseñanzas artísticas profesionales de Artes Plásticas y Diseño.",
+              "content": "1. En los centros docentes de enseñanzas artísticas profesionales de Artes Plásticas y Diseño se impartirán las enseñanzas reguladas en el artículo 51 de la Ley Orgánica 2/2006, de Educación.\n\n2. Los centros públicos que impartan ciclos formativos de grado medio y de grado superior de Artes Plásticas y Diseño recibirán la denominación genérica de Escuelas de Arte. Los centros privados autorizados se denominarán centros autorizados de enseñanzas artísticas profesionales de Artes Plásticas y Diseño."
+            },
+            {
+              "type": "articulo",
+              "id": "art-12",
+              "number": "12",
+              "title": "Artículo 12. Requisitos relativos a las instalaciones de los centros de enseñanzas artísticas profesionales de Artes Plásticas y Diseño.",
+              "content": "1. Los centros de enseñanzas artísticas profesionales de artes plásticas y diseño deberán cumplir, como mínimo, los siguientes requisitos referentes a instalaciones y condiciones materiales:\n\na) Aulas destinadas a la impartición de clases teóricas con una superficie mínima adecuada al número de puestos escolares.\n\nb) Aulas destinadas a la impartición de clases teórico-prácticas con una superficie mínima adecuada al número puestos escolares.\n\nc) Un aula para cada uno de los talleres específicos correspondientes a los ciclos formativos que imparta el centro, con la superficie mínima adecuada y con el equipamiento que se determine en los respectivos títulos de artes plásticas y diseño.\n\nd) Un espacio de uso polivalente que pueda utilizarse para exposiciones, actividades artísticas y otros actos.\n\n2. Las Administraciones educativas determinarán, con carácter general, el número de aulas necesarias por puestos escolares en los supuestos contenidos en las letras a) y b) del apartado anterior, de acuerdo con el plan de estudios que establezcan."
+            },
+            {
+              "type": "articulo",
+              "id": "art-13",
+              "number": "13",
+              "title": "Artículo 13. Relación numérica profesorado-alumnado.",
+              "content": "En las enseñanzas artísticas profesionales correspondientes a ciclos formativos de grado medio y grado superior de artes plásticas y diseño, la relación numérica profesor- alumno será, como máximo, de 1/30 en las clases teóricas y teórico-prácticas y de 1/15 en las clases prácticas y talleres, sin perjuicio de que en la normativa reguladora del plan de estudios la Administración educativa determinen grupos más reducidos para la impartición de determinados talleres o módulos."
+            }
+          ]
         },
         {
-          "type": "articulo",
-          "id": "art-8",
-          "number": "8",
-          "title": "Artículo 8. Denominación de los centros docentes de enseñanzas artísticas profesionales de danza.",
-          "content": "1. En los centros docentes de enseñanzas artísticas profesionales de danza se impartirán las enseñanzas reguladas en los artículos 48.2 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación. En estos centros se podrá impartir, igualmente, las enseñanzas a las que se refiere el artículo 48.1 de dicha ley.\n\n2. Los centros públicos que ofrecen enseñanzas profesionales y, en su caso, elementales, de danza, se denominarán conservatorios. Los centros privados autorizados se denominarán centros autorizados de enseñanzas artísticas profesionales de danza."
+          "type": "capitulo",
+          "id": "titulo-2-cap-4",
+          "title": "Capítulo IV. De los centros integrados",
+          "children": [
+            {
+              "type": "articulo",
+              "id": "art-14",
+              "number": "14",
+              "title": "Artículo 14. Enseñanzas en los Centros docentes integrados.",
+              "content": "Los requisitos mínimos que deberán reunir los centros integrados de música o de danza a que se refiere el artículo 47.2 de la Ley Orgánica 2/2006, de Educación, serán los que se establece en este real decreto, junto con los requisitos establecidos en el Real Decreto 132/2010, de 12 de febrero, por el que se establecen los requisitos mínimos los centros que impartan las enseñanzas del segundo ciclo de educación infantil, educación primaria y la educación secundaria, para las enseñanzas que impartan."
+            }
+          ]
         },
         {
-          "type": "articulo",
-          "id": "art-9",
-          "number": "9",
-          "title": "Artículo 9. Requisitos mínimos relativos a las instalaciones de los centros de enseñanzas artísticas profesionales de danza.",
-          "content": "1. Los centros de enseñanzas artísticas profesionales de danza deberán cumplir, como mínimo, los siguientes requisitos referentes a instalaciones y condiciones materiales:\n\na) Una sala polivalente, con un escenario de una superficie adecuada que posibilite en todo caso las representaciones de danza.\n\nb) Aulas de enseñanza teóricas, con una superficie adecuada a la naturaleza de las asignaturas que en ellas se impartan y a la relación numérica profesor-alumnado de las mismas.\n\nc) Un aula para música, con una superficie adecuada a la relación numérica profesor- alumno.\n\nd) Vestuarios, con duchas adecuados al número de puestos escolares del centro.\n\ne) Aulas destinadas a clases de danza dotadas de materiales específicos para la prevención de lesiones corporales y con una superficie adecuada a la naturaleza de las asignaturas que en ellas se impartan y a la relación numérica profesor-alumnado de las mismas.\n\nf) Área sanitaria.\n\n2. Las Administraciones educativas, en desarrollo del presente real decreto, determinarán, con carácter general, el número de aulas necesarias en los supuestos contenidos en las letras b), d), y e) del apartado anterior, de acuerdo con el currículo que establezcan las Administraciones educativas, el horario de funcionamiento de los centros, las especialidades autorizadas y el número de puestos escolares."
-        },
-        {
-          "type": "articulo",
-          "id": "art-10",
-          "number": "10",
-          "title": "Artículo 10. Relación numérica profesor-alumnado en los centros de enseñanzas artísticas profesionales de danza.",
-          "content": "En las enseñanzas profesionales de danza, la relación numérica profesorado-alumnado será, como máximo, de 1/30 en las clases teóricas y de un máximo de 1/15 en las clases prácticas, sin perjuicio de que en la normativa reguladora del plan de estudios la Administración educativa determine grupos más reducidos para la impartición de determinadas asignaturas prácticas."
+          "type": "capitulo",
+          "id": "titulo-2-cap-5",
+          "title": "Capítulo V. De la formación inicial del profesorado de enseñanzas artísticas profesionales",
+          "children": [
+            {
+              "type": "articulo",
+              "id": "art-15",
+              "number": "15",
+              "title": "Artículo 15. Requisitos para ejercer la docencia en las enseñanzas artísticas profesionales.",
+              "content": "1. Para impartir la docencia de las enseñanzas elementales y profesionales de música y danza será necesario estar en posesión del título de Graduado, Licenciado, Ingeniero o Arquitecto, o titulación equivalente a efectos de docencia.\n\nPara ejercer la docencia de las enseñanzas profesionales de artes plásticas y diseño será necesario estar en posesión del título de Graduado, Licenciado, Ingeniero o Arquitecto, o titulación equivalente a efectos de docencia, sin perjuicio de la intervención educativa de otros profesionales y de la habilitación de otras titulaciones que, a efectos de docencia, pudiera establecer el Gobierno para determinados módulos, previa consulta a las comunidades autónomas.\n\nPara ejercer la docencia de las enseñanzas artísticas profesionales se requerirá, asimismo, la formación pedagógica y didáctica a la que se refiere el artículo siguiente.\n\n2. El profesorado de centros de enseñanzas artísticas profesionales deberá acreditar la cualificación específica para impartir las asignaturas y, en su caso, materias respectivas que establezca el Gobierno, de acuerdo con lo previsto en la Ley Orgánica 2/2006, de Educación.\n\n3. Excepcionalmente, para determinadas materias se podrán incorporar como profesores especialistas a profesionales, no necesariamente titulados, que ostenten la necesaria cualificación profesional y desarrollen su actividad en el ámbito laboral, de conformidad con las necesidades del sistema educativo. Dicha incorporación se realizará en régimen laboral o administrativo, de acuerdo con la normativa que resulte de aplicación."
+            },
+            {
+              "type": "articulo",
+              "id": "art-16",
+              "number": "16",
+              "title": "Artículo 16. Formación pedagógica y didáctica del profesorado de enseñanzas artísticas profesionales.",
+              "content": "1. Para ejercer la docencia en las enseñanzas artísticas profesionales, será necesario estar en posesión de un título oficial de postgrado que acredite la formación pedagógica y didáctica de acuerdo con lo exigido por el artículo 96 y en la disposición transitoria octava de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.\n\n2. El título de postgrado al que se refiere el apartado anterior podrá ser un título universitario oficial de máster o bien un título de máster de los regulados en el artículo 9 del Real Decreto 1614/2009, de 26 de octubre, por el que se establece la ordenación de las enseñanzas artísticas superiores. Sus planes de estudios tendrán una duración de 60 créditos europeos a los que se refieren el artículo 4 del citado Real Decreto y el artículo 5 del Real Decreto 1393/2007, de 29 de octubre, por el que se establece la ordenación de las enseñanzas universitarias oficiales.\n\nCuando el título de postgrado sea un Master universitario se estará a lo dispuesto en el artículo 15.4 del citado Real Decreto 1393/2007, de 29 de octubre, en relación con los que habilitan para el ejercicio de profesiones reguladas.\n\n3. La denominación de los títulos de postgrado a los que se refiere este artículo deberá facilitar la identificación de la profesión para cuyo ejercicio habilita y en ningún caso, podrá conducir a error o confusión sobre sus efectos profesionales. No podrá ser objeto de autorización, ni de verificación por parte del Consejo de Universidades, ningún plan de estudios correspondiente a un título universitario oficial cuya denominación incluya la referencia expresa a la profesión de Profesor de Enseñanzas Artísticas Profesionales sin que dicho título cumpla las condiciones que establezca el Gobierno.\n\n4. Los planes de estudios de los títulos a los que se refiere el presente artículo deberán cumplir además de lo previsto, en su caso, en el referido Real Decreto 1393/2007, de 29 de octubre, y en el Real Decreto 1614/2009, de 26 de octubre, los requisitos que establezca el Ministerio de Educación respecto a objetivos del título y planificación de las enseñanzas.\n\n5. Los planes de estudios conducentes a la obtención de los títulos oficiales que habiliten para el ejercicio de la profesión de Profesor de Enseñanzas Artísticas Profesionales garantizarán la adquisición de las competencias necesarias para ejercer la profesión de acuerdo con lo regulado en la normativa aplicable."
+            }
+          ]
         }
       ]
     },
     {
-      "type": "capitulo",
-      "id": "cap-3",
-      "title": "Capítulo III. Enseñanzas profesionales de artes plásticas y diseño",
+      "type": "titulo",
+      "id": "titulo-3",
+      "title": "Título III. De los centros de enseñanzas artísticas superiores",
       "children": [
         {
-          "type": "articulo",
-          "id": "art-11",
-          "number": "11",
-          "title": "Artículo 11. Denominación de los centros de enseñanzas artísticas profesionales de Artes Plásticas y Diseño.",
-          "content": "1. En los centros docentes de enseñanzas artísticas profesionales de Artes Plásticas y Diseño se impartirán las enseñanzas reguladas en el artículo 51 de la Ley Orgánica 2/2006, de Educación.\n\n2. Los centros públicos que impartan ciclos formativos de grado medio y de grado superior de Artes Plásticas y Diseño recibirán la denominación genérica de Escuelas de Arte. Los centros privados autorizados se denominarán centros autorizados de enseñanzas artísticas profesionales de Artes Plásticas y Diseño."
+          "type": "capitulo",
+          "id": "titulo-3-cap-1",
+          "title": "Capítulo I. Condiciones generales",
+          "children": [
+            {
+              "type": "articulo",
+              "id": "art-17",
+              "number": "17",
+              "title": "Artículo 17. Denominación de los centros de enseñanzas artísticas superiores.",
+              "content": "1. En los centros de enseñanzas artísticas superiores se podrán ofertar los estudios de grado y postgrado en las condiciones establecidas en el Real Decreto 1614/2009, de 26 de octubre, por el que se establece la ordenación de las enseñanzas artísticas superiores reguladas por la Ley Orgánica 2/2006, de 3 de mayo, de Educación.\n\n2. De conformidad con el artículo 111.3 de la Ley Orgánica de Educación, los centros públicos que impartan enseñanzas artísticas superiores recibirán las siguientes denominaciones genéricas:\n\na) Conservatorios Superiores de Música o Escuelas Superiores de Música.\n\nb) Conservatorios Superiores de Danza o Escuelas Superiores de Danza.\n\nc) Escuelas Superiores de Arte Dramático.\n\nd) Escuelas superiores de Conservación y Restauración de Bienes Culturales.\n\ne) Escuelas superiores de Diseño.\n\nf) Escuelas superiores de la especialidad correspondiente cuando impartan estudios superiores de Artes Plásticas.\n\n3. No podrán utilizarse denominaciones que sean coincidentes con los centros y enseñanzas a las que se refiere el apartado anterior, o que por su significado puedan inducir a confusión con éstos.\n\n4. Corresponde a las Administraciones educativas determinar la denominación de aquellos centros públicos que ofrezcan enseñanzas de educación superior agrupadas de manera distinta a las definidas en el presente artículo."
+            },
+            {
+              "type": "articulo",
+              "id": "art-18",
+              "number": "18",
+              "title": "Artículo 18. Centros privados superiores de enseñanzas artísticas.",
+              "content": "1. Son centros privados superiores de enseñanzas artísticas los autorizados por las Administraciones educativas y cuyo titular sea una persona física o jurídica de carácter privado.\n\n2. La apertura y funcionamiento de centros docentes de titularidad privada para impartir estudios superiores de enseñanzas artísticas conducentes a la obtención de títulos oficiales, requerirá la autorización de las Administraciones educativas y deberán cumplir los requisitos básicos y aquellos que figuren en el real decreto del título correspondiente."
+            },
+            {
+              "type": "articulo",
+              "id": "art-19",
+              "number": "19",
+              "title": "Artículo 19. Requisitos relativos a las instalaciones de los centros superiores de enseñanzas artísticas.",
+              "content": "1. Los centros de enseñanzas artísticas superiores deberán contar con las instalaciones a las que se refiere el artículo 3 de este real decreto, así como espacios destinados a departamentos y equipamientos para desarrollar las tareas de investigación propias de estas enseñanzas.\n\n2. Igualmente deberán cumplir los requisitos de espacios y equipamientos necesarios para la impartición de las enseñanzas establecidas en los correspondientes reales decretos por los que se regule cada título."
+            },
+            {
+              "type": "articulo",
+              "id": "art-20",
+              "number": "20",
+              "title": "Artículo 20. Requisitos para ejercer la docencia en las enseñanzas artísticas superiores.",
+              "content": "1. Los centros de enseñanzas artísticas superiores contarán con la estructura docente necesaria para la organización y desarrollo de enseñanzas conducentes a los títulos de graduado y a los títulos de máster en enseñanzas artísticas, así como a los estudios de doctorado propios de las enseñanzas artísticas según los convenios de las Administraciones educativas con la universidades y el fomento de programas de investigación en el ámbito de las disciplinas que les son propios.\n\n2. Cuando un centro de enseñanzas artísticas superiores imparta estudios de máster, al menos un 15 por 100 del personal docente que vaya a impartir dichos estudios deberá hallarse en posesión del título de Doctor.\n\n3. Para ejercer la docencia de las enseñanzas artísticas superiores será necesario estar en posesión del título de Graduado, Licenciado, Ingeniero o Arquitecto, o titulación equivalente a efectos de docencia, sin perjuicio de la habilitación de otras titulaciones que, a efectos de docencia, pudiera establecer el Gobierno para determinadas materias, previa consulta a las Comunidades Autónomas.\n\n4. En la regulación de las enseñanzas artísticas superiores el Gobierno, previa consulta a las comunidades autónomas, podrá incluir otras exigencias para el profesorado que las asuma, derivadas de las condiciones de inserción de estas enseñanzas en el marco de la educación superior.\n\n5. Excepcionalmente, para determinadas materias de las enseñanzas artísticas superiores se podrán incorporar como profesores especialistas a profesionales, no necesariamente titulados, que ostenten la necesaria cualificación profesional y desarrollen su actividad en el ámbito laboral o tengan nacionalidad extranjera, de conformidad con su cualificación y las necesidades del sistema educativo. Dicha incorporación se realizará en régimen laboral o administrativo de acuerdo con la normativa que resulte de aplicación.\n\n6. Para estas enseñanzas el Gobierno, previa consulta a las comunidades autónomas, establecerá la figura de profesor emérito."
+            }
+          ]
         },
         {
-          "type": "articulo",
-          "id": "art-12",
-          "number": "12",
-          "title": "Artículo 12. Requisitos relativos a las instalaciones de los centros de enseñanzas artísticas profesionales de Artes Plásticas y Diseño.",
-          "content": "1. Los centros de enseñanzas artísticas profesionales de artes plásticas y diseño deberán cumplir, como mínimo, los siguientes requisitos referentes a instalaciones y condiciones materiales:\n\na) Aulas destinadas a la impartición de clases teóricas con una superficie mínima adecuada al número de puestos escolares.\n\nb) Aulas destinadas a la impartición de clases teórico-prácticas con una superficie mínima adecuada al número puestos escolares.\n\nc) Un aula para cada uno de los talleres específicos correspondientes a los ciclos formativos que imparta el centro, con la superficie mínima adecuada y con el equipamiento que se determine en los respectivos títulos de artes plásticas y diseño.\n\nd) Un espacio de uso polivalente que pueda utilizarse para exposiciones, actividades artísticas y otros actos.\n\n2. Las Administraciones educativas determinarán, con carácter general, el número de aulas necesarias por puestos escolares en los supuestos contenidos en las letras a) y b) del apartado anterior, de acuerdo con el plan de estudios que establezcan."
+          "type": "capitulo",
+          "id": "titulo-3-cap-2",
+          "title": "Capítulo II. De los centros de enseñanzas artísticas superiores de música",
+          "children": [
+            {
+              "type": "articulo",
+              "id": "art-21",
+              "number": "21",
+              "title": "Artículo 21. Requisitos de los centros de enseñanzas artísticas superiores de música.",
+              "content": "1. Los centros superiores de enseñanza de música impartirán como mínimo la especialidad de Interpretación con la materia de piano y todas las materias instrumentales de la orquesta sinfónica y, al menos, otras dos especialidades. En el caso de que un centro se especialice en la enseñanza de la música moderna, deberá impartir las especialidades de Interpretación con las materias de piano, canto y todas las materias instrumentales que constituyen las plantillas de las distintas agrupaciones de la música moderna y, al menos, otras dos especialidades.\n\n2. Además de los requisitos establecidos en el artículo 3 de este real decreto, estos centros deberán cumplir, como mínimo, los siguientes requisitos referentes a instalaciones y condiciones materiales:\n\na) Auditorio, con un escenario y una capacidad acorde con el número de usuarios posible y los equipamientos necesarios para su finalidad.\n\nb) Aulas de enseñanza no instrumental, con una superficie adecuada a la naturaleza de las asignaturas que en ellas se impartan y a la relación numérica profesorado-alumnado de las mismas.\n\nc) Aulas destinadas a la impartición de clases de música de cámara, conjunto u otras clases colectivas de instrumento o voz, con una superficie adecuada a la naturaleza de las agrupaciones instrumentales o vocales más características y/o, en su caso, a la relación numérica profesor-alumnado de las asignaturas que en ellas se impartan.\n\nd) Aulas destinadas a las actividades de orquesta y coro, con una superficie adecuada a la naturaleza de las diferentes agrupaciones y/o, en su caso, a la relación numérica profesor-alumnado de las asignaturas que en ellas se impartan.\n\ne) Aulas de enseñanza instrumental o vocal individual, con una superficie adecuada a la naturaleza de la especialidad instrumental o vocal que en ella se imparta. En el caso de que otras clases colectivas se impartieran en estas aulas, la superficie de las mismas se adecuará a la relación numérica profesor-alumnado de estas asignaturas.\n\nf) Aquellos otros espacios específicos de determinadas especialidades, de conformidad con lo que establezca la normativa correspondiente.\n\n3. Las Administraciones educativas podrán determinar, con carácter general, el número de aulas necesarias por puestos escolares y espacios específicos de especialidades, de acuerdo con el currículum que establezcan."
+            },
+            {
+              "type": "articulo",
+              "id": "art-22",
+              "number": "22",
+              "title": "Artículo 22. Relación numérica profesor-alumnado.",
+              "content": "Los centros docentes de enseñanzas artísticas superiores de música tendrán:\n\na) En las clases de enseñanza no instrumental, como máximo, 1/15.\n\nb) En las clases de música de cámara, orquesta, coro u otras clases colectivas de instrumento, la relación profesor-alumnado quedará determinada por la agrupación de que se trate o por lo que, en su caso, se establezca en la normativa reguladora del currículum.\n\nc) En las clases de enseñanza instrumental individual, será de 1/1."
+            }
+          ]
         },
         {
-          "type": "articulo",
-          "id": "art-13",
-          "number": "13",
-          "title": "Artículo 13. Relación numérica profesorado-alumnado.",
-          "content": "En las enseñanzas artísticas profesionales correspondientes a ciclos formativos de grado medio y grado superior de artes plásticas y diseño, la relación numérica profesor- alumno será, como máximo, de 1/30 en las clases teóricas y teórico-prácticas y de 1/15 en las clases prácticas y talleres, sin perjuicio de que en la normativa reguladora del plan de estudios la Administración educativa determinen grupos más reducidos para la impartición de determinados talleres o módulos."
+          "type": "capitulo",
+          "id": "titulo-3-cap-3",
+          "title": "Capítulo III. De los centros de enseñanzas artísticas superiores de danza",
+          "children": [
+            {
+              "type": "articulo",
+              "id": "art-23",
+              "number": "23",
+              "title": "Artículo 23. Requisitos de los centros de enseñanzas artísticas superiores de danza.",
+              "content": "1. Los centros de enseñanzas artísticas superiores de danza deberán contar con la estructura organizativa necesaria para el desarrollo de las enseñanzas conducentes a la obtención de los títulos de Graduado o Graduada en las especialidades correspondientes.\n\n2. Además de los requisitos establecidos en el artículo 3 de este real decreto, estos centros deberán cumplir, como mínimo, los siguientes requisitos referentes a instalaciones:\n\nEspacios docentes con independencia del número de alumnos:\n\na) Aula de música, con una superficie adecuada a la naturaleza de las asignaturas que en ella se impartan y a la relación numérica profesor-alumnado de las mismas.\n\nb) Aula de maquillaje, con una superficie adecuada a su función.\n\nEspacios docentes dependientes del número de puestos escolares cuyo número será el preciso para que de acuerdo con el número de puestos escolares y la relación numérica profesor-alumnado pueda garantizarse el horario lectivo que se establezca en el plan de estudios:\n\na) Aulas destinadas a la impartición de clases de danza, con una superficie y altura adecuadas y materiales específicos para la prevención de lesiones corporales.\n\nb) Aulas para enseñanzas teóricas, con una superficie adecuada a la naturaleza de las asignaturas que en ellas se impartan y a la relación numérica profesor-alumnado de las mismas.\n\nc) Teatro, con un escenario y una capacidad acorde con el número de usuarios posible y los equipamientos necesarios para realizar representaciones de danza.\n\nd) Vestuarios con duchas adecuados a la capacidad del centro.\n\ne) Almacén para vestuario y escenografía con una superficie adecuada. Las Administraciones educativas podrán determinar, con carácter general, el número de aulas necesarias por puestos escolares en los supuestos a), b) y c) anteriores, de acuerdo con el currículum que establezcan."
+            },
+            {
+              "type": "articulo",
+              "id": "art-24",
+              "number": "24",
+              "title": "Artículo 24. Relación numérica profesor-alumnado.",
+              "content": "Los centros docentes que ofrecen las enseñanzas artísticas superiores de danza tendrán, como máximo, una relación 1/25."
+            }
+          ]
         },
         {
-          "type": "articulo",
-          "id": "art-14",
-          "number": "14",
-          "title": "Artículo 14. Enseñanzas en los Centros docentes integrados.",
-          "content": "Los requisitos mínimos que deberán reunir los centros integrados de música o de danza a que se refiere el artículo 47.2 de la Ley Orgánica 2/2006, de Educación, serán los que se establece en este real decreto, junto con los requisitos establecidos en el Real Decreto 132/2010, de 12 de febrero, por el que se establecen los requisitos mínimos los centros que impartan las enseñanzas del segundo ciclo de educación infantil, educación primaria y la educación secundaria, para las enseñanzas que impartan."
+          "type": "capitulo",
+          "id": "titulo-3-cap-4",
+          "title": "Capítulo IV. De los centros de enseñanzas artísticas superiores de arte dramático",
+          "children": [
+            {
+              "type": "articulo",
+              "id": "art-25",
+              "number": "25",
+              "title": "Artículo 25. Requisitos de los centros de enseñanzas artísticas superiores de arte dramático.",
+              "content": "1. Los centros de enseñanzas artísticas superiores de arte dramático deberán contar con la estructura organizativa necesaria para el desarrollo de las enseñanzas conducentes a la obtención de los títulos de Graduado o Graduada en las especialidades correspondientes.\n\n2. Además de los requisitos establecidos en el artículo 3 de este real decreto, en los centros de enseñanzas artísticas superiores de arte dramático serán necesarios, como mínimo, los siguientes requisitos referidos a instalaciones y condiciones materiales:\n\nEspacios docentes con independencia del número de alumnos:\n\na) Taller de escenografía, con una superficie adecuada a la naturaleza de las asignaturas que en él se impartan y a la relación numérica profesorado-alumnado del mismo.\n\nb) Taller de vestuario, con una superficie adecuada a la naturaleza de las asignaturas que en él se impartan y a la relación numérica profesorado-alumnado del mismo.\n\nEspacios docentes dependientes del número de puestos escolares cuyo número será el preciso para que, de acuerdo con el número de puestos escolares y la relación numérica profesor-alumnado, pueda garantizarse el horario que se establezca en el plan de estudios:\n\na) Aulas acondicionadas para las enseñanzas relativas a la técnica y expresión corporal, con una superficie adecuada a la naturaleza de las asignaturas que en ellas se impartan y a la relación numérica profesor-alumnado de las mismas.\n\nb) Aulas acondicionadas para las enseñanzas de interpretación, con una superficie adecuada a la naturaleza de las asignaturas que en ellas se impartan y a la relación numérica profesor-alumnado de las mismas.\n\nc) Aulas para enseñanzas teóricas, con una superficie adecuada a la naturaleza de las asignaturas que en ellas se impartan y a la relación numérica profesor-alumnado de las mismas.\n\nd) Aulas acondicionadas para las enseñanzas de caracterización, con una superficie adecuada a la naturaleza de las asignaturas que en ellas se impartan y a la relación numérica profesor-alumnado de las mismas.\n\ne) Aulas acondicionadas para las enseñanzas de técnica vocal y canto, con una superficie adecuada a la naturaleza de las asignaturas que en ellas se impartan y a la relación numérica profesor-alumnado de las mismas.\n\nf) Teatro, con un escenario y una capacidad acorde con el número de usuarios posible y equipamientos suficientes para la realización de las prácticas específicas de las especialidades impartidas.\n\ng) Almacén para vestuario y escenografía con una superficie adecuada.\n\nh) Vestuarios con duchas adecuados a la capacidad del centro.\n\nLas Administraciones educativas podrán determinar, con carácter general, el número de aulas necesarias por puestos escolares en los supuestos a)-e) anteriores, de acuerdo con el currículum que establezcan."
+            },
+            {
+              "type": "articulo",
+              "id": "art-26",
+              "number": "26",
+              "title": "Artículo 26. Relación numérica profesor-alumnado.",
+              "content": "Los centros docentes que ofrecen las enseñanzas correspondientes a las enseñanzas superiores de arte dramático tendrán, como máximo, una relación numérica 1/12 en las enseñanzas que se definan como prácticas y no podrá superar la relación 1/24 para las que se establezcan como teórico-prácticas y técnicas en el plan de estudios. En el caso de las enseñanzas instrumentales, las Administraciones educativas podrán establecer las relaciones numéricas previstas en el artículo 22 de este real decreto. y restauración de bienes culturales"
+            }
+          ]
         },
         {
-          "type": "articulo",
-          "id": "art-15",
-          "number": "15",
-          "title": "Artículo 15. Requisitos para ejercer la docencia en las enseñanzas artísticas profesionales.",
-          "content": "1. Para impartir la docencia de las enseñanzas elementales y profesionales de música y danza será necesario estar en posesión del título de Graduado, Licenciado, Ingeniero o Arquitecto, o titulación equivalente a efectos de docencia.\n\nPara ejercer la docencia de las enseñanzas profesionales de artes plásticas y diseño será necesario estar en posesión del título de Graduado, Licenciado, Ingeniero o Arquitecto, o titulación equivalente a efectos de docencia, sin perjuicio de la intervención educativa de otros profesionales y de la habilitación de otras titulaciones que, a efectos de docencia, pudiera establecer el Gobierno para determinados módulos, previa consulta a las comunidades autónomas.\n\nPara ejercer la docencia de las enseñanzas artísticas profesionales se requerirá, asimismo, la formación pedagógica y didáctica a la que se refiere el artículo siguiente.\n\n2. El profesorado de centros de enseñanzas artísticas profesionales deberá acreditar la cualificación específica para impartir las asignaturas y, en su caso, materias respectivas que establezca el Gobierno, de acuerdo con lo previsto en la Ley Orgánica 2/2006, de Educación.\n\n3. Excepcionalmente, para determinadas materias se podrán incorporar como profesores especialistas a profesionales, no necesariamente titulados, que ostenten la necesaria cualificación profesional y desarrollen su actividad en el ámbito laboral, de conformidad con las necesidades del sistema educativo. Dicha incorporación se realizará en régimen laboral o administrativo, de acuerdo con la normativa que resulte de aplicación."
+          "type": "capitulo",
+          "id": "titulo-3-cap-5",
+          "title": "Capítulo V. De los centros de enseñanzas artísticas superiores de conservación y restauración de bienes culturales",
+          "children": [
+            {
+              "type": "articulo",
+              "id": "art-27",
+              "number": "27",
+              "title": "Artículo 27. Requisitos relativos a las instalaciones de los centros de enseñanzas artísticas superiores de conservación y restauración de bienes culturales.",
+              "content": "1. Los centros de enseñanzas artísticas superiores de conservación y restauración de bienes culturales deberán contar con la estructura organizativa necesaria para el desarrollo de las enseñanzas conducentes a la obtención de los títulos de Graduado o Graduada en las especialidades correspondientes.\n\n2. En los centros que impartan enseñanzas correspondientes a las enseñanzas artísticas superiores de conservación y restauración de bienes culturales serán necesarios como mínimo los siguientes requisitos referidos a instalaciones y condiciones materiales, en función de la ratio establecida:\n\na) Aulas para asignaturas teóricas por especialidad, con medios y recursos que permitan el uso de nuevas tecnologías.\n\nb) Un aula específica de proyectos debidamente equipada.\n\nc) Aulas-taller para procedimientos plásticos y técnicas artísticas.\n\nd) Un laboratorio de química, física y biología debidamente equipado para el examen científico de los bienes culturales.\n\ne) Talleres de técnicas de la especialidad dotadas de la maquinaria y tecnologías específicas.\n\nf) Talleres de prácticas de conservación y restauración equipados debidamente y diferenciados para los cursos comunes y los cursos de especialidad.\n\ng) Un laboratorio fotográfico de investigación debidamente equipado.\n\nh) Un espacio de uso polivalente que pueda utilizarse para exposiciones, actividades artísticas y otros actos.\n\ni) Espacios diferenciados para almacenaje de productos, obra restaurada y obra pendiente de restaurar, en condiciones óptimas de conservación y seguridad."
+            },
+            {
+              "type": "articulo",
+              "id": "art-28",
+              "number": "28",
+              "title": "Artículo 28. Relación numérica profesor-alumnado.",
+              "content": "Los centros docentes que impartan los estudios superiores de conservación y restauración de bienes culturales tendrán, como máximo, una relación numérica 1/20 en las clases teóricas, y 1/10 en las clases teórico-prácticas y en los talleres."
+            }
+          ]
         },
         {
-          "type": "articulo",
-          "id": "art-16",
-          "number": "16",
-          "title": "Artículo 16. Formación pedagógica y didáctica del profesorado de enseñanzas artísticas profesionales.",
-          "content": "1. Para ejercer la docencia en las enseñanzas artísticas profesionales, será necesario estar en posesión de un título oficial de postgrado que acredite la formación pedagógica y didáctica de acuerdo con lo exigido por el artículo 96 y en la disposición transitoria octava de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.\n\n2. El título de postgrado al que se refiere el apartado anterior podrá ser un título universitario oficial de máster o bien un título de máster de los regulados en el artículo 9 del Real Decreto 1614/2009, de 26 de octubre, por el que se establece la ordenación de las enseñanzas artísticas superiores. Sus planes de estudios tendrán una duración de 60 créditos europeos a los que se refieren el artículo 4 del citado Real Decreto y el artículo 5 del Real Decreto 1393/2007, de 29 de octubre, por el que se establece la ordenación de las enseñanzas universitarias oficiales.\n\nCuando el título de postgrado sea un Master universitario se estará a lo dispuesto en el artículo 15.4 del citado Real Decreto 1393/2007, de 29 de octubre, en relación con los que habilitan para el ejercicio de profesiones reguladas.\n\n3. La denominación de los títulos de postgrado a los que se refiere este artículo deberá facilitar la identificación de la profesión para cuyo ejercicio habilita y en ningún caso, podrá conducir a error o confusión sobre sus efectos profesionales. No podrá ser objeto de autorización, ni de verificación por parte del Consejo de Universidades, ningún plan de estudios correspondiente a un título universitario oficial cuya denominación incluya la referencia expresa a la profesión de Profesor de Enseñanzas Artísticas Profesionales sin que dicho título cumpla las condiciones que establezca el Gobierno.\n\n4. Los planes de estudios de los títulos a los que se refiere el presente artículo deberán cumplir además de lo previsto, en su caso, en el referido Real Decreto 1393/2007, de 29 de octubre, y en el Real Decreto 1614/2009, de 26 de octubre, los requisitos que establezca el Ministerio de Educación respecto a objetivos del título y planificación de las enseñanzas.\n\n5. Los planes de estudios conducentes a la obtención de los títulos oficiales que habiliten para el ejercicio de la profesión de Profesor de Enseñanzas Artísticas Profesionales garantizarán la adquisición de las competencias necesarias para ejercer la profesión de acuerdo con lo regulado en la normativa aplicable."
-        }
-      ]
-    },
-    {
-      "type": "capitulo",
-      "id": "cap-4",
-      "title": "Capítulo IV. Enseñanzas artísticas superiores",
-      "children": [
-        {
-          "type": "articulo",
-          "id": "art-17",
-          "number": "17",
-          "title": "Artículo 17. Denominación de los centros de enseñanzas artísticas superiores.",
-          "content": "1. En los centros de enseñanzas artísticas superiores se podrán ofertar los estudios de grado y postgrado en las condiciones establecidas en el Real Decreto 1614/2009, de 26 de octubre, por el que se establece la ordenación de las enseñanzas artísticas superiores reguladas por la Ley Orgánica 2/2006, de 3 de mayo, de Educación.\n\n2. De conformidad con el artículo 111.3 de la Ley Orgánica de Educación, los centros públicos que impartan enseñanzas artísticas superiores recibirán las siguientes denominaciones genéricas:\n\na) Conservatorios Superiores de Música o Escuelas Superiores de Música.\n\nb) Conservatorios Superiores de Danza o Escuelas Superiores de Danza.\n\nc) Escuelas Superiores de Arte Dramático.\n\nd) Escuelas superiores de Conservación y Restauración de Bienes Culturales.\n\ne) Escuelas superiores de Diseño.\n\nf) Escuelas superiores de la especialidad correspondiente cuando impartan estudios superiores de Artes Plásticas.\n\n3. No podrán utilizarse denominaciones que sean coincidentes con los centros y enseñanzas a las que se refiere el apartado anterior, o que por su significado puedan inducir a confusión con éstos.\n\n4. Corresponde a las Administraciones educativas determinar la denominación de aquellos centros públicos que ofrezcan enseñanzas de educación superior agrupadas de manera distinta a las definidas en el presente artículo."
+          "type": "capitulo",
+          "id": "titulo-3-cap-6",
+          "title": "Capítulo VI. De los centros de enseñanzas artísticas superiores de diseño",
+          "children": [
+            {
+              "type": "articulo",
+              "id": "art-29",
+              "number": "29",
+              "title": "Artículo 29. Requisitos relativos a las instalaciones de los centros de enseñanzas artísticas superiores de diseño.",
+              "content": "1. Los centros de enseñanzas artísticas superiores de diseño deberán contar con la estructura organizativa necesaria para el desarrollo de las enseñanzas conducentes a la obtención de los títulos de Graduado o Graduada en las especialidades correspondientes.\n\n2. En los centros que impartan enseñanzas correspondientes a las enseñanzas artísticas superiores de diseño serán necesarios como mínimo los siguientes requisitos referidos a instalaciones y condiciones materiales:\n\na) Aulas para asignaturas teóricas por especialidad, con medios y recursos que permitan el uso de nuevas tecnologías.\n\nb) Un aula de proyectos debidamente equipada.\n\nc) Aulas-taller para procedimientos plásticos y técnicas artísticas.\n\nd) Talleres de técnicas vinculadas a la especialidad dotados de la maquinaria y tecnologías específicas.\n\ne) Un estudio y un laboratorio fotográfico debidamente equipados.\n\nf) Un espacio de uso polivalente que pueda utilizarse para exposiciones, actividades artísticas y otros actos.\n\ng) Espacios diferenciados para almacenaje de materiales, productos y trabajos realizados, en condiciones óptimas de conservación y seguridad."
+            },
+            {
+              "type": "articulo",
+              "id": "art-30",
+              "number": "30",
+              "title": "Artículo 30. Relación numérica profesor-alumno.",
+              "content": "Los centros que impartan enseñanzas correspondientes a las enseñanzas artísticas superiores de diseño, tendrán como máximo una relación numérica 1/20 en las clases teóricas, y 1/10 alumnos por grupo en las clases teórico-prácticas y en los talleres."
+            }
+          ]
         },
         {
-          "type": "articulo",
-          "id": "art-18",
-          "number": "18",
-          "title": "Artículo 18. Centros privados superiores de enseñanzas artísticas.",
-          "content": "1. Son centros privados superiores de enseñanzas artísticas los autorizados por las Administraciones educativas y cuyo titular sea una persona física o jurídica de carácter privado.\n\n2. La apertura y funcionamiento de centros docentes de titularidad privada para impartir estudios superiores de enseñanzas artísticas conducentes a la obtención de títulos oficiales, requerirá la autorización de las Administraciones educativas y deberán cumplir los requisitos básicos y aquellos que figuren en el real decreto del título correspondiente."
-        },
-        {
-          "type": "articulo",
-          "id": "art-19",
-          "number": "19",
-          "title": "Artículo 19. Requisitos relativos a las instalaciones de los centros superiores de enseñanzas artísticas.",
-          "content": "1. Los centros de enseñanzas artísticas superiores deberán contar con las instalaciones a las que se refiere el artículo 3 de este real decreto, así como espacios destinados a departamentos y equipamientos para desarrollar las tareas de investigación propias de estas enseñanzas.\n\n2. Igualmente deberán cumplir los requisitos de espacios y equipamientos necesarios para la impartición de las enseñanzas establecidas en los correspondientes reales decretos por los que se regule cada título."
-        },
-        {
-          "type": "articulo",
-          "id": "art-20",
-          "number": "20",
-          "title": "Artículo 20. Requisitos para ejercer la docencia en las enseñanzas artísticas superiores.",
-          "content": "1. Los centros de enseñanzas artísticas superiores contarán con la estructura docente necesaria para la organización y desarrollo de enseñanzas conducentes a los títulos de graduado y a los títulos de máster en enseñanzas artísticas, así como a los estudios de doctorado propios de las enseñanzas artísticas según los convenios de las Administraciones educativas con la universidades y el fomento de programas de investigación en el ámbito de las disciplinas que les son propios.\n\n2. Cuando un centro de enseñanzas artísticas superiores imparta estudios de máster, al menos un 15 por 100 del personal docente que vaya a impartir dichos estudios deberá hallarse en posesión del título de Doctor.\n\n3. Para ejercer la docencia de las enseñanzas artísticas superiores será necesario estar en posesión del título de Graduado, Licenciado, Ingeniero o Arquitecto, o titulación equivalente a efectos de docencia, sin perjuicio de la habilitación de otras titulaciones que, a efectos de docencia, pudiera establecer el Gobierno para determinadas materias, previa consulta a las Comunidades Autónomas.\n\n4. En la regulación de las enseñanzas artísticas superiores el Gobierno, previa consulta a las comunidades autónomas, podrá incluir otras exigencias para el profesorado que las asuma, derivadas de las condiciones de inserción de estas enseñanzas en el marco de la educación superior.\n\n5. Excepcionalmente, para determinadas materias de las enseñanzas artísticas superiores se podrán incorporar como profesores especialistas a profesionales, no necesariamente titulados, que ostenten la necesaria cualificación profesional y desarrollen su actividad en el ámbito laboral o tengan nacionalidad extranjera, de conformidad con su cualificación y las necesidades del sistema educativo. Dicha incorporación se realizará en régimen laboral o administrativo de acuerdo con la normativa que resulte de aplicación.\n\n6. Para estas enseñanzas el Gobierno, previa consulta a las comunidades autónomas, establecerá la figura de profesor emérito."
-        }
-      ]
-    },
-    {
-      "type": "capitulo",
-      "id": "cap-5",
-      "title": "Capítulo V. Enseñanzas elementales de música y danza",
-      "children": [
-        {
-          "type": "articulo",
-          "id": "art-21",
-          "number": "21",
-          "title": "Artículo 21. Requisitos de los centros de enseñanzas artísticas superiores de música.",
-          "content": "1. Los centros superiores de enseñanza de música impartirán como mínimo la especialidad de Interpretación con la materia de piano y todas las materias instrumentales de la orquesta sinfónica y, al menos, otras dos especialidades. En el caso de que un centro se especialice en la enseñanza de la música moderna, deberá impartir las especialidades de Interpretación con las materias de piano, canto y todas las materias instrumentales que constituyen las plantillas de las distintas agrupaciones de la música moderna y, al menos, otras dos especialidades.\n\n2. Además de los requisitos establecidos en el artículo 3 de este real decreto, estos centros deberán cumplir, como mínimo, los siguientes requisitos referentes a instalaciones y condiciones materiales:\n\na) Auditorio, con un escenario y una capacidad acorde con el número de usuarios posible y los equipamientos necesarios para su finalidad.\n\nb) Aulas de enseñanza no instrumental, con una superficie adecuada a la naturaleza de las asignaturas que en ellas se impartan y a la relación numérica profesorado-alumnado de las mismas.\n\nc) Aulas destinadas a la impartición de clases de música de cámara, conjunto u otras clases colectivas de instrumento o voz, con una superficie adecuada a la naturaleza de las agrupaciones instrumentales o vocales más características y/o, en su caso, a la relación numérica profesor-alumnado de las asignaturas que en ellas se impartan.\n\nd) Aulas destinadas a las actividades de orquesta y coro, con una superficie adecuada a la naturaleza de las diferentes agrupaciones y/o, en su caso, a la relación numérica profesor-alumnado de las asignaturas que en ellas se impartan.\n\ne) Aulas de enseñanza instrumental o vocal individual, con una superficie adecuada a la naturaleza de la especialidad instrumental o vocal que en ella se imparta. En el caso de que otras clases colectivas se impartieran en estas aulas, la superficie de las mismas se adecuará a la relación numérica profesor-alumnado de estas asignaturas.\n\nf) Aquellos otros espacios específicos de determinadas especialidades, de conformidad con lo que establezca la normativa correspondiente.\n\n3. Las Administraciones educativas podrán determinar, con carácter general, el número de aulas necesarias por puestos escolares y espacios específicos de especialidades, de acuerdo con el currículum que establezcan."
-        },
-        {
-          "type": "articulo",
-          "id": "art-22",
-          "number": "22",
-          "title": "Artículo 22. Relación numérica profesor-alumnado.",
-          "content": "Los centros docentes de enseñanzas artísticas superiores de música tendrán:\n\na) En las clases de enseñanza no instrumental, como máximo, 1/15.\n\nb) En las clases de música de cámara, orquesta, coro u otras clases colectivas de instrumento, la relación profesor-alumnado quedará determinada por la agrupación de que se trate o por lo que, en su caso, se establezca en la normativa reguladora del currículum.\n\nc) En las clases de enseñanza instrumental individual, será de 1/1."
-        },
-        {
-          "type": "articulo",
-          "id": "art-23",
-          "number": "23",
-          "title": "Artículo 23. Requisitos de los centros de enseñanzas artísticas superiores de danza.",
-          "content": "1. Los centros de enseñanzas artísticas superiores de danza deberán contar con la estructura organizativa necesaria para el desarrollo de las enseñanzas conducentes a la obtención de los títulos de Graduado o Graduada en las especialidades correspondientes.\n\n2. Además de los requisitos establecidos en el artículo 3 de este real decreto, estos centros deberán cumplir, como mínimo, los siguientes requisitos referentes a instalaciones:\n\nEspacios docentes con independencia del número de alumnos:\n\na) Aula de música, con una superficie adecuada a la naturaleza de las asignaturas que en ella se impartan y a la relación numérica profesor-alumnado de las mismas.\n\nb) Aula de maquillaje, con una superficie adecuada a su función.\n\nEspacios docentes dependientes del número de puestos escolares cuyo número será el preciso para que de acuerdo con el número de puestos escolares y la relación numérica profesor-alumnado pueda garantizarse el horario lectivo que se establezca en el plan de estudios:\n\na) Aulas destinadas a la impartición de clases de danza, con una superficie y altura adecuadas y materiales específicos para la prevención de lesiones corporales.\n\nb) Aulas para enseñanzas teóricas, con una superficie adecuada a la naturaleza de las asignaturas que en ellas se impartan y a la relación numérica profesor-alumnado de las mismas.\n\nc) Teatro, con un escenario y una capacidad acorde con el número de usuarios posible y los equipamientos necesarios para realizar representaciones de danza.\n\nd) Vestuarios con duchas adecuados a la capacidad del centro.\n\ne) Almacén para vestuario y escenografía con una superficie adecuada. Las Administraciones educativas podrán determinar, con carácter general, el número de aulas necesarias por puestos escolares en los supuestos a), b) y c) anteriores, de acuerdo con el currículum que establezcan."
-        },
-        {
-          "type": "articulo",
-          "id": "art-24",
-          "number": "24",
-          "title": "Artículo 24. Relación numérica profesor-alumnado.",
-          "content": "Los centros docentes que ofrecen las enseñanzas artísticas superiores de danza tendrán, como máximo, una relación 1/25."
-        }
-      ]
-    },
-    {
-      "type": "capitulo",
-      "id": "cap-6",
-      "title": "Capítulo VI. Escuelas de música y de danza",
-      "children": [
-        {
-          "type": "articulo",
-          "id": "art-25",
-          "number": "25",
-          "title": "Artículo 25. Requisitos de los centros de enseñanzas artísticas superiores de arte dramático.",
-          "content": "1. Los centros de enseñanzas artísticas superiores de arte dramático deberán contar con la estructura organizativa necesaria para el desarrollo de las enseñanzas conducentes a la obtención de los títulos de Graduado o Graduada en las especialidades correspondientes.\n\n2. Además de los requisitos establecidos en el artículo 3 de este real decreto, en los centros de enseñanzas artísticas superiores de arte dramático serán necesarios, como mínimo, los siguientes requisitos referidos a instalaciones y condiciones materiales:\n\nEspacios docentes con independencia del número de alumnos:\n\na) Taller de escenografía, con una superficie adecuada a la naturaleza de las asignaturas que en él se impartan y a la relación numérica profesorado-alumnado del mismo.\n\nb) Taller de vestuario, con una superficie adecuada a la naturaleza de las asignaturas que en él se impartan y a la relación numérica profesorado-alumnado del mismo.\n\nEspacios docentes dependientes del número de puestos escolares cuyo número será el preciso para que, de acuerdo con el número de puestos escolares y la relación numérica profesor-alumnado, pueda garantizarse el horario que se establezca en el plan de estudios:\n\na) Aulas acondicionadas para las enseñanzas relativas a la técnica y expresión corporal, con una superficie adecuada a la naturaleza de las asignaturas que en ellas se impartan y a la relación numérica profesor-alumnado de las mismas.\n\nb) Aulas acondicionadas para las enseñanzas de interpretación, con una superficie adecuada a la naturaleza de las asignaturas que en ellas se impartan y a la relación numérica profesor-alumnado de las mismas.\n\nc) Aulas para enseñanzas teóricas, con una superficie adecuada a la naturaleza de las asignaturas que en ellas se impartan y a la relación numérica profesor-alumnado de las mismas.\n\nd) Aulas acondicionadas para las enseñanzas de caracterización, con una superficie adecuada a la naturaleza de las asignaturas que en ellas se impartan y a la relación numérica profesor-alumnado de las mismas.\n\ne) Aulas acondicionadas para las enseñanzas de técnica vocal y canto, con una superficie adecuada a la naturaleza de las asignaturas que en ellas se impartan y a la relación numérica profesor-alumnado de las mismas.\n\nf) Teatro, con un escenario y una capacidad acorde con el número de usuarios posible y equipamientos suficientes para la realización de las prácticas específicas de las especialidades impartidas.\n\ng) Almacén para vestuario y escenografía con una superficie adecuada.\n\nh) Vestuarios con duchas adecuados a la capacidad del centro.\n\nLas Administraciones educativas podrán determinar, con carácter general, el número de aulas necesarias por puestos escolares en los supuestos a)-e) anteriores, de acuerdo con el currículum que establezcan."
-        },
-        {
-          "type": "articulo",
-          "id": "art-26",
-          "number": "26",
-          "title": "Artículo 26. Relación numérica profesor-alumnado.",
-          "content": "Los centros docentes que ofrecen las enseñanzas correspondientes a las enseñanzas superiores de arte dramático tendrán, como máximo, una relación numérica 1/12 en las enseñanzas que se definan como prácticas y no podrá superar la relación 1/24 para las que se establezcan como teórico-prácticas y técnicas en el plan de estudios. En el caso de las enseñanzas instrumentales, las Administraciones educativas podrán establecer las relaciones numéricas previstas en el artículo 22 de este real decreto. y restauración de bienes culturales"
-        }
-      ]
-    },
-    {
-      "type": "capitulo",
-      "id": "cap-7",
-      "title": "Capítulo VII. Enseñanzas de idiomas",
-      "children": [
-        {
-          "type": "articulo",
-          "id": "art-27",
-          "number": "27",
-          "title": "Artículo 27. Requisitos relativos a las instalaciones de los centros de enseñanzas artísticas superiores de conservación y restauración de bienes culturales.",
-          "content": "1. Los centros de enseñanzas artísticas superiores de conservación y restauración de bienes culturales deberán contar con la estructura organizativa necesaria para el desarrollo de las enseñanzas conducentes a la obtención de los títulos de Graduado o Graduada en las especialidades correspondientes.\n\n2. En los centros que impartan enseñanzas correspondientes a las enseñanzas artísticas superiores de conservación y restauración de bienes culturales serán necesarios como mínimo los siguientes requisitos referidos a instalaciones y condiciones materiales, en función de la ratio establecida:\n\na) Aulas para asignaturas teóricas por especialidad, con medios y recursos que permitan el uso de nuevas tecnologías.\n\nb) Un aula específica de proyectos debidamente equipada.\n\nc) Aulas-taller para procedimientos plásticos y técnicas artísticas.\n\nd) Un laboratorio de química, física y biología debidamente equipado para el examen científico de los bienes culturales.\n\ne) Talleres de técnicas de la especialidad dotadas de la maquinaria y tecnologías específicas.\n\nf) Talleres de prácticas de conservación y restauración equipados debidamente y diferenciados para los cursos comunes y los cursos de especialidad.\n\ng) Un laboratorio fotográfico de investigación debidamente equipado.\n\nh) Un espacio de uso polivalente que pueda utilizarse para exposiciones, actividades artísticas y otros actos.\n\ni) Espacios diferenciados para almacenaje de productos, obra restaurada y obra pendiente de restaurar, en condiciones óptimas de conservación y seguridad."
-        },
-        {
-          "type": "articulo",
-          "id": "art-28",
-          "number": "28",
-          "title": "Artículo 28. Relación numérica profesor-alumnado.",
-          "content": "Los centros docentes que impartan los estudios superiores de conservación y restauración de bienes culturales tendrán, como máximo, una relación numérica 1/20 en las clases teóricas, y 1/10 en las clases teórico-prácticas y en los talleres."
-        }
-      ]
-    },
-    {
-      "type": "capitulo",
-      "id": "cap-8",
-      "title": "Capítulo VIII. Enseñanzas deportivas",
-      "children": [
-        {
-          "type": "articulo",
-          "id": "art-29",
-          "number": "29",
-          "title": "Artículo 29. Requisitos relativos a las instalaciones de los centros de enseñanzas artísticas superiores de diseño.",
-          "content": "1. Los centros de enseñanzas artísticas superiores de diseño deberán contar con la estructura organizativa necesaria para el desarrollo de las enseñanzas conducentes a la obtención de los títulos de Graduado o Graduada en las especialidades correspondientes.\n\n2. En los centros que impartan enseñanzas correspondientes a las enseñanzas artísticas superiores de diseño serán necesarios como mínimo los siguientes requisitos referidos a instalaciones y condiciones materiales:\n\na) Aulas para asignaturas teóricas por especialidad, con medios y recursos que permitan el uso de nuevas tecnologías.\n\nb) Un aula de proyectos debidamente equipada.\n\nc) Aulas-taller para procedimientos plásticos y técnicas artísticas.\n\nd) Talleres de técnicas vinculadas a la especialidad dotados de la maquinaria y tecnologías específicas.\n\ne) Un estudio y un laboratorio fotográfico debidamente equipados.\n\nf) Un espacio de uso polivalente que pueda utilizarse para exposiciones, actividades artísticas y otros actos.\n\ng) Espacios diferenciados para almacenaje de materiales, productos y trabajos realizados, en condiciones óptimas de conservación y seguridad."
-        },
-        {
-          "type": "articulo",
-          "id": "art-30",
-          "number": "30",
-          "title": "Artículo 30. Relación numérica profesor-alumno.",
-          "content": "Los centros que impartan enseñanzas correspondientes a las enseñanzas artísticas superiores de diseño, tendrán como máximo una relación numérica 1/20 en las clases teóricas, y 1/10 alumnos por grupo en las clases teórico-prácticas y en los talleres."
-        },
-        {
-          "type": "articulo",
-          "id": "art-31",
-          "number": "31",
-          "title": "Artículo 31. Requisitos de instalaciones de los centros de enseñanzas artísticas superiores de cerámica.",
-          "content": "1. Los centros de enseñanzas artísticas superiores de cerámica deberán contar con la estructura organizativa necesaria para el desarrollo de las enseñanzas conducentes a la obtención de los títulos de Graduado o Graduada en las especialidades correspondientes.\n\n2. En los centros que impartan enseñanzas artísticas superiores de cerámica serán necesarios como mínimo los siguientes requisitos referentes a instalaciones y condiciones materiales:\n\na) Aulas para asignaturas teóricas por especialidad, con medios y recursos que permitan el uso de nuevas tecnologías.\n\nb) Un aula específica de proyectos debidamente equipada.\n\nc) Aulas-taller para procedimientos plásticos y técnicas artísticas.\n\nd) Un laboratorio general cerámico con la dotación adecuada.\n\ne) Talleres de técnicas vinculadas a la especialidad dotados de la maquinaria y tecnologías específicas, entre los que deberá figurar un taller de prototipos.\n\nf) Una nave de hornos dotada con el equipamiento necesario.\n\ng) Área de planta piloto dotada de los dispositivos para el estudio y realización de las operaciones de muestras experimentales de materias y productos cerámicos.\n\nh) Un espacio de uso polivalente que pueda utilizarse para exposiciones, actividades artísticas y otros actos.\n\ni) Espacios diferenciados para almacenaje de materiales, productos, piezas y trabajos realizados, en condiciones óptimas de conservación y seguridad."
-        },
-        {
-          "type": "articulo",
-          "id": "art-32",
-          "number": "32",
-          "title": "Artículo 32. Relación numérica profesor-alumno.",
-          "content": "Los centros que impartan las enseñanzas artísticas superiores de cerámica, tendrán una relación máxima de 1/20 en las clases teóricas, y 1/10 en las clases teórico-prácticas y en los talleres."
-        },
-        {
-          "type": "articulo",
-          "id": "art-33",
-          "number": "33",
-          "title": "Artículo 33. Requisitos relativos a las instalaciones de los centros de enseñanzas artísticas superiores de vidrio.",
-          "content": "En los centros que impartan enseñanzas artísticas superiores de vidrio serán necesarios como mínimo los siguientes requisitos referentes a instalaciones y condiciones materiales:\n\na) Aulas para asignaturas teóricas por especialidad, con medios y recursos que permitan el uso de nuevas tecnologías.\n\nb) Un aula específica de proyectos debidamente equipada.\n\nc) Aulas-taller para procedimientos plásticos y técnicas artísticas.\n\nd) Un laboratorio dotado del equipamiento necesario para el análisis y caracterización de materias primas, materiales y productos vítreos y para la realización de ensayos tecnológicos y de colorimetría.\n\ne) Talleres de técnicas del vidrio dotados de las herramientas, hornos, maquinaria y tecnologías específicas, entre los que deberán figurar, al menos, un taller de procesos en caliente, de procesos en frío, de técnicas alternativas y de vidrio artístico.\n\nf) Un espacio de uso polivalente que pueda utilizarse para exposiciones, actividades artísticas y otros actos.\n\ng) Espacios diferenciados para almacenaje de materiales, productos, piezas y trabajos realizados, en condiciones óptimas de conservación y seguridad, con acceso directo al exterior y preparado para soporte y movimiento de cargas pesadas."
-        },
-        {
-          "type": "articulo",
-          "id": "art-34",
-          "number": "34",
-          "title": "Artículo 34. Relación numérica profesor-alumnado.",
-          "content": "Los centros que enseñanzas artísticas superiores de vidrio, tendrán una relación máxima 1/20 alumnos en las clases teóricas, y 1/10 alumnos en las clases teórico-prácticas y en los talleres."
+          "type": "capitulo",
+          "id": "titulo-3-cap-7",
+          "title": "Capítulo VII. De los centros de enseñanzas artísticas superiores de artes plásticas",
+          "children": [
+            {
+              "type": "articulo",
+              "id": "art-31",
+              "number": "31",
+              "title": "Artículo 31. Requisitos de instalaciones de los centros de enseñanzas artísticas superiores de cerámica.",
+              "content": "1. Los centros de enseñanzas artísticas superiores de cerámica deberán contar con la estructura organizativa necesaria para el desarrollo de las enseñanzas conducentes a la obtención de los títulos de Graduado o Graduada en las especialidades correspondientes.\n\n2. En los centros que impartan enseñanzas artísticas superiores de cerámica serán necesarios como mínimo los siguientes requisitos referentes a instalaciones y condiciones materiales:\n\na) Aulas para asignaturas teóricas por especialidad, con medios y recursos que permitan el uso de nuevas tecnologías.\n\nb) Un aula específica de proyectos debidamente equipada.\n\nc) Aulas-taller para procedimientos plásticos y técnicas artísticas.\n\nd) Un laboratorio general cerámico con la dotación adecuada.\n\ne) Talleres de técnicas vinculadas a la especialidad dotados de la maquinaria y tecnologías específicas, entre los que deberá figurar un taller de prototipos.\n\nf) Una nave de hornos dotada con el equipamiento necesario.\n\ng) Área de planta piloto dotada de los dispositivos para el estudio y realización de las operaciones de muestras experimentales de materias y productos cerámicos.\n\nh) Un espacio de uso polivalente que pueda utilizarse para exposiciones, actividades artísticas y otros actos.\n\ni) Espacios diferenciados para almacenaje de materiales, productos, piezas y trabajos realizados, en condiciones óptimas de conservación y seguridad."
+            },
+            {
+              "type": "articulo",
+              "id": "art-32",
+              "number": "32",
+              "title": "Artículo 32. Relación numérica profesor-alumno.",
+              "content": "Los centros que impartan las enseñanzas artísticas superiores de cerámica, tendrán una relación máxima de 1/20 en las clases teóricas, y 1/10 en las clases teórico-prácticas y en los talleres."
+            },
+            {
+              "type": "articulo",
+              "id": "art-33",
+              "number": "33",
+              "title": "Artículo 33. Requisitos relativos a las instalaciones de los centros de enseñanzas artísticas superiores de vidrio.",
+              "content": "En los centros que impartan enseñanzas artísticas superiores de vidrio serán necesarios como mínimo los siguientes requisitos referentes a instalaciones y condiciones materiales:\n\na) Aulas para asignaturas teóricas por especialidad, con medios y recursos que permitan el uso de nuevas tecnologías.\n\nb) Un aula específica de proyectos debidamente equipada.\n\nc) Aulas-taller para procedimientos plásticos y técnicas artísticas.\n\nd) Un laboratorio dotado del equipamiento necesario para el análisis y caracterización de materias primas, materiales y productos vítreos y para la realización de ensayos tecnológicos y de colorimetría.\n\ne) Talleres de técnicas del vidrio dotados de las herramientas, hornos, maquinaria y tecnologías específicas, entre los que deberán figurar, al menos, un taller de procesos en caliente, de procesos en frío, de técnicas alternativas y de vidrio artístico.\n\nf) Un espacio de uso polivalente que pueda utilizarse para exposiciones, actividades artísticas y otros actos.\n\ng) Espacios diferenciados para almacenaje de materiales, productos, piezas y trabajos realizados, en condiciones óptimas de conservación y seguridad, con acceso directo al exterior y preparado para soporte y movimiento de cargas pesadas."
+            },
+            {
+              "type": "articulo",
+              "id": "art-34",
+              "number": "34",
+              "title": "Artículo 34. Relación numérica profesor-alumnado.",
+              "content": "Los centros que enseñanzas artísticas superiores de vidrio, tendrán una relación máxima 1/20 alumnos en las clases teóricas, y 1/10 alumnos en las clases teórico-prácticas y en los talleres."
+            }
+          ]
         }
       ]
     },
