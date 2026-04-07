@@ -50,20 +50,32 @@
     {
       "type": "disposicion_adicional",
       "id": "da-unica",
-      "title": "Disposición adicional única",
-      "content": "Única. Incidencia en las dotaciones de gasto\n\nLa implementación y el posterior desarrollo de esta orden no podrán tener incidencia alguna en la dotación de todos y cada uno de los capítulos de gasto asignados a la consellería competente en materia de educación, y en todo caso deberá ser atendido con los medios personales y materiales de la consellería competente por razón de la materia."
+      "title": "Disposición adicional única. Incidencia en las dotaciones de gasto",
+      "content": "La implementación y el posterior desarrollo de esta orden no podrán tener incidencia alguna en la dotación de todos y cada uno de los capítulos de gasto asignados a la consellería competente en materia de educación, y en todo caso deberá ser atendido con los medios personales y materiales de la consellería competente por razón de la materia."
     },
     {
       "type": "disposicion_derogatoria",
       "id": "dd-unica",
-      "title": "Disposición derogatoria única",
-      "content": "Única. Derogación normativa\n\nQuedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en la presente orden."
+      "title": "Disposición derogatoria única. Derogación normativa",
+      "content": "Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en la presente orden."
     },
     {
       "type": "disposicion_final",
       "id": "df-1",
-      "title": "Disposiciones finales",
-      "content": "Primera. Aplicación y desarrollo\n\nSe autoriza a la consellería competente en materia de educación a dictar las disposiciones necesarias para la aplicación y el desarrollo de esta orden. Segunda. Entrada en vigor\n\nLa presente orden entrará en vigor el día siguiente al de su publicación en el Diari Oficial de la Comunitat Valenciana."
+      "title": "Disposición final primera. Aplicación y desarrollo",
+      "content": "Se autoriza a la consellería competente en materia de educación a dictar las disposiciones necesarias para la aplicación y el desarrollo de esta orden."
+    },
+    {
+      "type": "disposicion_final",
+      "id": "df-2",
+      "title": "Disposición final segunda. Entrada en vigor",
+      "content": "La presente orden entrará en vigor el día siguiente al de su publicación en el Diari Oficial de la Comunitat Valenciana."
+    },
+    {
+      "type": "anexo",
+      "id": "anexo-1",
+      "title": "Anexo I. Tiempos lectivos",
+      "content": "**Especialidad: Acordeón**\n\n| Asignatura | 1º | 2º | 3º | 4º | 5º | 6º | Total |\n|---|---|---|---|---|---|---|---|\n| **A. Propias de la especialidad** | | | | | | | |\n| Conjunto | 1 | 1 | 1 | 1 | | | 120 |\n| Coro | | | 2 | 2 | | | 120 |\n| Música de cámara | | | 1 | 1 | 1 | 1 | 120 |\n| **B. Comunes** | | | | | | | |\n| Instrumento | 1 | 1 | 1 | 1 | 1 | 1 | 180 |\n| L. Musical | 2 | 2 | | | | | 120 |\n| Armonía | | | 2 | 2 | | | 120 |\n| Análisis | | | | | 2 | 2 | 120 |\n| Historia de la música | | | | | 2 | 2 | 120 |\n| **C. Optatividad** | | | | | | | |\n| Optativa | | | | | 3 | 3 | 180 |\n| **Total semanal** | **4** | **4** | **7** | **7** | **9** | **9** | |\n| **Total** | | | | | | | **1.200** |\n\n**Especialidad: Instrumentos de cuerda pulsada del Renacimiento y Barroco**\n\n| Asignatura | 1º | 2º | 3º | 4º | 5º | 6º | Total |\n|---|---|---|---|---|---|---|---|\n| **A. Propias de la especialidad** | | | | | | | |\n| Conjunto | 1 | 1 | 1 | 1 | | | 120 |\n| Coro | | | 2 | 2 | | | 120 |\n| Música de cámara | | | 1 | 1 | 1 | 1 | 120 |\n| Piano/Clave complementario | | 0,5 | 0,5 | 0,5 | | | 45 |\n| **B. Comunes** | | | | | | | |\n| Instrumento | 1 | 1 | 1 | 1 | 1 | 1 | 180 |\n| L. Musical | 2 | 2 | | | | | 120 |\n| Armonía | | | 2 | 2 | | | 120 |\n| Análisis | | | | | 2 | 2 | 120 |\n| Historia de la música | | | | | 2 | 2 | 120 |\n| **C. Optatividad** | | | | | | | |\n| Optativa | | | | | 3 | 3 | 180 |\n| **Total semanal** | **4** | **4,5** | **7,5** | **7,5** | **9** | **9** | |\n| **Total** | | | | | | | **1.245** |\n\n**Especialidad: Instrumentos de púa**\n\n| Asignatura | 1º | 2º | 3º | 4º | 5º | 6º | Total |\n|---|---|---|---|---|---|---|---|\n| **A. Propias de la especialidad** | | | | | | | |\n| Conjunto | 1 | 1 | 1 | 1 | | | 120 |\n| Coro | | | 2 | 2 | | | 120 |\n| Música de cámara | | | 1 | 1 | 1 | 1 | 120 |\n| Piano/Clave complementario | | 0,5 | 0,5 | 0,5 | | | 45 |\n| **B. Comunes** | | | | | | | |\n| Instrumento | 1 | 1 | 1 | 1 | 1 | 1 | 180 |\n| L. Musical | 2 | 2 | | | | | 120 |\n| Armonía | | | 2 | 2 | | | 120 |\n| Análisis | | | | | 2 | 2 | 120 |\n| Historia de la música | | | | | 2 | 2 | 120 |\n| **C. Optatividad** | | | | | | | |\n| Optativa | | | | | 3 | 3 | 180 |\n| **Total semanal** | **4** | **4,5** | **7,5** | **7,5** | **9** | **9** | |\n| **Total** | | | | | | | **1.245** |\n\n**Especialidad: Viola da gamba**\n\n| Asignatura | 1º | 2º | 3º | 4º | 5º | 6º | Total |\n|---|---|---|---|---|---|---|---|\n| **A. Propias de la especialidad** | | | | | | | |\n| Conjunto | 1 | 1 | 1 | 1 | | | 120 |\n| Coro | | | 2 | 2 | | | 120 |\n| Música de cámara | | | 1 | 1 | 1 | 1 | 120 |\n| Clave complementario | | 0,5 | 0,5 | 0,5 | | | 45 |\n| **B. Comunes** | | | | | | | |\n| Instrumento | 1 | 1 | 1 | 1 | 1 | 1 | 180 |\n| L. Musical | 2 | 2 | | | | | 120 |\n| Armonía | | | 2 | 2 | | | 120 |\n| Análisis | | | | | 2 | 2 | 120 |\n| Historia de la música | | | | | 2 | 2 | 120 |\n| **C. Optatividad** | | | | | | | |\n| Optativa | | | | | 3 | 3 | 180 |\n| **Total semanal** | **4** | **4,5** | **7,5** | **7,5** | **9** | **9** | |\n| **Total** | | | | | | | **1.245** |"
     }
   ],
   "legalAnalysis": {

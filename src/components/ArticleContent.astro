@@ -38,12 +38,22 @@ function mdTableToHtml(block: string): string {
   return html;
 }
 
-/** Render a content block: table or paragraph */
+/** Render inline markdown: **bold** */
+function renderInline(text: string): string {
+  return text.replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>');
+}
+
+/** Render a content block: table, section heading, or paragraph */
 function renderBlock(block: string): string {
   if (block.trimStart().startsWith('|') && block.includes('|---')) {
     return mdTableToHtml(block);
   }
-  return `<p>${block}</p>`;
+  // A block that is entirely bold = section sub-heading
+  if (block.startsWith('**') && block.endsWith('**') && !block.slice(2, -2).includes('**')) {
+    return `<p class="content-heading">${block.slice(2, -2)}</p>`;
+  }
+  // Preserve single line breaks as <br> within a paragraph
+  return `<p>${renderInline(block.replace(/\n/g, '<br>'))}</p>`;
 }
 
 const contentHtml = (node.content ?? node.versions?.[0]?.content ?? '')
@@ -97,7 +107,10 @@ const contentHtml = (node.content ?? node.versions?.[0]?.content ?? '')
           }
           return html + '</tbody></table></div>';
         }
-        return `<p>${block}</p>`;
+        if (block.startsWith('**') && block.endsWith('**') && !block.slice(2,-2).includes('**')) {
+          return `<p class="content-heading">${block.slice(2,-2)}</p>`;
+        }
+        return `<p>${block.replace(/\n/g, '<br>').replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')}</p>`;
       }
 
       const selector = document.querySelector(`.version-selector[data-article-id="${nodeId}"] select`);
@@ -196,6 +209,16 @@ const contentHtml = (node.content ?? node.versions?.[0]?.content ?? '')
   .article-text :global(p) {
     margin-bottom: 0.8em;
     text-indent: 1.5em;
+  }
+
+  .article-text :global(.content-heading) {
+    font-weight: 700;
+    text-indent: 0;
+    margin-top: 1.2em;
+    margin-bottom: 0.4em;
+    font-family: var(--font-sans);
+    font-size: 0.9rem;
+    color: var(--color-primary);
   }
 
   .article-text :global(.table-wrapper) {

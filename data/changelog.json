@@ -1,5 +1,87 @@
 [
   {
+    "version": "0.4.1",
+    "date": "2026-04-07",
+    "entries": {
+      "es": [
+        {
+          "type": "corregido",
+          "description": "D.158/2007: Anexo I reconstruido con 36 secciones (añadidas Armonía, Historia de la Música, Estética, Fundamentos de composición, Criterios de evaluación de los instrumentos). Agrupación correcta de viento madera y viento metal. Headings marcados en todas las secciones"
+        },
+        {
+          "type": "corregido",
+          "description": "D.158/2007: Anexo II de tiempos lectivos reconstruido con 18 tablas limpias por especialidad"
+        },
+        {
+          "type": "corregido",
+          "description": "D.158/2007: artículos 8, 9 y 14 corregidos (contenido verificado contra PDFs originales de D.90/2015 y D.46/2026)"
+        },
+        {
+          "type": "corregido",
+          "description": "D.159/2007: art-5 con lista formateada, Anexo I con headings, Anexo IV con texto introductorio, Anexos II y III con versiones (original vs D.57/2020)"
+        },
+        {
+          "type": "corregido",
+          "description": "D.157/2007: art-5 con lista formateada, Anexo I con headings marcados en las 6 asignaturas de danza"
+        },
+        {
+          "type": "corregido",
+          "description": "D.57/2020: preámbulo re-extraído (19 párrafos), 21 artículos corregidos, disposiciones VA completadas, tabla DF 4ª reconstruida"
+        },
+        {
+          "type": "corregido",
+          "description": "D.109/2011, D.148/2014, D.90/2015, O.64/2013: disposiciones finales separadas, subtítulos duplicados eliminados, cláusulas de promulgación retiradas del articulado, tablas y anexos reconstruidos"
+        },
+        {
+          "type": "mejora",
+          "description": "Saltos de línea simples (\\n) preservados como <br> en el renderizado para listas con guiones"
+        },
+        {
+          "type": "mejora",
+          "description": "Sub-encabezados de secciones curriculares (Introducción, Objetivos, Contenidos, Criterios de evaluación) con estilo visual diferenciado"
+        }
+      ],
+      "va": [
+        {
+          "type": "corregit",
+          "description": "D.158/2007: Annex I reconstruït amb 33 seccions (afegides Harmonia, Història de la Música, Estètica, Fonaments de composició). Agrupació correcta de vent fusta i vent metall"
+        },
+        {
+          "type": "corregit",
+          "description": "D.158/2007: Annex II de temps lectius reconstruït amb 18 taules netes per especialitat"
+        },
+        {
+          "type": "corregit",
+          "description": "D.158/2007: articles 8, 9 i 14 corregits (contingut verificat contra PDFs originals de D.90/2015 i D.46/2026)"
+        },
+        {
+          "type": "corregit",
+          "description": "D.159/2007: art-5 amb llista formatada, Annex I amb encapçalaments, Annex IV amb text introductori, Annexos II i III amb versions (original vs D.57/2020)"
+        },
+        {
+          "type": "corregit",
+          "description": "D.157/2007: art-5 amb llista formatada, Annex I amb encapçalaments marcats en les 6 assignatures de dansa"
+        },
+        {
+          "type": "corregit",
+          "description": "D.57/2020: preàmbul reextret (20 paràgrafs), articles corregits, disposicions VA completades, taula DF 4a reconstruïda"
+        },
+        {
+          "type": "corregit",
+          "description": "D.109/2011, D.148/2014, D.90/2015, O.64/2013: disposicions finals separades, subtítols duplicats eliminats, clàusules de promulgació retirades de l'articulat, taules i annexos reconstruïts"
+        },
+        {
+          "type": "millora",
+          "description": "Salts de línia simples (\\n) preservats com a <br> en el renderitzat per a llistes amb guions"
+        },
+        {
+          "type": "millora",
+          "description": "Subencapçalaments de seccions curriculars (Introducció, Objectius, Continguts, Criteris d'avaluació) amb estil visual diferenciat"
+        }
+      ]
+    }
+  },
+  {
     "version": "0.4.0",
     "date": "2026-04-07",
     "entries": {
