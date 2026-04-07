@@ -1,5 +1,95 @@
 [
   {
+    "version": "0.5.2",
+    "date": "2026-04-07",
+    "entries": {
+      "es": [
+        {
+          "type": "corregido",
+          "description": "LOE: completadas las versiones LOMLOE (de 32 a 72 artículos afectados), incluyendo apartados faltantes como el art. 1 a)"
+        },
+        {
+          "type": "corregido",
+          "description": "LOMLOE: re-ingesta completa del preámbulo (ahora empieza con «Como comenzaba afirmando...») y artículo único con texto limpio"
+        },
+        {
+          "type": "corregido",
+          "description": "Ley 1/2024: re-ingesta con secciones en capítulos VII y VIII, 37 disposiciones completas (antes 16 vacías), separación de apartados"
+        },
+        {
+          "type": "corregido",
+          "description": "RD 628/2022: re-ingesta completa con texto correcto, imagen MECES en art. 6, preámbulo con 13 párrafos"
+        },
+        {
+          "type": "corregido",
+          "description": "RD 303/2010: re-ingesta con estructura correcta (3 títulos con 12 capítulos, no 8 capítulos planos)"
+        },
+        {
+          "type": "corregido",
+          "description": "RD 428/2013: preámbulo, artículos, tablas y leyendas corregidos desde BOE consolidado. Versiones v1/v2 en arts 1 y 7"
+        },
+        {
+          "type": "corregido",
+          "description": "RD 286/2023: re-ingesta completa, art. 5 restaurado (docentes en Bach Artes), disposiciones no relevantes marcadas"
+        },
+        {
+          "type": "corregido",
+          "description": "RD 1577/2006: todo el texto reemplazado desde BOE consolidado. Anexo I reducido a referencia al PDF"
+        },
+        {
+          "type": "corregido",
+          "description": "Orden ECD/1611/2015: re-ingesta con texto completo sin truncamientos"
+        },
+        {
+          "type": "mejora",
+          "description": "Soporte de imágenes markdown en el contenido de artículos (formato ![alt](url))"
+        }
+      ],
+      "va": [
+        {
+          "type": "corregit",
+          "description": "LOE: completades les versions LOMLOE (de 32 a 72 articles afectats), incloent apartats que faltaven com l'art. 1 a)"
+        },
+        {
+          "type": "corregit",
+          "description": "LOMLOE: re-ingesta completa del preàmbul (ara comença amb «Como comenzaba afirmando...») i article únic amb text net"
+        },
+        {
+          "type": "corregit",
+          "description": "Llei 1/2024: re-ingesta amb seccions en capítols VII i VIII, 37 disposicions completes (abans 16 buides), separació d'apartats"
+        },
+        {
+          "type": "corregit",
+          "description": "RD 628/2022: re-ingesta completa amb text correcte, imatge MECES en art. 6, preàmbul amb 13 paràgrafs"
+        },
+        {
+          "type": "corregit",
+          "description": "RD 303/2010: re-ingesta amb estructura correcta (3 títols amb 12 capítols, no 8 capítols plans)"
+        },
+        {
+          "type": "corregit",
+          "description": "RD 428/2013: preàmbul, articles, taules i llegendes corregits des del BOE consolidat. Versions v1/v2 en arts 1 i 7"
+        },
+        {
+          "type": "corregit",
+          "description": "RD 286/2023: re-ingesta completa, art. 5 restaurat (docents en Bach Arts), disposicions no rellevants marcades"
+        },
+        {
+          "type": "corregit",
+          "description": "RD 1577/2006: tot el text reemplaçat des del BOE consolidat. Annex I reduït a referència al PDF"
+        },
+        {
+          "type": "corregit",
+          "description": "Orde ECD/1611/2015: re-ingesta amb text complet sense truncaments"
+        },
+        {
+          "type": "millora",
+          "description": "Suport d'imatges markdown en el contingut d'articles (format ![alt](url))"
+        }
+      ]
+    }
+  },
+  {
     "version": "0.5.1",
     "date": "2026-04-07",
     "entries": {

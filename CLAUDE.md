@@ -309,3 +309,9 @@ Tipos de norma ingresados hasta ahora: `decreto`, `orden`, `ley_organica`, `ley`
 - `base` en `astro.config.mjs` DEBE tener trailing slash: `/legis_cpm/`
 - Node.js >= 22.12.0
 - Deploy automático en push a main via GitHub Actions
+
+### Versionado y releases (OBLIGATORIO en cada release)
+- **Siempre** actualizar `src/lib/version.ts` con el nuevo número de versión — se muestra en el header de la web
+- **Siempre** actualizar `data/changelog.json` con las novedades (bilingüe es/va)
+- **Siempre** crear tag git con el número de versión (`git tag vX.Y.Z`)
+- Formato: major.minor.patch (major=cambios de estructura, minor=ingestas de leyes, patch=correcciones)
