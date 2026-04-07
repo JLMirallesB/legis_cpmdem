@@ -43,10 +43,15 @@ function renderInline(text: string): string {
   return text.replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>');
 }
 
-/** Render a content block: table, section heading, or paragraph */
+/** Render a content block: table, section heading, image, or paragraph */
 function renderBlock(block: string): string {
   if (block.trimStart().startsWith('|') && block.includes('|---')) {
     return mdTableToHtml(block);
+  }
+  // Markdown image: ![alt](url)
+  const imgMatch = block.match(/^!\[([^\]]*)\]\(([^)]+)\)$/);
+  if (imgMatch) {
+    return `<figure class="content-image"><img src="${imgMatch[2]}" alt="${imgMatch[1]}" loading="lazy"><figcaption>${imgMatch[1]}</figcaption></figure>`;
   }
   // A block that is entirely bold = section sub-heading
   if (block.startsWith('**') && block.endsWith('**') && !block.slice(2, -2).includes('**')) {
@@ -219,6 +224,25 @@ const contentHtml = (node.content ?? node.versions?.[0]?.content ?? '')
     font-family: var(--font-sans);
     font-size: 0.9rem;
     color: var(--color-primary);
+  }
+
+  .article-text :global(.content-image) {
+    margin: var(--space-md) 0;
+    text-align: center;
+  }
+
+  .article-text :global(.content-image img) {
+    max-width: 100%;
+    height: auto;
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-md);
+  }
+
+  .article-text :global(.content-image figcaption) {
+    font-size: 0.8rem;
+    color: var(--color-text-muted);
+    margin-top: var(--space-xs);
+    font-style: italic;
   }
 
   .article-text :global(.table-wrapper) {
