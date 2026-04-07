@@ -414,5 +414,11 @@
       "title": "Acta Premios Profesionales - fase de centro (Anexo II)",
       "pdfUrl": "models/orden-4-2026-acta-premio.pdf"
     }
-  ]
+  ],
+  "scope": "musica_y_danza",
+  "territory": "autonomico",
+  "temporality": {
+    "type": "permanente"
+  },
+  "docType": "normativa"
 }

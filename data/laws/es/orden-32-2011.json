@@ -309,5 +309,11 @@
       "title": "Solicitud de reclamación de calificaciones (Anexo I)",
       "pdfUrl": "models/orden-32-2011-solicitud-reclamacion.pdf"
     }
-  ]
+  ],
+  "scope": "general",
+  "territory": "autonomico",
+  "temporality": {
+    "type": "permanente"
+  },
+  "docType": "normativa"
 }

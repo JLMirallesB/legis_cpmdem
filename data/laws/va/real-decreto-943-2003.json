@@ -167,5 +167,11 @@
         "role": "Ministeri d'Educació"
       }
     ]
-  }
+  },
+  "scope": "general",
+  "territory": "estatal",
+  "temporality": {
+    "type": "permanente"
+  },
+  "docType": "normativa"
 }

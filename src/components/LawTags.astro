@@ -1,0 +1,113 @@
+---
+import type { Lang, LawScope, LawTerritory, LawTemporality, LawDocType } from '../lib/types';
+import { t } from '../i18n/utils';
+
+interface Props {
+  scope: LawScope;
+  territory: LawTerritory;
+  temporality: LawTemporality;
+  docType: LawDocType;
+  lang: Lang;
+  compact?: boolean; // smaller tags for cards
+}
+
+const { scope, territory, temporality, docType, lang, compact = false } = Astro.props;
+
+const scopeLabel = t(`tag.scope.${scope}`, lang);
+const territoryLabel = t(`tag.territory.${territory}`, lang);
+const docTypeLabel = t(`tag.docType.${docType}`, lang);
+
+let temporalityLabel: string;
+if (temporality.type === 'anual' && temporality.schoolYear) {
+  temporalityLabel = t('tag.temporality.anual', lang, { schoolYear: temporality.schoolYear });
+} else {
+  temporalityLabel = t('tag.temporality.permanente', lang);
+}
+
+// Check if annual law is expired
+const isExpired = temporality.type === 'anual' && temporality.expiresDate && new Date(temporality.expiresDate) < new Date();
+---
+
+<div class:list={['law-tags', { compact }]}>
+  <span class={`law-tag tag-scope tag-scope-${scope}`}>{scopeLabel}</span>
+  <span class={`law-tag tag-territory tag-territory-${territory}`}>{territoryLabel}</span>
+  <span class:list={['law-tag', 'tag-temporality', `tag-temporality-${temporality.type}`, { 'tag-expired': isExpired }]}>
+    {temporalityLabel}
+  </span>
+  {docType !== 'normativa' && (
+    <span class={`law-tag tag-doctype tag-doctype-${docType}`}>{docTypeLabel}</span>
+  )}
+</div>
+
+<style>
+  .law-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 4px;
+    align-items: center;
+  }
+
+  .law-tag {
+    display: inline-block;
+    font-size: 0.65rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    padding: 1px 6px;
+    border-radius: 3px;
+    white-space: nowrap;
+    letter-spacing: 0.03em;
+  }
+
+  .compact .law-tag {
+    font-size: 0.6rem;
+    padding: 1px 5px;
+  }
+
+  /* Scope colors */
+  .tag-scope-general {
+    background: #e2e8f0;
+    color: #4a5568;
+  }
+  .tag-scope-musica_y_danza {
+    background: #e9d8fd;
+    color: #553c9a;
+  }
+  .tag-scope-musica {
+    background: #bee3f8;
+    color: #2a4365;
+  }
+  .tag-scope-danza {
+    background: #fed7e2;
+    color: #702459;
+  }
+
+  /* Territory colors */
+  .tag-territory-estatal {
+    background: #fefcbf;
+    color: #744210;
+  }
+  .tag-territory-autonomico {
+    background: #c6f6d5;
+    color: #22543d;
+  }
+
+  /* Temporality colors */
+  .tag-temporality-permanente {
+    background: #e2e8f0;
+    color: #4a5568;
+  }
+  .tag-temporality-anual {
+    background: #fed7d7;
+    color: #742a2a;
+  }
+  .tag-expired {
+    opacity: 0.6;
+    text-decoration: line-through;
+  }
+
+  /* DocType */
+  .tag-doctype-documentos {
+    background: #feebc8;
+    color: #7b341e;
+  }
+</style>

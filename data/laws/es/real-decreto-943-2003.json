@@ -167,5 +167,11 @@
         "role": "Ministerio de Educación"
       }
     ]
-  }
+  },
+  "scope": "general",
+  "territory": "estatal",
+  "temporality": {
+    "type": "permanente"
+  },
+  "docType": "normativa"
 }

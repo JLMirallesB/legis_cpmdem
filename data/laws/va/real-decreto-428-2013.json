@@ -235,5 +235,11 @@
         "role": "Ministeri d'Educació"
       }
     ]
-  }
+  },
+  "scope": "musica_y_danza",
+  "territory": "estatal",
+  "temporality": {
+    "type": "permanente"
+  },
+  "docType": "normativa"
 }

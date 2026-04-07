@@ -700,5 +700,11 @@
         "role": "Conselleria de Educación"
       }
     ]
-  }
+  },
+  "scope": "musica_y_danza",
+  "territory": "autonomico",
+  "temporality": {
+    "type": "permanente"
+  },
+  "docType": "normativa"
 }

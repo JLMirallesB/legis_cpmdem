@@ -429,5 +429,11 @@
         "role": "Conselleria de Educación"
       }
     ]
-  }
+  },
+  "scope": "general",
+  "territory": "autonomico",
+  "temporality": {
+    "type": "permanente"
+  },
+  "docType": "normativa"
 }

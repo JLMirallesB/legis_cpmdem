@@ -460,5 +460,11 @@
         "role": "Conselleria de Educación"
       }
     ]
-  }
+  },
+  "scope": "danza",
+  "territory": "autonomico",
+  "temporality": {
+    "type": "permanente"
+  },
+  "docType": "normativa"
 }

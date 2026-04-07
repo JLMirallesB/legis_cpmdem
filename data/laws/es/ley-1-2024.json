@@ -1025,5 +1025,11 @@
         "role": "Presidente del Gobierno"
       }
     ]
-  }
+  },
+  "scope": "general",
+  "territory": "estatal",
+  "temporality": {
+    "type": "permanente"
+  },
+  "docType": "normativa"
 }

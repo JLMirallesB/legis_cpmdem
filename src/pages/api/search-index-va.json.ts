@@ -11,6 +11,10 @@ interface SearchEntry {
   vigpiracy: string;
   source: string;
   year: number;
+  scope: string;
+  territory: string;
+  temporality: { type: string; schoolYear?: string; expiresDate?: string };
+  docType: string;
   signatories: { name: string; role: string }[];
   fragments: { id: string; title: string; text: string }[];
 }
@@ -42,6 +46,10 @@ export const GET: APIRoute = () => {
     vigpiracy: law.vigpiracy.status,
     source: law.publishedIn.source,
     year: new Date(law.publishedIn.date).getFullYear(),
+    scope: law.scope,
+    territory: law.territory,
+    temporality: law.temporality,
+    docType: law.docType,
     signatories: law.promulgation?.signatories ?? [],
     fragments: extractFragments(law.structure),
   }));
