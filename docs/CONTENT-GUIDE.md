@@ -151,6 +151,7 @@ Después de generar los JSON, verificar:
 - [ ] `category` es una de las 7 categorías válidas
 - [ ] `publishedIn.url` apunta a la ficha de la disposición en DOGV/BOE (no al PDF)
 - [ ] `publishedIn.pdfUrl` apunta al PDF publicado en DOGV/BOE
+- [ ] `promulgation` incluye lugar, fecha y firmantes (nombre + cargo en idioma correcto)
 - [ ] `vigpiracy.status` es correcto y coherente
 - [ ] Artículos con versiones: `content` = `versions[0].content`, array ordenado newest-first
 - [ ] Cross-refs bidireccionales actualizadas (Ley A ↔ Ley B)

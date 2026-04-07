@@ -1,28 +1,19 @@
 ---
-import type { StructureNode } from '../lib/types';
+import type { Lang, StructureNode } from '../lib/types';
+import type { Promulgation } from '../lib/types';
+import { getNavItemsWithGroups } from '../lib/disposition-groups';
+import { t } from '../i18n/utils';
 
 interface Props {
   structure: StructureNode[];
+  lang: Lang;
   sidebarLabel?: string;
+  promulgation?: Promulgation;
 }
 
-const { structure, sidebarLabel } = Astro.props;
+const { structure, lang, sidebarLabel, promulgation } = Astro.props;
 
-function getNavItems(nodes: StructureNode[]): { id: string; title: string; depth: number }[] {
-  const items: { id: string; title: string; depth: number }[] = [];
-
-  function walk(nodes: StructureNode[], depth: number) {
-    for (const node of nodes) {
-      items.push({ id: node.id, title: node.title, depth });
-      if (node.children) walk(node.children, depth + 1);
-    }
-  }
-
-  walk(nodes, 0);
-  return items;
-}
-
-const navItems = getNavItems(structure);
+const navItems = getNavItemsWithGroups(structure, lang);
 ---
 
 <aside class="law-sidebar">
@@ -32,10 +23,15 @@ const navItems = getNavItems(structure);
     )}
     <ul>
       {navItems.map((item) => (
-        <li class={`nav-item depth-${item.depth}`}>
+        <li class={`nav-item depth-${item.depth}${item.isGroup ? ' nav-group' : ''}`}>
           <a href={`#${item.id}`}>{item.title}</a>
         </li>
       ))}
+      {promulgation && (
+        <li class="nav-item depth-0">
+          <a href="#promulgacion">{t('law.promulgation', lang)}</a>
+        </li>
+      )}
     </ul>
   </nav>
 </aside>
@@ -115,6 +111,15 @@ const navItems = getNavItems(structure);
     border-left-color: var(--color-primary);
     font-weight: 600;
     background: var(--color-bg-secondary);
+  }
+
+  .nav-group a {
+    font-weight: 700;
+    text-transform: uppercase;
+    font-size: 0.75rem;
+    letter-spacing: 0.03em;
+    color: var(--color-primary-dark);
+    margin-top: var(--space-xs);
   }
 
   .depth-1 a { padding-left: 20px; }

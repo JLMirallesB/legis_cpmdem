@@ -4,6 +4,16 @@ import { t } from '../../i18n/utils';
 
 const lang = 'va' as const;
 const base = import.meta.env.BASE_URL;
+
+const typeLabels: Record<string, string> = {
+  decreto: t('filter.type.decreto', lang),
+  orden: t('filter.type.orden', lang),
+  resolucion: t('filter.type.resolucion', lang),
+  ley: t('filter.type.ley', lang),
+  ley_organica: t('filter.type.ley_organica', lang),
+  real_decreto: t('filter.type.real_decreto', lang),
+  correccion_errores: t('filter.type.correccion_errores', lang),
+};
 ---
 
 <BaseLayout lang={lang} title={t('search.results', lang)}>
@@ -24,6 +34,45 @@ const base = import.meta.env.BASE_URL;
       </form>
     </div>
 
+    <details class="filter-panel" id="filter-panel">
+      <summary class="filter-toggle">{t('filter.title', lang)}</summary>
+      <div class="filter-grid">
+        <div class="filter-group">
+          <label for="filter-type">{t('filter.type', lang)}</label>
+          <select id="filter-type">
+            <option value="">{t('filter.type.all', lang)}</option>
+          </select>
+        </div>
+        <div class="filter-group">
+          <label for="filter-source">{t('filter.source', lang)}</label>
+          <select id="filter-source">
+            <option value="">{t('filter.source.all', lang)}</option>
+          </select>
+        </div>
+        <div class="filter-group">
+          <label for="filter-year">{t('filter.year', lang)}</label>
+          <select id="filter-year">
+            <option value="">{t('filter.year.all', lang)}</option>
+          </select>
+        </div>
+        <div class="filter-group">
+          <label for="filter-signatory">{t('filter.signatory', lang)}</label>
+          <select id="filter-signatory">
+            <option value="">{t('filter.signatory.all', lang)}</option>
+          </select>
+        </div>
+        <div class="filter-group">
+          <label for="filter-role">{t('filter.role', lang)}</label>
+          <select id="filter-role">
+            <option value="">{t('filter.role.all', lang)}</option>
+          </select>
+        </div>
+        <div class="filter-group filter-actions">
+          <button type="button" id="clear-filters" class="btn btn-secondary">{t('filter.clear', lang)}</button>
+        </div>
+      </div>
+    </details>
+
     <div class="results-area" id="results-area">
       <p class="searching" id="searching-msg" style="display:none;">{t('search.searching', lang)}</p>
       <p class="no-results" id="no-results-msg" style="display:none;"></p>
@@ -33,48 +82,157 @@ const base = import.meta.env.BASE_URL;
   </div>
 </BaseLayout>
 
-<script define:vars={{ base, lang: 'va', lawPath: 'llei' }}>
+<script define:vars={{ base, lang: 'va', lawPath: 'llei', typeLabels }}>
   const searchInput = document.getElementById('search-input');
   const searchForm = document.getElementById('search-form');
   const searchingMsg = document.getElementById('searching-msg');
   const noResultsMsg = document.getElementById('no-results-msg');
   const resultsCount = document.getElementById('results-count');
   const resultsList = document.getElementById('results-list');
+  const filterPanel = document.getElementById('filter-panel');
+
+  const filterType = document.getElementById('filter-type');
+  const filterSource = document.getElementById('filter-source');
+  const filterYear = document.getElementById('filter-year');
+  const filterSignatory = document.getElementById('filter-signatory');
+  const filterRole = document.getElementById('filter-role');
+  const clearFiltersBtn = document.getElementById('clear-filters');
+
+  let fullIndex = null;
 
   const params = new URLSearchParams(window.location.search);
   const query = params.get('q') || '';
   if (query) {
     searchInput.value = query;
-    performSearch(query);
   }
+
+  loadIndex();
 
   searchForm.addEventListener('submit', (e) => {
     e.preventDefault();
     const q = searchInput.value.trim();
-    if (!q) return;
     const url = new URL(window.location);
-    url.searchParams.set('q', q);
+    if (q) url.searchParams.set('q', q);
+    else url.searchParams.delete('q');
     window.history.pushState({}, '', url);
-    performSearch(q);
+    applySearchAndFilters();
   });
 
-  async function performSearch(q) {
-    searchingMsg.style.display = 'block';
-    noResultsMsg.style.display = 'none';
-    resultsCount.style.display = 'none';
-    resultsList.innerHTML = '';
+  [filterType, filterSource, filterYear, filterSignatory, filterRole].forEach(el => {
+    el.addEventListener('change', applySearchAndFilters);
+  });
 
+  clearFiltersBtn.addEventListener('click', () => {
+    filterType.value = '';
+    filterSource.value = '';
+    filterYear.value = '';
+    filterSignatory.value = '';
+    filterRole.value = '';
+    applySearchAndFilters();
+  });
+
+  async function loadIndex() {
+    searchingMsg.style.display = 'block';
     try {
       const res = await fetch(`${base}api/search-index-${lang}.json`);
-      const index = await res.json();
-      const results = search(index, q);
+      fullIndex = await res.json();
+      populateFilterOptions(fullIndex);
       searchingMsg.style.display = 'none';
-      renderResults(results, q);
+      if (query) applySearchAndFilters();
     } catch (err) {
       searchingMsg.style.display = 'none';
-      noResultsMsg.textContent = "Error al carregar l'índex de cerca.";
+      noResultsMsg.textContent = "Error en carregar l'índex de cerca.";
       noResultsMsg.style.display = 'block';
     }
+  }
+
+  function populateFilterOptions(index) {
+    const types = new Set();
+    const sources = new Set();
+    const years = new Set();
+    const names = new Set();
+    const roles = new Set();
+
+    for (const law of index) {
+      types.add(law.type);
+      sources.add(law.source);
+      years.add(law.year);
+      for (const s of law.signatories) {
+        names.add(s.name);
+        roles.add(s.role);
+      }
+    }
+
+    for (const t of [...types].sort()) {
+      const opt = document.createElement('option');
+      opt.value = t;
+      opt.textContent = typeLabels[t] || t;
+      filterType.appendChild(opt);
+    }
+    for (const s of [...sources].sort()) {
+      const opt = document.createElement('option');
+      opt.value = s;
+      opt.textContent = s;
+      filterSource.appendChild(opt);
+    }
+    for (const y of [...years].sort((a, b) => b - a)) {
+      const opt = document.createElement('option');
+      opt.value = y;
+      opt.textContent = y;
+      filterYear.appendChild(opt);
+    }
+    for (const n of [...names].sort()) {
+      const opt = document.createElement('option');
+      opt.value = n;
+      opt.textContent = n;
+      filterSignatory.appendChild(opt);
+    }
+    for (const r of [...roles].sort()) {
+      const opt = document.createElement('option');
+      opt.value = r;
+      opt.textContent = r;
+      filterRole.appendChild(opt);
+    }
+  }
+
+  function applySearchAndFilters() {
+    if (!fullIndex) return;
+
+    const q = searchInput.value.trim();
+    const fType = filterType.value;
+    const fSource = filterSource.value;
+    const fYear = filterYear.value;
+    const fSignatory = filterSignatory.value;
+    const fRole = filterRole.value;
+    const hasFilters = fType || fSource || fYear || fSignatory || fRole;
+
+    if (!q && !hasFilters) {
+      noResultsMsg.style.display = 'none';
+      resultsCount.style.display = 'none';
+      resultsList.innerHTML = '';
+      return;
+    }
+
+    let results;
+    if (q) {
+      results = search(fullIndex, q);
+    } else {
+      results = fullIndex.map(law => ({
+        ...law,
+        titleMatch: false,
+        fragments: [],
+      }));
+    }
+
+    if (fType) results = results.filter(r => r.type === fType);
+    if (fSource) results = results.filter(r => r.source === fSource);
+    if (fYear) results = results.filter(r => String(r.year) === fYear);
+    if (fSignatory) results = results.filter(r =>
+      r.signatories && r.signatories.some(s => s.name === fSignatory));
+    if (fRole) results = results.filter(r =>
+      r.signatories && r.signatories.some(s => s.role === fRole));
+
+    renderResults(results, q);
   }
 
   function normalize(str) {
@@ -101,12 +259,7 @@ const base = import.meta.env.BASE_URL;
 
       if (titleMatch || matchingFragments.length > 0) {
         results.push({
-          slug: law.slug,
-          title: law.title,
-          titleShort: law.titleShort,
-          type: law.type,
-          date: law.date,
-          vigpiracy: law.vigpiracy,
+          ...law,
           titleMatch,
           fragments: matchingFragments,
         });
@@ -117,6 +270,7 @@ const base = import.meta.env.BASE_URL;
   }
 
   function highlightText(text, q) {
+    if (!q) return text;
     const terms = normalize(q).split(/\s+/).filter(Boolean);
     let result = text;
     for (const term of terms) {
@@ -127,6 +281,7 @@ const base = import.meta.env.BASE_URL;
   }
 
   function getSnippet(text, q, maxLen = 200) {
+    if (!q) return text.slice(0, maxLen) + (text.length > maxLen ? '...' : '');
     const terms = normalize(q).split(/\s+/).filter(Boolean);
     const normText = normalize(text);
     let firstIdx = normText.length;
@@ -150,8 +305,14 @@ const base = import.meta.env.BASE_URL;
   };
 
   function renderResults(results, q) {
+    resultsList.innerHTML = '';
+    noResultsMsg.style.display = 'none';
+    resultsCount.style.display = 'none';
+
     if (results.length === 0) {
-      noResultsMsg.textContent = `No s'han trobat resultats per a "${q}"`;
+      noResultsMsg.textContent = q
+        ? `No s'han trobat resultats per a "${q}"`
+        : "No s'han trobat resultats amb els filtres seleccionats.";
       noResultsMsg.style.display = 'block';
       return;
     }
@@ -187,8 +348,8 @@ const base = import.meta.env.BASE_URL;
           <a href="${lawUrl}" class="result-title">${titleHtml}</a>
           <span class="vigency-badge vigency-${r.vigpiracy}">${vigLabel}</span>
         </div>
-        <p class="result-meta">${r.type.replace(/_/g, ' ')} — ${r.date}</p>
-        ${r.titleMatch ? "<p class=\"match-type\">Coincidència en títol</p>" : ''}
+        <p class="result-meta">${typeLabels[r.type] || r.type} — ${r.date}</p>
+        ${r.titleMatch ? '<p class="match-type">Coincidència en títol</p>' : ''}
         ${fragmentsHtml}
       `;
 
@@ -210,7 +371,7 @@ const base = import.meta.env.BASE_URL;
   }
 
   .search-box {
-    margin-bottom: var(--space-xl);
+    margin-bottom: var(--space-md);
   }
 
   .search-box form {
@@ -230,6 +391,72 @@ const base = import.meta.env.BASE_URL;
 
   .search-input:focus {
     border-color: var(--color-primary);
+  }
+
+  .filter-panel {
+    margin-bottom: var(--space-xl);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-md);
+    background: var(--color-bg-secondary);
+  }
+
+  .filter-toggle {
+    padding: var(--space-sm) var(--space-md);
+    cursor: pointer;
+    font-weight: 600;
+    font-size: 0.9rem;
+    color: var(--color-primary);
+    user-select: none;
+  }
+
+  .filter-toggle:hover {
+    color: var(--color-primary-dark);
+  }
+
+  .filter-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: var(--space-sm) var(--space-md);
+    padding: 0 var(--space-md) var(--space-md);
+  }
+
+  .filter-group label {
+    display: block;
+    font-size: 0.75rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+    color: var(--color-text-muted);
+    margin-bottom: 4px;
+  }
+
+  .filter-group select {
+    width: 100%;
+    padding: 6px 8px;
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-sm);
+    font-size: 0.85rem;
+    background: white;
+  }
+
+  .filter-actions {
+    display: flex;
+    align-items: flex-end;
+  }
+
+  .btn-secondary {
+    padding: 6px 12px;
+    font-size: 0.8rem;
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-sm);
+    background: white;
+    cursor: pointer;
+    color: var(--color-text-secondary);
+  }
+
+  .btn-secondary:hover {
+    background: var(--color-bg-secondary);
+    color: var(--color-text);
   }
 
   .searching {
@@ -284,7 +511,6 @@ const base = import.meta.env.BASE_URL;
   .result-meta {
     font-size: 0.8rem;
     color: var(--color-text-muted);
-    text-transform: capitalize;
     margin-bottom: var(--space-sm);
   }
 

@@ -94,5 +94,19 @@
         "title": "Decret 159/2007, de 21 de setembre, del Consell, pel qual s'establix el currículum de les ensenyances elementals de música"
       }
     ]
+  },
+  "promulgation": {
+    "place": "València",
+    "date": "2014-09-12",
+    "signatories": [
+      {
+        "name": "Alberto Fabra Part",
+        "role": "President de la Generalitat"
+      },
+      {
+        "name": "María José Catalá Verdet",
+        "role": "Conselleria d'Educació"
+      }
+    ]
   }
 }

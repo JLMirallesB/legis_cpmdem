@@ -1,5 +1,71 @@
 [
   {
+    "version": "0.4.0",
+    "date": "2026-04-07",
+    "entries": {
+      "es": [
+        {
+          "type": "nuevo",
+          "description": "Cláusula de promulgación: lugar, fecha y firmantes visibles al final de cada ley, con enlace en el índice lateral"
+        },
+        {
+          "type": "nuevo",
+          "description": "Filtros avanzados en la búsqueda: por rango de disposición, publicación, año, firmante y cargo"
+        },
+        {
+          "type": "nuevo",
+          "description": "Encabezados de grupo para disposiciones (Disposiciones adicionales, transitorias, derogatorias, finales) en el contenido y el índice lateral"
+        },
+        {
+          "type": "corregido",
+          "description": "Decreto 46/2026: título completo con derogaciones y preámbulo re-extraído con 41 párrafos (antes 5)"
+        },
+        {
+          "type": "corregido",
+          "description": "Decreto 57/2020: preámbulo re-extraído (de 3 a 19 párrafos), 21 artículos con títulos truncados corregidos, disposiciones VA faltantes añadidas, tabla de la DF 4ª reconstruida"
+        },
+        {
+          "type": "mejora",
+          "description": "Formato de párrafos: sangrado en primera línea y mayor separación entre párrafos en toda la app"
+        },
+        {
+          "type": "mejora",
+          "description": "Tablas centradas, con ajuste de texto en celdas y sin desbordamiento"
+        }
+      ],
+      "va": [
+        {
+          "type": "nou",
+          "description": "Clàusula de promulgació: lloc, data i firmants visibles al final de cada llei, amb enllaç en l'índex lateral"
+        },
+        {
+          "type": "nou",
+          "description": "Filtres avançats en la cerca: per rang de disposició, publicació, any, firmant i càrrec"
+        },
+        {
+          "type": "nou",
+          "description": "Encapçalaments de grup per a disposicions (addicionals, transitòries, derogatòries, finals) en el contingut i l'índex lateral"
+        },
+        {
+          "type": "corregit",
+          "description": "Decret 46/2026: títol complet amb derogacions i preàmbul reextret amb 41 paràgrafs (abans 5)"
+        },
+        {
+          "type": "corregit",
+          "description": "Decret 57/2020: preàmbul reextret (de 3 a 20 paràgrafs), 10 articles amb títols truncats corregits, disposicions VA que faltaven afegides, taula de la DF 4a reconstruïda"
+        },
+        {
+          "type": "millora",
+          "description": "Format de paràgrafs: sagnat en primera línia i major separació entre paràgrafs en tota l'app"
+        },
+        {
+          "type": "millora",
+          "description": "Taules centrades, amb ajust de text en cel·les i sense desbordament"
+        }
+      ]
+    }
+  },
+  {
     "version": "0.3.0",
     "date": "2026-04-05",
     "entries": {

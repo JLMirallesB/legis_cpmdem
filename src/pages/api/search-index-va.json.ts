@@ -9,6 +9,9 @@ interface SearchEntry {
   type: string;
   date: string;
   vigpiracy: string;
+  source: string;
+  year: number;
+  signatories: { name: string; role: string }[];
   fragments: { id: string; title: string; text: string }[];
 }
 
@@ -37,6 +40,9 @@ export const GET: APIRoute = () => {
     type: law.type,
     date: law.date,
     vigpiracy: law.vigpiracy.status,
+    source: law.publishedIn.source,
+    year: new Date(law.publishedIn.date).getFullYear(),
+    signatories: law.promulgation?.signatories ?? [],
     fragments: extractFragments(law.structure),
   }));
 

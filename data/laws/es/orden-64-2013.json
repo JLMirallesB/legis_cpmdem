@@ -90,5 +90,15 @@
         "title": "Decreto 109/2011 - Currículo Bajo Eléctrico y Guitarra Eléctrica"
       }
     ]
+  },
+  "promulgation": {
+    "place": "Valencia",
+    "date": "2013-06-21",
+    "signatories": [
+      {
+        "name": "María José Catalá Verdet",
+        "role": "Conselleria de Educación"
+      }
+    ]
   }
 }

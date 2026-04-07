@@ -1,0 +1,74 @@
+---
+import type { Lang, Promulgation } from '../lib/types';
+import { t } from '../i18n/utils';
+
+interface Props {
+  promulgation: Promulgation;
+  lang: Lang;
+}
+
+const { promulgation, lang } = Astro.props;
+
+const dateFormatted = new Date(promulgation.date).toLocaleDateString(
+  lang === 'va' ? 'ca-ES' : 'es-ES',
+  { year: 'numeric', month: 'long', day: 'numeric' }
+);
+---
+
+<article class="promulgation-block" id="promulgacion">
+  <h3 class="promulgation-title">{t('law.promulgation', lang)}</h3>
+  <div class="promulgation-text">
+    <p class="promulgation-place">{promulgation.place}, {dateFormatted}</p>
+    {promulgation.signatories.map((s) => (
+      <div class="signatory">
+        <span class="signatory-name">{s.name}</span>
+        <span class="signatory-role">{s.role}</span>
+      </div>
+    ))}
+  </div>
+</article>
+
+<style>
+  .promulgation-block {
+    margin-bottom: var(--space-xl);
+    padding-bottom: var(--space-lg);
+    border-bottom: 1px solid var(--color-border);
+    scroll-margin-top: calc(var(--header-height) + var(--space-md));
+  }
+
+  .promulgation-title {
+    font-size: 1.05rem;
+    color: var(--color-primary);
+    margin-bottom: var(--space-sm);
+    font-weight: 600;
+  }
+
+  .promulgation-text {
+    font-family: var(--font-serif);
+    font-size: 0.95rem;
+    line-height: 1.8;
+    color: var(--color-text);
+  }
+
+  .promulgation-place {
+    margin-bottom: var(--space-md);
+    text-indent: 0;
+  }
+
+  .signatory {
+    margin-bottom: var(--space-md);
+    text-align: center;
+  }
+
+  .signatory-name {
+    display: block;
+    font-weight: 600;
+    text-transform: uppercase;
+  }
+
+  .signatory-role {
+    display: block;
+    font-style: italic;
+    color: var(--color-text-secondary);
+  }
+</style>

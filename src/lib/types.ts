@@ -91,6 +91,17 @@ export interface LegalAnalysis {
   }[];
 }
 
+export interface Signatory {
+  name: string;
+  role: string;
+}
+
+export interface Promulgation {
+  place: string;
+  date: string; // YYYY-MM-DD
+  signatories: Signatory[];
+}
+
 export interface Law {
   id: string;
   slug: string;
@@ -104,6 +115,7 @@ export interface Law {
   vigpiracy: Vigency;
   structure: StructureNode[];
   legalAnalysis: LegalAnalysis;
+  promulgation?: Promulgation;
 }
 
 export interface LawMetadata {

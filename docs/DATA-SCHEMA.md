@@ -172,6 +172,31 @@ Un art&iacute;culo puede tener m&uacute;ltiples versiones si ha sido modificado:
 }
 ```
 
+## Cl&aacute;usula de Promulgaci&oacute;n
+
+```json
+{
+  "promulgation": {
+    "place": "Valencia",
+    "date": "2007-09-21",
+    "signatories": [
+      {
+        "name": "Francisco Camps Ortiz",
+        "role": "El president de la Generalitat"
+      },
+      {
+        "name": "Alejandro Font de Mora Tur&oacute;n",
+        "role": "El conseller de Educaci&oacute;n"
+      }
+    ]
+  }
+}
+```
+
+- `place` y `role` est&aacute;n en el idioma del JSON (es/va)
+- `signatories` puede tener 1 (&oacute;rdenes) o m&aacute;s firmantes (decretos)
+- Campos `name` y `role` permiten filtrado futuro por persona o cargo
+
 ## Convenciones de Nombrado
 
 - **slug**: tipo-numero-ano en min&uacute;sculas (ej: `decreto-158-2007`)

@@ -412,5 +412,19 @@
         "title": "Decret 156/2007, de 21 de setembre, del Consell, pel qual s'establix el currículum de les ensenyances professionals de dansa"
       }
     ]
+  },
+  "promulgation": {
+    "place": "València",
+    "date": "2007-09-21",
+    "signatories": [
+      {
+        "name": "Francisco Camps Ortiz",
+        "role": "President de la Generalitat"
+      },
+      {
+        "name": "Alejandro Font de Mora Turón",
+        "role": "Conselleria d'Educació"
+      }
+    ]
   }
 }

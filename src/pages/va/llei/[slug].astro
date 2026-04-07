@@ -4,6 +4,8 @@ import type { StructureNode } from '../../../lib/types';
 import LawReaderLayout from '../../../layouts/LawReaderLayout.astro';
 import ArticleContent from '../../../components/ArticleContent.astro';
 import { getAllLaws, getLawBySlug } from '../../../lib/laws';
+import { insertDispositionGroups, isDispositionGroup } from '../../../lib/disposition-groups';
+import PromulgationClause from '../../../components/PromulgationClause.astro';
 
 const lang = 'va' as const;
 
@@ -26,11 +28,20 @@ function renderNodes(nodes: StructureNode[]): StructureNode[] {
   return flat;
 }
 
-const allNodes = renderNodes(law.structure);
+const allNodes = insertDispositionGroups(renderNodes(law.structure), lang);
 ---
 
 <LawReaderLayout law={law} lang={lang}>
-  {allNodes.map((node) => {
+  {allNodes.map((item) => {
+    if (isDispositionGroup(item)) {
+      return (
+        <div id={item.id} class="section-heading section-disposiciones" style="scroll-margin-top: calc(var(--header-height) + 1rem);">
+          <h2>{item.title}</h2>
+        </div>
+      );
+    }
+
+    const node = item as StructureNode;
     const isContainer = node.type === 'titulo' || node.type === 'capitulo' || (node.children && !node.content);
     const isSectionWithContent = node.type === 'seccion' && node.content;
 
@@ -58,6 +69,9 @@ const allNodes = renderNodes(law.structure);
     }
     return null;
   })}
+  {law.promulgation && (
+    <PromulgationClause promulgation={law.promulgation} lang={lang} />
+  )}
 </LawReaderLayout>
 
 <style>
@@ -71,6 +85,15 @@ const allNodes = renderNodes(law.structure);
     color: var(--color-primary-dark);
     border-bottom: 2px solid var(--color-border);
     padding-bottom: var(--space-xs);
+  }
+
+  .section-disposiciones h2 {
+    font-size: 1.15rem;
+    color: var(--color-primary-dark);
+    border-bottom: 2px solid var(--color-border);
+    padding-bottom: var(--space-xs);
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
   }
 
   .section-capitulo h3 {

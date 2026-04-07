@@ -97,5 +97,19 @@
         "title": "Decret 158/2007 - Currículum EEPP de música"
       }
     ]
+  },
+  "promulgation": {
+    "place": "València",
+    "date": "2011-07-22",
+    "signatories": [
+      {
+        "name": "Alberto Fabra Part",
+        "role": "President de la Generalitat"
+      },
+      {
+        "name": "José Ciscar Bolufer",
+        "role": "Conselleria d'Educació"
+      }
+    ]
   }
 }

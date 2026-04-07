@@ -142,5 +142,19 @@
         "title": "Decret 158/2007 - Currículum EEPP de música"
       }
     ]
+  },
+  "promulgation": {
+    "place": "València",
+    "date": "2015-06-12",
+    "signatories": [
+      {
+        "name": "Alberto Fabra Part",
+        "role": "President de la Generalitat"
+      },
+      {
+        "name": "María José Catalá Verdet",
+        "role": "Conselleria d'Educació"
+      }
+    ]
   }
 }

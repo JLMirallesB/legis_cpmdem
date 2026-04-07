@@ -698,5 +698,19 @@
         "description": "Organización y funcionamiento de conservatorios profesionales de Música y Danza"
       }
     ]
+  },
+  "promulgation": {
+    "place": "Valencia",
+    "date": "2007-09-21",
+    "signatories": [
+      {
+        "name": "Francisco Camps Ortiz",
+        "role": "President de la Generalitat"
+      },
+      {
+        "name": "Alejandro Font de Mora Turón",
+        "role": "Conselleria de Educación"
+      }
+    ]
   }
 }

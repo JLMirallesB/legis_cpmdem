@@ -62,14 +62,18 @@ chars = region.chars
 
 #### 2. Analizar estructura
 ```bash
-# Buscar artículos, capítulos, disposiciones, anexos
+# Buscar artículos, capítulos, disposiciones, anexos, cláusula de promulgación
 grep -n "^Artículo\|^\s*Artículo\|^Articulo\|^CAPÍTULO\|^DISPOSICION\|^ANEXO" /tmp/ley-es.txt
+# Buscar cláusula de promulgación (lugar, fecha y firmantes)
+grep -n "Valencia,\|València,\|San Vicente\|Sant Vicent" /tmp/ley-es.txt
 ```
 
 #### 3. Generar JSON con script Python
 Usar un script Python que:
 - Parsee los artículos del texto extraído
+- Extraiga la **cláusula de promulgación** (lugar, fecha, firmantes con nombre y cargo)
 - Genere `data/laws/es/{slug}.json` y `data/laws/va/{slug}.json`
+- Incluya el campo `promulgation` con `place`, `date` y `signatories[]`
 - Siga el esquema de `src/lib/types.ts`
 
 #### 4. Validar y compilar
@@ -93,7 +97,11 @@ npm run build     # debe compilar sin errores
 - Los títulos de artículo pueden ocupar varias líneas - el regex `^Artículo N.` puede no capturar todo
 - Las líneas de encabezado de página (Núm. XXXX, CVE:, https://dogv.gva.es/) deben eliminarse del texto
 - Los guiones de fin de línea (`-\n`) deben unirse
-- La firma del decreto/orden ("Valencia, NN de mes de AAAA" / "El president...") se captura a veces en la última disposición final → recortar en `Valencia,` o `València,`
+- La cláusula de promulgación ("Valencia, NN de mes de AAAA" / "El president...") aparece tras la última disposición, antes de los anexos. **NO descartar**: extraer como `promulgation` (lugar, fecha, firmantes). Recortar del contenido de la última disposición si se capturó ahí por error
+- El lugar de promulgación NO siempre es Valencia/València — puede ser San Vicente del Raspeig, Alicante, etc.
+- Los nombres de firmantes aparecen en ALL CAPS en el PDF → normalizar a mayúsculas/minúsculas ("Alberto Fabra Part", no "ALBERTO FABRA PART")
+- Los cargos (`role`) deben ir SIN artículo "El/La" al inicio: "President de la Generalitat", no "El president de la Generalitat"
+- Los cargos de conselleria se normalizan con nombre neutro y solo el área de educación: "Conselleria de Educación" / "Conselleria d'Educació" (no Conseller/Consellera, ni las otras áreas como Cultura, Deporte, etc.)
 - Las tablas (distribución horaria, ratios profesor/alumno) están en páginas a ancho completo (no dos columnas), primero un idioma y luego el otro — NO usar crop de media página para estas páginas
 - Usar `pdfplumber.extract_tables()` para extraer tablas — funciona bien para la mayoría de PDFs excepto los más antiguos (D.157/2007 donde agrupa toda la tabla en 1 fila)
 - Almacenar tablas como **markdown** en el `content` (formato `| col | col |` con separador `|---|---|`). Esto funciona en los 3 formatos de salida: web (renderizado como `<table>`), JSON (legible), markdown export (nativo)
@@ -159,6 +167,14 @@ npm run build     # debe compilar sin errores
 - Convención: `{tipo}-{numero}-{año}` → `decreto-158-2007`
 - Categorías válidas: `curriculo`, `organizacion`, `acceso`, `evaluacion`, `profesorado`, `titulaciones`, `general`
 - IDs de estructura: `art-N`, `titulo-N`, `titulo-N-cap-N`, `cap-N`, `da-N`, `dt-N`, `dd-unica`, `df-N`, `anexo-N`, `preambulo`
+
+#### Cláusula de promulgación (OBLIGATORIO)
+- Toda ley debe incluir `promulgation` con `place`, `date` y `signatories[]`
+- Cada firmante tiene `name` (nombre completo) y `role` (cargo en el idioma del JSON)
+- El lugar varía: "Valencia"/"València", "San Vicente del Raspeig"/"Sant Vicent del Raspeig", etc.
+- Las órdenes solo tienen un firmante (el/la conseller/a); los decretos tienen president + conseller/a
+- Extraer del PDF original: aparece tras la última disposición, antes de los anexos
+- El nombre se almacena en mayúsculas/minúsculas normales (no ALL CAPS como en el PDF)
 
 #### Enlaces de publicación oficial (OBLIGATORIO)
 - `publishedIn.url` → ficha de la disposición en DOGV/BOE (análisis jurídico, texto consolidado). Ejemplos:

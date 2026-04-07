@@ -549,5 +549,19 @@
         "description": "Currículo de las enseñanzas profesionales de música"
       }
     ]
+  },
+  "promulgation": {
+    "place": "Valencia",
+    "date": "2007-09-21",
+    "signatories": [
+      {
+        "name": "Francisco Camps Ortiz",
+        "role": "President de la Generalitat"
+      },
+      {
+        "name": "Alejandro Font de Mora Turón",
+        "role": "Conselleria de Educación"
+      }
+    ]
   }
 }
