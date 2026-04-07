@@ -129,6 +129,7 @@ IDs de bloques BOE: `pr` (preámbulo), `a1`-`aN` (artículos), `daprimera`, `dtp
 - Los nombres de firmantes aparecen en ALL CAPS en el PDF → normalizar a mayúsculas/minúsculas ("Alberto Fabra Part", no "ALBERTO FABRA PART")
 - Los cargos (`role`) deben ir SIN artículo "El/La" al inicio: "President de la Generalitat", no "El president de la Generalitat"
 - Los cargos de conselleria se normalizan con nombre neutro y solo el área de educación: "Conselleria de Educación" / "Conselleria d'Educació" (no Conseller/Consellera, ni las otras áreas como Cultura, Deporte, etc.)
+- Los cargos del ministerio estatal se normalizan igual, independientemente del nombre oficial del ministerio en cada época: "Ministerio de Educación" (ES) / "Ministeri d'Educació" (VA) (no Ministro/Ministra, ni las otras áreas como Cultura, Deporte, Ciencia, Formación Profesional, etc.)
 
 #### Disposiciones (errores recurrentes en TODAS las ingestas)
 - Las disposiciones finales SIEMPRE deben ser nodos separados (df-1, df-2, etc.), NUNCA un solo nodo con todo junto

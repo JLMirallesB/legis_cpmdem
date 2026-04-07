@@ -1,5 +1,55 @@
 [
   {
+    "version": "0.5.3",
+    "date": "2026-04-07",
+    "entries": {
+      "es": [
+        {
+          "type": "nuevo",
+          "description": "Buscador: contador total de apariciones del término en toda la base de datos, visible en grande al inicio de los resultados"
+        },
+        {
+          "type": "corregido",
+          "description": "Buscador: el resaltado del término buscado ahora funciona correctamente con palabras acentuadas (música, educación, etc.)"
+        },
+        {
+          "type": "mejora",
+          "description": "Buscador: el enlace «...y N coincidencias más» ahora es clicable y despliega el resto de coincidencias en la misma tarjeta"
+        },
+        {
+          "type": "corregido",
+          "description": "Análisis Jurídico: corregido el espaciado interior izquierdo del panel desplegable (problema de scoping de estilos Astro)"
+        },
+        {
+          "type": "mejora",
+          "description": "Datos: normalización del cargo de firmante estatal a «Ministerio de Educación» / «Ministeri d'Educació» en las 6 leyes BOE, para agrupar correctamente en el filtro de cargo"
+        }
+      ],
+      "va": [
+        {
+          "type": "nou",
+          "description": "Cercador: comptador total d'aparicions del terme en tota la base de dades, visible en gran a l'inici dels resultats"
+        },
+        {
+          "type": "corregit",
+          "description": "Cercador: el ressaltat del terme cercat ara funciona correctament amb paraules accentuades (música, educació, etc.)"
+        },
+        {
+          "type": "millora",
+          "description": "Cercador: l'enllaç «...i N coincidències més» ara és clicable i desplega la resta de coincidències a la mateixa targeta"
+        },
+        {
+          "type": "corregit",
+          "description": "Anàlisi Jurídica: corregit l'espaiat interior esquerre del panell desplegable (problema d'scoping d'estils Astro)"
+        },
+        {
+          "type": "millora",
+          "description": "Dades: normalització del càrrec de signant estatal a «Ministerio de Educación» / «Ministeri d'Educació» en les 6 lleis BOE, per agrupar correctament en el filtre de càrrec"
+        }
+      ]
+    }
+  },
+  {
     "version": "0.5.2",
     "date": "2026-04-07",
     "entries": {

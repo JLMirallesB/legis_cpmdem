@@ -76,6 +76,7 @@ const typeLabels: Record<string, string> = {
     <div class="results-area" id="results-area">
       <p class="searching" id="searching-msg" style="display:none;">{t('search.searching', lang)}</p>
       <p class="no-results" id="no-results-msg" style="display:none;"></p>
+      <div class="total-occurrences" id="total-occurrences" style="display:none;"></div>
       <p class="results-count" id="results-count" style="display:none;"></p>
       <div id="results-list"></div>
     </div>
@@ -88,6 +89,7 @@ const typeLabels: Record<string, string> = {
   const searchingMsg = document.getElementById('searching-msg');
   const noResultsMsg = document.getElementById('no-results-msg');
   const resultsCount = document.getElementById('results-count');
+  const totalOccurrences = document.getElementById('total-occurrences');
   const resultsList = document.getElementById('results-list');
   const filterPanel = document.getElementById('filter-panel');
 
@@ -272,12 +274,33 @@ const typeLabels: Record<string, string> = {
   function highlightText(text, q) {
     if (!q) return text;
     const terms = normalize(q).split(/\s+/).filter(Boolean);
-    let result = text;
+    const normText = normalize(text);
+    const ranges = [];
     for (const term of terms) {
-      const regex = new RegExp(`(${term.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')})`, 'gi');
-      result = result.replace(regex, '<mark>$1</mark>');
+      let idx = 0;
+      while (true) {
+        const pos = normText.indexOf(term, idx);
+        if (pos === -1) break;
+        ranges.push([pos, pos + term.length]);
+        idx = pos + 1;
+      }
     }
-    return result;
+    if (ranges.length === 0) return text;
+    ranges.sort((a, b) => a[0] - b[0]);
+    const merged = [ranges[0]];
+    for (let i = 1; i < ranges.length; i++) {
+      const last = merged[merged.length - 1];
+      if (ranges[i][0] <= last[1]) last[1] = Math.max(last[1], ranges[i][1]);
+      else merged.push(ranges[i]);
+    }
+    let result = '';
+    let pos = 0;
+    for (const [start, end] of merged) {
+      result += text.slice(pos, start);
+      result += '<mark>' + text.slice(start, end) + '</mark>';
+      pos = end;
+    }
+    return result + text.slice(pos);
   }
 
   function getSnippet(text, q, maxLen = 200) {
@@ -308,6 +331,7 @@ const typeLabels: Record<string, string> = {
     resultsList.innerHTML = '';
     noResultsMsg.style.display = 'none';
     resultsCount.style.display = 'none';
+    totalOccurrences.style.display = 'none';
 
     if (results.length === 0) {
       noResultsMsg.textContent = q
@@ -317,8 +341,14 @@ const typeLabels: Record<string, string> = {
       return;
     }
 
-    resultsCount.textContent = `${results.length} resultat(s) trobat(s)`;
+    resultsCount.textContent = `${results.length} disposició(ns) amb resultats`;
     resultsCount.style.display = 'block';
+
+    if (q) {
+      const total = results.reduce((sum, r) => sum + r.fragments.length, 0);
+      totalOccurrences.innerHTML = `<span class="total-number">${total.toLocaleString('ca-ES')}</span> <span class="total-label">aparició${total !== 1 ? 'ns' : ''} en tota la base de dades</span>`;
+      totalOccurrences.style.display = 'block';
+    }
 
     for (const r of results) {
       const card = document.createElement('div');
@@ -330,8 +360,7 @@ const typeLabels: Record<string, string> = {
 
       let fragmentsHtml = '';
       const maxFragments = 3;
-      const shown = r.fragments.slice(0, maxFragments);
-      for (const frag of shown) {
+      for (const frag of r.fragments.slice(0, maxFragments)) {
         const snippet = getSnippet(frag.text, q);
         fragmentsHtml += `
           <div class="result-fragment">
@@ -340,7 +369,19 @@ const typeLabels: Record<string, string> = {
           </div>`;
       }
       if (r.fragments.length > maxFragments) {
-        fragmentsHtml += `<p class="more-fragments">...i ${r.fragments.length - maxFragments} coincidència(es) més</p>`;
+        const remaining = r.fragments.slice(maxFragments);
+        let hiddenHtml = '';
+        for (const frag of remaining) {
+          const snippet = getSnippet(frag.text, q);
+          hiddenHtml += `
+            <div class="result-fragment">
+              <a href="${lawUrl}#${frag.id}" class="fragment-link">${highlightText(frag.title, q)}</a>
+              <p class="fragment-snippet">${snippet}</p>
+            </div>`;
+        }
+        fragmentsHtml += `
+          <div class="hidden-fragments" style="display:none;">${hiddenHtml}</div>
+          <p class="more-fragments"><button class="expand-fragments" type="button">...i ${remaining.length} coincidència${remaining.length !== 1 ? 'es' : ''} més</button></p>`;
       }
 
       card.innerHTML = `
@@ -356,6 +397,15 @@ const typeLabels: Record<string, string> = {
       resultsList.appendChild(card);
     }
   }
+
+  resultsList.addEventListener('click', (e) => {
+    const btn = e.target.closest('.expand-fragments');
+    if (!btn) return;
+    const moreP = btn.closest('.more-fragments');
+    const hiddenDiv = moreP.previousElementSibling;
+    hiddenDiv.style.display = 'block';
+    moreP.remove();
+  });
 </script>
 
 <style>
@@ -472,7 +522,23 @@ const typeLabels: Record<string, string> = {
   .results-count {
     font-size: 0.9rem;
     color: var(--color-text-secondary);
+    margin-bottom: var(--space-sm);
+  }
+
+  .total-occurrences {
     margin-bottom: var(--space-md);
+    line-height: 1.2;
+  }
+
+  .total-number {
+    font-size: 2.5rem;
+    font-weight: 800;
+    color: var(--color-primary);
+  }
+
+  .total-label {
+    font-size: 1.1rem;
+    color: var(--color-text-secondary);
   }
 </style>
 
@@ -571,7 +637,23 @@ const typeLabels: Record<string, string> = {
   .more-fragments {
     font-size: 0.8rem;
     color: var(--color-text-muted);
-    font-style: italic;
     padding-left: var(--space-md);
+    margin-top: 2px;
+  }
+
+  .expand-fragments {
+    background: none;
+    border: none;
+    padding: 0;
+    font-size: 0.8rem;
+    font-style: italic;
+    color: var(--color-primary);
+    cursor: pointer;
+    text-decoration: underline;
+    text-underline-offset: 2px;
+  }
+
+  .expand-fragments:hover {
+    color: var(--color-primary-dark);
   }
 </style>
