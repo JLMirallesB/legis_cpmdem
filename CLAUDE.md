@@ -98,13 +98,17 @@ Elegir el método según la fuente del PDF:
 |--------|---------|-------------------|
 | DOGV bilingüe antiguo | 2 columnas (va izq, es der) | `pdfplumber` crop izq/der o `pdftotext -x` |
 | DOGV PDFs separados | 1 columna por idioma | `pdftotext -layout` |
-| BOE moderno (≥2009) | 2 columnas mismo idioma | **`pdftotext -layout`** (NO pdfplumber crop) |
+| BOE moderno (≥2009) | 2 columnas mismo idioma | **`pdftotext`** sin `-layout` (respeta orden de lectura por columnas) |
+| BOE antiguo (< 2009) | 2 columnas mismo idioma, PDF compartido con otras leyes | **`pdftotext`** sin `-layout`, luego recortar por marcadores de inicio/fin del RD |
 | BOE consolidado PDF | 1 columna | `pdfplumber extract_text()` o `pdftotext -layout` |
 | BOE consolidado HTML | HTML web | **Preferido** cuando existe: `curl + regex` |
+| DOGV consolidado PDF | 1 columna por idioma | `pdftotext -layout` (eliminar cabeceras de "Legislación consolidada") |
 
 **⚠️ NUNCA usar `pdfplumber` crop (left/right) para PDFs del BOE de dos columnas del mismo idioma.** El crop a `pw/2` corta palabras en los bordes de columna, produciendo texto garbled ("habili-" + "tación" separados, "Orgá" + "nica" truncados). Este error se ha repetido múltiples veces.
 
-**`pdftotext -layout`** es el método más fiable para BOE: respeta columnas, no corta palabras, mantiene la estructura visual.
+**`pdftotext` sin `-layout`** es el método más fiable para BOE con dos columnas del mismo idioma: respeta el orden de lectura (columna izquierda completa, luego columna derecha), no corta palabras. Con `-layout` se interleavan las dos columnas en las mismas líneas, produciendo texto mezclado.
+
+**Cuando el PDF del BOE contiene varias leyes** (ejemplo: RD 943/2003 comparte PDF con otro RD), extraer sin `-layout` y luego recortar el texto usando los marcadores "REAL DECRETO NNN/AAAA" como delimitadores.
 
 **BOE consolidado HTML** (`https://www.boe.es/buscar/act.php?id=BOE-A-XXXX-NNNNN&tn=1`) es la fuente más fiable para texto de artículos. Extraer con:
 ```python
@@ -189,6 +193,7 @@ content = re.sub(r'\n([a-z]\) )', r'\n\n\1', content)  # single \n before letter
 - Detectar por patrones: bloques de texto corto con nombres de niveles educativos, siglas MECES/EQF mezclados
 - Sustituir por imagen: guardar en `public/images/laws/{slug}-{nombre}.png` y usar markdown `![alt](/legis_cpm/images/laws/archivo.png)`
 - `ArticleContent.astro` renderiza `![alt](url)` como `<figure>` con `<img>` y `<figcaption>`
+- `ArticleContent.astro` convierte URLs (`https://...`) en enlaces clicables automáticamente (auto-linking). No hace falta usar markdown de enlaces.
 
 #### Leyes con contenido no relevante para conservatorios
 - Muchas leyes estatales regulan múltiples enseñanzas (ESO, bachillerato, FP, deportivas...)
@@ -258,9 +263,20 @@ content = re.sub(r'\n([a-z]\) )', r'\n\n\1', content)  # single \n before letter
 
 #### Estructura JSON
 - `id` y `slug` deben ser iguales y coincidir con el nombre del archivo (sin .json)
-- Convención: `{tipo}-{numero}-{año}` → `decreto-158-2007`
+- Convención: `{tipo}-{numero}-{año}` → `decreto-158-2007`. Para resoluciones anuales: `resolucion-inicio-curso-2025-2026`
 - Categorías válidas: `curriculo`, `organizacion`, `acceso`, `evaluacion`, `profesorado`, `titulaciones`, `general`
 - IDs de estructura: `art-N`, `titulo-N`, `titulo-N-cap-N`, `cap-N`, `da-N`, `dt-N`, `dd-unica`, `df-N`, `anexo-N`, `preambulo`
+
+#### Propiedades de clasificación (OBLIGATORIO en toda nueva ingesta)
+Cada ley debe incluir las 4 propiedades siguientes (definidas en `src/lib/types.ts`):
+- `scope`: `"general"` | `"musica_y_danza"` | `"musica"` | `"danza"` — indica a qué enseñanzas aplica
+- `territory`: `"estatal"` | `"autonomico"` — BOE = estatal, DOGV = autonómico
+- `temporality`: objeto con `type: "permanente"` o `type: "anual"` (con `schoolYear` y `expiresDate`)
+  - Leyes anuales (ej. instrucciones de inicio de curso): `{ "type": "anual", "schoolYear": "25-26", "expiresDate": "2026-09-01" }`
+  - El `expiresDate` es siempre el 1 de septiembre del curso siguiente
+- `docType`: `"normativa"` — las resoluciones publicadas en DOGV/BOE son normativa, no documentos
+- Estas propiedades se muestran como etiquetas de color en catálogo, detalle y búsqueda (`LawTags.astro`)
+- Son filtrables en el buscador
 
 #### Cláusula de promulgación (OBLIGATORIO)
 - Toda ley debe incluir `promulgation` con `place`, `date` y `signatories[]`
@@ -304,7 +320,12 @@ content = re.sub(r'\n([a-z]\) )', r'\n\n\1', content)  # single \n before letter
 ### Leyes ingresadas
 Consultar siempre `data/metadata/law-registry.json` para la lista actualizada. No mantener lista duplicada aquí.
 
-Tipos de norma ingresados hasta ahora: `decreto`, `orden`, `ley_organica`, `ley`, `real_decreto`. Pendientes: `resolucion`, `correccion_errores`.
+Tipos de norma ingresados hasta ahora: `decreto`, `orden`, `ley_organica`, `ley`, `real_decreto`, `resolucion`. Pendientes: `correccion_errores`.
+
+#### Resoluciones
+- Las resoluciones pueden tener estructuras muy variadas (con artículos, con apartado único + anexo, u otras formas). NO asumir una estructura fija.
+- Ejemplo ingresado: instrucciones de inicio de curso (apartado único + anexo extenso con secciones numeradas 1-10 usando nodos `seccion`/`articulo`).
+- Las resoluciones anuales (instrucciones de curso) usan `temporality.type: "anual"` con `schoolYear` y `expiresDate`.
 
 ### Configuración importante
 - `base` en `astro.config.mjs` DEBE tener trailing slash: `/legis_cpm/`
