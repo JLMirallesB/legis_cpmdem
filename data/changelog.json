@@ -1,5 +1,119 @@
 [
   {
+    "version": "0.5.1",
+    "date": "2026-04-07",
+    "entries": {
+      "es": [
+        {
+          "type": "nuevo",
+          "description": "LOE (Ley Orgánica 2/2006): ley base de educación con enseñanzas artísticas (Cap. VI), resto de títulos completos, 32 artículos con versiones LOMLOE y Ley 1/2024"
+        },
+        {
+          "type": "nuevo",
+          "description": "LOMLOE (Ley Orgánica 3/2020): ley de modificación de la LOE con artículo único (~90 modificaciones) y 24 disposiciones"
+        },
+        {
+          "type": "nuevo",
+          "description": "LODE (Ley Orgánica 8/1985): ley reguladora del Derecho a la Educación (texto consolidado)"
+        },
+        {
+          "type": "nuevo",
+          "description": "Ley 1/2024: enseñanzas artísticas superiores y organización de las profesionales (71 artículos)"
+        },
+        {
+          "type": "nuevo",
+          "description": "Real Decreto 1577/2006: currículo básico de las enseñanzas profesionales de música (20 artículos + tablas de horarios por especialidad)"
+        },
+        {
+          "type": "nuevo",
+          "description": "Real Decreto 303/2010: requisitos mínimos de los centros de enseñanzas artísticas"
+        },
+        {
+          "type": "nuevo",
+          "description": "Real Decreto 428/2013: especialidades docentes del Cuerpo de Profesores de Música y Artes Escénicas (con tablas de asignación)"
+        },
+        {
+          "type": "nuevo",
+          "description": "Real Decreto 628/2022: modificaciones a enseñanzas artísticas para aplicación de la LOMLOE"
+        },
+        {
+          "type": "nuevo",
+          "description": "Real Decreto 286/2023: asignación de materias y modificaciones de profesorado"
+        },
+        {
+          "type": "nuevo",
+          "description": "Orden ECD/1611/2015: Premios Nacionales al rendimiento académico en enseñanzas artísticas profesionales"
+        },
+        {
+          "type": "actualizado",
+          "description": "LOE: versiones de artículos con texto consolidado del BOE (LOMLOE 2020 + Ley 1/2024). Arts 54-57 suprimidos por Ley 1/2024"
+        },
+        {
+          "type": "actualizado",
+          "description": "9 decretos autonómicos: enlace directo a la LOE en sus referencias habilitantes"
+        },
+        {
+          "type": "mejora",
+          "description": "Tablas markdown en anexos de RD 428/2013 (especialidades→asignaturas) y RD 1577/2006 (horario mínimo de 35 especialidades)"
+        }
+      ],
+      "va": [
+        {
+          "type": "nou",
+          "description": "LOE (Llei Orgànica 2/2006): llei base d'educació amb ensenyaments artístics (Cap. VI), resta de títols complets, 32 articles amb versions LOMLOE i Llei 1/2024"
+        },
+        {
+          "type": "nou",
+          "description": "LOMLOE (Llei Orgànica 3/2020): llei de modificació de la LOE amb article únic (~90 modificacions) i 24 disposicions"
+        },
+        {
+          "type": "nou",
+          "description": "LODE (Llei Orgànica 8/1985): llei reguladora del Dret a l'Educació (text consolidat)"
+        },
+        {
+          "type": "nou",
+          "description": "Llei 1/2024: ensenyaments artístics superiors i organització dels professionals (71 articles)"
+        },
+        {
+          "type": "nou",
+          "description": "Reial Decret 1577/2006: currículum bàsic dels ensenyaments professionals de música (20 articles + taules d'horaris per especialitat)"
+        },
+        {
+          "type": "nou",
+          "description": "Reial Decret 303/2010: requisits mínims dels centres d'ensenyaments artístics"
+        },
+        {
+          "type": "nou",
+          "description": "Reial Decret 428/2013: especialitats docents del Cos de Professors de Música i Arts Escèniques (amb taules d'assignació)"
+        },
+        {
+          "type": "nou",
+          "description": "Reial Decret 628/2022: modificacions als ensenyaments artístics per aplicació de la LOMLOE"
+        },
+        {
+          "type": "nou",
+          "description": "Reial Decret 286/2023: assignació de matèries i modificacions de professorat"
+        },
+        {
+          "type": "nou",
+          "description": "Orde ECD/1611/2015: Premis Nacionals al rendiment acadèmic en ensenyaments artístics professionals"
+        },
+        {
+          "type": "actualitzat",
+          "description": "LOE: versions d'articles amb text consolidat del BOE (LOMLOE 2020 + Llei 1/2024). Arts 54-57 suprimits per Llei 1/2024"
+        },
+        {
+          "type": "actualitzat",
+          "description": "9 decrets autonòmics: enllaç directe a la LOE en les seues referències habilitants"
+        },
+        {
+          "type": "millora",
+          "description": "Taules markdown en annexos del RD 428/2013 (especialitats→assignatures) i RD 1577/2006 (horari mínim de 35 especialitats)"
+        }
+      ]
+    }
+  },
+  {
     "version": "0.4.1",
     "date": "2026-04-07",
     "entries": {
