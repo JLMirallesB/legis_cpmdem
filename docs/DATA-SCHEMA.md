@@ -197,6 +197,32 @@ Un art&iacute;culo puede tener m&uacute;ltiples versiones si ha sido modificado:
 - `signatories` puede tener 1 (&oacute;rdenes) o m&aacute;s firmantes (decretos)
 - Campos `name` y `role` permiten filtrado futuro por persona o cargo
 
+## Modelos de Solicitud (formModels)
+
+Campo **opcional** para leyes que incluyen formularios PDF descargables (ej: modelos de solicitud como anexos al final del PDF).
+
+```json
+{
+  "formModels": [
+    {
+      "id": "solicitud-reclamacion",
+      "title": "Solicitud de reclamación de calificaciones (Anexo I)",
+      "pdfUrl": "https://dogv.gva.es/datos/2011/12/28/pdf/2011_13033.pdf"
+    }
+  ]
+}
+```
+
+- `id`: identificador único del modelo dentro de la ley
+- `title`: texto del botón, en el idioma del JSON (es/va)
+- `pdfUrl`: URL del PDF. Puede ser:
+  - **Ruta relativa** (`models/nombre.pdf`) → fichero en `public/models/`, el componente añade `BASE_URL` automáticamente.
+  - **URL absoluta** (`https://...`) → se usa directamente (p.ej. enlace externo).
+
+**Renderizado**: si `formModels` está presente y no vacío, aparece un bloque resaltado naranja con botones de descarga por encima del análisis jurídico en la página de la ley. El componente es `src/components/FormModelButtons.astro`.
+
+**Cuándo usar**: cuando la norma incluye modelos de formularios o solicitudes como anexos, que el personal del conservatorio puede necesitar descargar y rellenar.
+
 ## Convenciones de Nombrado
 
 - **slug**: tipo-numero-ano en min&uacute;sculas (ej: `decreto-158-2007`)

@@ -102,6 +102,12 @@ export interface Promulgation {
   signatories: Signatory[];
 }
 
+export interface FormModel {
+  id: string;
+  title: string; // Button label, in the language of the Law JSON
+  pdfUrl: string; // URL to download the model PDF
+}
+
 export interface Law {
   id: string;
   slug: string;
@@ -116,6 +122,7 @@ export interface Law {
   structure: StructureNode[];
   legalAnalysis: LegalAnalysis;
   promulgation?: Promulgation;
+  formModels?: FormModel[]; // Optional downloadable model forms (e.g., solicitud)
 }
 
 export interface LawMetadata {

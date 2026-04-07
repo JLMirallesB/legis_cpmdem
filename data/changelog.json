@@ -1,5 +1,31 @@
 [
   {
+    "version": "0.5.4",
+    "date": "2026-04-07",
+    "entries": {
+      "es": [
+        {
+          "type": "nuevo",
+          "description": "Ingesta: Orden 32/2011 de reclamación de calificaciones en enseñanzas de Música y Danza (Capítulos I y V completos)"
+        },
+        {
+          "type": "nuevo",
+          "description": "Nueva funcionalidad: botones de descarga de modelos de solicitud en las leyes que incluyen formularios (con diseño resaltado en naranja)"
+        }
+      ],
+      "va": [
+        {
+          "type": "nou",
+          "description": "Ingestió: Orde 32/2011 de reclamació de qualificacions en ensenyances de Música i Dansa (Capítols I i V complets)"
+        },
+        {
+          "type": "nou",
+          "description": "Nova funcionalitat: botons de descàrrega de models de sol·licitud en les lleis que inclouen formularis (amb disseny ressaltat en taronja)"
+        }
+      ]
+    }
+  },
+  {
     "version": "0.5.3",
     "date": "2026-04-07",
     "entries": {

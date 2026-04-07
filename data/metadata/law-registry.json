@@ -140,6 +140,13 @@
       "status": "ingested",
       "category": "profesorado",
       "notes": "5 arts + 2 DA + 1 DT + 1 DD + 10 DF. Solo en español. Arts 2-5 (ESO/Bach) no relevantes. DF 5ª modifica RD 428/2013."
+    },
+    {
+      "slug": "orden-32-2011",
+      "title": "Orden 32/2011 - Reclamación de calificaciones en Música y Danza",
+      "status": "ingested",
+      "category": "evaluacion",
+      "notes": "Cap I (arts 1-5, generales) + Cap V (arts 13-17, música y danza) completos. Caps II, III, IV, VI, VII excluidos (no relevantes). Incluye formModels: modelo Anexo I (solicitud reclamación). Bilingüe DOGV."
     }
   ]
 }

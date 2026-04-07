@@ -1,0 +1,313 @@
+{
+  "id": "orden-32-2011",
+  "slug": "orden-32-2011",
+  "type": "orden",
+  "number": "32/2011",
+  "date": "2011-12-20",
+  "publishedIn": {
+    "source": "DOGV",
+    "number": "6680",
+    "date": "2011-12-28",
+    "url": "https://dogv.gva.es/va/resultat-dogv?signatura=2011/13033",
+    "pdfUrl": "https://dogv.gva.es/datos/2011/12/28/pdf/2011_13033.pdf"
+  },
+  "title": "Orde 32/2011, de 20 de desembre, de la Conselleria d'Educació, Formació i Ocupació, per la qual es regula el dret de l'alumnat a l'objectivitat en l'avaluació, i s'establix el procediment de reclamació de qualificacions obtingudes i de les decisions de promoció, de certificació o d'obtenció del títol acadèmic que corresponga",
+  "titleShort": "Reclamació de qualificacions en Música i Dansa",
+  "category": "evaluacion",
+  "vigpiracy": {
+    "status": "vigente",
+    "statusLabel": "Vigent",
+    "effectiveDate": "2011-12-29"
+  },
+  "structure": [
+    {
+      "type": "preambulo",
+      "id": "preambulo",
+      "title": "Preàmbul",
+      "content": "La Llei Orgànica 2/2006, de 3 de maig, d’Educació, en la disposició final primera, apartat 3, modifica l’article 6 de la Llei Orgànica 8/1985, de 3 de juliol, reguladora del dret a l’educació, i establix que tot l’alumnat té els mateixos drets i deures sense més distincions que les derivades de la seua edat i del nivell que cursa, i reconeix el dret bàsic que la seua dedicació, esforç i rendiment siguen valorats i reconeguts amb objectivitat. El Decret 39/2008, de 4 d’abril, del Consell, sobre la convivència en els centres docents no universitaris sostinguts amb fons públics i sobre els drets i deures de l’alumnat, dels pares, de les mares, dels tutors o tutores, del professorat i del personal d’administració i servicis, disposa en l’article 16 que l’alumnat té dret que la seua dedicació, esforç i rendiment escolar siguen valorats i reconeguts amb objectivitat. Així mateix, tenen dret a ser informats, a l’inici de cada curs, dels criteris d’avaluació, de qualificació i de les proves a què seran sotmesos. L’alumnat podrà sol·licitar revisions respecte a les qualificacions d’activitats acadèmiques o d’avaluació, tant parcials com finals, de cada curs, i podrà reclamar les qualificacions obtingudes i les decisions de promoció o d’obtenció del títol. Estos drets podran ser exercits, en el cas de l’alumnat menor d’edat, pels seus pares, mares, tutors o tutores. L’article 16.4 del Decret 39/2008, de 4 d’abril, del Consell, diu que la conselleria amb competències en matèria d’educació establirà el procediment per a fer efectiu el dret a reclamar les qualificacions obtingudes. Atés que l’aplicació de l’actual Llei Orgànica d’Educació ha originat modificacions en el conjunt del sistema educatiu, es considera necessari adaptar la normativa vigent del dret de reclamació en relació amb les qualificacions considerades presumptament com a incorrectes, als nous processos d’avaluació establits en el currículum de les diferents ensenyances i a la normativa establida per a cada una d’estes. En conseqüència, pertoca regular en la present orde el dret de l’alumnat de la Comunitat Valenciana a ser avaluat d’acord amb criteris objectius, establir les condicions que garantixen l’esmentada objectivitat i el procediment per mitjà del qual l’alumnat, o els seus representants legals si l’alumnat és menor d’edat, poden sol·licitar aclariments del professorat sobre els processos d’aprenentatge, o si és el cas, presentar reclamació en relació amb les decisions que s’adopten com a resultat de l’avaluació. Per tot això, vista la proposta de la Direcció General d’Ordenació i Centres Docents del dia 25 de novembre de 2011, de conformitat amb esta, i en virtut de les competències que m’atribuïx l’article 28.e) de la Llei 5/1983, de 30 de desembre, del Consell, i el Decret 5/2011, de 21 de juny, del president de la Generalitat, pel qual es determinen les conselleries en què se organitza l’Administració de la Generalitat"
+    },
+    {
+      "type": "capitulo",
+      "id": "cap-1",
+      "number": "I",
+      "title": "Capítol I. Aspectes generals",
+      "children": [
+        {
+          "type": "articulo",
+          "id": "art-1",
+          "number": "1",
+          "title": "Article 1. Objecte i àmbit d’aplicació",
+          "content": "1. Esta orde té com a objecte regular el dret de l’alumnat a l’objectivitat en l’avaluació i establir el procediment de reclamació de qualificacions obtingudes i les decisions de promoció o d’obtenció del títol acadèmic que corresponga.\n\n2. Esta orde serà aplicable a tots els centres públics i privats que, autoritzats com cal, impartisquen alguna de les ensenyances següents:\n\na) Educació Infantil\n\nb) Educació Primària\n\nc) Educació Secundària Obligatòria\n\nd) Batxillerat\n\ne) Formació Professional\n\nf) Ensenyances elementals i professionals de Música i de Dansa\n\ng) Ensenyances professionals d’Arts Plàstiques i Disseny\n\nh) Ensenyances d’idiomes\n\ni) Ensenyances esportives\n\nj) Educació de persones adultes"
+        },
+        {
+          "type": "articulo",
+          "id": "art-2",
+          "number": "2",
+          "title": "Article 2. Reglaments de règim interior",
+          "content": "1. Els reglaments de règim interior dels centres docents contindran les normes de funcionament que garantisquen i faciliten la comunicació entre l’alumnat, les famílies, els tutors i les tutores, la resta del professo- rat, i els òrgans de coordinació didàctica, amb la finalitat d’atendre les incidències que puguen sorgir durant el curs acadèmic en el procés de valoració i avaluació de l’aprenentatge de cada alumne i alumna.\n\n2. En tot cas, els reglaments de règim interior hauran de regular el procediment, els terminis i l’actuació dels òrgans que intervenen en el procés de reclamació de qualificacions, per a garantir el dret de l’alumnat que la seua dedicació, esforç i rendiment siguen valorats i reconeguts amb objectivitat.\n\n3. En els centres públics, els reglaments de règim interior concretaran allò que s’ha indicat en l’apartat anterior de conformitat amb tot el que disposa la present orde.\n\n4. En els centres privats concertats, el procediment i els òrgans encarregats d’instruir les reclamacions seran els que establisca el seu reglament de règim interior, sense perjuí que els terminis s’ajusten al que disposa la present orde. En tots aquells aspectes que no preveuen els reglaments de règim interior dels centres privats concertats, hi serà aplicable, amb caràcter supletori, la present orde."
+        },
+        {
+          "type": "articulo",
+          "id": "art-3",
+          "number": "3",
+          "title": "Article 3. Dret a l’objectivitat en l’avaluació",
+          "content": "1. De conformitat amb l’article 16 del Decret 39/2008, de 4 d’abril, del Consell, l’alumnat té dret que la seua dedicació, esforç i rendiment escolars siguen valorats i reconeguts amb objectivitat. Així mateix, tindran dret a ser informats, a l’inici de cada curs, dels criteris d’avaluació, de qualificació i de les proves a què seran sotmesos, d’acord amb els objectius i continguts de l’ensenyança en cada curs o període d’avaluació.\n\n2. Els equips de cicle i els departaments didàctics hauran de facilitar una còpia de les programacions didàctiques a l’equip directiu del centre. Estes programacions estaran a disposició de l’alumnat i dels seus representants legals perquè tinguen constància dels objectius, continguts, criteris d’avaluació i de qualificació, i d’esta manera puguen realitzar totes les consultes que consideren oportunes respecte d’això. El professorat facilitarà els aclariments que puga sol·licitar l’alumnat, i els seus representants legals si és menor d’edat, respecte del contingut de les programacions didàctiques.\n\n3. Els centres comunicaran a l’alumnat, i als seus representants legals si és menor d’edat, les hores que cada tutor o tutora disposa en el seu horari per a atendre’ls.\n\n4. Els tutors i les tutores, després de cada sessió d’avaluació, i quan hi haja circumstàncies que ho aconsellen, informaran l’alumnat, i si és el cas, els seus representants legals, sobre el resultat del procés d’aprenentatge, l’evolució de l’alumne o alumna i el rendiment mostrat en relació amb les seues capacitats i possibilitats.\n\n5. En el cas de l’alumnat menor d’edat, qualsevol dels drets i actuacions esmentats en la present orde seran exercits pels seus representants legals."
+        },
+        {
+          "type": "articulo",
+          "id": "art-4",
+          "number": "4",
+          "title": "Article 4. Aclariments, revisions i reclamacions",
+          "content": "1. El principi de col·laboració i entesa mútues entre el professorat i l’alumnat i les seues famílies serà aplicable, en tot moment, en l’exercici del dret a l’avaluació objectiva.\n\n2. L’alumnat, i els seus representants legals si és menor d’edat, podran sol·licitar tots els aclariments que consideren oportuns relacionats amb el procés d’aprenentatge, amb les qualificacions o amb les decisions adoptades a conseqüència del procés d’avaluació.\n\n3. En cas que els aclariments no siguen suficients per a l’alumnat o per als seus representants legals, podran sol·licitar informació més precisa per mitjà d’una sol·licitud de revisions respecte de les qualificacions d’activitats acadèmiques o d’avaluació, tant parcials com finals, de cada curs. A estos efectes, serà susceptible de sol·licitud de revisió qualsevol instrument d’avaluació utilitzat pel professorat. Té la consideració d’instrument d’avaluació tot document, prova, exercici, treball, registre o altra informació utilitzat pel professorat per a l’observació sistemàtica i el seguiment de l’alumnat quant al seu procés d’aprenentatge.\n\n4. El professorat facilitarà, a petició de l’alumnat o dels seus representants legals, les informacions de què dispose en els diferents instruments d’avaluació utilitzats.\n\n5. L’alumnat, o els seus representants legals si és menor d’edat, podran reclamar les qualificacions obtingudes i les decisions de pro- moció o d’obtenció del títol o certificació acadèmica que corresponga, sempre que dispose de raons justificades per a això.\n\n6. Respecte a l’apartat anterior, podran ser objecte de reclamació:\n\na) La presumpta aplicació incorrecta dels criteris d’avaluació i de qualificació establits en la programació didàctica i/o en la normativa vigent. Estes reclamacions es podran efectuar en relació amb les qualificacions:\n\n1. De caràcter ordinari, que seran els resultats parcials de l’avaluació donats per l’equip docent durant el curs escolar, dels quals quedarà constància en actes o en uns altres documents d’avaluació.\n\n2. De caràcter final, que seran els resultats finals de l’avaluació en un curs escolar, dels quals es poden derivar decisions relatives a la promoció, a la certificació, o a la titulació, o en una prova que conduïsca a una titulació, a una certificació o a l’accés a unes determinades ensenyances no universitàries.\n\nb) La presumpta inadequació d’un o de més instruments d’avaluació als objectius i continguts establits en la programació didàctica elaborada pel departament o per l’òrgan corresponent, en el currículum o en la normativa vigent respecte d’això.\n\n7. Els centres docents conservaran els instruments d’avaluació d’un curs escolar i totes les informacions relacionades que tinguen respecte d’això fins a tres mesos després d’iniciat el curs escolar següent. En cas que s’inicie un procediment de reclamació, haurà de conservar tota la documentació anterior fins que el procediment finalitze."
+        },
+        {
+          "type": "articulo",
+          "id": "art-5",
+          "number": "5",
+          "title": "Article 5. Procediment general i impresos de reclamació",
+          "content": "1. L’alumnat, o els seus representants legals si és menor d’edat, podran, en primer lloc, sol·licitar els aclariments i les revisions a què es referix l’article 4, apartats 2, 3 i 4, de la present orde.\n\n2. En cas de disconformitat amb els aclariments realitzats pel professorat o amb el resultat de la revisió de les qualificacions, l’alumnat, o els seus representants legals si és menor d’edat, podran presentar una reclamació, l’objecte de la qual haurà d’ajustar-se al que establix l’article 4, apartats 5 i 6, d’esta orde.\n\n3. Les reclamacions s’hauran de presentar, per escrit, adreçades a la direcció del centre docent o a l’òrgan encarregat de resoldre la reclamació en cada cas, d’acord amb el model que figura en l’annex únic de la present orde. En els centres públics, la presentació de la reclamació podrà efectuar-se en la secretaria del centre o per qualsevol dels mitjans previstos en l’article 38.4 de la Llei 30/1992, de 26 de novembre, de Règim Jurídic de les Administracions Públiques i del Procediment Administratiu Comú. Una vegada presentada la reclamació i datada i segellada com cal, esta quedarà formalitzada en la via administrativa i es considerarà iniciat el procediment administratiu corresponent, en el qual el termini per a resoldre començarà a computar-se des de la data en què la sollicitud haja tingut entrada en la secretaria del centre docent.\n\n4. Amb caràcter general, el termini per a la sol·licitud d’aclariments i de revisions serà de tres dies hàbils a comptar des de l’endemà de la comunicació oficial de la qualificació objecte de la reclamació. En tot cas, i amb independència de la sol·licitud d’aclariments i revisions que s’haja efectuat, el termini per a la presentació de la reclamació escrita serà de tres dies hàbils a comptar de l’endemà de la comunicació oficial de la qualificació objecte de la reclamació, tenint en compte la data que conste en la relació de qualificacions publicades als taulers d’anuncis del centre docent o la data de notificació del document a l’alumnat, o als seus representants legals si és menor d’edat.\n\n5. El procediment general de tramitació de la reclamació, en el cas de centres públics, i sense perjuí de les singularitats establides sobre este procediment per a cada ensenyança en la present orde, és el següent:\n\na) La direcció del centre, o bé el president o la presidenta de l’òrgan competent per a resoldre la reclamació, comunicarà l’existència de la reclamació a tot el professorat al qual corresponga estudiar-la i instruir-la.\n\nb) El professorat que examine el contingut de la reclamació, que actuarà com a òrgan instructor, elaborarà un informe motivat que descriga els fets i les actuacions previs que s’hagen produït, si s’han aplicat correctament els criteris d’avaluació i la prova s’adequa als objectius i continguts, i la proposta de modificació o de ratificació de la qualificació obtinguda per l’alumne o l’alumna, o bé de la mesura correctora acordada per a l’esmentada situació. Este òrgan instructor, abans de la remissió de l’informe, podrà demanar la informació que considere convenient del docent o de l’òrgan que va emetre la qualificació.\n\nc) L’informe realitzat per l’òrgan instructor de la reclamació serà elevat a la direcció del centre o al president o a la presidenta de l’òrgan que haja de resoldre la reclamació, els quals, en cada cas, dictaran una resolució expressa i la notificaran a l’alumnat, o als seus representants legals si és menor d’edat. Es podran considerar desestimades les reclamacions si no es dicta una resolució expressa en el termini establit, tot això sense perjuí de l’obligació de resoldre que prescriu l’article 42 de la Llei 30/1992, de 26 de novembre.\n\nd) Contra la resolució de l’òrgan encarregat de resoldre la reclamació, les persones interessades podran presentar un recurs d’alçada davant de la direcció territorial competent en matèria d’educació, en el termini màxim d’un mes. En este cas, la direcció territorial competent per a resoldre el recurs d’alçada sol·licitarà, per via d’urgència, l’expedient administratiu a l’òrgan que haja resolt la reclamació, el qual, en dos dies hàbils, haurà de remetre a la direcció territorial tota la documentació que tinga en el seu poder en relació amb la reclamació.\n\ne) La resolució del recurs d’alçada per part de la direcció territorial competent es realitzarà amb un informe previ de la Inspecció Educativa. Esta resolució posarà fi a la via administrativa.\n\nf) L’expedient administratiu generat per la reclamació serà registrat i conservat en l’arxiu del centre docent el director o la directora del qual haja resolt la reclamació, o bé en aquell on actue l’òrgan col·legiat encarregat de resoldre-la.\n\n6. En els casos en què les reclamacions hagen sigut presentades fora de termini, estes es tramitaran d’acord amb el procediment establit en la Llei 30/1992, de 26 de novembre, tot i que seran inadmeses. Esta circumstància haurà de ser notificada a les persones interessades per la direcció del centre o pel titular de la presidència de l’òrgan competent per a resoldre les reclamacions.\n\n7. Les reclamacions que es presenten davant dels centres privats no tindran caràcter administratiu, si bé els mencionats centres hauran d’instruir i de respondre a les reclamacions que es presenten davant d’estos en els termes formals que establisca el seu reglament de règim interior, si en tenen.\n\n8. Les persones que reclamen davant dels centres privats, en cas de disconformitat amb la resposta rebuda o amb les decisions adoptades pels esmentats centres, podran presentar una reclamació davant de l’Administració educativa. En este cas:\n\na) La direcció territorial competent en matèria d’educació remetrà al centre docent una sol·licitud d’enviament de la documentació relacionada amb la reclamació. L’enviament de la documentació haurà d’efectuar-se en el termini màxim de deu dies hàbils des de la notificació de la sol·licitud.\n\nb) Una vegada rebuda la documentació i instruït l’expedient, es procedirà al tràmit d’audiència de la titularitat del centre, de les persones que reclamen i de totes les altres persones interessades que hi haja en el procediment.\n\nc) La direcció territorial competent en matèria d’educació disposarà d’un mes per a resoldre, a comptar des de la recepció de la documentació enviada pel centre docent; la sol·licitud de revisió es considerarà desestimada si no es dicta una resolució expressa en l’esmentat termini. La resolució serà notificada a les persones interessades en el procediment.\n\nd) Contra la resolució de la direcció territorial, les persones interessades podran interposar un recurs d’alçada davant de la direcció general competent en matèria d’ordenació acadèmica en el termini d’un mes des de la notificació de la resolució de la direcció territorial.\n\ne) La resolució del recurs d’alçada per la direcció general competent posarà fi a la via administrativa.\n\n9. En els procediments de reclamació iniciats en via administrativa, i de conformitat amb l’article 35 de la Llei 30/1992, de 26 de novembre, les persones interessades podran obtindre una còpia dels instruments d’avaluació que estiguen en l’expedient administratiu corresponent. CAPÍTOL II Dret a l’avaluació objectiva en Educació Infantil"
+        }
+      ]
+    },
+    {
+      "type": "capitulo",
+      "id": "cap-2",
+      "number": "II",
+      "title": "Capítol II. Dret a l'avaluació objectiva en Educació Infantil",
+      "children": [
+        {
+          "type": "articulo",
+          "id": "cap-2-placeholder",
+          "number": "6",
+          "title": "Article 6. Avaluació objectiva en Educació Infantil",
+          "content": "[No relatiu a conservatoris professionals de música i dansa - vegeu el PDF original]"
+        }
+      ]
+    },
+    {
+      "type": "capitulo",
+      "id": "cap-3",
+      "number": "III",
+      "title": "Capítol III. Procediment de reclamació de qualificacions en Educació Primària, Educació Secundària Obligatòria i Batxillerat",
+      "children": [
+        {
+          "type": "articulo",
+          "id": "cap-3-placeholder",
+          "number": "7-8",
+          "title": "Articles 7-8",
+          "content": "[No relatiu a conservatoris professionals de música i dansa - vegeu el PDF original]"
+        }
+      ]
+    },
+    {
+      "type": "capitulo",
+      "id": "cap-4",
+      "number": "IV",
+      "title": "Capítol IV. Procediment de reclamació de qualificacions en Formació Professional, ensenyances professionals d'Arts Plàstiques i Disseny i ensenyances esportives",
+      "children": [
+        {
+          "type": "articulo",
+          "id": "cap-4-placeholder",
+          "number": "9-12",
+          "title": "Articles 9-12",
+          "content": "[No relatiu a conservatoris professionals de música i dansa - vegeu el PDF original]"
+        }
+      ]
+    },
+    {
+      "type": "capitulo",
+      "id": "cap-5",
+      "number": "V",
+      "title": "Capítol V. Procediment de reclamació de qualificacions en ensenyances elementals i professionals de Música i de Dansa",
+      "children": [
+        {
+          "type": "articulo",
+          "id": "art-13",
+          "number": "13",
+          "title": "Article 13. Ensenyances elementals i professionals de Música i de Dansa",
+          "content": "1. L’alumnat, o els seus representants legals si és menor d’edat, podran, en primer lloc, sol·licitar al professorat els aclariments i les revisions a què es referix l’article 4, apartats 2, 3 i 4, de la present orde. En cas de disconformitat amb eixos aclariments o revisions, podrà presentar una reclamació l’objecte de la qual haurà d’ajustar-se al que establix l’article 4, apartats 5 i 6, d’esta orde. La reclamació s’haurà de realitzar per escrit i s’adreçarà a la direcció del centre, que serà l’òrgan encarregat de resoldre-la. La presentació de la reclamació es realitzarà en la forma i en el termini que s’indica en l’article 5.3 d’esta orde.\n\n2. En el termini màxim de dos dies hàbils des de la recepció de la reclamació, es constituirà l’òrgan que la instruirà, que actuarà de manera col·legiada per a estudiar-la i per a elaborar l’informe relatiu als fets, actuacions, valoració de la correcta aplicació dels criteris d’avaluació i de l’adequació de la prova, rectificació o ratificació de les decisions d’avaluació adoptades i proposta de mesures correctores, si pertoca. Amb este fi, la direcció del centre convocarà els seus membres d’acord amb la següent composició de l’òrgan:\n\na) La direcció d’estudis del centre.\n\nb) El tutor o la tutora de l’alumnat que reclama.\n\nc) La direcció del departament didàctic de l’assignatura objecte de reclamació.\n\nd) Dos professors o professores designats per la direcció del centre, preferentment amb atribució docent en l’assignatura objecte de la reclamació.\n\n3. L’òrgan instructor elaborarà l’informe previst en l’article 5.5.b) d’esta orde i l’elevarà a la direcció del centre en el termini màxim de dos dies hàbils des del dia en què haja sigut convocat per la direcció del centre per a la tramitació de la reclamació.\n\n4. La direcció del centre disposarà de dos dies hàbils per a dictar una resolució expressa i notificar-la a les persones interessades, comptadors des de la recepció de l’informe elaborat per l’òrgan instructor de la reclamació o transcorregut el termini per a emetre’l. Si a conseqüència de la resolució s’ha de modificar la decisió d’avaluació respecte de l’alumne o l’alumna, el titular de la secretaria del centre, o qui tinga atribuïdes les seues funcions, rectificarà l’acta d’avaluació, situació que farà constar per mitjà de l’oportuna diligència; així mateix, es rectificaran els documents oficials d’avaluació de l’alumnat i s’incorporarà una còpia de la resolució al seu expedient acadèmic."
+        },
+        {
+          "type": "articulo",
+          "id": "art-14",
+          "number": "14",
+          "title": "Article 14. Proves d’ingrés i d’accés",
+          "content": "1. En les proves d’ingrés a primer curs d’ensenyances elementals de Música i de Dansa, en les proves d’accés a primer curs d’ensenyances professionals de Música i de Dansa, i en les proves d’accés a un curs diferent del primer en ensenyances elementals i professionals de Música i de Dansa, les reclamacions de qualificacions es tramitaran, en cada cas, de conformitat amb l’article 10 del Decret 159/2007, de 21 de setembre, del Consell, pel qual s’establix el currículum de les ensenyances elementals de Música i es regula l’accés a estes ensenyances; amb l’article 10 del Decret 157/2007, de 21 de setembre, del Consell, pel qual s’establix el currículum de les ensenyances elementals de Dansa i es regula l’accés a estes ensenyances; amb l’article 12 del Decret 158/2007, de 21 de setembre, del Consell, pel qual s’establix el currículum de les ensenyances professionals de Música i es regula l’accés a estes ensenyances, i amb l’article 11 del Decret 156/2007, de 21 de setembre, del Consell, pel qual s’establix el currículum de les ensenyances professionals de Dansa i es regula l’accés a estes ensenyances.\n\n2. Les reclamacions s’hauran de presentar per escrit en la forma i en el termini indicats en l’article 5.3 d’esta orde, amb les al·legacions dels motius que en cada cas es consideren oportuns, i estaran adreçades a la direcció del centre, que serà l’òrgan competent per a resoldre la reclamació.\n\n3. La direcció del centre convocarà els membres de l’òrgan instructor de la reclamació perquè elabore l’informe previst en l’article 5.5.b) d’esta orde.\n\n4. L’òrgan que realitzarà la instrucció de les reclamacions sobre la qualificació obtinguda en les proves d’ingrés a primer curs, o en les proves d’accés a cursos diferents del primer, en ensenyances elementals de Música i de Dansa, serà la comissió d’avaluació encarregada de valorar la prova corresponent.\n\n5. En les proves d’accés de les ensenyances professionals de Música i de Dansa, tant en l’accés a primer curs com a cursos diferents del primer, el tribunal que avalue cada alumne o alumna en les esmentades proves serà l’òrgan instructor de la reclamació.\n\n6. Després de l’estudi de l’informe de l’òrgan instructor de la reclamació, la direcció del centre dictarà una resolució expressa i la notificarà a les persones interessades. Esta notificació s’haurà d’efectuar en el termini màxim de tres dies hàbils des de la data de presentació de la reclamació.\n\n7. Si la resolució del procediment de reclamació implica modificar la decisió d’avaluació respecte de l’alumne o l’alumna, el titular de la secretaria del centre, o qui tinga atribuïdes les seues funcions, rectificarà els documents oficials d’avaluació afectats, i els llistats d’alumnat admés si estos últims ja han sigut publicats.\n\n8. Contra la resolució de la direcció del centre, les persones interessades podran interposar un recurs d’alçada davant de la direcció territorial competent en matèria d’educació en els terminis que s’establixen en l’article 115 de la Llei 30/1992, de 26 de novembre."
+        },
+        {
+          "type": "articulo",
+          "id": "art-15",
+          "number": "15",
+          "title": "Article 15. Proves per a l’obtenció directa del certificat d’ensenyances elementals",
+          "content": "1. L’alumnat que s’haja presentat a les proves per a l’obtenció directa del certificat d’ensenyances elementals de Música i de Dansa podrà interposar una reclamació, l’objecte de la qual haurà d’ajustar-se al que establix l’article 4, apartats 5 i 6, d’esta orde. La reclamació s’haurà de realitzar per escrit i s’adreçarà a la direcció del centre, que serà l’òrgan encarregat de resoldre-la. La presentació de la reclamació es realitzarà en la forma i en el termini que s’indica en l’article 5.3 d’esta orde.\n\n2. La direcció del centre convocarà, en el termini màxim de dos dies hàbils des de la recepció de la reclamació, els membres del tribunal que haja avaluat l’alumne o l’alumna que reclama en les proves perquè el mencionat òrgan actue com a instructor de la reclamació i elabore l’informe corresponent, tal com establix l’article 5.5.b) d’esta orde.\n\n3. El tribunal elaborarà l’informe preceptiu en el termini màxim de dos dies hàbils i l’elevarà a la direcció del centre.\n\n4. La direcció del centre, vist l’informe del tribunal, dictarà una resolució expressa i la notificarà a les persones interessades en el termini màxim de dos dies hàbils des de la recepció de l’informe o transcorregut el termini perquè siga emés. Si a conseqüència de la resolució s’ha de modificar la decisió d’avaluació respecte de l’alumne o l’alumna, el titular de la secretaria del centre rectificarà l’acta d’avaluació, situació que farà constar per mitjà de l’oportuna diligència.\n\n5. Si l’informe de l’òrgan instructor o la resolució de la direcció del centre indiquen que, a conseqüència d’una rectificació en les qualificacions, l’aspirant ha superat els diferents exercicis i parts de la prova, i, per tant, està en condicions d’obtindre el certificat d’ensenyances elementals de Música o de Dansa, es farà constar eixa circumstància expressament en l’informe o en la resolució."
+        },
+        {
+          "type": "articulo",
+          "id": "art-16",
+          "number": "16",
+          "title": "Article 16. Fase de conservatori dels premis professionals de Música i de Dansa",
+          "content": "1. En la fase dels premis realitzada en el conservatori, l’alumnat, o els seus representants legals si és menor d’edat, podran presentar una reclamació motivada en relació amb la qualificació obtinguda. La reclamació s’haurà de realitzar per escrit en la forma indicada en l’article 5.3 d’esta orde i en el termini de tres dies hàbils a comptar a partir de l’endemà de la publicació de les qualificacions. La reclamació haurà d’estar adreçada a la direcció del centre, que resoldrà el procediment i efectuarà la notificació corresponent a les persones interessades en el termini màxim de tres dies hàbils.\n\n2. Abans de la resolució de les reclamacions que es produïsquen en la fase de conservatori dels premis professionals, la direcció del centre convocarà els membres del tribunal que haja avaluat l’alumne o l’alumna que reclama en les proves perquè el mencionat òrgan actue com a instructor de la reclamació, revise les seues actuacions i decisions i elabore l’informe de valoració corresponent.\n\n3. Si a conseqüència de la resolució s’ha de modificar la decisió d’avaluació respecte de l’alumne o l’alumna, el secretari o la secretària del tribunal que va realitzar l’avaluació prèvia a la reclamació rectificarà l’acta, situació que farà constar per mitjà de l’oportuna diligència. Així mateix, si la resolució dictada afecta algun alumne o alumna quant a l’obtenció del premi professional o bé de la menció d’honor, es rectificaran els documents oficials del mencionat alumne o alumna perquè estos s’adeqüen al compliment del contingut de l’esmentada resolució."
+        },
+        {
+          "type": "articulo",
+          "id": "art-17",
+          "number": "17",
+          "title": "Article 17. Fase autonòmica dels premis professionals de Música i de Dansa",
+          "content": "1. En la fase autonòmica dels premis professionals de Música i de Dansa, l’alumnat, o els seus representants legals si és menor d’edat, podran interposar una reclamació motivada en relació amb la qualificació obtinguda. La reclamació s’haurà de realitzar per escrit en la forma indicada en l’article 5.3 d’esta orde i en el termini de tres dies hàbils a comptar a partir de l’endemà de la publicació de les qualificacions. La reclamació haurà d’estar adreçada al president o la presidenta del tribunal encarregat de jutjar estos premis, i es presentarà preferentment en el registre general de la conselleria competent en matèria d’educació, o bé per qualsevol altre mitjà dels previstos en l’article 38.4 de la Llei 30/1992, de 26 de novembre.\n\n2. El tribunal de la fase autonòmica dels premis professionals de Música i de Dansa actuarà com a òrgan col·legiat en el procediment i serà responsable tant d’instruir com de resoldre la reclamació. Una vegada estudiada i valorada la reclamació, el tribunal dictarà una resolució expressa i la notificarà a les persones interessades en el termini màxim de quinze dies.\n\n3. Contra la resolució del tribunal de la fase autonòmica dels premis professionals de Música i de Dansa, les persones interessades podran interposar un recurs d’alçada davant de la direcció general competent en matèria d’ordenació acadèmica en el termini màxim d’un mes. La resolució del recurs d’alçada per la mencionada direcció general posa fi a la via administrativa.\n\n4. En cas que l’alumnat proposat per a ser premiat en la fase autonòmica varie a conseqüència de la resolució del procediment de reclamació, el secretari o la secretària del tribunal ho comunicarà a la direcció general competent en matèria d’ordenació acadèmica perquè en tinga coneixença. CAPÍTOL VI Procediment de reclamació de qualificacions en ensenyances d’idiomes"
+        }
+      ]
+    },
+    {
+      "type": "capitulo",
+      "id": "cap-6",
+      "number": "VI",
+      "title": "Capítol VI. Procediment de reclamació de qualificacions en ensenyances d'idiomes",
+      "children": [
+        {
+          "type": "articulo",
+          "id": "cap-6-placeholder",
+          "number": "18-19",
+          "title": "Articles 18-19",
+          "content": "[No relatiu a conservatoris professionals de música i dansa - vegeu el PDF original]"
+        }
+      ]
+    },
+    {
+      "type": "capitulo",
+      "id": "cap-7",
+      "number": "VII",
+      "title": "Capítol VII. Procediment de reclamació de qualificacions en educació de persones adultes",
+      "children": [
+        {
+          "type": "articulo",
+          "id": "cap-7-placeholder",
+          "number": "20-21",
+          "title": "Articles 20-21",
+          "content": "[No relatiu a conservatoris professionals de música i dansa - vegeu el PDF original]"
+        }
+      ]
+    },
+    {
+      "type": "disposicion_adicional",
+      "id": "da-1",
+      "title": "Disposició addicional primera. Centres privats no concertats",
+      "content": "De conformitat amb l’article 124 de la Llei Orgànica 2/2006, de 3 de maig, d’Educació, els centres privats no concertats elaboraran les seues normes d’organització i de funcionament en totes les matèries que són objecte de la present orde."
+    },
+    {
+      "type": "disposicion_adicional",
+      "id": "da-2",
+      "title": "Disposició addicional segona. Difusió i supervisió de la norma",
+      "content": "1. La Inspecció Educativa vetlarà pel compliment del que establix esta orde.\n\n2. Els equips directius dels centres públics i la titularitat dels centres privats compliran i faran complir el contingut de la present orde i en difondran el contingut entre els membres de la comunitat educativa."
+    },
+    {
+      "type": "disposicion_adicional",
+      "id": "da-3",
+      "title": "Disposició addicional tercera. Interpretació i aplicació",
+      "content": "Els òrgans superiors i la resta de centres directius de la conselleria competent en matèria d’educació queden facultats perquè, en l’àmbit de les seues competències respectives, adopten mesures i dicten les ins- truccions i resolucions que siguen necessàries per a la interpretació i l’aplicació del que disposa la present orde."
+    },
+    {
+      "type": "disposicion_adicional",
+      "id": "da-4",
+      "title": "Disposició addicional quarta. Incidència en les dotacions de despesa",
+      "content": "La implementació i el posterior desplegament d’esta orde no podrà tindre cap incidència en la dotació de cada un dels capítols de gasto assignats a la conselleria competent en matèria d’educació, i en tot cas haurà de ser atés amb els mitjans personals i materials de la conselleria competent per raó de la matèria."
+    },
+    {
+      "type": "disposicion_transitoria",
+      "id": "dt-unica",
+      "title": "Disposició transitòria única. Adaptació dels reglaments de règim interior",
+      "content": "1. Els centres públics i privats concertats disposaran d’un termini màxim de tres mesos, comptadors des de l’entrada en vigor de la present orde, per a adaptar els seus reglaments de règim interior al que esta disposa.\n\n2. Els procediments de reclamació iniciats a partir de l’entrada en vigor d’esta orde que hagen de ser resolts per la direcció del centre es resoldran d’acord amb la normativa vigent abans de la mencionada entrada en vigor fins que en cada centre docent es produïsca l’efectiva adaptació del seu reglament de règim interior per mitjà de l’aprovació per part del consell escolar, o si no es produïx l’aprovació en el termini de tres mesos previst per a efectuar-la, fins que transcórrega l’esmentat termini."
+    },
+    {
+      "type": "disposicion_derogatoria",
+      "id": "dd-unica",
+      "title": "Disposició derogatòria única. Derogació normativa",
+      "content": "1. Queden derogades les disposicions següents:\n\na) L’Orde de 23 de gener de 1990, de la Conselleria de Cultura, Educació i Ciència, per la qual es regula l’exercici del dret de reclamació de qualificacions considerades incorrectes en els nivells d’ensenyances no universitàries.\n\nb) La Resolució de 23 de gener de 1990, de la Direcció General d’Ordenació i Innovació Educativa, per la qual s’establixen el procediment i els terminis per a exercir el dret de reclamació de qualificacions considerades incorrectes, regulat en l’Orde de 23 de gener de 1990, de la Conselleria de Cultura, Educació i Ciència.\n\nc) L’article 9 de l’Orde de 19 de novembre de 2009, de la Conselleria d’Educació, per la qual es regulen la convocatòria anual i el procediment per a la realització de la prova extraordinària per a aconseguir el títol de Graduat en Educació Secundària Obligatòria pels alumnes que no l’hagen obtingut en finalitzar l’etapa.\n\nd) L’article 24 de l’Orde de 14 de juliol de 2009, de la Conselleria d’Educació, per la qual es regulen l’organització i el funcionament de les escoles oficials d’idiomes de la Comunitat Valenciana a partir del curs acadèmic 2009-2010.\n\n2. Així mateix, queden derogades totes les disposicions del mateix rang o d’un rang inferior que s’oposen al que disposa esta orde."
+    },
+    {
+      "type": "disposicion_final",
+      "id": "df-unica",
+      "title": "Disposició final única. Entrada en vigor",
+      "content": "Esta orde entrarà en vigor l’endemà de ser publicada en el Diari Oficial de la Comunitat Valenciana."
+    }
+  ],
+  "legalAnalysis": {
+    "enactedPursuantTo": [
+      {
+        "lawId": "decreto-156-2007",
+        "title": "Decret 156/2007 - Currículum EEPP de Dansa",
+        "articles": [
+          "art-11"
+        ],
+        "relationship": "conformidad"
+      },
+      {
+        "lawId": "decreto-157-2007",
+        "title": "Decret 157/2007 - Currículum EEEE de Dansa",
+        "articles": [
+          "art-10"
+        ],
+        "relationship": "conformidad"
+      },
+      {
+        "lawId": "decreto-158-2007",
+        "title": "Decret 158/2007 - Currículum EEPP de Música",
+        "articles": [
+          "art-12"
+        ],
+        "relationship": "conformidad"
+      },
+      {
+        "lawId": "decreto-159-2007",
+        "title": "Decret 159/2007 - Currículum EEEE de Música",
+        "articles": [
+          "art-10"
+        ],
+        "relationship": "conformidad"
+      }
+    ],
+    "priorAffectations": [],
+    "posteriorAffectations": [],
+    "derogations": [
+      {
+        "lawId": "orden-23-enero-1990",
+        "title": "Orde de 23 de gener de 1990, de reclamació de qualificacions",
+        "type": "deroga"
+      }
+    ],
+    "concordances": [
+      {
+        "lawId": "decreto-156-2007",
+        "title": "Decret 156/2007 - Currículum EEPP de Dansa"
+      },
+      {
+        "lawId": "decreto-157-2007",
+        "title": "Decret 157/2007 - Currículum EEEE de Dansa"
+      },
+      {
+        "lawId": "decreto-158-2007",
+        "title": "Decret 158/2007 - Currículum EEPP de Música"
+      },
+      {
+        "lawId": "decreto-159-2007",
+        "title": "Decret 159/2007 - Currículum EEEE de Música"
+      }
+    ]
+  },
+  "promulgation": {
+    "place": "València",
+    "date": "2011-12-20",
+    "signatories": [
+      {
+        "name": "José Ciscar Bolufer",
+        "role": "Conselleria d'Educació"
+      }
+    ]
+  },
+  "formModels": [
+    {
+      "id": "solicitud-reclamacion",
+      "title": "Sol·licitud de reclamació de qualificacions (Annex I)",
+      "pdfUrl": "models/orden-32-2011-solicitud-reclamacion.pdf"
+    }
+  ]
+}

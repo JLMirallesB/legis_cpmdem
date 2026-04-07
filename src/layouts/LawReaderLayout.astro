@@ -4,6 +4,7 @@ import BaseLayout from './BaseLayout.astro';
 import LawSidebar from '../components/LawSidebar.astro';
 import VigencyBadge from '../components/VigencyBadge.astro';
 import DownloadButtons from '../components/DownloadButtons.astro';
+import FormModelButtons from '../components/FormModelButtons.astro';
 import LegalAnalysis from '../components/LegalAnalysis.astro';
 import { t } from '../i18n/utils';
 
@@ -46,6 +47,9 @@ const dateFormatted = new Date(law.date).toLocaleDateString(lang === 'va' ? 'ca-
         )}
       </div>
       <DownloadButtons law={law} lang={lang} />
+      {law.formModels && law.formModels.length > 0 && (
+        <FormModelButtons models={law.formModels} lang={lang} />
+      )}
     </div>
 
     {law.legalAnalysis && (
