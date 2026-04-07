@@ -590,5 +590,11 @@
         "role": "President del Govern"
       }
     ]
-  }
+  },
+  "scope": "general",
+  "territory": "estatal",
+  "temporality": {
+    "type": "permanente"
+  },
+  "docType": "normativa"
 }

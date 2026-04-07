@@ -1,6 +1,7 @@
 ---
 import type { Lang, LawMetadata } from '../lib/types';
 import VigencyBadge from './VigencyBadge.astro';
+import LawTags from './LawTags.astro';
 
 interface Props {
   law: LawMetadata;
@@ -26,6 +27,7 @@ const dateFormatted = new Date(law.date).toLocaleDateString(lang === 'va' ? 'ca-
   </div>
   <h3 class="law-title">{law.titleShort}</h3>
   <p class="law-number">{law.number} &middot; {dateFormatted}</p>
+  <LawTags scope={law.scope} territory={law.territory} temporality={law.temporality} docType={law.docType} lang={lang} compact />
 </a>
 
 <style>

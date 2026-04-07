@@ -427,5 +427,11 @@
         "role": "Conselleria d'Educació"
       }
     ]
-  }
+  },
+  "scope": "danza",
+  "territory": "autonomico",
+  "temporality": {
+    "type": "permanente"
+  },
+  "docType": "normativa"
 }

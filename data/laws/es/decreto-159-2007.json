@@ -600,5 +600,11 @@
         "role": "Conselleria de Educación"
       }
     ]
-  }
+  },
+  "scope": "musica",
+  "territory": "autonomico",
+  "temporality": {
+    "type": "permanente"
+  },
+  "docType": "normativa"
 }

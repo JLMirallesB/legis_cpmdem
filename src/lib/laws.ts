@@ -28,6 +28,10 @@ export function getAllLawMetadata(lang: Lang): LawMetadata[] {
     titleShort: law.titleShort,
     category: law.category,
     vigpiracy: law.vigpiracy,
+    scope: law.scope,
+    territory: law.territory,
+    temporality: law.temporality,
+    docType: law.docType,
   }));
 }
 

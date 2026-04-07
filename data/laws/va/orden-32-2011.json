@@ -309,5 +309,11 @@
       "title": "Sol·licitud de reclamació de qualificacions (Annex I)",
       "pdfUrl": "models/orden-32-2011-solicitud-reclamacion.pdf"
     }
-  ]
+  ],
+  "scope": "general",
+  "territory": "autonomico",
+  "temporality": {
+    "type": "permanente"
+  },
+  "docType": "normativa"
 }

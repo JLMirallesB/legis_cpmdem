@@ -112,5 +112,11 @@
         "role": "Conselleria d'Educació"
       }
     ]
-  }
+  },
+  "scope": "musica",
+  "territory": "autonomico",
+  "temporality": {
+    "type": "permanente"
+  },
+  "docType": "normativa"
 }

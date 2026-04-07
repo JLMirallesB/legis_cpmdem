@@ -17,6 +17,16 @@ export type VigencyStatus =
   | 'derogada_parcial'
   | 'derogada';
 
+export type LawScope = 'general' | 'musica_y_danza' | 'musica' | 'danza';
+export type LawTerritory = 'estatal' | 'autonomico';
+export type LawDocType = 'normativa' | 'documentos';
+
+export interface LawTemporality {
+  type: 'permanente' | 'anual';
+  schoolYear?: string;   // e.g. "25-26" (only if type === 'anual')
+  expiresDate?: string;  // e.g. "2026-09-01" (only if type === 'anual')
+}
+
 export type StructureNodeType =
   | 'preambulo'
   | 'titulo'
@@ -123,6 +133,10 @@ export interface Law {
   legalAnalysis: LegalAnalysis;
   promulgation?: Promulgation;
   formModels?: FormModel[]; // Optional downloadable model forms (e.g., solicitud)
+  scope: LawScope;
+  territory: LawTerritory;
+  temporality: LawTemporality;
+  docType: LawDocType;
 }
 
 export interface LawMetadata {
@@ -135,6 +149,10 @@ export interface LawMetadata {
   titleShort: string;
   category: string;
   vigpiracy: Vigency;
+  scope: LawScope;
+  territory: LawTerritory;
+  temporality: LawTemporality;
+  docType: LawDocType;
 }
 
 export interface Category {

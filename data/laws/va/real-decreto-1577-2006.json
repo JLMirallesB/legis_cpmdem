@@ -306,5 +306,11 @@
         "role": "Ministeri d'Educació"
       }
     ]
-  }
+  },
+  "scope": "musica",
+  "territory": "estatal",
+  "temporality": {
+    "type": "permanente"
+  },
+  "docType": "normativa"
 }

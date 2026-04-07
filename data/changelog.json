@@ -1,6 +1,6 @@
 [
   {
-    "version": "0.6.0",
+    "version": "0.6.1",
     "date": "2026-04-07",
     "entries": {
       "es": [
@@ -27,6 +27,14 @@
         {
           "type": "mejora",
           "description": "Las URLs en el contenido de los artículos son ahora clicables (auto-linking)"
+        },
+        {
+          "type": "nuevo",
+          "description": "Etiquetas de clasificación en cada ley: aplicación (General, Música, Danza, Música y Danza), ámbito (Estatal, Autonómico), periodo (Permanente, Anual) y tipo documental. Visibles en catálogo, detalle y resultados de búsqueda"
+        },
+        {
+          "type": "nuevo",
+          "description": "Nuevos filtros en el buscador: aplicación, ámbito, periodo y tipo documental"
         }
       ],
       "va": [
@@ -53,6 +61,14 @@
         {
           "type": "millora",
           "description": "Les URLs en el contingut dels articles ara són clicables (auto-linking)"
+        },
+        {
+          "type": "nou",
+          "description": "Etiquetes de classificació en cada llei: aplicació (General, Música, Dansa, Música i Dansa), àmbit (Estatal, Autonòmic), període (Permanent, Anual) i tipus documental. Visibles en catàleg, detall i resultats de cerca"
+        },
+        {
+          "type": "nou",
+          "description": "Nous filtres en el cercador: aplicació, àmbit, període i tipus documental"
         }
       ]
     }

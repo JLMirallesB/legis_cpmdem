@@ -399,5 +399,11 @@
       "title": "Solicitud de participación del alumnado (Anexo II)",
       "pdfUrl": "models/orden-5-2017-solicitud-alumnado.pdf"
     }
-  ]
+  ],
+  "scope": "musica_y_danza",
+  "territory": "autonomico",
+  "temporality": {
+    "type": "permanente"
+  },
+  "docType": "normativa"
 }

@@ -14,6 +14,18 @@ const typeLabels: Record<string, string> = {
   real_decreto: t('filter.type.real_decreto', lang),
   correccion_errores: t('filter.type.correccion_errores', lang),
 };
+const tagLabels: Record<string, string> = {
+  'scope.general': t('tag.scope.general', lang),
+  'scope.musica_y_danza': t('tag.scope.musica_y_danza', lang),
+  'scope.musica': t('tag.scope.musica', lang),
+  'scope.danza': t('tag.scope.danza', lang),
+  'territory.estatal': t('tag.territory.estatal', lang),
+  'territory.autonomico': t('tag.territory.autonomico', lang),
+  'temporality.permanente': t('tag.temporality.permanente', lang),
+  'temporality.anual': 'Anual',
+  'docType.normativa': t('tag.docType.normativa', lang),
+  'docType.documentos': t('tag.docType.documentos', lang),
+};
 ---
 
 <BaseLayout lang={lang} title={t('search.results', lang)}>
@@ -67,6 +79,30 @@ const typeLabels: Record<string, string> = {
             <option value="">{t('filter.role.all', lang)}</option>
           </select>
         </div>
+        <div class="filter-group">
+          <label for="filter-scope">{t('filter.scope', lang)}</label>
+          <select id="filter-scope">
+            <option value="">{t('filter.scope.all', lang)}</option>
+          </select>
+        </div>
+        <div class="filter-group">
+          <label for="filter-territory">{t('filter.territory', lang)}</label>
+          <select id="filter-territory">
+            <option value="">{t('filter.territory.all', lang)}</option>
+          </select>
+        </div>
+        <div class="filter-group">
+          <label for="filter-temporality">{t('filter.temporality', lang)}</label>
+          <select id="filter-temporality">
+            <option value="">{t('filter.temporality.all', lang)}</option>
+          </select>
+        </div>
+        <div class="filter-group">
+          <label for="filter-doctype">{t('filter.docType', lang)}</label>
+          <select id="filter-doctype">
+            <option value="">{t('filter.docType.all', lang)}</option>
+          </select>
+        </div>
         <div class="filter-group filter-actions">
           <button type="button" id="clear-filters" class="btn btn-secondary">{t('filter.clear', lang)}</button>
         </div>
@@ -83,7 +119,7 @@ const typeLabels: Record<string, string> = {
   </div>
 </BaseLayout>
 
-<script define:vars={{ base, lang: 'es', lawPath: 'ley', typeLabels }}>
+<script define:vars={{ base, lang: 'es', lawPath: 'ley', typeLabels, tagLabels }}>
   const searchInput = document.getElementById('search-input');
   const searchForm = document.getElementById('search-form');
   const searchingMsg = document.getElementById('searching-msg');
@@ -98,6 +134,10 @@ const typeLabels: Record<string, string> = {
   const filterYear = document.getElementById('filter-year');
   const filterSignatory = document.getElementById('filter-signatory');
   const filterRole = document.getElementById('filter-role');
+  const filterScope = document.getElementById('filter-scope');
+  const filterTerritory = document.getElementById('filter-territory');
+  const filterTemporality = document.getElementById('filter-temporality');
+  const filterDocType = document.getElementById('filter-doctype');
   const clearFiltersBtn = document.getElementById('clear-filters');
 
   let fullIndex = null;
@@ -122,7 +162,7 @@ const typeLabels: Record<string, string> = {
     applySearchAndFilters();
   });
 
-  [filterType, filterSource, filterYear, filterSignatory, filterRole].forEach(el => {
+  [filterType, filterSource, filterYear, filterSignatory, filterRole, filterScope, filterTerritory, filterTemporality, filterDocType].forEach(el => {
     el.addEventListener('change', applySearchAndFilters);
   });
 
@@ -132,6 +172,10 @@ const typeLabels: Record<string, string> = {
     filterYear.value = '';
     filterSignatory.value = '';
     filterRole.value = '';
+    filterScope.value = '';
+    filterTerritory.value = '';
+    filterTemporality.value = '';
+    filterDocType.value = '';
     applySearchAndFilters();
   });
 
@@ -156,47 +200,48 @@ const typeLabels: Record<string, string> = {
     const years = new Set();
     const names = new Set();
     const roles = new Set();
+    const scopes = new Set();
+    const territories = new Set();
+    const temporalities = new Set();
+    const docTypes = new Set();
 
     for (const law of index) {
       types.add(law.type);
       sources.add(law.source);
       years.add(law.year);
+      if (law.scope) scopes.add(law.scope);
+      if (law.territory) territories.add(law.territory);
+      if (law.temporality) temporalities.add(law.temporality.type);
+      if (law.docType) docTypes.add(law.docType);
       for (const s of law.signatories) {
         names.add(s.name);
         roles.add(s.role);
       }
     }
 
-    for (const t of [...types].sort()) {
-      const opt = document.createElement('option');
-      opt.value = t;
-      opt.textContent = typeLabels[t] || t;
-      filterType.appendChild(opt);
+    function addOpts(selectEl, values, labelMap, prefix) {
+      for (const v of [...values].sort()) {
+        const opt = document.createElement('option');
+        opt.value = v;
+        opt.textContent = (labelMap && labelMap[prefix ? prefix + v : v]) || v;
+        selectEl.appendChild(opt);
+      }
     }
-    for (const s of [...sources].sort()) {
-      const opt = document.createElement('option');
-      opt.value = s;
-      opt.textContent = s;
-      filterSource.appendChild(opt);
-    }
+
+    addOpts(filterType, types, typeLabels, '');
+    addOpts(filterSource, sources, null, '');
     for (const y of [...years].sort((a, b) => b - a)) {
       const opt = document.createElement('option');
       opt.value = y;
       opt.textContent = y;
       filterYear.appendChild(opt);
     }
-    for (const n of [...names].sort()) {
-      const opt = document.createElement('option');
-      opt.value = n;
-      opt.textContent = n;
-      filterSignatory.appendChild(opt);
-    }
-    for (const r of [...roles].sort()) {
-      const opt = document.createElement('option');
-      opt.value = r;
-      opt.textContent = r;
-      filterRole.appendChild(opt);
-    }
+    addOpts(filterSignatory, names, null, '');
+    addOpts(filterRole, roles, null, '');
+    addOpts(filterScope, scopes, tagLabels, 'scope.');
+    addOpts(filterTerritory, territories, tagLabels, 'territory.');
+    addOpts(filterTemporality, temporalities, tagLabels, 'temporality.');
+    addOpts(filterDocType, docTypes, tagLabels, 'docType.');
   }
 
   function applySearchAndFilters() {
@@ -208,7 +253,11 @@ const typeLabels: Record<string, string> = {
     const fYear = filterYear.value;
     const fSignatory = filterSignatory.value;
     const fRole = filterRole.value;
-    const hasFilters = fType || fSource || fYear || fSignatory || fRole;
+    const fScope = filterScope.value;
+    const fTerritory = filterTerritory.value;
+    const fTemporality = filterTemporality.value;
+    const fDocType = filterDocType.value;
+    const hasFilters = fType || fSource || fYear || fSignatory || fRole || fScope || fTerritory || fTemporality || fDocType;
 
     // If no query and no filters, show nothing
     if (!q && !hasFilters) {
@@ -238,6 +287,10 @@ const typeLabels: Record<string, string> = {
       r.signatories && r.signatories.some(s => s.name === fSignatory));
     if (fRole) results = results.filter(r =>
       r.signatories && r.signatories.some(s => s.role === fRole));
+    if (fScope) results = results.filter(r => r.scope === fScope);
+    if (fTerritory) results = results.filter(r => r.territory === fTerritory);
+    if (fTemporality) results = results.filter(r => r.temporality && r.temporality.type === fTemporality);
+    if (fDocType) results = results.filter(r => r.docType === fDocType);
 
     renderResults(results, q);
   }
@@ -389,12 +442,26 @@ const typeLabels: Record<string, string> = {
           <p class="more-fragments"><button class="expand-fragments" type="button">...y ${remaining.length} coincidencia${remaining.length !== 1 ? 's' : ''} más</button></p>`;
       }
 
+      const scopeTag = tagLabels['scope.' + r.scope] || r.scope || '';
+      const territoryTag = tagLabels['territory.' + r.territory] || r.territory || '';
+      const tempType = r.temporality ? r.temporality.type : 'permanente';
+      const tempTag = tempType === 'anual' && r.temporality.schoolYear
+        ? `Anual ${r.temporality.schoolYear}`
+        : tagLabels['temporality.' + tempType] || tempType;
+      const docTag = r.docType !== 'normativa' ? (tagLabels['docType.' + r.docType] || '') : '';
+
       card.innerHTML = `
         <div class="result-header">
           <a href="${lawUrl}" class="result-title">${titleHtml}</a>
           <span class="vigency-badge vigency-${r.vigpiracy}">${vigLabel}</span>
         </div>
         <p class="result-meta">${typeLabels[r.type] || r.type} — ${r.date}</p>
+        <div class="result-tags">
+          <span class="result-tag tag-scope-${r.scope}">${scopeTag}</span>
+          <span class="result-tag tag-territory-${r.territory}">${territoryTag}</span>
+          <span class="result-tag tag-temporality-${tempType}">${tempTag}</span>
+          ${docTag ? `<span class="result-tag tag-doctype-${r.docType}">${docTag}</span>` : ''}
+        </div>
         ${r.titleMatch ? '<p class="match-type">Coincidencia en título</p>' : ''}
         ${fragmentsHtml}
       `;
@@ -638,6 +705,32 @@ const typeLabels: Record<string, string> = {
   .result-card .vigency-vigente_parcial { background: #fefcbf; color: #744210; }
   .result-card .vigency-derogada_parcial { background: #feebc8; color: #7b341e; }
   .result-card .vigency-derogada { background: #fed7d7; color: #742a2a; }
+
+  .result-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 4px;
+    margin-bottom: 6px;
+  }
+  .result-tag {
+    display: inline-block;
+    font-size: 0.6rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    padding: 1px 5px;
+    border-radius: 3px;
+    white-space: nowrap;
+    letter-spacing: 0.03em;
+  }
+  .tag-scope-general { background: #e2e8f0; color: #4a5568; }
+  .tag-scope-musica_y_danza { background: #e9d8fd; color: #553c9a; }
+  .tag-scope-musica { background: #bee3f8; color: #2a4365; }
+  .tag-scope-danza { background: #fed7e2; color: #702459; }
+  .tag-territory-estatal { background: #fefcbf; color: #744210; }
+  .tag-territory-autonomico { background: #c6f6d5; color: #22543d; }
+  .tag-temporality-permanente { background: #e2e8f0; color: #4a5568; }
+  .tag-temporality-anual { background: #fed7d7; color: #742a2a; }
+  .tag-doctype-documentos { background: #feebc8; color: #7b341e; }
 
   .more-fragments {
     font-size: 0.8rem;
