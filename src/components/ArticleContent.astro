@@ -29,7 +29,7 @@ function mdTableToHtml(block: string): string {
   for (const row of bodyRows) {
     const cells = parseRow(row);
     html += '<tr>' + cells.map(c => {
-      const bold = c.startsWith('**') && c.endsWith('**');
+      const bold = c.startsWith('**') && c.endsWith('**') && c.length > 4;
       const text = bold ? c.slice(2, -2) : c;
       return bold ? `<td><strong>${text}</strong></td>` : `<td>${text}</td>`;
     }).join('') + '</tr>';
