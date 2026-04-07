@@ -15,7 +15,7 @@ const LAWS_DIR = join(DATA_DIR, 'laws');
 const CATEGORIES_FILE = join(DATA_DIR, 'metadata', 'categories.json');
 
 // Enums from types.ts
-const LAW_TYPES = ['ley_organica', 'ley', 'real_decreto', 'decreto', 'orden', 'resolucion', 'correccion_errores'];
+const LAW_TYPES = ['ley_organica', 'ley', 'real_decreto', 'decreto', 'orden', 'resolucion', 'circular', 'documento', 'correccion_errores'];
 const VIGENCY_STATUSES = ['vigente', 'vigente_parcial', 'derogada_parcial', 'derogada'];
 const STRUCTURE_NODE_TYPES = ['preambulo', 'titulo', 'capitulo', 'seccion', 'articulo', 'disposicion_adicional', 'disposicion_transitoria', 'disposicion_derogatoria', 'disposicion_final', 'anexo'];
 const AFFECTATION_TYPES = ['modifica', 'deroga', 'deroga_parcial', 'anade', 'sustituye'];
@@ -201,7 +201,8 @@ function validateLaw(filePath, lang) {
   requireString(law, 'id', label);
   requireString(law, 'slug', label);
   requireEnum(law, 'type', LAW_TYPES, label);
-  requireString(law, 'number', label);
+  const isDocumentos = law.docType === 'documentos' || (law.publishedIn && law.publishedIn.source === 'Documentos');
+  if (!isDocumentos) requireString(law, 'number', label);
   requireDate(law, 'date', label);
   requireString(law, 'title', label);
   requireString(law, 'titleShort', label);
@@ -225,9 +226,9 @@ function validateLaw(filePath, lang) {
   // publishedIn
   if (law.publishedIn) {
     requireString(law.publishedIn, 'source', label, 'publishedIn');
-    requireString(law.publishedIn, 'number', label, 'publishedIn');
+    if (!isDocumentos) requireString(law.publishedIn, 'number', label, 'publishedIn');
     requireDate(law.publishedIn, 'date', label, 'publishedIn');
-    requireString(law.publishedIn, 'url', label, 'publishedIn');
+    if (!isDocumentos) requireString(law.publishedIn, 'url', label, 'publishedIn');
   } else {
     error(label, 'Campo requerido ausente: publishedIn');
   }

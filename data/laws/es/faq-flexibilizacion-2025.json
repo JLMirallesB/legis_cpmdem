@@ -1,0 +1,99 @@
+{
+  "id": "faq-flexibilizacion-2025",
+  "slug": "faq-flexibilizacion-2025",
+  "type": "documento",
+  "number": "",
+  "date": "2025-10-16",
+  "publishedIn": {
+    "source": "Documentos",
+    "number": "",
+    "date": "2025-10-16",
+    "url": "",
+    "pdfUrl": "https://ceice.gva.es/documents/161863053/395177702/FAQ+Flexibilización+CAST.pdf"
+  },
+  "title": "Preguntas frecuentes sobre flexibilización en las enseñanzas elementales y profesionales de música y danza (FAQ)",
+  "titleShort": "FAQ Flexibilización",
+  "category": "flexibilizacion",
+  "vigpiracy": {
+    "status": "vigente",
+    "statusLabel": "Vigente",
+    "effectiveDate": "2025-10-16"
+  },
+  "structure": [
+    {
+      "type": "articulo",
+      "id": "art-1",
+      "number": "1",
+      "title": "1) ¿Qué diferencia hay entre altas capacidades y competencia o precocidad extraordinaria?",
+      "content": "Las altas capacidades corresponden a un perfil cognitivo general evaluado mediante informe sociopsicopedagógico emitido por los servicios oficiales de orientación educativa del sistema educativo. La competencia o precocidad extraordinaria se manifiesta en un nivel excepcional que el alumnado alcanza en todas las asignaturas del currículo. La competencia extraordinaria refleja un dominio sobresaliente de los aprendizajes, y la precocidad extraordinaria se evidencia en un desarrollo excepcionalmente avanzado respecto a la edad. Ambos casos se acreditan mediante la realización de una prueba específica y los resultados de evaluación reflejados en su expediente académico."
+    },
+    {
+      "type": "articulo",
+      "id": "art-2",
+      "number": "2",
+      "title": "2) ¿Es obligatorio el enriquecimiento curricular antes de flexibilizar?",
+      "content": "Es recomendable y en muchos casos necesario, ya que contribuye de forma significativa al éxito del proceso de flexibilización. Su aplicación debe ser siempre tutorizada y personalizada, atendiendo a las necesidades específicas de cada caso."
+    },
+    {
+      "type": "articulo",
+      "id": "art-3",
+      "number": "3",
+      "title": "3) ¿Puede un alumno solicitar flexibilizar por iniciativa propia o familiar?",
+      "content": "No. La propuesta debe partir del equipo docente, que es el responsable de valorar la idoneidad del proceso."
+    },
+    {
+      "type": "articulo",
+      "id": "art-4",
+      "number": "4",
+      "title": "4) ¿Qué ocurre con las calificaciones del curso que se salta?",
+      "content": "Las calificaciones correspondientes a ese curso no figurarán en el expediente académico. Aunque en la actualidad la plataforma de gestión académica no dispone de un apartado específico para registrar la resolución de flexibilización, dicha información puede incorporarse de forma expresa en el apartado de observaciones de la propia plataforma por parte de la secretaría del centro."
+    },
+    {
+      "type": "articulo",
+      "id": "art-5",
+      "number": "5",
+      "title": "5) ¿Puede un alumno flexibilizar más de una vez?",
+      "content": "Sí. Podrá hacerlo siempre que la reducción total del tiempo de permanencia no exceda la mitad de la duración oficial de las enseñanzas."
+    },
+    {
+      "type": "articulo",
+      "id": "art-6",
+      "number": "6",
+      "title": "6) ¿Qué sucede si el alumnado no supera la prueba específica en caso de competencia extraordinaria?",
+      "content": "En ese caso, el alumno o la alumna promocionará al curso que le corresponde de manera ordinaria, siempre que haya superado las asignaturas del curso en el que está matriculado."
+    },
+    {
+      "type": "articulo",
+      "id": "art-7",
+      "number": "7",
+      "title": "7) ¿Cuál sería la vía que permite la reducción máxima de la duración de cada una de las enseñanzas?",
+      "content": "La reducción máxima de cada etapa, según la normativa para alumnado con altas capacidades, es de la mitad de su duración. Esta reducción máxima se puede alcanzar siempre que se combine el acceso directo a cursos diferentes de primero con la flexibilización. Como ejemplo ilustrativo: • En enseñanzas elementales, un alumno podría acceder directamente a 2.º curso y, tras cursarlo, flexibilizar a 4.º, completando la etapa en dos cursos. • En enseñanzas profesionales, un alumno que accede a 2.º curso podría flexibilizar primero a 4.º y, posteriormente, a 6.º, completando la etapa en tres cursos en total.\n\nNo obstante, también es posible acceder directamente a cada uno de los cursos de cada enseñanza mediante la prueba de acceso correspondiente, lo que permitiría completar la etapa en menos tiempo."
+    },
+    {
+      "type": "articulo",
+      "id": "art-8",
+      "number": "8",
+      "title": "8) ¿Qué ocurre en cursos donde la flexibilización no es posible?",
+      "content": "En estos casos, el centro podrá aplicar únicamente medidas de enriquecimiento curricular, para que el alumnado pueda presentarse con garantías a la prueba de acceso a las enseñanzas posteriores. A modo de ejemplo, en el caso de alumnado de 3.º o 4.º curso de enseñanzas elementales de música y danza, se podrá contemplar la preparación de la prueba de acceso a cursos distintos de primero en las enseñanzas profesionales, de manera que se mantenga la intención de reducir la duración total de las enseñanzas."
+    }
+  ],
+  "legalAnalysis": {
+    "enactedPursuantTo": [],
+    "priorAffectations": [],
+    "posteriorAffectations": [],
+    "derogations": [],
+    "concordances": [
+      {
+        "lawId": "circular-1-2025",
+        "title": "Circular 1/2025 (flexibilización)",
+        "description": "Preguntas frecuentes sobre su aplicación"
+      }
+    ]
+  },
+  "scope": "musica_y_danza",
+  "territory": "autonomico",
+  "temporality": {
+    "type": "permanente"
+  },
+  "docType": "documentos"
+}

@@ -1,0 +1,99 @@
+{
+  "id": "faq-flexibilizacion-2025",
+  "slug": "faq-flexibilizacion-2025",
+  "type": "documento",
+  "number": "",
+  "date": "2025-10-16",
+  "publishedIn": {
+    "source": "Documentos",
+    "number": "",
+    "date": "2025-10-16",
+    "url": "",
+    "pdfUrl": "https://ceice.gva.es/documents/161863053/395177702/FAQ+Flexibilització+VAL.pdf"
+  },
+  "title": "Preguntes freqüents sobre flexibilització en les ensenyances elementals i professionals de música i dansa (FAQ)",
+  "titleShort": "FAQ Flexibilització",
+  "category": "flexibilizacion",
+  "vigpiracy": {
+    "status": "vigente",
+    "statusLabel": "Vigent",
+    "effectiveDate": "2025-10-16"
+  },
+  "structure": [
+    {
+      "type": "articulo",
+      "id": "art-1",
+      "number": "1",
+      "title": "1) Quina diferència hi ha entre altes capacitats i competència o precocitat extraordinària?",
+      "content": "Les altes capacitats corresponen a un perfil cognitiu general avaluat mitjançant informe sociopsicopedagògic emés pels servicis oficials d'orientació educativa del sistema educatiu. La competència o precocitat extraordinària es manifesta en un nivell excepcional que l'alumnat aconseguix en totes les assignatures del currículum. La competència extraordinària reflectix un domini excel·lent dels aprenentatges, i la precocitat extraordinària s'evidencia en un desenrotllament excepcionalment avançat respecte a l'edat. Els dos casos s'acrediten mitjançant la realització d'una prova específica i els resultats d'avaluació reflectits en el seu expedient acadèmic."
+    },
+    {
+      "type": "articulo",
+      "id": "art-2",
+      "number": "2",
+      "title": "2) És obligatori l'enriquiment curricular abans de flexibilitzar?",
+      "content": "És recomanable i en molts casos necessari, ja que contribuïx de manera significativa a l'èxit del procés de flexibilització. La seua aplicació ha de ser sempre tutoritzada i personalitzada, ateses les necessitats específiques de cada cas."
+    },
+    {
+      "type": "articulo",
+      "id": "art-3",
+      "number": "3",
+      "title": "3) Pot un alumne sol·licitar flexibilitzar per iniciativa pròpia o familiar?",
+      "content": "No. La proposta ha de partir de l'equip docent, que és el responsable de valorar la idoneïtat del procés."
+    },
+    {
+      "type": "articulo",
+      "id": "art-4",
+      "number": "4",
+      "title": "4) Què ocorre amb les qualificacions del curs que se salta?",
+      "content": "Les qualificacions corresponents a eixe curs no figuraran en l'expedient acadèmic. Encara que en l'actualitat la plataforma de gestió acadèmica no disposa d'un apartat específic per a registrar la resolució de flexibilització, esta informació pot incorporar-se de manera expressa en l'apartat d'observacions de la pròpia plataforma per part de la secretaria del centre."
+    },
+    {
+      "type": "articulo",
+      "id": "art-5",
+      "number": "5",
+      "title": "5) Pot un alumne flexibilitzar més d'una vegada?",
+      "content": "Sí. Podrà fer-ho sempre que la reducció total del temps de permanència no excedisca la mitat de la duració oficial de les ensenyances."
+    },
+    {
+      "type": "articulo",
+      "id": "art-6",
+      "number": "6",
+      "title": "6) Què succeïx si l'alumnat no supera la prova específica en cas de competència extraordinària?",
+      "content": "En eixe cas, l'alumne o l'alumna promocionarà al curs que li correspon de manera ordinària, sempre que haja superat les assignatures del curs en el qual està matriculat."
+    },
+    {
+      "type": "articulo",
+      "id": "art-7",
+      "number": "7",
+      "title": "7) Quina seria la via que permet la reducció màxima de la duració de cada una de les ensenyances?",
+      "content": "La reducció màxima de cada etapa, segons la normativa per a alumnat amb altes capacitats, és de la mitat de la seua duració. Esta reducció màxima es pot aconseguir sempre que es combine l'accés directe a cursos diferents de primer amb la flexibilització. Com a exemple il·lustratiu: • En ensenyances elementals, un alumne podria accedir directament a 2n curs i, després de cursar-lo, flexibilitzar a 4t, completant l'etapa en dos cursos. • En ensenyances professionals, un alumne que accedix a 2n curs podria flexibilitzar primer a 4t i, posteriorment, a 6é, completant l'etapa en tres cursos en total.\n\nNo obstant això, també és possible accedir directament a cada un dels curses de cada ensenyança mitjançant la prova d'accés corresponent, la qual cosa permetria completar l'etapa en menys temps."
+    },
+    {
+      "type": "articulo",
+      "id": "art-8",
+      "number": "8",
+      "title": "8) Què ocorre en cursos on la flexibilització no és possible?",
+      "content": "En estos casos, el centre podrà aplicar únicament mesurades d'enriquiment curricular, perquè l'alumnat puga presentar-se amb garanties a la prova d'accés a les ensenyances posteriors. A tall d'exemple, en el cas d'alumnat de 3r o 4t curs d'ensenyances elementals de música i dansa, es podrà contemplar la preparació de la prova d'accés a cursos distints de primer en les ensenyances professionals, de manera que es mantinga la intenció de reduir la duració total de les ensenyances."
+    }
+  ],
+  "legalAnalysis": {
+    "enactedPursuantTo": [],
+    "priorAffectations": [],
+    "posteriorAffectations": [],
+    "derogations": [],
+    "concordances": [
+      {
+        "lawId": "circular-1-2025",
+        "title": "Circular 1/2025 (flexibilització)",
+        "description": "Preguntes freqüents sobre la seua aplicació"
+      }
+    ]
+  },
+  "scope": "musica_y_danza",
+  "territory": "autonomico",
+  "temporality": {
+    "type": "permanente"
+  },
+  "docType": "documentos"
+}

@@ -1,0 +1,86 @@
+{
+  "id": "aclaratorio-circular-1-2025",
+  "slug": "aclaratorio-circular-1-2025",
+  "type": "documento",
+  "number": "",
+  "date": "2025-10-16",
+  "publishedIn": {
+    "source": "Documentos",
+    "number": "",
+    "date": "2025-10-16",
+    "url": "",
+    "pdfUrl": "https://ceice.gva.es/documents/161863053/395177702/Aclaración+Circular+I+CAST.pdf"
+  },
+  "title": "Documento aclaratorio sobre la aplicación de la Circular 1/2025: Flexibilización de la duración de las enseñanzas elementales y profesionales de Música y Danza",
+  "titleShort": "Aclaraciones Circular 1/2025 (flexibilización)",
+  "category": "flexibilizacion",
+  "vigpiracy": {
+    "status": "vigente",
+    "statusLabel": "Vigente",
+    "effectiveDate": "2025-10-16"
+  },
+  "structure": [
+    {
+      "type": "articulo",
+      "id": "art-1",
+      "number": "1",
+      "title": "1. Introducción",
+      "content": "La flexibilización es una medida educativa excepcional que permite al alumnado que presenta altas capacidades intelectuales o una competencia o precocidad extraordinaria en la disciplina artística correspondiente, incorporarse a un curso superior al que le correspondería por promoción natural, con el objetivo de adaptar la respuesta educativa a sus necesidades y capacidades. Su finalidad es reducir el tiempo oficial previsto para completar la etapa educativa."
+    },
+    {
+      "type": "seccion",
+      "id": "sec-2",
+      "number": "2",
+      "title": "2. Aplicación de la flexibilización",
+      "children": [
+        {
+          "type": "articulo",
+          "id": "art-2-1",
+          "number": "2.1",
+          "title": "2.1. Flexibilización en las enseñanzas elementales",
+          "content": "En las enseñanzas elementales se podrán autorizar las siguientes flexibilizaciones:\n\n▪    De 1.º a 3.º curso\n▪    De 2.º a 4.º curso"
+        },
+        {
+          "type": "articulo",
+          "id": "art-2-2",
+          "number": "2.2",
+          "title": "2.2. Flexibilización en las enseñanzas profesionales",
+          "content": "En las enseñanzas profesionales se podrán autorizar las siguientes flexibilizaciones:\n\n▪    De 1.º a 3.º curso\n▪   De 2.º a 4.º curso\n▪   De 3.º a 5.º curso\n▪   De 4.º a 6.º curso"
+        }
+      ]
+    },
+    {
+      "type": "articulo",
+      "id": "art-3",
+      "number": "3",
+      "title": "3. Indicaciones aclaratorias relativas al cómputo de la nota media del expediente",
+      "content": "Para los casos en los que el alumnado no haya consolidado ningún curso completo en su expediente académico por tratarse de su primera incorporación a las enseñanzas, la nota media del expediente requerida en los supuestos de flexibilización por competencia o precocidad extraordinaria se calculará teniendo en cuenta todas las calificaciones obtenidas en las evaluaciones realizadas durante el mismo curso hasta la fecha de presentación de la solicitud.\n\nEn aquellos casos en los que el alumnado solicitante esté exento de cursar asignaturas comunes por haberlas superado previamente en otra especialidad, para el cálculo de la nota media del expediente requerida en los supuestos de flexibilización por competencia o precocidad extraordinaria se considerarán las calificaciones obtenidas en el momento en que cursó dichas asignaturas."
+    },
+    {
+      "type": "articulo",
+      "id": "art-4",
+      "number": "4",
+      "title": "4. El enriquecimiento curricular como base para la flexibilización",
+      "content": "El enriquecimiento curricular es un conjunto de acciones y estrategias que el propio centro educativo diseña e implementa para responder de forma efectiva a las necesidades de ampliación de contenidos para el alumnado.\n\nLa ratio 1/1 establecida en las asignaturas de especialidad, que confiere a las enseñanzas de música un carácter plenamente individualizado, ha permitido tradicionalmente aplicar de forma habitual la ampliación curricular mediante la adaptación de materiales y ritmos de trabajo, incorporando, cuando el progreso del alumnado así lo ha requerido, contenidos más avanzados, repertorio de mayor complejidad y técnicas de nivel superior.\n\nLa finalidad principal del enriquecimiento curricular tiene una doble vertiente:\n\n1º. Ofrecer oportunidades de aprendizaje más avanzadas y ajustadas al potencial del alumno.\n\n2º. Proporcionar la preparación específica necesaria para afrontar las pruebas de flexibilización para el alumnado con competencia o precocidad extraordinaria, cuya prueba deberá celebrarse antes del mes de mayo del curso escolar.\n\nCon el fin de garantizar su adecuada preparación, el alumnado propuesto para flexibilización podrá recibir, mediante el enriquecimiento curricular, los contenidos correspondientes al curso omitido, dado que el nivel en el que está matriculado no proporciona los conocimientos necesarios para superar la prueba de acceso al curso al que se pretende incorporar.\n\nLas medidas principales de enriquecimiento curricular son las siguientes:\n\n▪   Ampliación de los contenidos de las materias del curso en el que está matriculado.\n▪   Asistencia a las clases de las asignaturas cuyo contenido será evaluado en la prueba de flexibilización.\n▪   Materiales y recursos didácticos complementarios.\n▪   Tutorización personalizada y seguimiento del progreso por parte del equipo docente y la coordinación de orientación.\n\nEstas medidas no son excluyentes entre sí y deben adaptarse al caso concreto de cada alumno o alumna, contemplando la intensidad, duración y tipo de actividades necesarias para cubrir las brechas entre el curso de procedencia y los contenidos que exige la prueba de flexibilización. Además, la documentación generada (informes del equipo docente, registros de seguimiento, etc) servirá de base para la propuesta de flexibilización y para la valoración por parte de la dirección territorial, cuando proceda."
+    }
+  ],
+  "legalAnalysis": {
+    "enactedPursuantTo": [],
+    "priorAffectations": [],
+    "posteriorAffectations": [],
+    "derogations": [],
+    "concordances": [
+      {
+        "lawId": "circular-1-2025",
+        "title": "Circular 1/2025 (flexibilización)",
+        "description": "Documento de aclaración sobre su aplicación"
+      }
+    ]
+  },
+  "scope": "musica_y_danza",
+  "territory": "autonomico",
+  "temporality": {
+    "type": "permanente"
+  },
+  "docType": "documentos"
+}

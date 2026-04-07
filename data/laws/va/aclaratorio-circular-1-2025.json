@@ -1,0 +1,86 @@
+{
+  "id": "aclaratorio-circular-1-2025",
+  "slug": "aclaratorio-circular-1-2025",
+  "type": "documento",
+  "number": "",
+  "date": "2025-10-16",
+  "publishedIn": {
+    "source": "Documentos",
+    "number": "",
+    "date": "2025-10-16",
+    "url": "",
+    "pdfUrl": "https://ceice.gva.es/documents/161863053/395177702/Aclaración+Circular+I+VAL_saltv.pdf"
+  },
+  "title": "Document aclaratori sobre l'aplicació de la Circular 1/2025: Flexibilització de la duració de les ensenyances elementals i professionals de Música i Dansa",
+  "titleShort": "Aclariments Circular 1/2025 (flexibilització)",
+  "category": "flexibilizacion",
+  "vigpiracy": {
+    "status": "vigente",
+    "statusLabel": "Vigent",
+    "effectiveDate": "2025-10-16"
+  },
+  "structure": [
+    {
+      "type": "articulo",
+      "id": "art-1",
+      "number": "1",
+      "title": "1. Introducció",
+      "content": "La flexibilització és una mesura educativa excepcional que permet a l'alumnat que presenta altes capacitats intel·lectuals o una competència o precocitat extraordinària en la disciplina artística corresponent, incorporar-se a un curs superior al que li correspondria per promoció natural, amb l'objectiu d'adaptar la resposta educativa a les seues necessitats i capacitats. La seua finalitat és reduir el temps oficial previst per a completar l'etapa educativa."
+    },
+    {
+      "type": "seccion",
+      "id": "sec-2",
+      "number": "2",
+      "title": "2. Aplicació de la flexibilització",
+      "children": [
+        {
+          "type": "articulo",
+          "id": "art-2-1",
+          "number": "2.1",
+          "title": "2.1. Flexibilització en les ensenyances elementals",
+          "content": "En les ensenyances elementals es podran autoritzar les següents flexibilitzacions:\n\n▪    De 1r a 3r curs\n▪    De 2n a 4t curs"
+        },
+        {
+          "type": "articulo",
+          "id": "art-2-2",
+          "number": "2.2",
+          "title": "2.2. Flexibilització en les ensenyances professionals",
+          "content": "En les ensenyances professionals es podran autoritzar les següents flexibilitzacions:\n\n▪   De 1r a 3r curs\n▪   De 2n a 4t curs\n▪   De 3r a 5é curs\n▪   De 4t a 6é curs"
+        }
+      ]
+    },
+    {
+      "type": "articulo",
+      "id": "art-3",
+      "number": "3",
+      "title": "3. Indicacions aclaridores relatives al còmput de la nota mitjana de l'expedient",
+      "content": "Per als casos en els quals l'alumnat no haja consolidat cap curs complet en el seu expedient acadèmic per tractar-se de la seua primera incorporació a les ensenyances, la nota mitjana de l'expedient requerida en els supòsits de flexibilització per competència o precocitat extraordinària es calcularà tenint en compte totes les qualificacions obtingudes en les avaluacions realitzades durant el mateix curs fins a la data de presentació de la sol·licitud.\n\nEn aquells casos en els quals l'alumnat sol·licitant estiga exempt de cursar assignatures comunes per haver-les superat prèviament en una altra especialitat, per al càlcul de la nota mitjana de l'expedient requerida en els supòsits de flexibilització per competència o precocitat extraordinària es consideraran les qualificacions obtingudes en el moment en què va cursar estes assignatures."
+    },
+    {
+      "type": "articulo",
+      "id": "art-4",
+      "number": "4",
+      "title": "4. L'enriquiment curricular com a base per a la flexibilització",
+      "content": "L'enriquiment curricular és un conjunt d'accions i estratègies que el propi centre educatiu dissenya i implementa per a respondre de manera efectiva a les necessitats d'ampliació de continguts per a l'alumnat..\n\nLa ràtio 1/1 establida en les assignatures d'especialitat, que conferix a les ensenyances de música un caràcter plenament individualitzat, ha permès tradicionalment aplicar de manera habitual l'ampliació curricular mitjançant l'adaptació de materials i ritmes de treball, incorporant, quan el progrés de l'alumnat així ho ha requerit, continguts més avançats, repertori de major complexitat i tècniques de nivell superior.\n\nLa finalitat principal de l'enriquiment curricular té una doble vessant:\n\n1r. Oferir oportunitats d'aprenentatge més avançades i ajustades al potencial de l'alumne.\n\n2n. Proporcionar la preparació específica necessària per a afrontar les proves de flexibilització per a l'alumnat amb competència o precocitat extraordinària, la prova de la qual haurà de celebrar-se abans del mes de maig del curs escolar.\n\nAmb la finalitat de garantir la seua adequada preparació, l'alumnat proposat per a flexibilització podrà rebre, mitjançant l'enriquiment curricular, els continguts corresponents al curs omés, atés que el nivell en el qual està matriculat no proporciona els coneixements necessaris per a superar la prova d'accés al curs al qual es pretén incorporar.\n\nLes mesures principals d'enriquiment curricular són les següents:\n\n▪   Ampliació dels continguts de les matèries del curs en el qual està matriculat.\n▪   Assistència a les classes de les assignatures el contingut de les quals serà avaluat en la prova de flexibilització.\n▪   Materials i recursos didàctics complementaris.\n▪   Tutorització personalitzada i seguiment del progrés per part de l'equip docent i la coordinació d'orientació.\n\nEstes mesures no són excloents entre si i han d'adaptar-se al cas concret de cada alumne o alumna, contemplant la intensitat, duració i tipus d'activitats necessàries per a cobrir les bretxes entre el curs de procedència i els continguts que exigix la prova de flexibilització. A més, la documentació generada (informes de l'equip docent, registres de seguiment, etc) servirà de base per a la proposta de flexibilització i per a la valoració per part de la direcció territorial, quan siga procedent."
+    }
+  ],
+  "legalAnalysis": {
+    "enactedPursuantTo": [],
+    "priorAffectations": [],
+    "posteriorAffectations": [],
+    "derogations": [],
+    "concordances": [
+      {
+        "lawId": "circular-1-2025",
+        "title": "Circular 1/2025 (flexibilització)",
+        "description": "Document d'aclariment sobre la seua aplicació"
+      }
+    ]
+  },
+  "scope": "musica_y_danza",
+  "territory": "autonomico",
+  "temporality": {
+    "type": "permanente"
+  },
+  "docType": "documentos"
+}

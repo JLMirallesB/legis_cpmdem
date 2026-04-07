@@ -1,5 +1,55 @@
 [
   {
+    "version": "0.7.0",
+    "date": "2026-04-07",
+    "entries": {
+      "es": [
+        {
+          "type": "nuevo",
+          "description": "Ingesta: Resolución inicio de curso 2025-2026 (instrucciones de ordenación académica de conservatorios, 10 secciones con subsecciones)"
+        },
+        {
+          "type": "nuevo",
+          "description": "Ingesta: Circular 1/2025 de flexibilización por altas capacidades y precocidad extraordinaria"
+        },
+        {
+          "type": "nuevo",
+          "description": "Ingesta: Documento aclaratorio y FAQ sobre la Circular 1/2025 de flexibilización"
+        },
+        {
+          "type": "nuevo",
+          "description": "Nuevos tipos de norma: circular y documento. Nueva fuente de publicación: Documentos (para circulares y documentos internos no publicados en DOGV/BOE)"
+        },
+        {
+          "type": "mejora",
+          "description": "Reorganización de categorías del catálogo: nuevas secciones de Premios, Leyes Orgánicas de Educación, Flexibilización y Orientación y Convivencia"
+        }
+      ],
+      "va": [
+        {
+          "type": "nou",
+          "description": "Ingestió: Resolució inici de curs 2025-2026 (instruccions d'ordenació acadèmica de conservatoris, 10 seccions amb subseccions)"
+        },
+        {
+          "type": "nou",
+          "description": "Ingestió: Circular 1/2025 de flexibilització per altes capacitats i precocitat extraordinària"
+        },
+        {
+          "type": "nou",
+          "description": "Ingestió: Document aclaratori i FAQ sobre la Circular 1/2025 de flexibilització"
+        },
+        {
+          "type": "nou",
+          "description": "Nous tipus de norma: circular i document. Nova font de publicació: Documents (per a circulars i documents interns no publicats en DOGV/BOE)"
+        },
+        {
+          "type": "millora",
+          "description": "Reorganització de categories del catàleg: noves seccions de Premis, Lleis Orgàniques d'Educació, Flexibilització i Orientació i Convivència"
+        }
+      ]
+    }
+  },
+  {
     "version": "0.6.1",
     "date": "2026-04-07",
     "entries": {

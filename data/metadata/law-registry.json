@@ -182,6 +182,34 @@
       "status": "ingested",
       "category": "general",
       "notes": "59 arts (6 caps, secciones en caps IV y VI) + 10 DA + 1 DT + 1 DD + 3 DF. Arts 22-29, 31-36 marcados como no relevantes para conservatorios. Bilingüe DOGV. Desarrolla Decreto 104/2018."
+    },
+    {
+      "slug": "resolucion-inicio-curso-2025-2026",
+      "title": "Resolución 29/07/2025 - Instrucciones inicio de curso 2025-2026",
+      "status": "ingested",
+      "category": "organizacion",
+      "notes": "Instrucciones de inicio de curso 2025-2026. Preámbulo + apartado único + anexo con 10 secciones + consideraciones adicionales y finales. Primera resolución ingresada. Bilingüe DOGV."
+    },
+    {
+      "slug": "circular-1-2025",
+      "title": "Circular 1/2025 - Flexibilización por altas capacidades y precocidad extraordinaria",
+      "status": "ingested",
+      "category": "acceso",
+      "notes": "3 secciones (Introducción, Altas capacidades, Precocidad extraordinaria). Incluye excepción curso 2025/26. Bilingüe."
+    },
+    {
+      "slug": "aclaratorio-circular-1-2025",
+      "title": "Documento aclaratorio Circular 1/2025 - Flexibilización",
+      "status": "ingested",
+      "category": "acceso",
+      "notes": "4 secciones (Introducción, Aplicación, Nota media, Enriquecimiento curricular). Bilingüe."
+    },
+    {
+      "slug": "faq-flexibilizacion-2025",
+      "title": "FAQ Flexibilización - Preguntas frecuentes",
+      "status": "ingested",
+      "category": "acceso",
+      "notes": "8 preguntas frecuentes sobre flexibilización en enseñanzas elementales y profesionales. Bilingüe."
     }
   ]
 }

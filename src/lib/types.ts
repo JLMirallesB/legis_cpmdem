@@ -9,6 +9,8 @@ export type LawType =
   | 'decreto'
   | 'orden'
   | 'resolucion'
+  | 'circular'
+  | 'documento'
   | 'correccion_errores';
 
 export type VigencyStatus =

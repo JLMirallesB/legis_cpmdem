@@ -71,6 +71,8 @@
   "filter.type.ley": "Llei",
   "filter.type.ley_organica": "Llei orgànica",
   "filter.type.real_decreto": "Reial decret",
+  "filter.type.circular": "Circular",
+  "filter.type.documento": "Document",
   "filter.type.correccion_errores": "Correcció d'errades",
   "filter.source": "Publicació",
   "filter.source.all": "Totes",
