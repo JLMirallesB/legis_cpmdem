@@ -1,5 +1,23 @@
 [
   {
+    "version": "0.8.3",
+    "date": "2026-04-08",
+    "entries": {
+      "es": [
+        {
+          "type": "nuevo",
+          "description": "Nuevo documento: Guía del Plan de Mejora del Centro (enseñanzas elementales y profesionales de Música y Danza). Incluye modelos descargables (fichas, plantilla del plan y encuesta de satisfacción)."
+        }
+      ],
+      "va": [
+        {
+          "type": "nou",
+          "description": "Nou document: Guia del Pla de Millora del Centre (ensenyances elementals i professionals de Música i Dansa). Inclou models descarregables (fitxes, plantilla del pla i enquesta de satisfacció)."
+        }
+      ]
+    }
+  },
+  {
     "version": "0.8.2",
     "date": "2026-04-08",
     "entries": {

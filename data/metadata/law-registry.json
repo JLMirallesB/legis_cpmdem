@@ -210,6 +210,13 @@
       "status": "ingested",
       "category": "acceso",
       "notes": "8 preguntas frecuentes sobre flexibilización en enseñanzas elementales y profesionales. Bilingüe."
+    },
+    {
+      "slug": "guia-plan-mejora",
+      "title": "Guía del Plan de Mejora del Centro - Enseñanzas elementales y profesionales de Música y Danza",
+      "status": "ingested",
+      "category": "organizacion",
+      "notes": "Primer documento (no normativa). 4 secciones + 3 anexos. Secciones 4.4, Anexo I y Anexo III como PDFs descargables (formModels). Anexo II (indicadores) ingestado como texto. Bilingüe CEICE."
     }
   ]
 }

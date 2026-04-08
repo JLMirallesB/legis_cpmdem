@@ -1,0 +1,143 @@
+{
+  "id": "guia-plan-mejora",
+  "slug": "guia-plan-mejora",
+  "type": "documento",
+  "number": "",
+  "date": "2025-12-18",
+  "publishedIn": {
+    "source": "CEICE",
+    "number": "",
+    "date": "2025-12-18",
+    "url": "https://ceice.gva.es/documents/161863053/393646901/Guia+Pla+de+Millora+VAL.pdf/6030dab7-d33e-e95c-04b0-99b6ab4ae3ff",
+    "pdfUrl": "https://ceice.gva.es/documents/161863053/393646901/Guia+Pla+de+Millora+VAL.pdf/6030dab7-d33e-e95c-04b0-99b6ab4ae3ff"
+  },
+  "title": "Guia del Pla de Millora del Centre. Ensenyances elementals i professionals de Música i Dansa",
+  "titleShort": "Guia Pla de Millora",
+  "category": "organizacion",
+  "vigpiracy": {
+    "status": "vigente",
+    "statusLabel": "Vigent",
+    "effectiveDate": "2025-12-18"
+  },
+  "structure": [
+    {
+      "type": "seccion",
+      "id": "sec-1",
+      "number": "1",
+      "title": "1. Justificació",
+      "content": "Entre les competències que la Llei orgànica 2/2006, de 3 de maig, d'Educació atorga al consell escolar (article 127) i al claustre (article 129) es troba la d'analitzar i valorar el funcionament general del centre, l'evolució del rendiment escolar i els resultats de les avaluacions internes i externes en les quals participe el centre. Així mateix, l'article 132 atribuïx al director o directora la competència d’impulsar les avaluacions internes del centre i col·laborar en les avaluacions externes i en l'avaluació del professorat, i l'article 91 establix per al professorat, entre altres, la funció de participació en els plans d'avaluació que determinen les Administracions educatives o els propis centres.\n\nL’article 9 del DECRET 57/2020, de 8 de maig, del Consell, de regulació de l’organització i el funcionament dels conservatoris professionals de Música i de Dansa dependents de la Generalitat, assenyala que és funció de la direcció impulsar les avaluacions internes del centre i col·laborar en les avaluacions externes i en l’avaluació del professorat. L’equip directiu, segons l’article 18, té la funció d’elaborar el Pla de Centre i la memòria d’autoavaluació, així com d’afavorir la participació del conservatori en xarxes de centres i professorat nacionals i internacionals que promoguen plans i projectes educatius per a la millora permanent de l’ensenyament. De la mateixa manera, els articles 20 i 21, que establixen les competències del consell escolar i el claustre de professorat respectivament, es pronuncien en els mateixos termes que la llei orgànica. D’acord amb l’article 27, els departaments didàctics tenen la funció de promoure el desenvolupament d’actuacions que incidisquen en la millora, tant dels processos d’ensenyament i aprenentatge com dels resultats acadèmics de l’alumnat. La comissió de coordinació pedagògica, conforme l’article 36, ha de contribuir al seguiment i avaluació del grau de compliment del projecte educatiu i impulsar plans de millora, en el cas que s’estime necessari com a resultat de les avaluacions.\n\nEn el Capítol únic del Títol VI “Avaluació i qualitat dels conservatoris”, l’article 55 indica que els equips directius i el professorat dels conservatoris col·laboraran amb la conselleria competent en educació en les avaluacions que es facen als seus conservatoris. I l’article 56 assenyala que la conselleria competent en educació elaborarà un sistema que facilite als conservatoris la realització de l’autoavaluació d’aquest, a fi de proporcionar dades que contribuiran a orientar la presa de decisions, mitjançant un pla d’autoavaluació, i permetran una millor anàlisi dels factors que afecten l’adquisició de la competència en l’alumnat.\n\nL’esmentat pla formarà part de la programació general anual.\n\nEn l’apartat 8 de la RESOLUCIÓ de 31 de juliol de 2024, del secretari autonòmic d'Educació, per la qual es dicten instruccions en matèria d'ordenació acadèmica i d'organització de l'activitat docent dels conservatoris i centres autoritzats d'ensenyaments artístics elementals i professionals de Música i Dansa de la Comunitat Valenciana per al curs 2024-2025, es determina que el projecte educatiu de centre incorporarà un pla de millora, que es revisarà periòdicament, en el qual, a partir de l'anàlisi dels diferents processos d'avaluació de l'alumnat i del mateix centre, es plantegen les estratègies i les actuacions necessàries per a millorar els resultats acadèmics i reduir l'abandonament dels estudis. I a l’apartat 10 s’especifica que dins del pla d'autoavaluació del centre recollit a la PGA, s'inclourà un pla de millora per al curs escolar, que anirà encaminat a la millora dels resultats acadèmics i la reducció de l'abandonament dels estudis.\n\nPer a això, es partirà dels resultats globals obtinguts en el curs anterior (acadèmics i d'abandonament), desglossats en les diferents assignatures pròpies i comunes de les diferents especialitats, ensenyances (Elementals i Professionals) i cursos. Per a les assignatures que disposen d'un únic professor en el centre, l'anàlisi dels resultats es durà a terme entre els membres del departament corresponent. En les assignatures amb més d'un professor, esta anàlisi es realitzarà, en primera instància, de manera conjunta entre el professorat de la matèria i posteriorment, de manera conjunta amb tot el departament.\n\nFinalment, s'hauran de tractar els resultats al sí de la COCOPE i del claustre. Es recolliran i analitzaran els resultats obtinguts amb caràcter trimestral per extreure conclusions i dissenyar plans específics per tal de corregir aspectes susceptibles de millora."
+    },
+    {
+      "type": "seccion",
+      "id": "sec-2",
+      "number": "2",
+      "title": "2. Introducció",
+      "content": "L’autoavaluació és un procés en el qual s’analitza sistemàticament la situació del centre obtenint informació a través de la recollida de dades sobre els processos i resultats, per tal d’identificar els seus punts forts, els punts febles i les àrees d’oportunitat, amb la finalitat de millorar en el seu acompliment. L'autoavaluació dels centres és una peça clau per a la millora del sistema educatiu, fomentant la formació, el treball col·laboratiu i la millora de l'activitat docent. Els centres educatius han de realitzar una autoavaluació del seu propi funcionament, dels programes que desenrotllen, dels processos d'ensenyament i aprenentatge i dels resultats del seu alumnat. Esta autoavaluació servirà per a dissenyar un pla de millora del centre que s'inclourà en la PGA. Els resultats i conclusions de l'autoavaluació realitzada i el seguiment del pla es plasmaran en la memòria final, que serà analitzada i valorada pel Claustre i el Consell Escolar.\n\nUn pla de millora implica analitzar la realitat del centre per a tractar de millorar-la amb les propostes i el compromís de tota la comunitat educativa. Les propostes de millora han de ser avaluables, concretes en el temps i que es puguen aconseguir. La millora en la gestió del centre es produïx mitjançant la identificació d'àrees de millora, l'establiment dels objectius, de les actuacions a realitzar, els responsables d'estes, la freqüència de realització o la temporització d'estes actuacions, així com els indicadors que mostren les evidències de les actuacions i els resultats obtinguts.\n\nEl pla de millora contemplarà millores del rendiment acadèmic, de reducció de l'abandonament dels estudis i altres aspectes que cada conservatori considere susceptibles de millora, com podrien ser aspectes relacionats amb l'organització i funcionament del seu centre. Per a això, s'actuarà sobre els resultats i també sobre els processos implicats.\n\nPer a dissenyar accions de millora, és necessari emprendre una autoavaluació inicial del centre, analitzant amb diferents instruments d’avaluació les fonts d’informació per obtindre els indicadors.\n\nLa plataforma ITACA proporciona dades sobre les qualificacions obtingudes en les avaluacions durant el curs acadèmic. Esta informació cal que s’observe i s’analitze per tal de detectar en quines assignatures, per especialitat i nivell, s'obtenen resultats més desfavorables, per a conseqüentment poder plantejar l’adaptació d’accions metodològiques i organitzatives tals com la introducció de diferents tipologies d'exercicis, la modificació d’activitats proposades a l’aula, o la creació de grups de treball, buscant sempre el progrés i la millora en la formació de l’alumnat, que se reflectiran en els resultats acadèmics.\n\nPer a la valoració del rendiment acadèmic, els conservatoris compten no només amb les dades d’avaluació, sinó també amb informació valuosíssima que es pot extraure de l'anàlisi dels resultats obtinguts en les proves d’accés en les que l'alumnat que ha cursat les ensenyances en el propi centre, és avaluat per un òrgan de selecció que no li ha impartit docència. Els resultats obtinguts per l’alumnat del centre en proves d’accés tant a les ensenyances professionals com a les superiors constitueixen un indicador clau objecte d’anàlisi dins del pla de millora de cada centre, generant la possibilitat de dissenyar plans de transició entre etapes que, a través de l’orientació, recolzament i col·laboració, s’enfoquen en una preparació òptima i eficient de l’alumnat en tots els aspectes que envolten la participació en les proves d’accés, i els ajuden en el disseny del seu itinerari formatiu.\n\nAltres fonts no menys importants són les enquestes de percepció d'alumnat i professorat, així com la pròpia observació directa i sistemàtica tant dels aspectes purament acadèmics com d’organització i funcionament del centre. Els resultats d'estes enquestes permetran conéixer en quina mesura es dona resposta a les necessitats educatives de l'alumnat, i en quin grau l'organització i funcionament del centre és adequada per a les finalitats proposades.\n\nPer a la realització del pla de millora del rendiment acadèmic, no sols han de ser analitzades les activitats, estratègies, procediments i el conjunt d'accions que constituïxen la metodologia, sinó també l'avaluació i la planificació.\n\nEl procés d'ensenyament aprenentatge s'assenta sobre tres pilars bàsics: la planificació, la impartició de la docència i l'avaluació, per la qual cosa es poden plantejar accions de millora en estos tres àmbits.\n\nLògicament, els canvis que s'establisquen en la metodologia, així com en qualsevol dels elements del currículum, han d'incloure's en els documents de planificació del centre, en les concrecions curriculars i en les programacions, i, en funció del resultat dels anàlisis que es realitzen i de la revisió d'estos, també els canvis de la resta d'elements que els componen, si és el cas.\n\nPer a l'estudi de l'abandonament escolar, les dades s'obtindran no només de les baixes de matrícula, sinó també a partir de les faltes d'assistència reincidents, així com de l’alumnat que no es presenta a les diferents proves d'avaluació que es realitzen. És important recordar la necessària gravació de les faltes d'assistència en la plataforma ITACA.\n\nUna vegada determinats els abandonaments, i per poder definir una sèrie de mesures encaminades a la reducció d'estos, es fa imprescindible conéixer els motius que han portat a esta situació. Per a això, s'inclourà una pregunta específica en les enquestes de satisfacció on l'alumnat puga especificar la motivació del seu abandonament.\n\nLes dades obtingudes a través de les enquestes serviran també per establir les línies d'actuació que ajuden a revertir esta tendència d'abandonament d'estudis als conservatoris.\n\nLes actuacions que conformen el Pla de Millora inclouran, entre d’altres, propostes formatives del professorat encaminades a donar resposta a les necessitats detectades i quedaran reflectides així mateix al PAF del centre."
+    },
+    {
+      "type": "seccion",
+      "id": "sec-3",
+      "number": "3",
+      "title": "3. Funcions dels òrgans implicats",
+      "content": "Els diferents departaments s’encarregaran de realitzar una autoavaluació de diagnòstic per conèixer la situació actual a partir de paràmetres com l’anàlisi de resultats i de l’índex d’abandonament. Es podran crear subgrups de treball per matèria o especialitat, en les assignatures amb més d’un professor. Els resultats seran analitzats, es determinaran els punts forts, que es potenciaran, i els punts susceptibles de millora, sobre els quals es proposaran actuacions específiques de resposta dins del pla de millora. El/la cap de cada departament s'encarregarà de posar en marxa i fer el seguiment de les actuacions del pla, i de proporcionar els resultats d'este a l'equip directiu a través de la COCOPE.\n\nLa COCOPE estudiarà les propostes dels diferents departaments i determinarà els objectius i les actuacions generals a dur a terme pel centre en el seu conjunt, així com les específiques de cada departament en particular.\n\nL'equip directiu redactarà el pla de millora, coordinarà les actuacions dels diferents òrgans i realitzarà el seguiment d'estes. Recopilarà els resultats dels diferents indicadors per a l'elaboració d'un informe final d'avaluació del pla, que s'incorporarà a la memòria.\n\nEl claustre i el consell escolar analitzaran i valoraran tant l'evolució del rendiment acadèmic com els resultats del pla, realitzant les propostes que consideren oportunes per al seu estudi i implementació, si escau."
+    },
+    {
+      "type": "seccion",
+      "id": "sec-4",
+      "number": "4",
+      "title": "4. Contingut del Pla de Millora",
+      "children": [
+        {
+          "type": "seccion",
+          "id": "sec-4-1",
+          "number": "4.1",
+          "title": "4.1 Autoavaluació: Anàlisi del punt de partida",
+          "content": "Es tracta d’identificar les deficiències que es volen millorar. Es podran utilitzar, entre d’altres, els següents instruments:\n\na. Resultats globals obtinguts en el curs anterior (acadèmics i d'abandonament) desglossats en les diferents especialitats, nivells, i cursos.\n\nb. Enquestes de satisfacció de l’alumnat/professorat.\n\nc. Observacions/suggeriments del professorat/alumnat.\n\nd. Creació de grups de treball per analitzar el funcionament del centre.\n\ne. En el cas de l’abandonament dels estudis, s’observaran/analitzaran les motivacions.\n\nf. Organització i distribució horària realitzada pel centre: factors que determinen l’elaboració.\n\ng. Altres aspectes que es consideren susceptibles de millorar."
+        },
+        {
+          "type": "seccion",
+          "id": "sec-4-2",
+          "number": "4.2",
+          "title": "4.2 Desenvolupament del Pla de Millora: Elaboració i seguiment",
+          "content": "Una vegada identificades les actuacions de millora a implementar, es plasmaran al pla de millora en el qual es detallaran els següents aspectes:\n\na. Objectius concrets per a superar les deficiències detectades, així com per a reforçar els punts forts, prioritzats d’acord a la seua importància.\n\nb. Actuacions a realitzar per a assolir cada objectiu de millora.\n\nc. Responsable/s de cada actuació.\n\nd. Temporització o freqüència de cada actuació.\n\ne. Indicadors que servisquen per avaluar posteriorment el grau d’assoliment de l’actuació. Per exemple, percentatge d’alumnat aprovat, percentatge d’alumnat que abandona els estudis, nombre d’actuacions per afavorir el DUA o percentatge/nombre d’actuacions realitzades sobre les programades."
+        },
+        {
+          "type": "seccion",
+          "id": "sec-4-3",
+          "number": "4.3",
+          "title": "4.3 Avaluació: Resultat dels indicadors planificats",
+          "content": "L’avaluació haurà d’incloure, almenys, els següents apartats:\n\na. Indicadors proposats\n\nb. Anàlisi dels resultats i dificultats trobades: ha de constar el grau d’assoliment dels objectius de millora.\n\nc. Propostes de millora per al futur: cal especificar si es mantindran les mesures aplicades i si s’introduiran canvis, especificant quins."
+        },
+        {
+          "type": "seccion",
+          "id": "sec-4-4",
+          "number": "4.4",
+          "title": "4.4 Model del Pla de Millora i de la seua avaluació",
+          "content": "[Document descarregable - veure botó de descàrrega]"
+        }
+      ]
+    },
+    {
+      "type": "anexo",
+      "id": "anexo-1",
+      "number": "I",
+      "title": "Annex I: Models de fitxes",
+      "content": "[Document descarregable - veure botó de descàrrega]"
+    },
+    {
+      "type": "anexo",
+      "id": "anexo-2",
+      "number": "II",
+      "title": "Annex II: Selecció d'indicadors per al procés d'autoavaluació del centre",
+      "content": "**QUEIXES/RECLAMACIONS**\n\n• Nombre de queixes/reclamacions de l'alumnat respecte a la informació facilitada per la web.\n\n• Nombre i percentatge total de queixes/reclamacions presentades formalment per l'alumnat respecte al procés d'ensenyament-aprenentatge.\n\n• Nombre i percentatge de queixes/reclamacions de l'alumnat respecte al funcionament administratiu del centre.\n\n• Nombre i percentatge de sol·licituds de revisió de notes presentades formalment per l'alumne.\n\n• Percentatge de queixes/reclamacions de l'alumnat degut a l'organització, funcionament i gestió administrativa del centre.\n\n• Nombre de queixes/reclamacions de l'alumnat respecte als horaris dels servicis del centre\n\n• Nombre de queixes/reclamacions de l'alumnat respecte a la puntualitat i assistència del professorat.\n\n**PROFESSORAT**\n\n• Nombre i percentatge de professorat que coneix i aplica els continguts (objectius, continguts mínims, criteris d'avaluació, temporització, metodologia, instruments d'avaluació, criteris de qualificació i promoció) establerts en les programacions didàctiques.\n\n• Nombre de professorat que participen en l'elaboració/revisió de la programació.\n\n• Nombre i percentatge de professorat que adeqüen la seua programació d'aula a la programació didàctica del departament.\n\n• Nombre i percentatge de professorat que coneixen les funcions de les Hores d'Atenció a l'Alumnat.\n\n• Nombre i percentatge de professorat que complix amb les Hores d'Atenció a l'Alumnat.\n\n• Nombre i percentatge de professorat que complix les hores complementàries de permanència en el centre.\n\n• Nombre i percentatge de professorat que participen en els grups de treball que es constituïxen en el centre.\n\n• Nombre i percentatge de professorat que participa en processos de millora contínua i gestió del canvi.\n\n• Nombre i percentatge de professorat que participa en les eleccions del Consell Escolar.\n\n• Nombre i percentatge d'absències i retards de professorat.\n\n• Nombre i percentatge de professorat que participa cada any en plans de formació contínua.\n\n• Nombre i percentatge d'alumnat que coneix els continguts mínims i els criteris d'avaluació del curs.\n\n• Nombre i percentatge d'alumnat que estan satisfets amb la formació rebuda.\n\n• Nombre i percentatge d'alumnat que està satisfet amb la formació rebuda.\n\n• Nombre de propostes de millora per a exercir el seu treball presentades pel professorat a la direcció del centre.\n\n**ASSISTÈNCIA**\n\n• Nombre i percentatge d'alumnat que acaba el curs.\n\n• Nombre i percentatge d'alumnat que assistix regularment a classe.\n\n• Nombre i percentatge d'alumnat que supera el número màxim de faltes d’assistència i és donat de baixa.\n\n• Nombre i percentatge d’alumnat que es dona de baixa voluntàriament\n\n**METODOLOGIA/DINÀMIQUES DE CLASSE**\n\n• Nombre i percentatge de temps dedicat a assajos amb pianista acompanyant per cursos i especialitat.\n\n• Nombre i percentatge de temps dedicat a audicions per cursos i especialitat.\n\n• Nombre de Classes Magistrals organitzades per especialitat.\n\n**AVALUACIÓ**\n\n• Nombre i percentatge d'alumnat que coneix els criteris d'avaluació aplicables al seu curs\n\n• Nombre i percentatge d'alumnat que coneix les rúbriques d'avaluació.\n\n• Nombre i percentatge d'alumnat que coneix les dates d'avaluació des d'inici de curs.\n\n• Nombre i percentatge d'alumnat aprovats en les diferents avaluacions.\n\n• Nombre i percentatge d'alumnat suspés en les diferents avaluacions.\n\n• Nombre i percentatge d'alumnat no presentat a les proves de cada assignatura.\n\n• Nombre i percentatge d'alumnat que coneix les hores d'atenció a l'alumnat del professorat.\n\n• Nombre i percentatge d'alumnat que mensualment/setmanalment utilitzen la biblioteca/mediateca.\n\n• Nombre i percentatge d'alumnat que setmanalment utilitzen les cabines d’estudi.\n\n**CENTRE**\n\n• Nombre i percentatge d'alumnat que troba la biblioteca oberta en el seu horari.\n\n• Nombre i percentatge d'alumnat que disposa de cabines d’estudi en el seu horari.\n\n• Nombre i percentatge d'alumnat que coneix el Reglament de Règim Intern del centre.\n\n• Nombre i percentatge d'alumnat que coneix la normativa sobre drets i deures de l'alumnat.\n\n• Nombre i percentatge d'alumnat que coneix els programes europeus gestionats pel centre.\n\n• Nombre i percentatge d'alumnat que coneix el pla d'evacuació del centre.\n\n**EQUIP DIRECTIU DEL CENTRE**\n\n• Nombre i percentatge de professorat que coneix l'organigrama funcional del centre.\n\n• Nombre i percentatge de professorat que coneix a les persones que exercixen càrrecs directius i els seus horaris de funcions directives.\n\n• Nombre de queixes/reclamacions del professorat respecte a les activitats realitzades per la direcció del centre.\n\n• Nombre de queixes/reclamacions del professorat respecte a l'accessibilitat de la direcció del centre.\n\n• Nombre i percentatge de professorat que coneix la PGA.\n\n• Nombre i percentatge de professorat que participa en l'elaboració de la PGA.\n\n• Nombre de queixes/reclamacions del professorat respecte al seguiment de la PGA.\n\n• Nombre i percentatge de professorat que coneix la Memòria Final elaborada pel centre.\n\n• Nombre i percentatge de professorat que participa el/ l'elaboració de la Memòria Final.\n\n• Nombre de queixes/reclamacions del professorat respecte a la planificació i distribució horària dels grups d'alumnes.\n\n• Nombre i percentatge de professorat que coneix les funcions del cap de departament i de les coordinacions.\n\n• Nombre i percentatge de professorat que coneix els criteris que aplica la direcció del centre per a la designació dels caps de departament.\n\n• Nombre i percentatge de professorat que coneix els criteris que aplica la direcció del centre per a la planificació de les hores complementàries.\n\n**REPRESENTACIÓ**\n\n• Percentatge d'alumnat que coneix els seus òrgans de representació.\n\n• Nombre d'alumnat que coneix els acords aconseguits en el Consell Escolar.\n\n• Nombre i percentatge d'alumnat que coneix com fer arribar suggeriments o queixes als seus representants.\n\n• Nombre i percentatge d'alumnat que coneix a les persones que exercixen càrrecs directius.\n\n• Nombre i percentatge d'alumnat que coneix als seus representants en el Consell Escolar.\n\n• Nombre i percentatge d'alumnat que coneix als seus representants en la Junta de Delegats.\n\n• Nombre i percentatge d'alumnat que participen en els òrgans de representació d'alumnat.\n\n• Nombre i percentatge d'alumnat que es presenta a les eleccions al Consell Escolar.\n\n**TITULACIÓ**\n\n• Nombre i percentatge d'alumnat cursant 6é curs que pot titular.\n\n• Nombre i percentatge d'alumnat que, desprès de cursar 6é, finalitza les ensenyances professionals de música i titula.\n\n• Nombre i percentatge d'alumnat que, desprès de cursar 6é, no supera totes les assignatures i no finalitza les ensenyances professionals de música.\n\n• Nombre i percentatge d'alumnat que supera 6é curs en un any i finalitza les ensenyances professionals de música i titula.\n\n• Nombre i percentatge d'alumnat que supera 6é curs en més d’un curs acadèmic, finalitza les ensenyances professionals de música i titula.\n\n**COMUNICACIÓ**\n\n• Percentatge d'alumnat que es matricula en el centre a conseqüència de la campanya informativa realitzada pel propi centre.\n\n• Percentatge d'alumnat que s'informa sobre els processos mitjançant la web del centre.\n\n• Percentatge d'alumnat que s'informa sobre els processos en curs mitjançant la secretaria del centre.\n\n• Percentatge de famílies d’alumnat que utilitza la Web Família per a rebre la informació acadèmica i comunicar-se amb el professorat"
+    },
+    {
+      "type": "anexo",
+      "id": "anexo-3",
+      "number": "III",
+      "title": "Annex III: Model enquesta satisfacció alumnat",
+      "content": "[Document descarregable - veure botó de descàrrega]"
+    }
+  ],
+  "legalAnalysis": {
+    "enactedPursuantTo": [
+      {
+        "title": "Decret 57/2020, de 8 de maig, del Consell, de regulació de l'organització i el funcionament dels conservatoris professionals de Música i de Dansa",
+        "relationship": "habilitante",
+        "lawId": "decreto-57-2020"
+      },
+      {
+        "title": "Resolució de 31 de juliol de 2024, del secretari autonòmic d'Educació, instruccions curs 2024-2025",
+        "relationship": "habilitante",
+        "lawId": "resolucion-inicio-curso-2025-2026"
+      }
+    ],
+    "priorAffectations": [],
+    "posteriorAffectations": [],
+    "derogations": [],
+    "concordances": []
+  },
+  "formModels": [
+    {
+      "id": "modelo-plan-mejora",
+      "title": "Model del Pla de Millora i avaluació (4.4)",
+      "pdfUrl": "models/guia-plan-mejora-modelo-va.pdf"
+    },
+    {
+      "id": "anexo-1-fichas",
+      "title": "Annex I: Models de fitxes",
+      "pdfUrl": "models/guia-plan-mejora-anexo1-va.pdf"
+    },
+    {
+      "id": "anexo-3-encuesta",
+      "title": "Annex III: Model enquesta satisfacció",
+      "pdfUrl": "models/guia-plan-mejora-anexo3-va.pdf"
+    }
+  ],
+  "scope": "musica_y_danza",
+  "territory": "autonomico",
+  "temporality": {
+    "type": "permanente"
+  },
+  "docType": "documentos"
+}

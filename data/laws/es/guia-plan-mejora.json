@@ -1,0 +1,143 @@
+{
+  "id": "guia-plan-mejora",
+  "slug": "guia-plan-mejora",
+  "type": "documento",
+  "number": "",
+  "date": "2025-12-18",
+  "publishedIn": {
+    "source": "CEICE",
+    "number": "",
+    "date": "2025-12-18",
+    "url": "https://ceice.gva.es/documents/161863053/393646901/Guia+Plan+de+Mejora+CAS.pdf/e78f8eb7-16bd-99b5-7187-28b6b91b8c51",
+    "pdfUrl": "https://ceice.gva.es/documents/161863053/393646901/Guia+Plan+de+Mejora+CAS.pdf/e78f8eb7-16bd-99b5-7187-28b6b91b8c51"
+  },
+  "title": "Guía del Plan de Mejora del Centro. Enseñanzas elementales y profesionales de Música y Danza",
+  "titleShort": "Guía Plan de Mejora",
+  "category": "organizacion",
+  "vigpiracy": {
+    "status": "vigente",
+    "statusLabel": "Vigente",
+    "effectiveDate": "2025-12-18"
+  },
+  "structure": [
+    {
+      "type": "seccion",
+      "id": "sec-1",
+      "number": "1",
+      "title": "1. Justificación",
+      "content": "Entre las competencias que la Ley orgánica 2/2006, de 3 de mayo, de Educación otorga al consejo escolar (artículo 127) y al claustro (artículo 129) se encuentra la de analizar y valorar el funcionamiento general del centro, la evolución del rendimiento escolar y los resultados de las evaluaciones internas y externas en las que participe el centro. Asimismo, el artículo 132 atribuyó al director o directora la competencia de impulsar las evaluaciones internas del centro y colaborar en las evaluaciones externas y en la evaluación del profesorado, y el artículo 91 establece para el profesorado, entre otros, la función de participación en los planes de evaluación que determinan las Administraciones educativas o los propios centros.\n\nEl artículo 9 del DECRETO 57/2020, de 8 de mayo, del Consell, de regulación de la organización y el funcionamiento de los conservatorios profesionales de Música y de Danza dependientes de la Generalitat, señala que es función de la dirección impulsar las evaluaciones internas del centro y colaborar en las evaluaciones externas y en la evaluación del profesorado. El equipo directivo, según el artículo 18, tiene la función de elaborar el Plan de Centro y la memoria de autoevaluación, así como de favorecer la participación del conservatorio en redes de centros y profesorado nacionales e internacionales que promovieran planes y proyectos educativos para la mejora permanente de la enseñanza.\n\nDel mismo modo, los artículos 20 y 21, que establecen las competencias del consejo escolar y el claustro de profesorado respectivamente, se pronuncian en los mismos términos que la ley orgánica. De acuerdo con el artículo 27, los departamentos didácticos tienen la función de promover el desarrollo de actuaciones que incidan en la mejora, tanto de los procesos de enseñanza y aprendizaje como de los resultados académicos del alumnado. La comisión de coordinación pedagógica, conforme el artículo 36, debe contribuir al seguimiento y evaluación del grado de cumplimiento del proyecto educativo e impulsar planes de mejora, en el caso de que se estime necesario como resultado de las evaluaciones.\n\nEn el Capítulo único del Título VI \"Evaluación y calidad de los conservatorios\", el artículo 55 indica que los equipos directivos y el profesorado de los conservatorios colaborarán con la consejería competente en educación en las evaluaciones que se hagan en sus conservatorios. Y el artículo 56 señala que la consejería competente en educación elaborará un sistema que facilite a los conservatorios la realización de la autoevaluación del mismo, con el fin de proporcionar datos que contribuirán a orientar la toma de decisiones, mediante un plan de autoevaluación, y permitirán un mejor análisis de los factores que afectan a la adquisición de la competencia en el alumnado. Dicho plan formará parte de la programación general anual.\n\nEn el apartado 8 de la RESOLUCIÓN de 31 de julio de 2024, del secretario autonómico de Educación, por la que se dictan instrucciones en materia de ordenación académica y de organización de la actividad docente de los conservatorios y centros autorizados de enseñanzas artísticas elementales y profesionales de Música y Danza de la Comunidad Valenciana para el curso 2024-2025, se determina que el proyecto educativo de centro incorporará un plan de mejora, que se revisará periódicamente, en el que, a partir del análisis de los diferentes procesos de evaluación del alumnado y del propio centro, se plantean las estrategias y las actuaciones necesarias para mejorar los resultados académicos y reducir el abandono de los estudios. Y en el apartado 10 se especifica que dentro del plan de autoevaluación del centro recogido en la PGA, se incluirá un plan de mejora para el curso escolar, que irá encaminado a la mejora de los resultados académicos y la reducción del abandono de los estudios. Para ello, se partirá de los resultados globales obtenidos en el curso anterior (académicos y de abandono), desglosados en las diferentes asignaturas propias y comunes de las diferentes especialidades, enseñanzas (Elementales y Profesionales) y cursos. Para las asignaturas que disponen de un único profesor en el centro, el análisis de los resultados se llevará a cabo entre los miembros del departamento correspondiente. En las asignaturas con más de un profesor, este análisis se realizará, en primera instancia, de manera conjunta entre el profesorado de la materia y posteriormente, de manera conjunta con todo el departamento. Finalmente, se deberán tratar los resultados en el seno de la COCOPE y del claustro. Se recogerán y analizarán los resultados obtenidos con carácter trimestral para extraer conclusiones y diseñar planes específicos con el fin de corregir aspectos susceptibles de mejora."
+    },
+    {
+      "type": "seccion",
+      "id": "sec-2",
+      "number": "2",
+      "title": "2. Introducción",
+      "content": "La autoevaluación es un proceso en el que se analiza sistemáticamente la situación del centro obteniendo información a través de la recogida de datos sobre los procesos y resultados, con el fin de identificar sus puntos fuertes, los puntos débiles y las áreas de oportunidad, con la finalidad de mejorar en su desempeño. La autoevaluación de los centros es una pieza clave para la mejora del sistema educativo, fomentando la formación, el trabajo colaborativo y la mejora de la actividad docente. Los centros educativos deben realizar una autoevaluación de su propio funcionamiento, de los programas que desarrollan, de los procesos de enseñanza y aprendizaje y de los resultados de su alumnado. Esta autoevaluación servirá para diseñar un plan de mejora del centro que se incluirá en la PGA.\n\nLos resultados y conclusiones de la autoevaluación realizada y el seguimiento del plan se plasmarán en la memoria final, que será analizada y valorada por el Claustro y el Consejo Escolar.\n\nUn plan de mejora implica analizar la realidad del centro para tratar de mejorarla con las propuestas y el compromiso de toda la comunidad educativa. Las propuestas de mejora deben ser evaluables, concretas en el tiempo y que se puedan conseguir. La mejora en la gestión del centro se produce mediante la identificación de áreas de mejora, el establecimiento de los objetivos, de las actuaciones a realizar, los responsables de las mismas, la frecuencia de realización o la temporización de estas actuaciones, así como los indicadores que muestran las evidencias de las actuaciones y los resultados obtenidos.\n\nEl plan de mejora contemplará mejoras del rendimiento académico, de reducción del abandono de los estudios y otros aspectos que cada conservatorio considere susceptibles de mejora, como podrían ser aspectos relacionados con la organización y funcionamiento de su centro. Para ello, se actuará sobre los resultados y también sobre los procesos implicados.\n\nPara diseñar acciones de mejora, es necesario emprender una autoevaluación inicial del centro, analizando con diferentes instrumentos de evaluación las fuentes de información para obtener los indicadores.\n\nLa plataforma ITACA proporciona datos sobre las calificaciones obtenidas en las evaluaciones durante el curso académico. Esta información es necesario que se observe y se analice con el fin de detectar en qué asignaturas, por especialidad y nivel, se obtienen resultados más desfavorables, para consecuentemente poder plantear la adaptación de acciones metodológicas y organizativas tales como la introducción de diferentes tipologías de ejercicios, la modificación de actividades propuestas en el aula, o la creación de grupos de trabajo, buscando siempre el progreso y la mejora en la formación del alumnado, que se reflejarán en los resultados académicos.\n\nPara la valoración del rendimiento académico, los conservatorios cuentan no sólo con los datos de evaluación, sino también con información valiosísima que se puede extraer del análisis de los resultados obtenidos en las pruebas de acceso en las que el alumnado que ha cursado las enseñanzas en el propio centro es evaluado por un órgano de selección que no le ha impartido docencia. Los resultados obtenidos por el alumnado del centro en pruebas de acceso tanto a las enseñanzas profesionales como a las superiores constituyen un indicador clave objeto de análisis dentro del plan de mejora de cada centro, generando la posibilidad de diseñar planes de transición entre etapas que, a través de la orientación, apoyo y colaboración, se enfocan en una preparación óptima y eficiente del alumnado en todos los aspectos que rodean la participación en las pruebas de acceso, y les ayudan en el diseño de su itinerario formativo.\n\nOtras fuentes no menos importantes son las encuestas de percepción de alumnado y profesorado, así como la propia observación directa y sistemática tanto de los aspectos puramente académicos como de organización y funcionamiento del centro. Los resultados de estas encuestas permitirán conocer en qué medida se da respuesta a las necesidades educativas del alumnado, y en qué grado la organización y funcionamiento del centro es adecuada para las finalidades propuestas.\n\nPara la realización del plan de mejora del rendimiento académico, no solo deben ser analizadas las actividades, estrategias, procedimientos y el conjunto de acciones que constituyen la metodología, sino también la evaluación y la planificación.\n\nEl proceso de enseñanza aprendizaje se asienta sobre tres pilares básicos: la planificación, la impartición de la docencia y la evaluación, por lo que se pueden plantear acciones de mejora en estos tres ámbitos.\n\nLógicamente, los cambios que se establezcan en la metodología, así como en cualquiera de los elementos del currículo, deben incluirse en los documentos de planificación del centro, en las concreciones curriculares y en las programaciones, y, en función del resultado de los análisis que se realizan y de la revisión de estos, también los cambios del resto de elementos que los componen, si es el caso.\n\nPara el estudio del abandono escolar, los datos se obtendrán no sólo de las bajas de matrícula, sino también a partir de las faltas de asistencia reincidentes, así como del alumnado que no se presenta a las diferentes pruebas de evaluación que se realizan. Es importante recordar la necesaria grabación de las faltas de asistencia en la plataforma ITACA.\n\nUna vez determinados los abandonos, y para poder definir una serie de medidas encaminadas a la reducción de estos, se hace imprescindible conocer los motivos que han llevado a esta situación. Para ello, se incluirá una pregunta específica en las encuestas de satisfacción donde el alumnado pueda especificar la motivación de su abandono.\n\nLos datos obtenidos a través de las encuestas servirán también para establecer las líneas de actuación que ayudan a revertir esta tendencia de abandono de estudios en los conservatorios.\n\nLas actuaciones que conforman el Plan de Mejora incluirán, entre otras, propuestas formativas del profesorado encaminadas a dar respuesta a las necesidades detectadas y quedarán reflejadas asimismo en el PAF del centro."
+    },
+    {
+      "type": "seccion",
+      "id": "sec-3",
+      "number": "3",
+      "title": "3. Funciones de los órganos implicados",
+      "content": "Los diferentes departamentos se encargarán de realizar una autoevaluación de diagnóstico para conocer la situación actual a partir de parámetros como el análisis de resultados y del índice de abandono. Se podrán crear subgrupos de trabajo por materia o especialidad, en las asignaturas con más de un profesor. Los resultados serán analizados, se determinarán los puntos fuertes, que se potenciarán, y los puntos susceptibles de mejora, sobre los que se propondrán actuaciones específicas de respuesta dentro del plan de mejora. El/la jefe/ a de cada departamento se encargará de poner en marcha y hacer el seguimiento de las actuaciones del plan, y de proporcionar los resultados de este al equipo directivo a través de la COCOPE.\n\nLa COCOPE estudiará las propuestas de los diferentes departamentos y determinará los objetivos y las actuaciones generales a llevar a cabo por el centro en su conjunto, así como las específicas de cada departamento en particular.\n\nEl equipo directivo redactará el plan de mejora, coordinará las actuaciones de los diferentes órganos y realizará el seguimiento de estos. Recopilará los resultados de los diferentes indicadores para la elaboración de un informe final de evaluación del plan, que se incorporará a la memoria.\n\nEl claustro y el consejo escolar analizarán y valorarán tanto la evolución del rendimiento académico como los resultados del plan, realizando las propuestas que consideran oportunas para su estudio e implementación, si procede."
+    },
+    {
+      "type": "seccion",
+      "id": "sec-4",
+      "number": "4",
+      "title": "4. Contenido del Plan de Mejora",
+      "children": [
+        {
+          "type": "seccion",
+          "id": "sec-4-1",
+          "number": "4.1",
+          "title": "4.1 Autoevaluación: Análisis del punto de partida",
+          "content": "Se trata de identificar las deficiencias que se quieren mejorar. Se podrán utilizar, entre otros, los siguientes instrumentos:\n\na. Resultados globales obtenidos en el curso anterior (académicos y de abandono) desglosados en las diferentes especialidades, niveles, y cursos.\n\nb. Encuestas de satisfacción del alumnado/profesorado.\n\nc. Observaciones/sugerencias del profesorado/alumnado.\n\nd. Creación de grupos de trabajo para analizar el funcionamiento del centro.\n\ne. En el caso del abandono de los estudios, se observarán/analizarán las motivaciones.\n\nf. Organización y distribución horaria realizada por el centro: factores que determinan la elaboración.\n\ng. Otros aspectos que se consideran susceptibles de mejorar."
+        },
+        {
+          "type": "seccion",
+          "id": "sec-4-2",
+          "number": "4.2",
+          "title": "4.2 Desarrollo del Plan de Mejora: Elaboración y seguimiento",
+          "content": "Una vez identificadas las actuaciones de mejora a implementar, se plasmarán en el plan de mejora en el que se detallarán los siguientes aspectos:\n\na. Objetivos concretos para superar las deficiencias detectadas, así como para reforzar los puntos fuertes, priorizados de acuerdo con su importancia.\n\nb. Actuaciones a realizar para alcanzar cada objetivo de mejora.\n\nc. Responsable/s de cada actuación.\n\nd. Temporización o frecuencia de cada actuación.\n\ne. Indicadores que sirvan para evaluar posteriormente el grado de consecución de la actuación. Por ejemplo, porcentaje de alumnado aprobado, porcentaje de alumnado que abandona los estudios, número de actuaciones para favorecer el DUA o porcentaje/número de actuaciones realizadas sobre las programadas."
+        },
+        {
+          "type": "seccion",
+          "id": "sec-4-3",
+          "number": "4.3",
+          "title": "4.3 Evaluación: Resultado de los indicadores planificados",
+          "content": "La evaluación deberá incluir, al menos, los siguientes apartados:\n\na. Indicadores propuestos.\n\nb. Análisis de los resultados y dificultades encontradas: debe constar el grado de consecución de los objetivos de mejora.\n\nc. Propuestas de mejora para el futuro: hay que especificar si se mantendrán las medidas aplicadas y si se introducirán cambios, especificando cuáles."
+        },
+        {
+          "type": "seccion",
+          "id": "sec-4-4",
+          "number": "4.4",
+          "title": "4.4 Modelo del Plan de Mejora y de su evaluación",
+          "content": "[Documento descargable - ver botón de descarga]"
+        }
+      ]
+    },
+    {
+      "type": "anexo",
+      "id": "anexo-1",
+      "number": "I",
+      "title": "Anexo I: Modelos de fichas",
+      "content": "[Documento descargable - ver botón de descarga]"
+    },
+    {
+      "type": "anexo",
+      "id": "anexo-2",
+      "number": "II",
+      "title": "Anexo II: Selección de indicadores para el proceso de autoevaluación del centro",
+      "content": "**QUEJAS/RECLAMACIONES**\n\n• Número de quejas/reclamaciones del alumnado respecto a la información facilitada por la web.\n\n• Número y porcentaje total de quejas/reclamaciones presentadas formalmente por el alumnado respecto al proceso de enseñanza-aprendizaje.\n\n• Número y porcentaje de quejas/reclamaciones del alumnado respecto al funcionamiento administrativo del centro.\n\n• Número y porcentaje de solicitudes de revisión de notas presentadas formalmente por el alumno.\n\n• Porcentaje de quejas/reclamaciones del alumnado debido a la organización, funcionamiento y gestión administrativa del centro.\n\n• Número de quejas/reclamaciones del alumnado respecto a los horarios de los servicios del centro Número de quejas/reclamaciones del alumnado respecto a la puntualidad y asistencia del profesorado.\n\n**PROFESORADO**\n\n• Número y porcentaje de profesorado que conoce y aplica los contenidos (objetivos, contenidos mínimos, criterios de evaluación, temporización, metodología, instrumentos de evaluación, criterios de calificación y promoción) establecidos en las programaciones didácticas.\n\n• Número de profesorado que participan en la elaboración/revisión de la programación.\n\n• Número y porcentaje de profesorado que adecuan su programación de aula a la programación didáctica del departamento.\n\n• Número y porcentaje de profesorado que conocen las funciones de las Horas de Atención al Alumnado.\n\n• Número y porcentaje de profesorado que cumplió con las Horas de Atención al Alumnado.\n\n• Número y porcentaje de profesorado que cumplió las horas complementarias de permanencia en el centro.\n\n• Número y porcentaje de profesorado que participan en los grupos de trabajo que se constituyen en el centro.\n\n• Número y porcentaje de profesorado que participa en procesos de mejora continua y gestión del cambio.\n\n• Número y porcentaje de profesorado que participa en las elecciones del Consejo Escolar.\n\n• Número y porcentaje de ausencias y retrasos de profesorado.\n\n• Número y porcentaje de profesorado que participa cada año en planes de formación continua.\n\n• Número y porcentaje de alumnado que conoce los contenidos mínimos y los criterios de evaluación del curso.\n\n• Número y porcentaje de alumnado que están satisfechos con la formación recibida.\n\n• Número y porcentaje de alumnado que está satisfecho con la formación recibida.\n\n• Número de propuestas de mejora para ejercer su trabajo presentadas por el profesorado en la dirección del centro.\n\n**ASISTENCIA**\n\n• Número y porcentaje de alumnado que acaba el curso.\n\n• Número y porcentaje de alumnado que asistió regularmente a clase.\n\n• Número y porcentaje de alumnado que supera el número máximo de faltas de asistencia y es dado de baja.\n\n• Número y porcentaje de alumnado que se da de baja voluntariamente.\n\n**METODOLOGÍA/DINÁMICAS DE CLASE**\n\n• Número y porcentaje de tiempo dedicado a ensayos con pianista acompañante por cursos y especialidad.\n\n• Número y porcentaje de tiempo dedicado a audiciones por cursos y especialidad.\n\n• Número de Clases Magistrales organizadas por especialidad.\n\n**EVALUACIÓN**\n\n• Número y porcentaje de alumnado que conoce los criterios de evaluación aplicables a su curso.\n\n• Número y porcentaje de alumnado que conoce las rúbricas de evaluación.\n\n• Número y porcentaje de alumnado que conoce las fechas de evaluación desde inicio de curso.\n\n• Número y porcentaje de alumnado aprobados en las diferentes evaluaciones.\n\n• Número y porcentaje de alumnado suspendido en las diferentes evaluaciones.\n\n• Número y porcentaje de alumnado no presentado a las pruebas de cada asignatura.\n\n• Número y porcentaje de alumnado que conoce las horas de atención al alumnado del profesorado.\n\n• Número y porcentaje de alumnado que mensualmente/semanalmente utilizan la biblioteca/mediateca.\n\n• Número y porcentaje de alumnado que semanalmente utilizan las cabinas de estudio.\n\n**CENTRO**\n\n• Número y porcentaje de alumnado que encuentra la biblioteca abierta en su horario.\n\n• Número y porcentaje de alumnado que dispone de cabinas de estudio en su horario.\n\n• Número y porcentaje de alumnado que conoce el Reglamento de Régimen Interno del centro.\n\n• Número y porcentaje de alumnado que conoce la normativa sobre derechos y deberes del alumnado.\n\n• Número y porcentaje de alumnado que conoce los programas europeos gestionados por el centro.\n\n• Número y porcentaje de alumnado que conoce el plan de evacuación del centro.\n\n**EQUIPO DIRECTIVO DEL CENTRO**\n\n• Número y porcentaje de profesorado que conoce el organigrama funcional del centro.\n\n• Número y porcentaje de profesorado que conoce a las personas que ejercen cargos directivos y sus horarios de funciones directivas\n\n• Número de quejas/reclamaciones del profesorado respecto a las actividades realizadas por la dirección del centro.\n\n• Número de quejas/reclamaciones del profesorado respecto a la accesibilidad de la dirección del centro.\n\n• Número y porcentaje de profesorado que conoce la PGA.\n\n• Número y porcentaje de profesorado que participa en la elaboración de la PGA.\n\n• Número de quejas/reclamaciones del profesorado respecto al seguimiento de la PGA.\n\n• Número y porcentaje de profesorado que conoce la Memoria Final elaborada por el centro.\n\n• Número y porcentaje de profesorado que participa el/ la elaboración de la Memoria Final.\n\n• Número de quejas/reclamaciones del profesorado respecto a la planificación y distribución horaria de los grupos de alumnos.\n\n• Número y porcentaje de profesorado que conoce las funciones del jefe de departamento y de las coordinaciones.\n\n• Número y porcentaje de profesorado que conoce los criterios que aplica la dirección del centro para la designación de los jefes de departamento.\n\n• Número y porcentaje de profesorado que conoce los criterios que aplica la dirección del centro para la planificación de las horas complementarias.\n\n**REPRESENTACIÓN**\n\n• Porcentaje de alumnado que conoce sus órganos de representación.\n\n• Número de alumnado que conoce los acuerdos alcanzados en el Consejo Escolar.\n\n• Número y porcentaje de alumnado que conoce cómo hacer llegar sugerencias o quejas a sus representantes.\n\n• Número y porcentaje de alumnado que conoce a las personas que desempeñan cargos directivos.\n\n• Número y porcentaje de alumnado que conoce a sus representantes en el Consejo Escolar.\n\n• Número y porcentaje de alumnado que conoce a sus representantes en la Junta de delegados.\n\n• Número y porcentaje de alumnado que participan en los órganos de representación de alumnado.\n\n• Número y porcentaje de alumnado que se presenta a las elecciones al Consejo Escolar.\n\n**TITULACIÓN**\n\n• Número y porcentaje de alumnado cursando 6º curso que puede titular.\n\n• Número y porcentaje de alumnado que, después de cursar 6º, finaliza las enseñanzas profesionales de música y titula.\n\n• Número y porcentaje de alumnado que, después de cursar 6º, no supera todas las asignaturas y no finaliza las enseñanzas profesionales de música.\n\n• Número y porcentaje de alumnado que supera 6º curso en un año y finaliza las enseñanzas profesionales de música y titula.\n\n• Número y porcentaje de alumnado que supera 6º curso en más de un curso académico, finaliza las enseñanzas profesionales de música y titula.\n\n**COMUNICACIÓN**\n\n• Porcentaje de alumnado que se matricula en el centro a consecuencia de la campaña informativa realizada por el propio centro.\n\n• Porcentaje de alumnado que se informa sobre los procesos mediante la web del centro.\n\n• Porcentaje de alumnado que se informa sobre los procesos en curso mediante la secretaría del centro.\n\n• Porcentaje de familias de alumnado que utiliza la Web Familia para recibir la información académica y comunicarse con el profesorado."
+    },
+    {
+      "type": "anexo",
+      "id": "anexo-3",
+      "number": "III",
+      "title": "Anexo III: Modelo encuesta de satisfacción del alumnado",
+      "content": "[Documento descargable - ver botón de descarga]"
+    }
+  ],
+  "legalAnalysis": {
+    "enactedPursuantTo": [
+      {
+        "title": "Decreto 57/2020, de 8 de mayo, del Consell, de regulación de la organización y el funcionamiento de los conservatorios profesionales de Música y de Danza",
+        "relationship": "habilitante",
+        "lawId": "decreto-57-2020"
+      },
+      {
+        "title": "Resolución de 31 de julio de 2024, del secretario autonómico de Educación, instrucciones curso 2024-2025",
+        "relationship": "habilitante",
+        "lawId": "resolucion-inicio-curso-2025-2026"
+      }
+    ],
+    "priorAffectations": [],
+    "posteriorAffectations": [],
+    "derogations": [],
+    "concordances": []
+  },
+  "formModels": [
+    {
+      "id": "modelo-plan-mejora",
+      "title": "Modelo del Plan de Mejora y evaluación (4.4)",
+      "pdfUrl": "models/guia-plan-mejora-modelo-es.pdf"
+    },
+    {
+      "id": "anexo-1-fichas",
+      "title": "Anexo I: Modelos de fichas",
+      "pdfUrl": "models/guia-plan-mejora-anexo1-es.pdf"
+    },
+    {
+      "id": "anexo-3-encuesta",
+      "title": "Anexo III: Modelo encuesta de satisfacción",
+      "pdfUrl": "models/guia-plan-mejora-anexo3-es.pdf"
+    }
+  ],
+  "scope": "musica_y_danza",
+  "territory": "autonomico",
+  "temporality": {
+    "type": "permanente"
+  },
+  "docType": "documentos"
+}
