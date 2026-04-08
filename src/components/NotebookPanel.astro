@@ -1,6 +1,7 @@
 ---
 import type { Lang } from '../lib/types';
 import { t } from '../i18n/utils';
+import { VERSION } from '../lib/version';
 
 interface Props {
   lang: Lang;
@@ -23,6 +24,9 @@ const { lang, lawTitle, lawShort, lawSlug } = Astro.props;
   <span id="notebook-tooltip-ref" class="tooltip-ref"></span>
   <button id="notebook-save-btn" class="tooltip-save-btn" type="button">
     + {t('notebook.save', lang)}
+  </button>
+  <button id="notebook-cite-btn" class="tooltip-cite-btn" type="button">
+    &#128220; {t('cite.copy_citation', lang)}
   </button>
 </div>
 
@@ -80,6 +84,7 @@ const { lang, lawTitle, lawShort, lawSlug } = Astro.props;
     ? t('footer.disclaimer', lang)
     : t('footer.disclaimer', lang),
   siteUrl: 'https://JLMirallesB.github.io/legis_cpm/',
+  appVersion: VERSION,
 }}>
   const STORAGE_KEY = 'legis_notebook';
 
@@ -142,7 +147,7 @@ const { lang, lawTitle, lawShort, lawSlug } = Astro.props;
 
       const ref = document.createElement('span');
       ref.className = 'fragment-ref';
-      ref.textContent = `${frag.lawShort} › ${frag.articleTitle}`;
+      ref.textContent = `${frag.lawShort.toUpperCase()} › ${frag.articleTitle}`;
 
       const actions = document.createElement('div');
       actions.className = 'fragment-actions';
@@ -173,11 +178,20 @@ const { lang, lawTitle, lawShort, lawSlug } = Astro.props;
       actions.append(up, down, del);
       header.append(ref, actions);
 
+      if (frag.versionLabel) {
+        const ver = document.createElement('div');
+        ver.className = 'fragment-version';
+        ver.textContent = frag.versionLabel;
+        item.append(header, ver);
+      } else {
+        item.append(header);
+      }
+
       const text = document.createElement('div');
       text.className = 'fragment-text';
       text.textContent = frag.text.length > 200 ? frag.text.slice(0, 200) + '…' : frag.text;
 
-      item.append(header, text);
+      item.append(text);
       list.appendChild(item);
     });
   }
@@ -201,21 +215,40 @@ const { lang, lawTitle, lawShort, lawSlug } = Astro.props;
     renderList();
   }
 
+  function getVersionLabel(articleId) {
+    if (!articleId) return null;
+    const selector = document.querySelector(`.version-selector[data-article-id="${articleId}"] select`);
+    if (!selector) return null;
+    const opt = selector.options[selector.selectedIndex];
+    return opt ? opt.textContent.trim() : null;
+  }
+
+  function getFragmentHtml(articleEl) {
+    if (!articleEl) return null;
+    const textEl = articleEl.querySelector('.article-text');
+    if (!textEl) return null;
+    return textEl.innerHTML;
+  }
+
   function addFragment(text, articleEl) {
     const articleId = articleEl?.id || '';
     const titleEl = articleEl?.querySelector('h3');
     const articleTitle = titleEl ? titleEl.textContent.trim() : articleId;
     const url = window.location.href.split('#')[0] + (articleId ? '#' + articleId : '');
+    const versionLabel = getVersionLabel(articleId);
+    const html = getFragmentHtml(articleEl);
 
     const fragment = {
       id: generateId(),
       text: text.trim(),
+      html,
       articleId,
       articleTitle,
       lawSlug,
       lawShort,
       lawTitle,
       url,
+      versionLabel,
       savedAt: new Date().toISOString(),
     };
 
@@ -317,19 +350,38 @@ const { lang, lawTitle, lawShort, lawSlug } = Astro.props;
     renderList();
   });
 
+  // ── Cite selection ────────────────────────────────────────
+  const citeSelBtn = document.getElementById('notebook-cite-btn');
+  citeSelBtn?.addEventListener('click', () => {
+    if (!pendingSelection) return;
+    const articleId = pendingSelection.articleEl?.id || '';
+    // Dispatch to LawReaderLayout which has the citation data
+    document.dispatchEvent(new CustomEvent('cite:selection', {
+      detail: { selectedText: pendingSelection.text.trim(), articleId }
+    }));
+    tooltip.style.display = 'none';
+    pendingSelection = null;
+    window.getSelection()?.removeAllRanges();
+  });
+
   // ── Listener para guardar artículo completo desde el popover ─
   document.addEventListener('notebook:save-request', (e) => {
     const { text, articleId, articleTitle } = e.detail;
     const url = window.location.href.split('#')[0] + (articleId ? '#' + articleId : '');
+    const versionLabel = getVersionLabel(articleId);
+    const articleEl = articleId ? document.getElementById(articleId) : null;
+    const html = getFragmentHtml(articleEl);
     const fragment = {
       id: generateId(),
       text,
+      html,
       articleId,
       articleTitle,
       lawSlug,
       lawShort,
       lawTitle,
       url,
+      versionLabel,
       savedAt: new Date().toISOString(),
     };
     const fragments = loadFragments();
@@ -358,9 +410,10 @@ const { lang, lawTitle, lawShort, lawSlug } = Astro.props;
     const fragments = loadFragments();
     if (fragments.length === 0) return;
 
-    const lines = fragments.map(f =>
-      `${f.lawShort} — ${f.articleTitle}\n${f.url}\n\n"${f.text}"`
-    );
+    const lines = fragments.map(f => {
+      const ver = f.versionLabel ? ` [${f.versionLabel}]` : '';
+      return `${f.lawShort} — ${f.articleTitle}${ver}\n${f.url}\n\n"${f.text}"`;
+    });
     const text = lines.join('\n\n---\n\n') + '\n\n---\n' + generatedWith;
 
     navigator.clipboard.writeText(text).then(() => showToast(copiedLabel)).catch(() => {
@@ -376,7 +429,8 @@ const { lang, lawTitle, lawShort, lawSlug } = Astro.props;
   });
 
   // ── Print ──────────────────────────────────────────────────
-  document.getElementById('notebook-print')?.addEventListener('click', () => {
+  function openPrintPreview(opts) {
+    const { userName, showFooter, showLinks } = opts;
     const fragments = loadFragments();
     if (fragments.length === 0) return;
 
@@ -390,20 +444,46 @@ const { lang, lawTitle, lawShort, lawSlug } = Astro.props;
     fragments.forEach((f) => {
       const isNewLaw = f.lawSlug !== prevLawSlug;
       if (isNewLaw) {
-        if (prevLawSlug !== null) bodyHtml += '</div>'; // close prev group
+        if (prevLawSlug !== null) bodyHtml += '</div>';
         bodyHtml += `<div class="law-group">
-          <h2 class="law-heading">${f.lawShort}</h2>
+          <h2 class="law-heading">${f.lawShort.toUpperCase()}</h2>
           <p class="law-full-title">${f.lawTitle}</p>`;
         prevLawSlug = f.lawSlug;
       }
+      const versionHtml = f.versionLabel ? `<span class="fragment-version">${f.versionLabel}</span>` : '';
+      const contentHtml = f.html
+        ? `<div class="fragment-content">${f.html}</div>`
+        : `<blockquote class="fragment-text">${f.text.replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/\n/g, '<br>')}</blockquote>`;
       bodyHtml += `
         <div class="fragment">
-          <h3 class="fragment-ref">${f.articleTitle}</h3>
-          <blockquote class="fragment-text">${f.text.replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/\n/g, '<br>')}</blockquote>
-          <p class="fragment-url">${f.url}</p>
+          <h3 class="fragment-ref">${f.articleTitle}${versionHtml}</h3>
+          ${contentHtml}
+          ${showLinks ? `<p class="fragment-url">${f.url}</p>` : ''}
         </div>`;
     });
-    if (prevLawSlug !== null) bodyHtml += '</div>'; // close last group
+    if (prevLawSlug !== null) bodyHtml += '</div>';
+
+    const printBtnLabel = lang === 'va' ? 'Imprimir' : 'Imprimir';
+    const currentYear = new Date().getFullYear();
+    const contactLabel = lang === 'va' ? 'Contacte' : 'Contacto';
+    const reportLabel = lang === 'va' ? 'Notificar un error (GitHub)' : 'Notificar un error (GitHub)';
+    const orxataLabel = lang === 'va' ? "Invita'm a una orxata" : 'Invítame a una orxata';
+
+    const userNameHtml = userName
+      ? `<div class="user-name">${userName.replace(/</g, '&lt;').replace(/>/g, '&gt;')}</div>`
+      : '';
+
+    const footerHtml = showFooter ? `
+  <footer class="print-footer">
+    <div class="footer-disclaimer">${printDisclaimer}<br>${printDisclaimerLong}</div>
+    <div class="footer-contact">
+      <strong>${contactLabel}</strong><br>
+      jl.mirallesbono@edu.gva.es<br>
+      <a href="https://github.com/JLMirallesB/legis_cpm/issues">${reportLabel}</a><br>
+      <a href="https://ko-fi.com/miralles">${orxataLabel} &#9749;</a>
+    </div>
+    <div class="footer-copyright">&copy; ${currentYear} Jos&eacute; Luis Miralles Bono &middot; Legis CPM v${appVersion}</div>
+  </footer>` : '';
 
     const html = `<!DOCTYPE html>
 <html lang="${lang}">
@@ -412,38 +492,65 @@ const { lang, lawTitle, lawShort, lawSlug } = Astro.props;
   <title>${printTitle} – Legis CPM</title>
   <style>
     * { margin: 0; padding: 0; box-sizing: border-box; }
-    body { font-family: Georgia, 'Times New Roman', serif; font-size: 11pt; color: #1a202c; padding: 2cm 2.5cm; line-height: 1.6; }
+    body { font-family: Georgia, 'Times New Roman', serif; font-size: 9pt; color: #000; padding: 1cm 1.5cm; line-height: 1.45; }
+
+    /* Print toolbar (hidden when printing) */
+    .print-toolbar { position: fixed; top: 0; left: 0; right: 0; background: #333; color: #fff; padding: 8px 16px; display: flex; align-items: center; justify-content: space-between; z-index: 100; font-family: Arial, sans-serif; font-size: 10pt; }
+    .print-toolbar button { background: #fff; color: #333; border: none; padding: 6px 18px; border-radius: 4px; font-size: 10pt; font-weight: bold; cursor: pointer; }
+    .print-toolbar button:hover { background: #e2e8f0; }
+    .toolbar-spacer { height: 40px; }
 
     /* Header */
-    .print-header { display: flex; justify-content: space-between; align-items: flex-end; border-bottom: 2pt solid #1a365d; padding-bottom: 10pt; margin-bottom: 24pt; }
-    .header-left .site-name { font-family: Arial, sans-serif; font-size: 16pt; font-weight: bold; color: #1a365d; }
-    .header-left .site-url { font-family: monospace; font-size: 8pt; color: #718096; margin-top: 2pt; }
-    .header-right { text-align: right; font-family: Arial, sans-serif; font-size: 9pt; color: #4a5568; }
-    .header-right .doc-title { font-weight: bold; font-size: 11pt; color: #1a202c; }
+    .print-header { display: flex; justify-content: space-between; align-items: flex-end; border-bottom: 1.5pt solid #000; padding-bottom: 6pt; margin-bottom: 12pt; }
+    .header-left .site-name { font-family: Arial, sans-serif; font-size: 12pt; font-weight: bold; color: #000; }
+    .header-left .site-url { font-family: monospace; font-size: 7pt; color: #000; margin-top: 1pt; }
+    .header-right { text-align: right; font-family: Arial, sans-serif; font-size: 7.5pt; color: #000; }
+    .header-right .doc-title { font-weight: bold; font-size: 9pt; }
+    .user-name { font-family: Arial, sans-serif; font-size: 8pt; font-weight: bold; margin-top: 6pt; margin-bottom: 6pt; }
 
     /* Law groups */
-    .law-group { margin-bottom: 24pt; page-break-inside: avoid; }
-    .law-heading { font-family: Arial, sans-serif; font-size: 12pt; font-weight: bold; color: #1a365d; border-left: 4pt solid #1a365d; padding-left: 8pt; margin-bottom: 2pt; }
-    .law-full-title { font-family: Arial, sans-serif; font-size: 8pt; color: #718096; margin-bottom: 10pt; padding-left: 12pt; }
+    .law-group { margin-bottom: 10pt; }
+    .law-heading { font-family: Arial, sans-serif; font-size: 9.5pt; font-weight: bold; color: #000; border-left: 3pt solid #000; padding-left: 6pt; margin-bottom: 1pt; }
+    .law-full-title { font-family: Arial, sans-serif; font-size: 7pt; color: #000; margin-bottom: 6pt; padding-left: 9pt; }
 
     /* Fragments */
-    .fragment { margin-bottom: 14pt; padding-left: 12pt; page-break-inside: avoid; }
-    .fragment-ref { font-family: Arial, sans-serif; font-size: 9.5pt; font-weight: bold; color: #2d3748; margin-bottom: 4pt; }
-    .fragment-text { font-size: 10.5pt; font-style: italic; border-left: 2pt solid #cbd5e0; padding: 4pt 8pt; margin: 4pt 0; color: #2d3748; }
-    .fragment-url { font-family: monospace; font-size: 7.5pt; color: #a0aec0; margin-top: 3pt; }
+    .fragment { margin-bottom: 8pt; padding-left: 9pt; page-break-inside: avoid; }
+    .fragment-ref { font-family: Arial, sans-serif; font-size: 8pt; font-weight: bold; color: #000; margin-bottom: 2pt; }
+    .fragment-version { font-family: Arial, sans-serif; font-size: 7pt; font-style: italic; font-weight: normal; }
+    .fragment-text { font-size: 8.5pt; font-style: italic; border-left: 1.5pt solid #000; padding: 2pt 6pt; margin: 2pt 0; color: #000; }
+    .fragment-content { font-size: 8.5pt; border-left: 1.5pt solid #000; padding: 2pt 6pt; margin: 2pt 0; color: #000; }
+    .fragment-content p { margin-bottom: 4pt; }
+    .fragment-content .content-heading { font-weight: bold; margin: 6pt 0 2pt; }
+    .fragment-content table { border-collapse: collapse; width: 100%; margin: 4pt 0; font-size: 7.5pt; }
+    .fragment-content th, .fragment-content td { border: 0.5pt solid #000; padding: 2pt 4pt; text-align: left; }
+    .fragment-content th { font-weight: bold; background: #f0f0f0; }
+    .fragment-url { font-family: monospace; font-size: 6pt; color: #000; margin-top: 2pt; }
 
     /* Footer */
-    .print-footer { margin-top: 32pt; padding-top: 10pt; border-top: 1pt solid #cbd5e0; font-family: Arial, sans-serif; font-size: 8pt; color: #718096; }
-    .footer-row { display: flex; justify-content: space-between; margin-bottom: 4pt; }
-    .footer-disclaimer { margin-top: 6pt; font-size: 7pt; color: #a0aec0; }
+    .print-footer { margin-top: 16pt; padding-top: 6pt; border-top: 1pt solid #000; font-family: Arial, sans-serif; font-size: 7pt; color: #000; }
+    .footer-disclaimer { margin-top: 4pt; font-size: 6.5pt; }
+    .footer-contact { margin-top: 6pt; font-size: 7pt; }
+    .footer-contact strong { font-size: 7.5pt; }
+    .footer-contact a { color: #000; }
+    .footer-copyright { margin-top: 6pt; font-size: 7pt; font-weight: bold; }
 
-    @page { margin: 1.5cm; }
+    @media print {
+      .print-toolbar, .toolbar-spacer { display: none; }
+      body { padding: 0; }
+      @page { margin: 1cm 1.2cm; }
+    }
   </style>
 </head>
 <body>
+  <div class="print-toolbar">
+    <span>${printTitle} — ${fragments.length} fragment${fragments.length !== 1 ? 's' : ''}</span>
+    <button onclick="window.print()">${printBtnLabel}</button>
+  </div>
+  <div class="toolbar-spacer"></div>
+
   <header class="print-header">
     <div class="header-left">
-      <div class="site-name">📚 Legis CPM</div>
+      <div class="site-name">Legis CPM</div>
       <div class="site-url">${siteUrl}</div>
     </div>
     <div class="header-right">
@@ -453,15 +560,11 @@ const { lang, lawTitle, lawShort, lawSlug } = Astro.props;
     </div>
   </header>
 
+  ${userNameHtml}
+
   <main>${bodyHtml}</main>
 
-  <footer class="print-footer">
-    <div class="footer-row">
-      <span>${printDisclaimer}</span>
-      <span>${siteUrl}</span>
-    </div>
-    <div class="footer-disclaimer">${printDisclaimerLong}</div>
-  </footer>
+  ${footerHtml}
 </body>
 </html>`;
 
@@ -469,8 +572,58 @@ const { lang, lawTitle, lawShort, lawSlug } = Astro.props;
     if (!pw) { alert('Permite las ventanas emergentes para imprimir.'); return; }
     pw.document.write(html);
     pw.document.close();
-    pw.focus();
-    setTimeout(() => { pw.print(); pw.close(); }, 400);
+  }
+
+  // ── Print options modal ───────────────────────────────────
+  document.getElementById('notebook-print')?.addEventListener('click', () => {
+    const fragments = loadFragments();
+    if (fragments.length === 0) return;
+
+    // Remove existing modal if any
+    document.getElementById('print-options-modal')?.remove();
+
+    const nameLabel = lang === 'va' ? 'Nom (opcional):' : 'Nombre (opcional):';
+    const footerLabel = lang === 'va' ? 'Incloure peu de pàgina' : 'Incluir pie de página';
+    const linksLabel = lang === 'va' ? 'Incloure enllaços dels articles' : 'Incluir enlaces de los artículos';
+    const previewLabel = lang === 'va' ? 'Previsualitzar' : 'Previsualizar';
+    const cancelLabel = lang === 'va' ? 'Cancel·lar' : 'Cancelar';
+
+    const modal = document.createElement('div');
+    modal.id = 'print-options-modal';
+    modal.className = 'print-modal-overlay';
+    modal.innerHTML = `
+      <div class="print-modal">
+        <div class="print-modal-title">${printTitle}</div>
+        <label class="print-modal-label">
+          ${nameLabel}
+          <input type="text" id="print-opt-name" class="print-modal-input" placeholder="${lang === 'va' ? 'Ex: Maria García' : 'Ej: María García'}">
+        </label>
+        <label class="print-modal-check">
+          <input type="checkbox" id="print-opt-footer" checked>
+          ${footerLabel}
+        </label>
+        <label class="print-modal-check">
+          <input type="checkbox" id="print-opt-links" checked>
+          ${linksLabel}
+        </label>
+        <div class="print-modal-actions">
+          <button type="button" id="print-opt-cancel" class="print-modal-btn">${cancelLabel}</button>
+          <button type="button" id="print-opt-go" class="print-modal-btn print-modal-btn-primary">${previewLabel}</button>
+        </div>
+      </div>`;
+
+    document.body.appendChild(modal);
+
+    document.getElementById('print-opt-cancel').addEventListener('click', () => modal.remove());
+    modal.addEventListener('click', (e) => { if (e.target === modal) modal.remove(); });
+
+    document.getElementById('print-opt-go').addEventListener('click', () => {
+      const userName = document.getElementById('print-opt-name').value.trim();
+      const showFooter = document.getElementById('print-opt-footer').checked;
+      const showLinks = document.getElementById('print-opt-links').checked;
+      modal.remove();
+      openPrintPreview({ userName, showFooter, showLinks });
+    });
   });
 
   // ── Clear ──────────────────────────────────────────────────
@@ -555,7 +708,8 @@ const { lang, lawTitle, lawShort, lawSlug } = Astro.props;
     white-space: nowrap;
   }
 
-  .tooltip-save-btn {
+  .tooltip-save-btn,
+  .tooltip-cite-btn {
     background: rgba(255,255,255,0.2);
     border: 1px solid rgba(255,255,255,0.4);
     color: #fff;
@@ -567,8 +721,18 @@ const { lang, lawTitle, lawShort, lawSlug } = Astro.props;
     transition: background 0.15s;
   }
 
-  .tooltip-save-btn:hover {
+  .tooltip-save-btn:hover,
+  .tooltip-cite-btn:hover {
     background: rgba(255,255,255,0.35);
+  }
+
+  .tooltip-cite-btn {
+    background: rgba(116,66,16,0.6);
+    border-color: rgba(116,66,16,0.8);
+  }
+
+  .tooltip-cite-btn:hover {
+    background: rgba(116,66,16,0.8);
   }
 
   /* ── Panel drawer ────────────────────────────────────────── */
@@ -627,34 +791,33 @@ const { lang, lawTitle, lawShort, lawSlug } = Astro.props;
   .panel-list {
     flex: 1;
     overflow-y: auto;
-    padding: var(--space-sm);
+    padding: 0 var(--space-sm);
   }
 
-  .fragment-item {
-    border: 1px solid var(--color-border);
-    border-radius: var(--radius-md);
-    padding: var(--space-sm) var(--space-sm) var(--space-xs);
-    margin-bottom: var(--space-sm);
+  :global(.fragment-item) {
+    padding: var(--space-sm) var(--space-xs) var(--space-xs);
+    margin-bottom: 0;
     background: var(--color-bg-white);
+    border-top: 1px solid var(--color-border-dark);
   }
 
-  .fragment-header {
+  :global(.fragment-item:first-child) {
+    border-top: none;
+  }
+
+  :global(.fragment-header) {
     display: flex;
-    align-items: center;
+    align-items: flex-start;
     justify-content: space-between;
     gap: var(--space-xs);
     margin-bottom: 6px;
   }
 
-  .fragment-ref {
-    font-size: 0.7rem;
+  :global(.fragment-ref) {
+    font-size: 0.8rem;
     font-weight: 700;
     font-family: var(--font-sans);
-    color: var(--color-primary);
-    background: #ebf4ff;
-    border: 1px solid #bee3f8;
-    border-radius: var(--radius-sm);
-    padding: 2px 6px;
+    color: #c05621;
     line-height: 1.4;
     flex: 1;
     min-width: 0;
@@ -663,7 +826,15 @@ const { lang, lawTitle, lawShort, lawSlug } = Astro.props;
     white-space: nowrap;
   }
 
-  .fragment-text {
+  :global(.fragment-version) {
+    font-size: 0.7rem;
+    font-family: var(--font-sans);
+    color: var(--color-text-muted);
+    font-style: italic;
+    margin-bottom: 4px;
+  }
+
+  :global(.fragment-text) {
     font-size: 0.82rem;
     color: var(--color-text);
     line-height: 1.6;
@@ -673,13 +844,13 @@ const { lang, lawTitle, lawShort, lawSlug } = Astro.props;
     padding-left: 8px;
   }
 
-  .fragment-actions {
+  :global(.fragment-actions) {
     display: flex;
     gap: 3px;
     flex-shrink: 0;
   }
 
-  .frag-btn {
+  :global(.frag-btn) {
     background: var(--color-bg-secondary);
     border: 1px solid var(--color-border-dark);
     color: var(--color-text-secondary);
@@ -696,18 +867,18 @@ const { lang, lawTitle, lawShort, lawSlug } = Astro.props;
     font-weight: 600;
   }
 
-  .frag-btn:hover:not(:disabled) {
+  :global(.frag-btn:hover:not(:disabled)) {
     background: var(--color-primary);
     color: #fff;
     border-color: var(--color-primary);
   }
 
-  .frag-btn:disabled {
+  :global(.frag-btn:disabled) {
     opacity: 0.25;
     cursor: default;
   }
 
-  .frag-btn-delete:hover:not(:disabled) {
+  :global(.frag-btn-delete:hover:not(:disabled)) {
     background: var(--color-accent);
     color: #fff;
     border-color: var(--color-accent);
@@ -777,6 +948,106 @@ const { lang, lawTitle, lawShort, lawSlug } = Astro.props;
     color: var(--color-accent);
     border-color: var(--color-accent);
     background: #fff5f5;
+  }
+
+  /* Print options modal */
+  :global(.print-modal-overlay) {
+    position: fixed;
+    inset: 0;
+    background: rgba(0,0,0,0.4);
+    z-index: 1000;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: var(--font-sans);
+  }
+
+  :global(.print-modal) {
+    background: var(--color-bg-white);
+    border-radius: var(--radius-md);
+    padding: var(--space-lg);
+    width: 340px;
+    max-width: 90vw;
+    box-shadow: var(--shadow-lg);
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-md);
+  }
+
+  :global(.print-modal-title) {
+    font-size: 1rem;
+    font-weight: 700;
+    color: var(--color-primary);
+  }
+
+  :global(.print-modal-label) {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    font-size: 0.85rem;
+    color: var(--color-text-secondary);
+  }
+
+  :global(.print-modal-input) {
+    padding: 6px 10px;
+    border: 1px solid var(--color-border-dark);
+    border-radius: var(--radius-sm);
+    font-size: 0.85rem;
+    font-family: var(--font-sans);
+    outline: none;
+  }
+
+  :global(.print-modal-input:focus) {
+    border-color: var(--color-primary);
+    box-shadow: 0 0 0 2px rgba(49,130,206,0.15);
+  }
+
+  :global(.print-modal-check) {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 0.85rem;
+    color: var(--color-text);
+    cursor: pointer;
+  }
+
+  :global(.print-modal-check input) {
+    width: 16px;
+    height: 16px;
+    cursor: pointer;
+  }
+
+  :global(.print-modal-actions) {
+    display: flex;
+    justify-content: flex-end;
+    gap: var(--space-sm);
+    margin-top: var(--space-xs);
+  }
+
+  :global(.print-modal-btn) {
+    padding: 6px 16px;
+    border: 1px solid var(--color-border-dark);
+    border-radius: var(--radius-sm);
+    font-size: 0.85rem;
+    cursor: pointer;
+    background: var(--color-bg-white);
+    color: var(--color-text-secondary);
+    font-family: var(--font-sans);
+    transition: all 0.15s;
+  }
+
+  :global(.print-modal-btn:hover) {
+    background: var(--color-bg-secondary);
+  }
+
+  :global(.print-modal-btn-primary) {
+    background: var(--color-primary);
+    color: #fff;
+    border-color: var(--color-primary);
+  }
+
+  :global(.print-modal-btn-primary:hover) {
+    background: var(--color-primary-light);
   }
 
   @media (max-width: 768px) {

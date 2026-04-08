@@ -6,6 +6,7 @@ interface SearchEntry {
   slug: string;
   title: string;
   titleShort: string;
+  number: string;
   type: string;
   date: string;
   vigpiracy: string;
@@ -41,6 +42,7 @@ export const GET: APIRoute = () => {
     slug: law.slug,
     title: law.title,
     titleShort: law.titleShort,
+    number: law.number,
     type: law.type,
     date: law.date,
     vigpiracy: law.vigpiracy.status,

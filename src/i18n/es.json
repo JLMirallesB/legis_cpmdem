@@ -114,14 +114,19 @@
   "notebook.saved": "¡Guardado!",
   "notebook.empty": "No hay fragmentos guardados.",
   "notebook.empty_hint": "Selecciona texto en cualquier artículo para guardar fragmentos.",
-  "notebook.copy_all": "Copiar todo",
+  "notebook.copy_all": "Copiar",
   "notebook.copied": "¡Copiado!",
-  "notebook.print": "Imprimir PDF",
-  "notebook.clear": "Vaciar cuaderno",
+  "notebook.print": "Imprimir",
+  "notebook.clear": "Vaciar",
   "notebook.clear_confirm": "¿Vaciar todos los fragmentos?",
   "notebook.move_up": "Subir",
   "notebook.move_down": "Bajar",
   "notebook.delete": "Eliminar fragmento",
   "notebook.from": "de",
-  "notebook.save_full": "Guardar artículo completo"
+  "notebook.save_full": "Guardar artículo completo",
+  "cite.button": "Citar APA",
+  "cite.parenthetical": "Cita parentética",
+  "cite.reference": "Referencia completa",
+  "cite.copied": "¡Cita copiada!",
+  "cite.copy_citation": "Copiar cita"
 }

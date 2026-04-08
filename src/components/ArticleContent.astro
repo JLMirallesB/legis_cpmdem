@@ -14,6 +14,8 @@ const copyLinkLabel = t('share.copy_link', lang);
 const emailLabel = t('share.email', lang);
 const waLabel = t('share.whatsapp', lang);
 const saveFullLabel = t('notebook.save_full', lang);
+const citeParentheticalLabel = t('cite.parenthetical', lang);
+const citeReferenceLabel = t('cite.reference', lang);
 
 /** Convert a markdown table block into HTML <table> */
 function mdTableToHtml(block: string): string {
@@ -97,6 +99,12 @@ const contentHtml = (node.content ?? node.versions?.[0]?.content ?? '')
         <button class="share-pop-item share-pop-divider" data-action="save-full" data-id={nodeId} type="button">
           &#128221; {saveFullLabel}
         </button>
+        <button class="share-pop-item share-pop-divider share-pop-cite" data-action="cite-parenthetical" data-id={nodeId} type="button">
+          &#128220; {citeParentheticalLabel}
+        </button>
+        <button class="share-pop-item share-pop-cite" data-action="cite-reference" data-id={nodeId} type="button">
+          &#128220; {citeReferenceLabel}
+        </button>
       </div>
     </div>
   </div>
@@ -127,6 +135,7 @@ const contentHtml = (node.content ?? node.versions?.[0]?.content ?? '')
     nodeId,
     copiedMsg: t('share.link_copied', lang),
     savedMsg: t('notebook.saved', lang),
+    citeCopiedMsg: t('cite.copied', lang),
     promoText: lang === 'va'
       ? '\n\n--\n📚 Compartit des de Legis CPM, lector de legislació de Conservatoris Professionals de Música i Dansa de la Comunitat Valenciana.\nhttps://JLMirallesB.github.io/legis_cpm/'
       : '\n\n--\n📚 Compartido desde Legis CPM, lector de legislación de Conservatorios Profesionales de Música y Danza de la Comunitat Valenciana.\nhttps://JLMirallesB.github.io/legis_cpm/',
@@ -189,6 +198,14 @@ const contentHtml = (node.content ?? node.versions?.[0]?.content ?? '')
               setTimeout(() => toast.classList.remove('visible'), 2000);
             }
           }
+          sharePop.hidden = true;
+        } else if (action === 'cite-parenthetical' || action === 'cite-reference') {
+          e.preventDefault();
+          // Dispatch event to get citation data from LawReaderLayout
+          const citeEvt = new CustomEvent('cite:request', {
+            detail: { type: action, articleId: id }
+          });
+          document.dispatchEvent(citeEvt);
           sharePop.hidden = true;
         }
       });
@@ -352,6 +369,16 @@ const contentHtml = (node.content ?? node.versions?.[0]?.content ?? '')
     border-top: 1px solid var(--color-border);
     margin-top: 2px;
     padding-top: 8px;
+  }
+
+  :global(.share-pop-cite) {
+    color: #744210;
+    font-weight: 600;
+  }
+
+  :global(.share-pop-cite:hover) {
+    background: #fefcbf;
+    color: #744210;
   }
 
   .version-selector {

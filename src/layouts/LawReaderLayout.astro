@@ -9,6 +9,7 @@ import LegalAnalysis from '../components/LegalAnalysis.astro';
 import LawTags from '../components/LawTags.astro';
 import NotebookPanel from '../components/NotebookPanel.astro';
 import { t } from '../i18n/utils';
+import { buildCitationData, apaReference, apaParenthetical } from '../lib/apa-citation';
 
 interface Props {
   law: Law;
@@ -17,6 +18,9 @@ interface Props {
 
 const { law, lang } = Astro.props;
 const base = import.meta.env.BASE_URL;
+const citationData = buildCitationData(law);
+const fullReference = apaReference(citationData);
+const parenthetical = apaParenthetical(citationData);
 const dateFormatted = new Date(law.date).toLocaleDateString(lang === 'va' ? 'ca-ES' : 'es-ES', {
   year: 'numeric',
   month: 'long',
@@ -53,6 +57,20 @@ const dateFormatted = new Date(law.date).toLocaleDateString(lang === 'va' ? 'ca-
       {law.formModels && law.formModels.length > 0 && (
         <FormModelButtons models={law.formModels} lang={lang} />
       )}
+      <div class="cite-apa-wrap">
+        <button class="btn btn-cite" id="cite-apa-btn" type="button">
+          &#128220; {t('cite.button', lang)}
+        </button>
+        <div id="cite-apa-popover" class="cite-popover" hidden>
+          <button class="cite-option" id="cite-parenthetical" type="button">
+            {t('cite.parenthetical', lang)}
+          </button>
+          <button class="cite-option" id="cite-reference" type="button">
+            {t('cite.reference', lang)}
+          </button>
+        </div>
+      </div>
+
       <div class="share-buttons" role="group" aria-label={lang === 'va' ? 'Compartir' : 'Compartir'}>
         <button class="btn btn-share" id="share-copy-link" type="button">
           &#128279; {t('share.copy_link', lang)}
@@ -269,12 +287,77 @@ const dateFormatted = new Date(law.date).toLocaleDateString(lang === 'va' ? 'ca-
     gap: var(--space-sm);
     margin-top: var(--space-sm);
   }
+
+  /* APA Citation */
+  .cite-apa-wrap {
+    position: relative;
+    display: inline-block;
+    margin-top: var(--space-sm);
+  }
+
+  .btn-cite {
+    background: #744210;
+    color: #fff;
+    border: 1px solid #744210;
+    font-size: 0.82rem;
+    padding: var(--space-xs) var(--space-sm);
+    border-radius: var(--radius-sm);
+    cursor: pointer;
+    font-weight: 600;
+    transition: background 0.15s;
+  }
+
+  .btn-cite:hover {
+    background: #975a16;
+  }
+
+  .cite-popover {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    margin-top: 4px;
+    background: var(--color-bg-white);
+    border: 1px solid var(--color-border-dark);
+    border-radius: var(--radius-md);
+    box-shadow: var(--shadow-md);
+    z-index: 100;
+    display: none;
+    flex-direction: column;
+    min-width: 200px;
+  }
+
+  .cite-popover:not([hidden]) {
+    display: flex;
+  }
+
+  .cite-option {
+    background: none;
+    border: none;
+    padding: var(--space-sm) var(--space-md);
+    text-align: left;
+    font-size: 0.85rem;
+    cursor: pointer;
+    color: var(--color-text);
+    font-family: var(--font-sans);
+    transition: background 0.1s;
+  }
+
+  .cite-option:hover {
+    background: var(--color-bg-secondary);
+  }
+
+  .cite-option + .cite-option {
+    border-top: 1px solid var(--color-border);
+  }
 </style>
 
 <script define:vars={{
   lawTitle: law.title,
   lawShort: `${law.type.replace(/_/g, ' ')} ${law.number}`,
   copiedMsg: t('share.link_copied', lang),
+  citeCopiedMsg: t('cite.copied', lang),
+  citeParenthetical: parenthetical,
+  citeReference: fullReference,
   embedCopiedMsg: t('share.embed_copied', lang),
   promoText: lang === 'va'
     ? '\n\n--\n📚 Compartit des de Legis CPM, lector de legislació de Conservatoris Professionals de Música i Dansa de la Comunitat Valenciana.\nhttps://JLMirallesB.github.io/legis_cpm/'
@@ -357,6 +440,71 @@ const dateFormatted = new Date(law.date).toLocaleDateString(lang === 'va' ? 'ca-
     document.addEventListener('click', (e) => {
       if (!embedPopover.hidden && !embedPopover.contains(e.target) && e.target !== embedBtn) {
         embedPopover.hidden = true;
+      }
+    });
+  }
+
+  // APA Citation helpers
+  function formatArticleRef(nodeId) {
+    if (nodeId.startsWith('art-')) return 'art. ' + nodeId.slice(4);
+    if (nodeId.startsWith('da-')) return 'disp. adic. ' + nodeId.slice(3) + 'ª';
+    if (nodeId.startsWith('dt-')) return 'disp. trans. ' + nodeId.slice(3) + 'ª';
+    if (nodeId.startsWith('dd-')) return 'disp. derog. ' + nodeId.slice(3);
+    if (nodeId.startsWith('df-')) return 'disp. final ' + nodeId.slice(3) + 'ª';
+    if (nodeId.startsWith('anexo-')) return 'anexo ' + nodeId.slice(6).toUpperCase();
+    if (nodeId === 'preambulo') return 'preámbulo';
+    return nodeId;
+  }
+
+  function apaParenthetical(articleId) {
+    const base = citeParenthetical.slice(0, -1); // remove trailing ")"
+    if (articleId) return base + ', ' + formatArticleRef(articleId) + ')';
+    return citeParenthetical;
+  }
+
+  function apaReferenceForArticle(articleId) {
+    if (articleId) return citeReference; // full reference is the same, article ref goes in parenthetical
+    return citeReference;
+  }
+
+  // Listen for cite:request from ArticleContent popovers
+  document.addEventListener('cite:request', (e) => {
+    const { type, articleId } = e.detail;
+    let text;
+    if (type === 'cite-parenthetical') {
+      text = apaParenthetical(articleId);
+    } else {
+      text = citeReference;
+    }
+    copyText(text, citeCopiedMsg);
+  });
+
+  // Listen for cite:selection from NotebookPanel tooltip
+  document.addEventListener('cite:selection', (e) => {
+    const { selectedText, articleId } = e.detail;
+    const paren = apaParenthetical(articleId);
+    const text = `"${selectedText}" ${paren}\n\n${citeReference}`;
+    copyText(text, citeCopiedMsg);
+  });
+
+  // APA Citation popover (law-level)
+  const citeBtn = document.getElementById('cite-apa-btn');
+  const citePop = document.getElementById('cite-apa-popover');
+  if (citeBtn && citePop) {
+    citeBtn.addEventListener('click', () => {
+      citePop.hidden = !citePop.hidden;
+    });
+    document.getElementById('cite-parenthetical')?.addEventListener('click', () => {
+      copyText(citeParenthetical, citeCopiedMsg);
+      citePop.hidden = true;
+    });
+    document.getElementById('cite-reference')?.addEventListener('click', () => {
+      copyText(citeReference, citeCopiedMsg);
+      citePop.hidden = true;
+    });
+    document.addEventListener('click', (e) => {
+      if (!citePop.hidden && !citePop.contains(e.target) && e.target !== citeBtn) {
+        citePop.hidden = true;
       }
     });
   }

@@ -1,5 +1,63 @@
 [
   {
+    "version": "0.8.1",
+    "date": "2026-04-08",
+    "entries": {
+      "es": [
+        {
+          "type": "nuevo",
+          "description": "Sistema de citas APA 7: botón \"Citar APA\" en cada ley (cita parentética o referencia completa), opciones de cita en el menú de artículo, y al seleccionar texto se puede copiar la cita con el fragmento entrecomillado más la referencia bibliográfica."
+        },
+        {
+          "type": "mejora",
+          "description": "Cuaderno de fragmentos: títulos con color diferenciado, separadores entre fragmentos, nombre corto en mayúsculas, botones simplificados, y soporte de tablas HTML en el PDF exportado."
+        },
+        {
+          "type": "mejora",
+          "description": "PDF del cuaderno: tipografía más compacta, colores en blanco y negro para impresión económica, previsualización antes de imprimir, opciones para incluir nombre, pie de página y enlaces."
+        },
+        {
+          "type": "mejora",
+          "description": "Nombres cortos de leyes ahora incluyen tipo y número (D 158/2007, O 32/2011, etc.) para identificación inmediata en catálogo y búsqueda."
+        },
+        {
+          "type": "mejora",
+          "description": "Buscador: resultados con coincidencia en título o numeración aparecen primero. Búsqueda por número de disposición (ej. 159/2007)."
+        },
+        {
+          "type": "mejora",
+          "description": "Indicación de versión seleccionada en fragmentos guardados del cuaderno (tanto en el panel como en el PDF)."
+        }
+      ],
+      "va": [
+        {
+          "type": "nou",
+          "description": "Sistema de cites APA 7: botó \"Citar APA\" en cada llei (cita parentètica o referència completa), opcions de cita al menú d'article, i al seleccionar text es pot copiar la cita amb el fragment entre cometes més la referència bibliogràfica."
+        },
+        {
+          "type": "millora",
+          "description": "Quadern de fragments: títols amb color diferenciat, separadors entre fragments, nom curt en majúscules, botons simplificats, i suport de taules HTML al PDF exportat."
+        },
+        {
+          "type": "millora",
+          "description": "PDF del quadern: tipografia més compacta, colors en blanc i negre per a impressió econòmica, previsualització abans d'imprimir, opcions per a incloure nom, peu de pàgina i enllaços."
+        },
+        {
+          "type": "millora",
+          "description": "Noms curts de lleis ara inclouen tipus i número (D 158/2007, O 32/2011, etc.) per a identificació immediata en catàleg i cerca."
+        },
+        {
+          "type": "millora",
+          "description": "Cercador: resultats amb coincidència en títol o numeració apareixen primer. Cerca per número de disposició (ex. 159/2007)."
+        },
+        {
+          "type": "millora",
+          "description": "Indicació de versió seleccionada en fragments guardats del quadern (tant al panell com al PDF)."
+        }
+      ]
+    }
+  },
+  {
     "version": "0.8.0",
     "date": "2026-04-08",
     "entries": {

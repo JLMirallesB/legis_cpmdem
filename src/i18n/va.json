@@ -114,14 +114,19 @@
   "notebook.saved": "Guardat!",
   "notebook.empty": "No hi ha fragments guardats.",
   "notebook.empty_hint": "Selecciona text en qualsevol article per guardar fragments.",
-  "notebook.copy_all": "Copiar tot",
+  "notebook.copy_all": "Copiar",
   "notebook.copied": "Copiat!",
-  "notebook.print": "Imprimir PDF",
-  "notebook.clear": "Buidar quadern",
+  "notebook.print": "Imprimir",
+  "notebook.clear": "Buidar",
   "notebook.clear_confirm": "Buidar tots els fragments?",
   "notebook.move_up": "Pujar",
   "notebook.move_down": "Baixar",
   "notebook.delete": "Eliminar fragment",
   "notebook.from": "de",
-  "notebook.save_full": "Guardar article complet"
+  "notebook.save_full": "Guardar article complet",
+  "cite.button": "Citar APA",
+  "cite.parenthetical": "Cita parentètica",
+  "cite.reference": "Referència completa",
+  "cite.copied": "Cita copiada!",
+  "cite.copy_citation": "Copiar cita"
 }

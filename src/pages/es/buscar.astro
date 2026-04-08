@@ -308,7 +308,9 @@ const tagLabels: Record<string, string> = {
     for (const law of index) {
       const titleNorm = normalize(law.title);
       const titleShortNorm = normalize(law.titleShort);
-      const titleMatch = terms.every(t => titleNorm.includes(t) || titleShortNorm.includes(t));
+      const numberNorm = normalize(law.number || '');
+      const numberMatch = terms.every(t => numberNorm.includes(t));
+      const titleMatch = numberMatch || terms.every(t => titleNorm.includes(t) || titleShortNorm.includes(t));
 
       const matchingFragments = [];
       for (const frag of law.fragments) {
@@ -323,10 +325,20 @@ const tagLabels: Record<string, string> = {
         results.push({
           ...law,
           titleMatch,
+          numberMatch,
           fragments: matchingFragments,
         });
       }
     }
+
+    // Sort: exact number match first, then title matches, then by fragment count
+    results.sort((a, b) => {
+      if (a.numberMatch && !b.numberMatch) return -1;
+      if (!a.numberMatch && b.numberMatch) return 1;
+      if (a.titleMatch && !b.titleMatch) return -1;
+      if (!a.titleMatch && b.titleMatch) return 1;
+      return b.fragments.length - a.fragments.length;
+    });
 
     return results;
   }
