@@ -1,5 +1,23 @@
 [
   {
+    "version": "0.8.2",
+    "date": "2026-04-08",
+    "entries": {
+      "es": [
+        {
+          "type": "mejora",
+          "description": "PDF del cuaderno: cada fragmento incluye la cita APA parentética al final, y se añade un apartado de \"Referencias legales\" con todas las referencias bibliográficas completas."
+        }
+      ],
+      "va": [
+        {
+          "type": "millora",
+          "description": "PDF del quadern: cada fragment inclou la cita APA parentètica al final, i s'afig un apartat de \"Referències legals\" amb totes les referències bibliogràfiques completes."
+        }
+      ]
+    }
+  },
+  {
     "version": "0.8.1",
     "date": "2026-04-08",
     "entries": {

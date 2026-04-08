@@ -8,9 +8,11 @@ interface Props {
   lawTitle: string;
   lawShort: string;
   lawSlug: string;
+  apaRef: string;
+  apaParen: string;
 }
 
-const { lang, lawTitle, lawShort, lawSlug } = Astro.props;
+const { lang, lawTitle, lawShort, lawSlug, apaRef, apaParen } = Astro.props;
 ---
 
 <!-- Floating trigger button -->
@@ -85,6 +87,8 @@ const { lang, lawTitle, lawShort, lawSlug } = Astro.props;
     : t('footer.disclaimer', lang),
   siteUrl: 'https://JLMirallesB.github.io/legis_cpm/',
   appVersion: VERSION,
+  apaRef,
+  apaParen,
 }}>
   const STORAGE_KEY = 'legis_notebook';
 
@@ -100,6 +104,26 @@ const { lang, lawTitle, lawShort, lawSlug } = Astro.props;
 
   function generateId() {
     return Date.now().toString(36) + Math.random().toString(36).slice(2, 7);
+  }
+
+  function formatArticleRef(nodeId) {
+    if (!nodeId) return '';
+    if (nodeId.startsWith('art-')) return `art. ${nodeId.slice(4)}`;
+    if (nodeId.startsWith('da-')) return `disp. adic. ${nodeId.slice(3)}ª`;
+    if (nodeId.startsWith('dt-')) return `disp. trans. ${nodeId.slice(3)}ª`;
+    if (nodeId.startsWith('dd-')) return `disp. derog. ${nodeId.slice(3)}`;
+    if (nodeId.startsWith('df-')) return `disp. final ${nodeId.slice(3)}ª`;
+    if (nodeId.startsWith('anexo-')) return `anexo ${nodeId.slice(6).toUpperCase()}`;
+    if (nodeId === 'preambulo') return 'preámbulo';
+    return nodeId;
+  }
+
+  function buildParenthetical(articleId) {
+    // apaParen is like "(Decreto 158/2007, 2007)" — inject article ref before closing paren
+    if (!articleId) return apaParen;
+    const ref = formatArticleRef(articleId);
+    if (!ref) return apaParen;
+    return apaParen.slice(0, -1) + `, ${ref})`;
   }
 
   function showToast(msg) {
@@ -249,6 +273,8 @@ const { lang, lawTitle, lawShort, lawSlug } = Astro.props;
       lawTitle,
       url,
       versionLabel,
+      apaParenthetical: buildParenthetical(articleId),
+      apaReference: apaRef,
       savedAt: new Date().toISOString(),
     };
 
@@ -382,6 +408,8 @@ const { lang, lawTitle, lawShort, lawSlug } = Astro.props;
       lawTitle,
       url,
       versionLabel,
+      apaParenthetical: buildParenthetical(articleId),
+      apaReference: apaRef,
       savedAt: new Date().toISOString(),
     };
     const fragments = loadFragments();
@@ -454,14 +482,35 @@ const { lang, lawTitle, lawShort, lawSlug } = Astro.props;
       const contentHtml = f.html
         ? `<div class="fragment-content">${f.html}</div>`
         : `<blockquote class="fragment-text">${f.text.replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/\n/g, '<br>')}</blockquote>`;
+      const parenHtml = f.apaParenthetical ? `<p class="fragment-cite">${f.apaParenthetical}</p>` : '';
       bodyHtml += `
         <div class="fragment">
           <h3 class="fragment-ref">${f.articleTitle}${versionHtml}</h3>
           ${contentHtml}
+          ${parenHtml}
           ${showLinks ? `<p class="fragment-url">${f.url}</p>` : ''}
         </div>`;
     });
     if (prevLawSlug !== null) bodyHtml += '</div>';
+
+    // Build unique references section
+    const refsMap = new Map();
+    fragments.forEach(f => {
+      if (f.apaReference && !refsMap.has(f.lawSlug)) {
+        refsMap.set(f.lawSlug, f.apaReference);
+      }
+    });
+    let refsHtml = '';
+    if (refsMap.size > 0) {
+      const refsTitle = lang === 'va' ? 'Referències legals' : 'Referencias legales';
+      const refEntries = Array.from(refsMap.values())
+        .map(r => `<p class="ref-entry">${r.replace(/</g, '&lt;').replace(/>/g, '&gt;')}</p>`)
+        .join('');
+      refsHtml = `<section class="references-section">
+        <h2 class="references-title">${refsTitle}</h2>
+        ${refEntries}
+      </section>`;
+    }
 
     const printBtnLabel = lang === 'va' ? 'Imprimir' : 'Imprimir';
     const currentYear = new Date().getFullYear();
@@ -524,7 +573,13 @@ const { lang, lawTitle, lawShort, lawSlug } = Astro.props;
     .fragment-content table { border-collapse: collapse; width: 100%; margin: 4pt 0; font-size: 7.5pt; }
     .fragment-content th, .fragment-content td { border: 0.5pt solid #000; padding: 2pt 4pt; text-align: left; }
     .fragment-content th { font-weight: bold; background: #f0f0f0; }
+    .fragment-cite { font-family: Arial, sans-serif; font-size: 7.5pt; color: #000; margin-top: 2pt; text-align: right; font-style: italic; }
     .fragment-url { font-family: monospace; font-size: 6pt; color: #000; margin-top: 2pt; }
+
+    /* References */
+    .references-section { margin-top: 16pt; padding-top: 8pt; border-top: 1.5pt solid #000; }
+    .references-title { font-family: Arial, sans-serif; font-size: 10pt; font-weight: bold; color: #000; margin-bottom: 6pt; }
+    .ref-entry { font-size: 8pt; margin-bottom: 4pt; padding-left: 18pt; text-indent: -18pt; color: #000; }
 
     /* Footer */
     .print-footer { margin-top: 16pt; padding-top: 6pt; border-top: 1pt solid #000; font-family: Arial, sans-serif; font-size: 7pt; color: #000; }
@@ -563,6 +618,8 @@ const { lang, lawTitle, lawShort, lawSlug } = Astro.props;
   ${userNameHtml}
 
   <main>${bodyHtml}</main>
+
+  ${refsHtml}
 
   ${footerHtml}
 </body>
