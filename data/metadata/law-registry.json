@@ -217,6 +217,13 @@
       "status": "ingested",
       "category": "organizacion",
       "notes": "Primer documento (no normativa). 4 secciones + 3 anexos. Secciones 4.4, Anexo I y Anexo III como PDFs descargables (formModels). Anexo II (indicadores) ingestado como texto. Bilingüe CEICE."
+    },
+    {
+      "slug": "decreto-193-2025",
+      "title": "Decreto 193/2025 - Convivencia en el sistema educativo de la Comunitat Valenciana",
+      "status": "ingested",
+      "category": "organizacion",
+      "notes": "PDFs separados ES/VA. 3 títulos, 36 artículos, 3 DA, 2 DT, 1 DD, 7 DF. Deroga D.195/2022 (no ingresado). Vigente desde 07/01/2026."
     }
   ]
 }

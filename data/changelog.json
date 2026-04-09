@@ -1,5 +1,23 @@
 [
   {
+    "version": "0.11.0",
+    "date": "2026-04-09",
+    "entries": {
+      "es": [
+        {
+          "type": "nuevo",
+          "description": "Ingesta del Decreto 193/2025, de 12 de diciembre, del Consell, de la convivencia en el sistema educativo de la Comunitat Valenciana. 3 títulos, 36 artículos, 13 disposiciones."
+        }
+      ],
+      "va": [
+        {
+          "type": "nou",
+          "description": "Ingesta del Decret 193/2025, de 12 de desembre, del Consell, de la convivència en el sistema educatiu de la Comunitat Valenciana. 3 títols, 36 articles, 13 disposicions."
+        }
+      ]
+    }
+  },
+  {
     "version": "0.10.1",
     "date": "2026-04-09",
     "entries": {
