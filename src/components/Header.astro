@@ -24,6 +24,7 @@ const alternateUrl = getAlternateUrl(currentUrl, otherLang);
     <nav class="nav" aria-label={lang === 'va' ? 'Navegació principal' : 'Navegación principal'}>
       <a href={`${base}${lang}/`} class="nav-link">{t('nav.catalog', lang)}</a>
       <a href={`${base}${lang}/buscar/`} class="nav-link">{t('nav.search', lang)}</a>
+      <a href={`${base}${lang}/${lang === 'va' ? 'quaderns' : 'cuadernos'}/`} class="nav-link">{t('nav.cuadernos', lang)}</a>
     </nav>
 
     <a href={alternateUrl} class="lang-switch btn" role="link" aria-label={lang === 'va' ? `Canviar a ${t('lang.switch', lang)}` : `Cambiar a ${t('lang.switch', lang)}`} data-target-lang={otherLang}>

@@ -41,9 +41,9 @@ export function getAlternateUrl(url: URL, targetLang: Lang): string {
   let path = url.pathname.replace(base, '');
 
   if (targetLang === 'va') {
-    path = path.replace(/^\/es/, '/va').replace('/ley/', '/llei/');
+    path = path.replace(/^\/es/, '/va').replace('/ley/', '/llei/').replace('/cuadernos/', '/quaderns/');
   } else {
-    path = path.replace(/^\/va/, '/es').replace('/llei/', '/ley/');
+    path = path.replace(/^\/va/, '/es').replace('/llei/', '/ley/').replace('/quaderns/', '/cuadernos/');
   }
 
   return `${base}${path}`;

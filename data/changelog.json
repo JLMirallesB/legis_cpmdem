@@ -1,5 +1,39 @@
 [
   {
+    "version": "0.10.0",
+    "date": "2026-04-09",
+    "entries": {
+      "es": [
+        {
+          "type": "nuevo",
+          "description": "Nueva sección \"Cuadernos temáticos\": repositorio de selecciones de artículos agrupados por tema, listos para consultar, imprimir o cargar en el cuaderno personal."
+        },
+        {
+          "type": "nuevo",
+          "description": "Primer cuaderno: \"Plan de Mejora\" con los artículos que fundamentan legalmente el Plan de Mejora de los conservatorios (LOE y D.57/2020)."
+        },
+        {
+          "type": "correccion",
+          "description": "Decreto 57/2020: corregido contenido duplicado en el artículo 56 (disposiciones adicionales y finales se habían colado en el texto del artículo)."
+        }
+      ],
+      "va": [
+        {
+          "type": "nou",
+          "description": "Nova secció \"Quaderns temàtics\": repositori de seleccions d'articles agrupats per tema, preparats per a consultar, imprimir o carregar al quadern personal."
+        },
+        {
+          "type": "nou",
+          "description": "Primer quadern: \"Pla de Millora\" amb els articles que fonamenten legalment el Pla de Millora dels conservatoris (LOE i D.57/2020)."
+        },
+        {
+          "type": "correccio",
+          "description": "Decret 57/2020: corregit contingut duplicat en l'article 56 (disposicions addicionals i finals s'havien colat en el text de l'article)."
+        }
+      ]
+    }
+  },
+  {
     "version": "0.9.2",
     "date": "2026-04-09",
     "entries": {

@@ -1,6 +1,7 @@
 ---
 import type { Lang, StructureNode } from '../lib/types';
 import { t } from '../i18n/utils';
+import { renderContent } from '../lib/content-renderer';
 
 interface Props {
   node: StructureNode;
@@ -17,62 +18,7 @@ const saveFullLabel = t('notebook.save_full', lang);
 const citeParentheticalLabel = t('cite.parenthetical', lang);
 const citeReferenceLabel = t('cite.reference', lang);
 
-/** Convert a markdown table block into HTML <table> */
-function mdTableToHtml(block: string): string {
-  const lines = block.split('\n').filter(l => l.trim().startsWith('|'));
-  if (lines.length < 2) return `<p>${block}</p>`;
-
-  const parseRow = (line: string) =>
-    line.split('|').slice(1, -1).map(c => c.trim());
-
-  const headerCells = parseRow(lines[0]);
-  // lines[1] is the separator (|---|---|...)
-  const bodyRows = lines.slice(2);
-
-  let html = '<div class="table-wrapper"><table>';
-  html += '<thead><tr>' + headerCells.map(c => `<th>${c}</th>`).join('') + '</tr></thead>';
-  html += '<tbody>';
-  for (const row of bodyRows) {
-    const cells = parseRow(row);
-    html += '<tr>' + cells.map(c => {
-      const bold = c.startsWith('**') && c.endsWith('**') && c.length > 4;
-      const text = bold ? c.slice(2, -2) : c;
-      return bold ? `<td><strong>${text}</strong></td>` : `<td>${text}</td>`;
-    }).join('') + '</tr>';
-  }
-  html += '</tbody></table></div>';
-  return html;
-}
-
-/** Render inline markdown: **bold**, and auto-link URLs */
-function renderInline(text: string): string {
-  return text
-    .replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')
-    .replace(/(https?:\/\/[^\s<)]+[^\s<).,;:])/g, '<a href="$1" target="_blank" rel="noopener noreferrer">$1</a>');
-}
-
-/** Render a content block: table, section heading, image, or paragraph */
-function renderBlock(block: string): string {
-  if (block.trimStart().startsWith('|') && block.includes('|---')) {
-    return mdTableToHtml(block);
-  }
-  // Markdown image: ![alt](url)
-  const imgMatch = block.match(/^!\[([^\]]*)\]\(([^)]+)\)$/);
-  if (imgMatch) {
-    return `<figure class="content-image"><img src="${imgMatch[2]}" alt="${imgMatch[1]}" loading="lazy"><figcaption>${imgMatch[1]}</figcaption></figure>`;
-  }
-  // A block that is entirely bold = section sub-heading
-  if (block.startsWith('**') && block.endsWith('**') && !block.slice(2, -2).includes('**')) {
-    return `<p class="content-heading">${block.slice(2, -2)}</p>`;
-  }
-  // Preserve single line breaks as <br> within a paragraph
-  return `<p>${renderInline(block.replace(/\n/g, '<br>'))}</p>`;
-}
-
-const contentHtml = (node.content ?? node.versions?.[0]?.content ?? '')
-  .split('\n\n')
-  .map(renderBlock)
-  .join('');
+const contentHtml = renderContent(node.content ?? node.versions?.[0]?.content ?? '');
 ---
 
 <article class="article-block" id={nodeId}>

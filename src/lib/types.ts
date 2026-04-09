@@ -163,3 +163,46 @@ export interface Category {
   description?: Record<Lang, string>;
   icon?: string;
 }
+
+// ── Cuadernos pregrabados ───────────────────────────────
+
+export interface NotebookFragmentRef {
+  lawSlug: string;
+  articleId: string;
+  excerpt?: string | Record<Lang, string>;
+}
+
+export interface NotebookDefinition {
+  id: string;
+  slug: string;
+  title: Record<Lang, string>;
+  description: Record<Lang, string>;
+  updatedAt: string;
+  fragments: NotebookFragmentRef[];
+}
+
+export interface ResolvedFragment {
+  id: string;
+  text: string;
+  html: string;
+  articleId: string;
+  articleTitle: string;
+  lawSlug: string;
+  lawShort: string;
+  lawTitle: string;
+  url: string;
+  versionLabel: string | null;
+  apaParenthetical: string;
+  apaReference: string;
+  savedAt: string;
+}
+
+export interface ResolvedNotebook {
+  id: string;
+  slug: string;
+  title: string;
+  description: string;
+  updatedAt: string;
+  fragments: ResolvedFragment[];
+  lawCount: number;
+}

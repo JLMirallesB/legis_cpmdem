@@ -1,0 +1,78 @@
+---
+import type { Lang, NotebookDefinition } from '../lib/types';
+import { t } from '../i18n/utils';
+
+interface Props {
+  notebook: NotebookDefinition;
+  lang: Lang;
+}
+
+const { notebook, lang } = Astro.props;
+const base = import.meta.env.BASE_URL;
+const nbPath = lang === 'va' ? 'quaderns' : 'cuadernos';
+const href = `${base}${lang}/${nbPath}/${notebook.slug}/`;
+const fragCount = notebook.fragments.length;
+const lawCount = new Set(notebook.fragments.map(f => f.lawSlug)).size;
+const dateFormatted = new Date(notebook.updatedAt).toLocaleDateString(
+  lang === 'va' ? 'ca-ES' : 'es-ES',
+  { year: 'numeric', month: 'short', day: 'numeric' }
+);
+---
+
+<a href={href} class="notebook-card">
+  <h3 class="notebook-title">{notebook.title[lang]}</h3>
+  <p class="notebook-desc">{notebook.description[lang]}</p>
+  <p class="notebook-meta">
+    {t('cuadernos.fragments', lang, { count: String(fragCount) })}
+    &middot;
+    {t('cuadernos.laws', lang, { count: String(lawCount) })}
+  </p>
+  <p class="notebook-date">{dateFormatted}</p>
+</a>
+
+<style>
+  .notebook-card {
+    display: block;
+    padding: var(--space-md);
+    background: var(--color-bg-white);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-md);
+    text-decoration: none;
+    color: var(--color-text);
+    transition: all 0.2s;
+  }
+
+  .notebook-card:hover {
+    border-color: var(--color-primary);
+    box-shadow: var(--shadow-md);
+    text-decoration: none;
+    transform: translateY(-1px);
+  }
+
+  .notebook-title {
+    font-size: 1rem;
+    font-weight: 600;
+    color: var(--color-primary);
+    margin-bottom: var(--space-xs);
+    line-height: 1.4;
+  }
+
+  .notebook-desc {
+    font-size: 0.85rem;
+    color: var(--color-text-secondary);
+    margin-bottom: var(--space-sm);
+    line-height: 1.5;
+  }
+
+  .notebook-meta {
+    font-size: 0.8rem;
+    color: var(--color-text-muted);
+    font-weight: 500;
+  }
+
+  .notebook-date {
+    font-size: 0.75rem;
+    color: var(--color-text-muted);
+    margin-top: var(--space-xs);
+  }
+</style>

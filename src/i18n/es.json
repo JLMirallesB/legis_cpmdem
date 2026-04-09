@@ -132,5 +132,17 @@
   "changelog.subscribe": "Suscribirse (RSS)",
   "changelog.announce": "Copiar anuncio",
   "changelog.copied": "Copiado!",
-  "changelog.announce_template": "Nueva versión {version} de Legis CPMDEM ({date}): {summary}.\nhttps://JLMirallesB.github.io/legis_cpmdem/es/changelog/"
+  "changelog.announce_template": "Nueva versión {version} de Legis CPMDEM ({date}): {summary}.\nhttps://JLMirallesB.github.io/legis_cpmdem/es/changelog/",
+  "nav.cuadernos": "Cuadernos",
+  "cuadernos.title": "Cuadernos temáticos",
+  "cuadernos.subtitle": "Selecciones de artículos agrupados por tema, listos para consultar o imprimir.",
+  "cuadernos.empty": "No hay cuadernos disponibles todavía.",
+  "cuadernos.fragments": "{count} fragmentos",
+  "cuadernos.laws": "{count} leyes",
+  "cuadernos.updated": "Actualizado: {date}",
+  "cuadernos.print": "Imprimir cuaderno",
+  "cuadernos.load": "Cargar en mi cuaderno",
+  "cuadernos.load_confirm": "Esto reemplazará todos los fragmentos de tu cuaderno personal. ¿Continuar?",
+  "cuadernos.load_success": "Cuaderno cargado correctamente",
+  "cuadernos.back": "Volver a cuadernos"
 }

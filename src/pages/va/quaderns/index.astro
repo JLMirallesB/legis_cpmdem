@@ -1,0 +1,62 @@
+---
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import NotebookCard from '../../../components/NotebookCard.astro';
+import { getAllNotebooks } from '../../../lib/notebooks';
+import { t } from '../../../i18n/utils';
+
+const lang = 'va' as const;
+const notebooks = getAllNotebooks();
+---
+
+<BaseLayout lang={lang} title={t('cuadernos.title', lang)}>
+  <div class="container hero">
+    <h1>{t('cuadernos.title', lang)}</h1>
+    <p class="subtitle">{t('cuadernos.subtitle', lang)}</p>
+  </div>
+
+  <div class="container content-container">
+    {notebooks.length === 0 ? (
+      <p class="empty">{t('cuadernos.empty', lang)}</p>
+    ) : (
+      <div class="notebook-grid">
+        {notebooks.map(nb => (
+          <NotebookCard notebook={nb} lang={lang} />
+        ))}
+      </div>
+    )}
+  </div>
+</BaseLayout>
+
+<style>
+  .hero {
+    text-align: center;
+    padding: var(--space-2xl) 0 var(--space-lg);
+  }
+
+  h1 {
+    font-size: 2rem;
+    color: var(--color-primary);
+    margin-bottom: var(--space-sm);
+  }
+
+  .subtitle {
+    color: var(--color-text-secondary);
+    font-size: 1.1rem;
+  }
+
+  .content-container {
+    padding-bottom: var(--space-2xl);
+  }
+
+  .notebook-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: var(--space-lg);
+  }
+
+  .empty {
+    text-align: center;
+    color: var(--color-text-muted);
+    padding: var(--space-2xl) 0;
+  }
+</style>

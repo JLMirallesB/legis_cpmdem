@@ -1,0 +1,449 @@
+---
+import type { GetStaticPaths } from 'astro';
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import { getAllNotebooks, getNotebookBySlug, resolveNotebook } from '../../../lib/notebooks';
+import { VERSION } from '../../../lib/version';
+import { t } from '../../../i18n/utils';
+
+const lang = 'va' as const;
+
+export const getStaticPaths: GetStaticPaths = () => {
+  return getAllNotebooks().map(nb => ({ params: { slug: nb.slug } }));
+};
+
+const { slug } = Astro.params;
+const def = getNotebookBySlug(slug!);
+if (!def) return Astro.redirect(`${import.meta.env.BASE_URL}va/quaderns/`);
+
+const notebook = resolveNotebook(def, lang);
+
+const dateFormatted = new Date(notebook.updatedAt).toLocaleDateString('ca-ES', {
+  year: 'numeric', month: 'long', day: 'numeric',
+});
+
+// Group fragments by law for display
+const lawGroups: { lawSlug: string; lawShort: string; lawTitle: string; fragments: typeof notebook.fragments }[] = [];
+let prevLawSlug = '';
+for (const f of notebook.fragments) {
+  if (f.lawSlug !== prevLawSlug) {
+    lawGroups.push({ lawSlug: f.lawSlug, lawShort: f.lawShort, lawTitle: f.lawTitle, fragments: [] });
+    prevLawSlug = f.lawSlug;
+  }
+  lawGroups[lawGroups.length - 1].fragments.push(f);
+}
+
+// Unique APA references
+const refsMap = new Map<string, string>();
+notebook.fragments.forEach(f => {
+  if (!refsMap.has(f.lawSlug)) refsMap.set(f.lawSlug, f.apaReference);
+});
+---
+
+<BaseLayout lang={lang} title={notebook.title}>
+  <div class="container detail-page">
+    <a href={`${import.meta.env.BASE_URL}va/quaderns/`} class="back-link">&larr; {t('cuadernos.back', lang)}</a>
+
+    <header class="nb-header">
+      <h1>{notebook.title}</h1>
+      <p class="nb-desc">{notebook.description}</p>
+      <p class="nb-meta">
+        {t('cuadernos.fragments', lang, { count: String(notebook.fragments.length) })}
+        &middot;
+        {t('cuadernos.laws', lang, { count: String(notebook.lawCount) })}
+        &middot;
+        {dateFormatted}
+      </p>
+
+      <div class="nb-actions">
+        <button id="nb-print" class="btn btn-primary" type="button">&#128438; {t('cuadernos.print', lang)}</button>
+        <button id="nb-load" class="btn" type="button">&#128221; {t('cuadernos.load', lang)}</button>
+      </div>
+    </header>
+
+    <main class="nb-content">
+      {lawGroups.map(group => (
+        <section class="law-group">
+          <h2 class="law-heading">{group.lawShort.toUpperCase()}</h2>
+          <p class="law-full-title">{group.lawTitle}</p>
+          {group.fragments.map(f => {
+            const isExcerpt = f.text.startsWith('[...]');
+            return (
+              <article class="fragment-block">
+                <h3 class="fragment-title">
+                  <a href={f.url}>{f.articleTitle}</a>
+                </h3>
+                {isExcerpt && <p class="fragment-ellipsis">[...]</p>}
+                <div class="fragment-body" set:html={f.html} />
+                {isExcerpt && <p class="fragment-ellipsis">[...]</p>}
+                <p class="fragment-cite">{f.apaParenthetical}</p>
+              </article>
+            );
+          })}
+        </section>
+      ))}
+
+      {refsMap.size > 0 && (
+        <section class="references-section">
+          <h2 class="references-title">Referències legals</h2>
+          {Array.from(refsMap.values()).map(ref => (
+            <p class="ref-entry">{ref}</p>
+          ))}
+        </section>
+      )}
+    </main>
+  </div>
+
+  <div id="sidebar-toast" class="sidebar-toast"></div>
+</BaseLayout>
+
+<script define:vars={{
+  fragments: notebook.fragments,
+  lang,
+  printTitle: notebook.title,
+  loadConfirmMsg: t('cuadernos.load_confirm', lang),
+  loadSuccessMsg: t('cuadernos.load_success', lang),
+  siteUrl: 'https://JLMirallesB.github.io/legis_cpmdem/',
+  appVersion: VERSION,
+  printDisclaimer: t('footer.personal_project', lang),
+  printDisclaimerLong: t('footer.disclaimer', lang),
+}}>
+  const STORAGE_KEY = 'legis_notebook';
+
+  function showToast(msg) {
+    const toast = document.getElementById('sidebar-toast');
+    if (!toast) return;
+    toast.textContent = msg;
+    toast.classList.add('visible');
+    setTimeout(() => toast.classList.remove('visible'), 2000);
+  }
+
+  // ── Load to personal notebook ─────────────────────────────
+  document.getElementById('nb-load')?.addEventListener('click', () => {
+    if (!confirm(loadConfirmMsg)) return;
+    localStorage.setItem(STORAGE_KEY, JSON.stringify(fragments));
+    showToast(loadSuccessMsg);
+  });
+
+  // ── Print ─────────────────────────────────────────────────
+  document.getElementById('nb-print')?.addEventListener('click', () => {
+    const locale = lang === 'va' ? 'ca-ES' : 'es-ES';
+    const now = new Date().toLocaleDateString(locale, { year: 'numeric', month: 'long', day: 'numeric' });
+    const printBtnLabel = 'Imprimir';
+    const currentYear = new Date().getFullYear();
+    const contactLabel = lang === 'va' ? 'Contacte' : 'Contacto';
+    const reportLabel = lang === 'va' ? 'Notificar un error (GitHub)' : 'Notificar un error (GitHub)';
+    const orxataLabel = lang === 'va' ? "Invita'm a una orxata" : 'Invítame a una orxata';
+
+    // Group fragments by law
+    let bodyHtml = '';
+    let prevLawSlug = null;
+    fragments.forEach((f) => {
+      const isNewLaw = f.lawSlug !== prevLawSlug;
+      if (isNewLaw) {
+        if (prevLawSlug !== null) bodyHtml += '</div>';
+        bodyHtml += `<div class="law-group">
+          <h2 class="law-heading">${f.lawShort.toUpperCase()}</h2>
+          <p class="law-full-title">${f.lawTitle}</p>`;
+        prevLawSlug = f.lawSlug;
+      }
+      const isExcerpt = f.text.startsWith('[...]');
+      const beforeEllipsis = isExcerpt ? '<p class="fragment-ellipsis">[…]</p>' : '';
+      const afterEllipsis = isExcerpt ? '<p class="fragment-ellipsis">[…]</p>' : '';
+      const contentHtml = f.html
+        ? `${beforeEllipsis}<div class="fragment-content">${f.html}</div>${afterEllipsis}`
+        : `<blockquote class="fragment-text">${f.text.replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/\n/g, '<br>')}</blockquote>`;
+      const parenHtml = f.apaParenthetical ? `<p class="fragment-cite">${f.apaParenthetical}</p>` : '';
+      bodyHtml += `
+        <div class="fragment">
+          <h3 class="fragment-ref">${f.articleTitle}</h3>
+          ${contentHtml}
+          ${parenHtml}
+          <p class="fragment-url">${f.url}</p>
+        </div>`;
+    });
+    if (prevLawSlug !== null) bodyHtml += '</div>';
+
+    // References
+    const refsMap = new Map();
+    fragments.forEach(f => {
+      if (f.apaReference && !refsMap.has(f.lawSlug)) refsMap.set(f.lawSlug, f.apaReference);
+    });
+    let refsHtml = '';
+    if (refsMap.size > 0) {
+      const refsTitle = lang === 'va' ? 'Referències legals' : 'Referencias legales';
+      const refEntries = Array.from(refsMap.values())
+        .map(r => `<p class="ref-entry">${r.replace(/</g, '&lt;').replace(/>/g, '&gt;')}</p>`)
+        .join('');
+      refsHtml = `<section class="references-section"><h2 class="references-title">${refsTitle}</h2>${refEntries}</section>`;
+    }
+
+    const html = `<!DOCTYPE html>
+<html lang="${lang}">
+<head>
+  <meta charset="utf-8">
+  <title>${printTitle} – Legis CPMDEM</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { font-family: Georgia, 'Times New Roman', serif; font-size: 9pt; color: #000; padding: 1cm 1.5cm; line-height: 1.45; }
+    .print-toolbar { position: fixed; top: 0; left: 0; right: 0; background: #333; color: #fff; padding: 8px 16px; display: flex; align-items: center; justify-content: space-between; z-index: 100; font-family: Arial, sans-serif; font-size: 10pt; }
+    .print-toolbar button { background: #fff; color: #333; border: none; padding: 6px 18px; border-radius: 4px; font-size: 10pt; font-weight: bold; cursor: pointer; }
+    .print-toolbar button:hover { background: #e2e8f0; }
+    .toolbar-spacer { height: 40px; }
+    .print-header { display: flex; justify-content: space-between; align-items: flex-end; border-bottom: 1.5pt solid #000; padding-bottom: 6pt; margin-bottom: 12pt; }
+    .header-left .site-name { font-family: Arial, sans-serif; font-size: 12pt; font-weight: bold; color: #000; }
+    .header-left .site-url { font-family: monospace; font-size: 7pt; color: #000; margin-top: 1pt; }
+    .header-right { text-align: right; font-family: Arial, sans-serif; font-size: 7.5pt; color: #000; }
+    .header-right .doc-title { font-weight: bold; font-size: 9pt; }
+    .law-group { margin-bottom: 10pt; }
+    .law-heading { font-family: Arial, sans-serif; font-size: 9.5pt; font-weight: bold; color: #000; border-left: 3pt solid #000; padding-left: 6pt; margin-bottom: 1pt; }
+    .law-full-title { font-family: Arial, sans-serif; font-size: 7pt; color: #000; margin-bottom: 6pt; padding-left: 9pt; }
+    .fragment { margin-bottom: 8pt; padding-left: 9pt; page-break-inside: avoid; }
+    .fragment-ref { font-family: Arial, sans-serif; font-size: 8pt; font-weight: bold; color: #000; margin-bottom: 2pt; }
+    .fragment-text { font-size: 8.5pt; font-style: italic; border-left: 1.5pt solid #000; padding: 2pt 6pt; margin: 2pt 0; color: #000; }
+    .fragment-ellipsis { font-size: 8pt; color: #666; font-style: italic; margin: 1pt 0; padding-left: 6pt; }
+    .fragment-content { font-size: 8.5pt; border-left: 1.5pt solid #000; padding: 2pt 6pt; margin: 2pt 0; color: #000; }
+    .fragment-content p { margin-bottom: 4pt; }
+    .fragment-content .content-heading { font-weight: bold; margin: 6pt 0 2pt; }
+    .fragment-content table { border-collapse: collapse; width: 100%; margin: 4pt 0; font-size: 7.5pt; }
+    .fragment-content th, .fragment-content td { border: 0.5pt solid #000; padding: 2pt 4pt; text-align: left; }
+    .fragment-content th { font-weight: bold; background: #f0f0f0; }
+    .fragment-cite { font-family: Arial, sans-serif; font-size: 7.5pt; color: #000; margin-top: 2pt; text-align: right; font-style: italic; }
+    .fragment-url { font-family: monospace; font-size: 6pt; color: #000; margin-top: 2pt; }
+    .references-section { margin-top: 16pt; padding-top: 8pt; border-top: 1.5pt solid #000; }
+    .references-title { font-family: Arial, sans-serif; font-size: 10pt; font-weight: bold; color: #000; margin-bottom: 6pt; }
+    .ref-entry { font-size: 8pt; margin-bottom: 4pt; padding-left: 18pt; text-indent: -18pt; color: #000; }
+    .print-footer { margin-top: 16pt; padding-top: 6pt; border-top: 1pt solid #000; font-family: Arial, sans-serif; font-size: 7pt; color: #000; }
+    .footer-disclaimer { margin-top: 4pt; font-size: 6.5pt; }
+    .footer-contact { margin-top: 6pt; font-size: 7pt; }
+    .footer-contact strong { font-size: 7.5pt; }
+    .footer-contact a { color: #000; }
+    .footer-copyright { margin-top: 6pt; font-size: 7pt; font-weight: bold; }
+    @media print {
+      .print-toolbar, .toolbar-spacer { display: none; }
+      body { padding: 0; }
+      @page { margin: 1cm 1.2cm; }
+    }
+  </style>
+</head>
+<body>
+  <div class="print-toolbar">
+    <span>${printTitle} — ${fragments.length} fragment${fragments.length !== 1 ? 's' : ''}</span>
+    <button onclick="window.print()">${printBtnLabel}</button>
+  </div>
+  <div class="toolbar-spacer"></div>
+  <header class="print-header">
+    <div class="header-left">
+      <div class="site-name">Legis CPMDEM</div>
+      <div class="site-url">${siteUrl}</div>
+    </div>
+    <div class="header-right">
+      <div class="doc-title">${printTitle}</div>
+      <div>${now}</div>
+      <div>${fragments.length} fragment${fragments.length !== 1 ? 's' : ''}</div>
+    </div>
+  </header>
+  <main>${bodyHtml}</main>
+  ${refsHtml}
+  <footer class="print-footer">
+    <div class="footer-disclaimer">${printDisclaimer}<br>${printDisclaimerLong}</div>
+    <div class="footer-contact">
+      <strong>${contactLabel}</strong><br>
+      jl.mirallesbono@edu.gva.es<br>
+      <a href="https://github.com/JLMirallesB/legis_cpmdem/issues">${reportLabel}</a><br>
+      <a href="https://ko-fi.com/miralles">${orxataLabel} &#9749;</a>
+    </div>
+    <div class="footer-copyright">&copy; ${currentYear} Jos&eacute; Luis Miralles Bono &middot; Legis CPMDEM v${appVersion}</div>
+  </footer>
+</body>
+</html>`;
+
+    const pw = window.open('', '_blank', 'width=800,height=600');
+    if (!pw) { alert('Permite las ventanas emergentes para imprimir.'); return; }
+    pw.document.write(html);
+    pw.document.close();
+  });
+</script>
+
+<style>
+  .detail-page {
+    padding-top: var(--space-lg);
+    padding-bottom: var(--space-2xl);
+  }
+
+  .back-link {
+    display: inline-block;
+    font-size: 0.85rem;
+    color: var(--color-text-muted);
+    margin-bottom: var(--space-md);
+    transition: color 0.2s;
+  }
+
+  .back-link:hover {
+    color: var(--color-primary);
+  }
+
+  .nb-header {
+    margin-bottom: var(--space-xl);
+  }
+
+  .nb-header h1 {
+    font-size: 1.75rem;
+    color: var(--color-primary);
+    margin-bottom: var(--space-xs);
+  }
+
+  .nb-desc {
+    color: var(--color-text-secondary);
+    font-size: 1rem;
+    margin-bottom: var(--space-sm);
+  }
+
+  .nb-meta {
+    font-size: 0.85rem;
+    color: var(--color-text-muted);
+    margin-bottom: var(--space-md);
+  }
+
+  .nb-actions {
+    display: flex;
+    gap: var(--space-sm);
+    flex-wrap: wrap;
+  }
+
+  /* Law groups */
+  .law-group {
+    margin-bottom: var(--space-xl);
+  }
+
+  .law-heading {
+    font-size: 1rem;
+    font-weight: 700;
+    color: var(--color-primary-dark);
+    border-left: 4px solid var(--color-primary);
+    padding-left: var(--space-sm);
+    margin-bottom: var(--space-xs);
+  }
+
+  .law-full-title {
+    font-size: 0.8rem;
+    color: var(--color-text-muted);
+    margin-bottom: var(--space-md);
+    padding-left: calc(var(--space-sm) + 4px);
+  }
+
+  /* Fragments */
+  .fragment-block {
+    background: var(--color-bg-white);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-md);
+    padding: var(--space-md);
+    margin-bottom: var(--space-md);
+  }
+
+  .fragment-title {
+    font-size: 0.95rem;
+    font-weight: 600;
+    margin-bottom: var(--space-sm);
+  }
+
+  .fragment-title a {
+    color: var(--color-primary);
+    text-decoration: none;
+  }
+
+  .fragment-title a:hover {
+    text-decoration: underline;
+  }
+
+  .fragment-body {
+    font-size: 0.9rem;
+    line-height: 1.65;
+    color: var(--color-text);
+  }
+
+  .fragment-body :global(p) {
+    margin-bottom: 0.5em;
+  }
+
+  .fragment-body :global(.content-heading) {
+    font-weight: 700;
+    margin: 1em 0 0.3em;
+  }
+
+  .fragment-body :global(table) {
+    border-collapse: collapse;
+    width: 100%;
+    margin: 0.5em 0;
+    font-size: 0.85rem;
+  }
+
+  .fragment-body :global(th),
+  .fragment-body :global(td) {
+    border: 1px solid var(--color-border);
+    padding: var(--space-xs) var(--space-sm);
+    text-align: left;
+  }
+
+  .fragment-body :global(th) {
+    background: var(--color-bg-secondary);
+    font-weight: 600;
+  }
+
+  .fragment-ellipsis {
+    font-size: 0.8rem;
+    color: var(--color-text-muted);
+    font-style: italic;
+  }
+
+  .fragment-cite {
+    font-size: 0.8rem;
+    color: var(--color-text-muted);
+    font-style: italic;
+    text-align: right;
+    margin-top: var(--space-sm);
+  }
+
+  /* References */
+  .references-section {
+    margin-top: var(--space-xl);
+    padding-top: var(--space-lg);
+    border-top: 2px solid var(--color-border);
+  }
+
+  .references-title {
+    font-size: 1.1rem;
+    font-weight: 700;
+    color: var(--color-primary);
+    margin-bottom: var(--space-md);
+  }
+
+  .ref-entry {
+    font-size: 0.85rem;
+    margin-bottom: var(--space-sm);
+    padding-left: 1.5em;
+    text-indent: -1.5em;
+    color: var(--color-text-secondary);
+  }
+
+  /* Toast */
+  .sidebar-toast {
+    position: fixed;
+    bottom: 20px;
+    left: 50%;
+    transform: translateX(-50%) translateY(100px);
+    background: var(--color-primary);
+    color: white;
+    padding: var(--space-sm) var(--space-lg);
+    border-radius: var(--radius-md);
+    font-size: 0.9rem;
+    opacity: 0;
+    transition: all 0.3s;
+    z-index: 1000;
+    pointer-events: none;
+  }
+
+  .sidebar-toast.visible {
+    transform: translateX(-50%) translateY(0);
+    opacity: 1;
+  }
+</style>

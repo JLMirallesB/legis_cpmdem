@@ -132,5 +132,17 @@
   "changelog.subscribe": "Subscriure's (RSS)",
   "changelog.announce": "Copiar anunci",
   "changelog.copied": "Copiat!",
-  "changelog.announce_template": "Nova versió {version} de Legis CPMDEM ({date}): {summary}.\nhttps://JLMirallesB.github.io/legis_cpmdem/va/changelog/"
+  "changelog.announce_template": "Nova versió {version} de Legis CPMDEM ({date}): {summary}.\nhttps://JLMirallesB.github.io/legis_cpmdem/va/changelog/",
+  "nav.cuadernos": "Quaderns",
+  "cuadernos.title": "Quaderns temàtics",
+  "cuadernos.subtitle": "Seleccions d'articles agrupats per tema, preparats per a consultar o imprimir.",
+  "cuadernos.empty": "No hi ha quaderns disponibles encara.",
+  "cuadernos.fragments": "{count} fragments",
+  "cuadernos.laws": "{count} lleis",
+  "cuadernos.updated": "Actualitzat: {date}",
+  "cuadernos.print": "Imprimir quadern",
+  "cuadernos.load": "Carregar al meu quadern",
+  "cuadernos.load_confirm": "Açò reemplaçarà tots els fragments del teu quadern personal. Continuar?",
+  "cuadernos.load_success": "Quadern carregat correctament",
+  "cuadernos.back": "Tornar a quaderns"
 }
