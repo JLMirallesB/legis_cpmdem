@@ -1,5 +1,23 @@
 [
   {
+    "version": "0.9.2",
+    "date": "2026-04-09",
+    "entries": {
+      "es": [
+        {
+          "type": "correccion",
+          "description": "Cuaderno de fragmentos: al imprimir, ahora se muestran los indicadores [...] antes y/o después del fragmento cuando la selección no incluye el inicio o el final del artículo."
+        }
+      ],
+      "va": [
+        {
+          "type": "correccio",
+          "description": "Quadern de fragments: en imprimir, ara es mostren els indicadors [...] abans i/o després del fragment quan la selecció no inclou l'inici o el final de l'article."
+        }
+      ]
+    }
+  },
+  {
     "version": "0.9.1",
     "date": "2026-04-09",
     "entries": {
