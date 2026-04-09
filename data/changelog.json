@@ -1,5 +1,23 @@
 [
   {
+    "version": "0.13.1",
+    "date": "2026-04-09",
+    "entries": {
+      "es": [
+        {
+          "type": "correccion",
+          "description": "Orden gestión económica 1995: los Anexos II, IV-VIII ahora se descargan como PDFs individuales desde los botones de descarga, en lugar de indicar la página del PDF oficial."
+        }
+      ],
+      "va": [
+        {
+          "type": "correccio",
+          "description": "Ordre gestió econòmica 1995: els Annexos II, IV-VIII ara es descarreguen com a PDFs individuals des dels botons de descàrrega, en lloc d'indicar la pàgina del PDF oficial."
+        }
+      ]
+    }
+  },
+  {
     "version": "0.13.0",
     "date": "2026-04-09",
     "entries": {

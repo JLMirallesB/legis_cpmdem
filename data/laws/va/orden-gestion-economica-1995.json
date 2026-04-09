@@ -137,45 +137,9 @@
     },
     {
       "type": "anexo",
-      "id": "anexo-2",
-      "title": "Annex II. Pressupost",
-      "content": "Disponible per a descàrrega en el PDF oficial (pàg. 7)."
-    },
-    {
-      "type": "anexo",
       "id": "anexo-3",
       "title": "Annex III. Classificació de les despeses",
       "content": "**1. Reparació i conservació de béns**\n\nS'hi imputen en aquest concepte les despeses de manteniment, conservació i reparació dels béns, tant immobles com mobles, que pertanyen al centre en propietat, en arrendament o en qualsevol altra forma. Així, s'inclouen en aquest concepte les despeses de manteniment, conservació i reparació d'edificis i d'altres construccions, de maquinària, instal·lacions i utillatge, de mobiliari i estris, i d'equips per a processos d'informació. S'hi exclouen totes les altres obres que, com les de reforma i ampliació, estan excloses segons la norma 4.\n\n| Codi | Concepte |\n|---|---|\n| 1.1 | Edificis i altres construccions |\n| 1.2 | Maquinària, instal·lacions i utillatge |\n| 1.3 | Mobiliari i estris |\n| 1.4 | Equips per a processos informàtics |\n\n**2. Subministraments**\n\nS'inclouen en aquest concepte les despeses per la provisió d'aigua, gas, electricitat, combustible per a calefacció, vestuari, productes d'alimentació i de farmàcia, material de neteja, material d'activitats docents, culturals o recreatives, i aquells subministraments no especificats en els altres grups de despeses.\n\n| Codi | Concepte |\n|---|---|\n| 2.1 | Aigua |\n| 2.2 | Gas |\n| 2.3 | Electricitat |\n| 2.4 | Combustible per a calefacció |\n| 2.5 | Productes d'alimentació |\n| 2.6 | Material de neteja |\n| 2.7 | Material d'activitats |\n| 2.8 | Altres |\n\n**3. Transports i comunicacions**\n\nS'hi imputen en aquest concepte les despeses de transport de qualsevol tipus, llevat de les referides a persones, així com les despeses per telèfon, correus, telègraf i qualsevol altre tipus de comunicació que no s'encomane a una entitat privada.\n\n| Codi | Concepte |\n|---|---|\n| 3.1 | Telèfon |\n| 3.2 | Correus, telègraf |\n| 3.3 | Altres |\n\n**4. Treballs realitzats per altres**\n\nS'hi imputen en aquest concepte les despeses per la realització de serveis encomanats a empreses consultores o de serveis, així com les despeses per la realització de treballs específics i concrets no habituals concertats amb persones físiques que complisquen els requisits de solvència tècnica o científica necessaris i les exigències fiscals i de Seguretat Social.\n\n| Codi | Concepte |\n|---|---|\n| 4.1 | Neteja, desinfecció i desratització |\n| 4.2 | Vigilància |\n| 4.3 | Primes d'assegurances |\n| 4.4 | Treballs d'impremta |\n| 4.5 | Altres |\n\n**5. Material d'oficina**\n\nS'hi imputen les despeses produïdes per la compra de material d'oficina no inventariable, premsa, revistes, publicacions, llibres, fotocòpies i material per al funcionament d'equips informàtics.\n\n| Codi | Concepte |\n|---|---|\n| 5.1 | Premsa, revistes i llibres |\n| 5.2 | Fotocòpies |\n| 5.3 | Material funcionament equips informàtics |\n| 5.4 | Altres |\n\n**6. Mobiliari i equipament**\n\nS'hi imputen les despeses produïdes per l'adquisició de mobiliari i equip escolar de caràcter inventariable no incloses en programes centralitzats d'inversions.\n\n| Codi | Concepte |\n|---|---|\n| 6.1 | Mobiliari |\n| 6.2 | Equipament |\n\n**7. Dietes i locomoció**\n\nS'hi inclouen les quantitats pagades a personal del mateix centre per tal de rescabalar-los de les despeses d'aquesta naturalesa produïdes per la comissió de serveis. En qualsevol cas, les quantitats seran les legalment establertes.\n\n| Codi | Concepte |\n|---|---|\n| 7.1 | Dietes |\n| 7.2 | Locomoció |\n\n**8. Despeses diverses**\n\nDespeses no incloses en els altres conceptes.\n\n| Codi | Concepte |\n|---|---|\n| 8.0 | Despeses diverses |"
-    },
-    {
-      "type": "anexo",
-      "id": "anexo-4",
-      "title": "Annex IV. Expedient d'adjudicació",
-      "content": "Disponible per a descàrrega en el PDF oficial (pàg. 11)."
-    },
-    {
-      "type": "anexo",
-      "id": "anexo-5",
-      "title": "Annex V. Ordre de comissió de serveis",
-      "content": "Disponible per a descàrrega en el PDF oficial (pàg. 12)."
-    },
-    {
-      "type": "anexo",
-      "id": "anexo-6",
-      "title": "Annex VI. Compte anual de gestió",
-      "content": "Disponible per a descàrrega en el PDF oficial (pàg. 13-15)."
-    },
-    {
-      "type": "anexo",
-      "id": "anexo-7",
-      "title": "Annex VII. Resum dels comptes anuals de gestió",
-      "content": "Disponible per a descàrrega en el PDF oficial (pàg. 16)."
-    },
-    {
-      "type": "anexo",
-      "id": "anexo-8",
-      "title": "Annex VIII. Llibre del compte de gestió",
-      "content": "Disponible per a descàrrega en el PDF oficial (pàg. 17)."
     }
   ],
   "legalAnalysis": {
@@ -200,5 +164,37 @@
   "temporality": {
     "type": "permanente"
   },
-  "docType": "normativa"
+  "docType": "normativa",
+  "formModels": [
+    {
+      "id": "anexo-2-presupuesto",
+      "title": "Annex II. Pressupost",
+      "pdfUrl": "models/orden-gestion-economica-1995-anexo-2.pdf"
+    },
+    {
+      "id": "anexo-4-expediente",
+      "title": "Annex IV. Expedient d'adjudicació",
+      "pdfUrl": "models/orden-gestion-economica-1995-anexo-4.pdf"
+    },
+    {
+      "id": "anexo-5-comision",
+      "title": "Annex V. Ordre de comissió de serveis",
+      "pdfUrl": "models/orden-gestion-economica-1995-anexo-5.pdf"
+    },
+    {
+      "id": "anexo-6-cuenta",
+      "title": "Annex VI. Compte anual de gestió (estats A, B, C)",
+      "pdfUrl": "models/orden-gestion-economica-1995-anexo-6.pdf"
+    },
+    {
+      "id": "anexo-7-resumen",
+      "title": "Annex VII. Resum dels comptes anuals de gestió",
+      "pdfUrl": "models/orden-gestion-economica-1995-anexo-7.pdf"
+    },
+    {
+      "id": "anexo-8-libro",
+      "title": "Annex VIII. Llibre del compte de gestió",
+      "pdfUrl": "models/orden-gestion-economica-1995-anexo-8.pdf"
+    }
+  ]
 }
