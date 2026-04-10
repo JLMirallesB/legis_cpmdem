@@ -27,7 +27,7 @@ El proyecto nace de la necesidad de tener un acceso r&aacute;pido, organizado y 
 ## Funcionalidades
 
 ### Cat&aacute;logo y navegaci&oacute;n
-- **31 normas ingresadas** entre decretos, &oacute;rdenes, leyes org&aacute;nicas, reales decretos, resoluciones, circulares y documentos
+- **36 normas ingresadas** entre decretos, &oacute;rdenes, leyes org&aacute;nicas, reales decretos, resoluciones, circulares y documentos
 - Navegaci&oacute;n por **categor&iacute;as**: curr&iacute;culo, organizaci&oacute;n, evaluaci&oacute;n, acceso, profesorado, titulaciones, flexibilizaci&oacute;n, premios, etc.
 - **Etiquetas de clasificaci&oacute;n**: aplicaci&oacute;n (M&uacute;sica, Danza, General), &aacute;mbito (Estatal, Auton&oacute;mico), periodo (Permanente, Anual) y tipo documental
 - **Buscador** con filtros m&uacute;ltiples: por tipo de norma, publicaci&oacute;n, a&ntilde;o, firmante, cargo, &aacute;mbito, etc.
@@ -136,10 +136,10 @@ Ver la carpeta `docs/` para documentaci&oacute;n detallada:
 Por orden de prioridad:
 
 1. **Admisi&oacute;n y pruebas de acceso** &mdash; Esperando actualizaci&oacute;n normativa antes de introducirlas
-2. **Convalidaciones y equivalencias** &mdash; Normativa sobre reconocimiento de estudios entre ense&ntilde;anzas
-3. **Plantillas** &mdash; Normativa sobre plantillas de profesorado de conservatorios
+2. ~~**Convalidaciones y equivalencias**~~ &mdash; Instrucciones de convalidaciones m&uacute;sica/danza-bachillerato ingresadas. Pendiente: normativa general sobre reconocimiento de estudios
+3. ~~**Plantillas**~~ &mdash; &#10004; Orden 9/2025 (criterios generales) e Instrucciones plantillas conservatorios 2026/2027
 4. **Danza (normativa nacional)** &mdash; Reales decretos espec&iacute;ficos de ense&ntilde;anzas profesionales de danza
-5. **Convivencia** &mdash; Normativa sobre convivencia en centros educativos aplicable a conservatorios
+5. ~~**Convivencia**~~ &mdash; &#10004; Decreto 193/2025 de convivencia en el sistema educativo
 6. **Protecci&oacute;n de datos y TIC** &mdash; Normativa sobre privacidad, protecci&oacute;n de datos y uso de tecnolog&iacute;as en centros educativos
 7. **Escuelas de M&uacute;sica** &mdash; Regulaci&oacute;n completa de las escuelas de m&uacute;sica (falta completamente)
 8. **Conservatorios Superiores** &mdash; Normativa de ense&ntilde;anzas art&iacute;sticas superiores (falta completamente)
