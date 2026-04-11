@@ -273,6 +273,55 @@
       "status": "ingested",
       "category": "profesorado",
       "notes": "Documento (no normativa). PDFs separados ES/VA desde CEICE. Modifica Circular 1/2025 (permisos): apartados II.5, II.6, II.8, II.11 (texto completo) y subapartado 'Efectos retributivos' del II.22, en aplicación del RDL 9/2025. Vigente desde 31/07/2025. Firmado por Francisco Pablo Ortega Gil, DG Personal Docente, 16/10/2025."
+    },
+    {
+      "slug": "resolucion-28-06-2018-proteccion-datos",
+      "title": "Resolución 28/06/2018 - Instrucciones protección de datos en centros educativos",
+      "status": "ingested",
+      "category": "tic",
+      "notes": "DOGV 8436, 03/12/2018 (2018/11040). Primera norma de la nueva categoría TIC. Resolución de la Subsecretaría que aprueba manual informativo (Anexo I, 9 secciones) sobre RGPD en centros educativos públicos, marco normativo (Anexo II), ficheros AEPD (Anexo III), modelos RAT con tablas (Anexo IV), modelo solicitud consentimiento (Anexo V) y cartel de aviso captación de imágenes (Anexo VI). Firmada por José Vicente Villar Rivera, Subsecretario de la Conselleria d'Educació, Investigació, Cultura i Esport."
+    },
+    {
+      "slug": "resolucion-03-10-2024-delegatic",
+      "title": "Resolución 03/10/2024 - Catálogo DELEGATIC equipamiento TIC centros educativos",
+      "status": "ingested",
+      "category": "tic",
+      "notes": "DOGV 9955, 11/10/2024 (2024/10422). PDFs separados ES/VA. Crea el catálogo DELEGATIC de equipamiento y productos TIC delegados en la dirección de centros. Preámbulo + 7 apartados dispositivos (Primero-Séptimo) + cláusula de recurso + Anexo I (Catálogo: 1. Hardware con 3 subsecciones y 2. Software con 7 subsecciones) + Anexo II (Requisitos protección de datos para FP e ISEACV). Firmada por delegación por José María Larena Berrocal, Director general d'Infraestructures Educatives. Deroga resolución de 29/10/2021 (DELEGATIC anterior). URLs embebidas: ceice.gva.es/delegatic, portal.edu.gva.es/appsedu/fpiseacv, aepd.es, cvedetails.com."
+    },
+    {
+      "slug": "instruccion-3-2024-validacion-apps",
+      "title": "Instrucción 3/2024 - Validación apps educativas sin licencia (FP e ISEACV)",
+      "status": "ingested",
+      "category": "tic",
+      "notes": "Documento (no normativa). PDFs separados ES/VA desde CEICE, 5 páginas. Instrucción de la DG Infraestructuras Educativas, 5/11/2024 (firmada el 11/11/2024 por José María Larena Berrocal), para autorizar el uso en centros de apps educativas que no requieren compra o adquisición de licencias, en estudios de FP, enseñanzas de régimen especial e ISEACV. Preámbulo + 5 secciones (Antecedentes, Objeto y alcance, Requisitos de protección de datos y seguridad, Declaración responsable, Autorización). Desarrolla el Anexo II de la Resolución DELEGATIC de 03/10/2024. URLs activas a aepd.es y cvedetails.com."
+    },
+    {
+      "slug": "instruccion-1-2025-borrado-aules",
+      "title": "Instrucción 1/2025 - Borrado de aulas virtuales en Aules",
+      "status": "ingested",
+      "category": "tic",
+      "notes": "Documento (no normativa). PDFs separados ES/VA desde CEICE, 3 páginas. Instrucción de la DG Infraestructuras Educativas, firmada el 24/02/2025 por José María Larena Berrocal. Define la política anual de borrado de aulas virtuales en la plataforma Aules. Preámbulo (con apartados i, l y p del art. 22 del D.166/2024) + 3 secciones (Contexto, Objeto y alcance, Política de borrado). Vigencia: alumnado un curso; docentes un curso + 4 meses; sabor Formació del Professorat 4 años. Excluye sabores Docent y Autoformació."
+    },
+    {
+      "slug": "instruccion-2-2025-altas-bajas-usuarios",
+      "title": "Instrucción 2/2025 - Altas y bajas de cuentas @edu.gva.es, @alu.edu.gva.es, @iseacv.gva.es",
+      "status": "ingested",
+      "category": "tic",
+      "notes": "Documento (no normativa). PDFs separados ES/VA desde CEICE, 3 páginas. Instrucción de la DG Infraestructuras Educativas, firmada el 24/02/2025 por José María Larena Berrocal. Define el proceso de alta y baja automatizado de cuentas de usuario (Identidad Digital) en los dominios @edu.gva.es, @alu.edu.gva.es, @iseacv.gva.es y @alu.iseacv.gva.es. Preámbulo + 5 secciones (Antecedentes, Objeto, Servicios, Altas, Bajas con subapartados 5.1 alumnado y 5.2 personal). Plazos de baja: alumnado 3 meses + 1 mes + 30 días; personal 12 meses + 1 mes + 30 días."
+    },
+    {
+      "slug": "instruccion-3-2025-sai",
+      "title": "Instrucción 3/2025 - Utilización del SAI en centros educativos",
+      "status": "ingested",
+      "category": "tic",
+      "notes": "Documento (no normativa). PDFs separados ES/VA desde CEICE, 3 páginas. Instrucción de Servicio firmada el 17/06/2025 por José María Larena Berrocal. Regula la utilización del Servicio de Soporte y Asistencia Informática (SAI) por los centros educativos. Preámbulo + 6 secciones (Contexto, Ámbito de asistencia con 6 bloques temáticos, Tramitación con 4 puntos numerados, Asistencia a equipos y software, Asistencia a red de voz y datos, Derogaciones). Habilitada por D.38/2025 (art. 22.m). Deroga 4 instrucciones de servicio previas (6/2012, 5/2012, 3/2010, 3/2009). URLs activas a gvasai.edu.gva.es, portal.edu.gva.es/sai, portal.edu.gva.es/equipamentedu, ceice.gva.es/delegatic y portal.edu.gva.es/appsedu. Patch manual de 'de la' → 'de la Generalitat.' en la última viñeta de la sec.4 ES (el PDF está cortado)."
+    },
+    {
+      "slug": "instruccion-4-2025-uso-seguro-tic",
+      "title": "Instrucción 4/2025 - Uso seguro del equipamiento TIC en centros",
+      "status": "ingested",
+      "category": "tic",
+      "notes": "Documento (no normativa). PDFs separados ES/VA desde CEICE, 4 páginas. Instrucción de Servicio firmada el 17/06/2025 por José María Larena Berrocal. Regula el uso seguro de la identidad digital y del equipamiento TIC gestionado por la Conselleria. Preámbulo + 5 secciones (Objeto, Ámbito, Normas de cuentas de correo con subsecciones 3.1 Identidad Digital Personal y 3.2 Identidad digital de centro y buzones compartidos, Normas de equipamiento informático, Derogaciones). Habilitada por D.38/2025 (art. 22.m). Deroga 4 instrucciones previas (1/2011, 2/2011, 1/2009, 4/2009). URL activa: gvasai.edu.gva.es."
     }
   ]
 }

@@ -1,5 +1,79 @@
 [
   {
+    "version": "0.15.0",
+    "date": "2026-04-11",
+    "entries": {
+      "es": [
+        {
+          "type": "nuevo",
+          "description": "Nueva categoría TIC (Tecnologías de la información y la comunicación) en el catálogo, para normas sobre protección de datos, uso de medios digitales y equipamiento informático en los centros."
+        },
+        {
+          "type": "nuevo",
+          "description": "Ingesta de la Resolución de 28 de junio de 2018, de la Subsecretaría de la Conselleria de Educación, Investigación, Cultura y Deporte, por la que se dictan instrucciones para el cumplimiento de la normativa de protección de datos en los centros educativos públicos (DOGV 8436, 03/12/2018). Cláusula dispositiva + 6 anexos: manual informativo RGPD (9 secciones), marco normativo, ficheros inscritos en la AEPD, modelos RAT con tablas, modelo de solicitud de consentimiento y cartel de aviso de captación de imágenes."
+        },
+        {
+          "type": "nuevo",
+          "description": "Ingesta de la Resolución de 3 de octubre de 2024, de la Dirección General de Infraestructuras Educativas, por la que se crea el catálogo DELEGATIC de equipamiento y productos TIC para los centros educativos públicos no universitarios (DOGV 9955, 11/10/2024). 7 apartados dispositivos + Anexo I (catálogo de hardware y software) + Anexo II (requisitos de protección de datos y seguridad para FP e ISEACV). Deroga la resolución análoga de 29/10/2021. Enlaces activos a ceice.gva.es/delegatic, Appsedu, AEPD y CVE Details."
+        },
+        {
+          "type": "nuevo",
+          "description": "Ingesta de la Instrucción 3/2024, de 5 de noviembre de 2024, de la Dirección General de Infraestructuras Educativas, para la autorización de aplicaciones educativas que no requieren compra o adquisición de licencias en centros de FP, enseñanzas de régimen especial e ISEACV. 5 secciones (Antecedentes, Objeto, Requisitos de protección de datos y seguridad, Declaración responsable, Autorización). Desarrolla el Anexo II de la Resolución DELEGATIC."
+        },
+        {
+          "type": "nuevo",
+          "description": "Ingesta de la Instrucción 1/2025, de la Dirección General de Infraestructuras Educativas, sobre el borrado de las aulas virtuales en la plataforma Aules (firmada el 24/02/2025 por José María Larena Berrocal). 3 secciones (Contexto, Objeto, Política de borrado). Vigencia: alumnado un curso; docentes un curso + 4 meses; sabor Formació del Professorat 4 años."
+        },
+        {
+          "type": "nuevo",
+          "description": "Ingesta de la Instrucción 2/2025, sobre altas y bajas de cuentas de usuario en los dominios @edu.gva.es, @alu.edu.gva.es, @iseacv.gva.es y @alu.iseacv.gva.es (firmada el 24/02/2025). 5 secciones (Antecedentes, Objeto, Servicios, Altas, Bajas con subapartados 5.1 alumnado y 5.2 personal). Plazos: alumnado 3 meses + 1 mes + 30 días; personal 12 meses + 1 mes + 30 días."
+        },
+        {
+          "type": "nuevo",
+          "description": "Ingesta de la Instrucción de Servicio 3/2025, para la utilización del Servicio de Soporte y Asistencia Informática (SAI) por los centros educativos (firmada el 17/06/2025). 6 secciones (Contexto, Ámbito de asistencia, Tramitación, Asistencia a equipos y software, Asistencia a red de voz y datos, Derogaciones). Deroga las Instrucciones de Servicio 6/2012, 5/2012, 3/2010 y 3/2009."
+        },
+        {
+          "type": "nuevo",
+          "description": "Ingesta de la Instrucción de Servicio 4/2025, de uso seguro del equipamiento TIC de los centros educativos (firmada el 17/06/2025). 5 secciones (Objeto, Ámbito, Normas de cuentas de correo con subsecciones 3.1/3.2, Normas de equipamiento informático, Derogaciones). Deroga las Instrucciones de Servicio 1/2011, 2/2011, 1/2009 y 4/2009."
+        }
+      ],
+      "va": [
+        {
+          "type": "nou",
+          "description": "Nova categoria TIC (Tecnologies de la informació i la comunicació) al catàleg, per a normes sobre protecció de dades, ús de mitjans digitals i equipament informàtic en els centres."
+        },
+        {
+          "type": "nou",
+          "description": "Ingesta de la Resolució de 28 de juny de 2018, de la Sotssecretaria de la Conselleria d'Educació, Investigació, Cultura i Esport, per la qual es dicten instruccions per al compliment de la normativa de protecció de dades en els centres educatius públics (DOGV 8436, 03/12/2018). Clàusula dispositiva + 6 annexos: manual informatiu RGPD (9 seccions), marc normatiu, fitxers inscrits en l'AEPD, models RAT amb taules, model de sol·licitud de consentiment i cartell d'avís de captació d'imatges."
+        },
+        {
+          "type": "nou",
+          "description": "Ingesta de la Resolució de 3 d'octubre de 2024, de la Direcció General d'Infraestructures Educatives, per la qual es crea el catàleg DELEGATIC d'equipament i productes TIC per als centres educatius públics no universitaris (DOGV 9955, 11/10/2024). 7 apartats dispositius + Annex I (catàleg de maquinari i programari) + Annex II (requisits de protecció de dades i seguretat per a FP i ISEACV). Deroga la resolució anàloga de 29/10/2021. Enllaços actius a ceice.gva.es/delegatic, Appsedu, AEPD i CVE Details."
+        },
+        {
+          "type": "nou",
+          "description": "Ingesta de la Instrucció 3/2024, de 5 de novembre de 2024, de la Direcció General d'Infraestructures Educatives, per a l'autorització d'aplicacions educatives que no requerixen compra o adquisició de llicències en centres de FP, ensenyances de règim especial i ISEACV. 5 seccions (Antecedents, Objecte, Requisits de protecció de dades i seguretat, Declaració responsable, Autorització). Desplega l'Annex II de la Resolució DELEGATIC."
+        },
+        {
+          "type": "nou",
+          "description": "Ingesta de la Instrucció 1/2025, de la Direcció General d'Infraestructures Educatives, sobre l'esborrament de les aules virtuals en la plataforma Aules (signada el 24/02/2025 per José María Larena Berrocal). 3 seccions (Context, Objecte, Política d'esborrament). Vigència: alumnat un curs; docents un curs + 4 mesos; sabor Formació del Professorat 4 anys."
+        },
+        {
+          "type": "nou",
+          "description": "Ingesta de la Instrucció 2/2025, sobre altes i baixes de comptes d'usuari en els dominis @edu.gva.es, @alu.edu.gva.es, @iseacv.gva.es i @alu.iseacv.gva.es (signada el 24/02/2025). 5 seccions (Antecedents, Objecte, Serveis, Altes, Baixes amb subapartats 5.1 alumnat i 5.2 personal). Terminis: alumnat 3 mesos + 1 mes + 30 dies; personal 12 mesos + 1 mes + 30 dies."
+        },
+        {
+          "type": "nou",
+          "description": "Ingesta de la Instrucció de Servici 3/2025, per a la utilització del Servici de Suport i Assistència Informàtica (SAI) pels centres educatius (signada el 17/06/2025). 6 seccions (Context, Àmbit d'assistència, Tramitació, Assistència als equips i programari, Assistència a la xarxa de veu i dades, Derogacions). Deroga les Instruccions de Servici 6/2012, 5/2012, 3/2010 i 3/2009."
+        },
+        {
+          "type": "nou",
+          "description": "Ingesta de la Instrucció de Servici 4/2025, d'ús segur de l'equipament TIC dels centres educatius (signada el 17/06/2025). 5 seccions (Objecte, Àmbit, Normes de comptes de correu amb subseccions 3.1/3.2, Normes d'equipament informàtic, Derogacions). Deroga les Instruccions de Servici 1/2011, 2/2011, 1/2009 i 4/2009."
+        }
+      ]
+    }
+  },
+  {
     "version": "0.14.1",
     "date": "2026-04-10",
     "entries": {

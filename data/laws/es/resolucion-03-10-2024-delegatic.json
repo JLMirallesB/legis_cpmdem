@@ -1,0 +1,129 @@
+{
+  "id": "resolucion-03-10-2024-delegatic",
+  "slug": "resolucion-03-10-2024-delegatic",
+  "type": "resolucion",
+  "number": "03/10/2024",
+  "date": "2024-10-03",
+  "publishedIn": {
+    "source": "DOGV",
+    "number": "9955",
+    "date": "2024-10-11",
+    "url": "https://dogv.gva.es/es/resultat-dogv?signatura=2024/10422",
+    "pdfUrl": "https://dogv.gva.es/datos/2024/10/11/pdf/2024_10422_es.pdf"
+  },
+  "title": "Resolución de 3 de octubre de 2024, de la Dirección General de Infraestructuras Educativas, por la que se crea el catálogo (DELEGATIC) para la adquisición de equipación y productos TIC para el uso en el entorno educativo por parte de la dirección de los centros educativos públicos no universitarios de la Generalitat",
+  "titleShort": "Resolución DELEGATIC - Catálogo TIC centros educativos (03/10/2024)",
+  "category": "tic",
+  "vigpiracy": {
+    "status": "vigente",
+    "statusLabel": "Vigente",
+    "effectiveDate": "2024-10-12"
+  },
+  "structure": [
+    {
+      "type": "preambulo",
+      "id": "preambulo",
+      "title": "Preámbulo",
+      "content": "La Conselleria de Educación, Cultura, Universidades, y Empleo, a través de la Dirección General Infraestructuras Educativas, es el único departamento competente para contratar bienes y servicios en materia de tecnologías de la información y las telecomunicaciones (en adelante TIC), en el ámbito de los centros docentes públicos no universitarios, sin perjuicio de las funciones que puedan corresponder a otros órganos y en coordinación con los mismos de la Generalitat y, por el resuelvo sexto de la Resolución de 30 de septiembre de 2024, del conseller de Educación, Cultura, Universidades y Empleo, sobre delegación de competencias en la Dirección General de Infraestructuras Educativas, para la creación y actualización del catálogo de equipamientos y productos TIC para uso en el centro educativo y en la persona titular de la dirección de los centros docentes públicos no universitarios de titularidad de la Generalitat, para adquisición de equipamiento y productos TIC para uso en el entorno educativo queda sin efecto la Resolución de 29 de octubre de 2021, del conseller de Hacienda y Modelo Económico, sobre delegación de competencias en quien ejerza la dirección de los centros educativos públicos no universitarios de la Generalitat para adquisición de equipamiento y productos TIC para uso en el entorno educativo.\n\nDe acuerdo con lo previsto en el Decreto 136/2023, de 10 de agosto, del Consell, de aprobación del Reglamento Orgánico y Funcional de la Conselleria de Educación, Universidades y Empleo, y de conformidad con el resuelvo primero de la Resolución de 30 de septiembre de 2024, del conseller de Educación, Cultura, Universidades y Empleo, sobre delegación de competencias en la Dirección General de Infraestructuras Educativas, para la creación y actualización del catálogo de equipamientos y productos TIC para uso en el centro educativo y en la persona titular de la dirección de los centros docentes públicos no universitarios de titularidad de la Generalitat, para adquisición de equipamiento y productos TIC para uso en el entorno educativo, que delega en la Dirección General de Infraestructuras Educativas la creación y actualización del catálogo de equipamientos y productos TIC susceptible de ser contratado por los centros educativos de la Generalitat, y con todo ello,"
+    },
+    {
+      "type": "seccion",
+      "id": "ap-1",
+      "title": "Primero. Creación del catálogo",
+      "content": "Crear el catálogo de equipamiento, programas y productos TIC susceptibles de ser contratados por los centros educativos de titularidad de la Generalitat, referido en el anexo I de esta resolución."
+    },
+    {
+      "type": "seccion",
+      "id": "ap-2",
+      "title": "Segundo. Importe máximo de gasto",
+      "content": "Establecer como importe máximo de gasto, para equipamiento y productos TIC susceptible de ser contratado por cada centro docente de titularidad de la Generalitat, el que establece la normativa de contratación administrativa para los contratos menores."
+    },
+    {
+      "type": "seccion",
+      "id": "ap-3",
+      "title": "Tercero. Exclusividad del catálogo",
+      "content": "En todo caso, por motivos técnicos y de coordinación, cualquier provisión de servicios y suministros TIC debe estar sujeta única y exclusivamente al catálogo de equipamiento y productos TIC establecidos por la Dirección General de Infraestructuras Educativas."
+    },
+    {
+      "type": "seccion",
+      "id": "ap-4",
+      "title": "Cuarto. Publicación del catálogo",
+      "content": "En la página web http://www.ceice.gva.es/delegatic estará disponible el catálogo de equipamiento y productos TIC mencionado en el punto primero, así como las instrucciones adicionales para la gestión de las provisiones."
+    },
+    {
+      "type": "seccion",
+      "id": "ap-5",
+      "title": "Quinto. Inventariado en gvaSAI",
+      "content": "En aquellos casos en los que se indique en el catálogo, el equipamiento y los productos TIC adquiridos por los centros educativos deberán ser incluidos en la correspondiente aplicación de inventario a través del procedimiento definido en gvaSAI."
+    },
+    {
+      "type": "seccion",
+      "id": "ap-6",
+      "title": "Sexto. Propuesta de nuevos elementos",
+      "content": "Los centros docentes de titularidad de la Generalitat podrán proponer, a través de las direcciones generales con competencia en materia de centros docentes, de formación profesional y de enseñanzas de régimen especial, así como del ISEACV, la inclusión de nuevos elementos en el catálogo."
+    },
+    {
+      "type": "seccion",
+      "id": "ap-7",
+      "title": "Séptimo. Requisitos FP e ISEACV",
+      "content": "La compra de software y/o licencias destinadas a enseñanzas de Formación Profesional y centros de enseñanzas artísticas superiores y estudios de diseño y música (ISEACV) deberán cumplir los requisitos en cuanto a protección de datos y seguridad reflejados en el anexo II a esta resolución."
+    },
+    {
+      "type": "seccion",
+      "id": "recursos",
+      "title": "Recursos y entrada en vigor",
+      "content": "Contra el presente acto, que agota la vía administrativa, las personas interesadas podrán interponer un recurso contencioso-administrativo, en el plazo de dos meses, a contar desde el día siguiente de ser publicado, ante la Sala de lo Contencioso-Administrativo del Tribunal Superior de Justícia de la Comunitat Valenciana, de acuerdo con lo que establecen los artículos 10.1.a y 46.1 de la Ley 29/1998, de 13 de julio, reguladora de la jurisdicción contencioso-administrativa, o potestativamente, un recurso de reposición ante este mismo órgano, en el plazo de un mes, computado en los términos ya indicados, de conformidad con lo que disponen los artículos 123 y 124 de la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas, sin perjuicio de que las personas interesadas puedan interponer cualquier otro que estimen procedente.\n\nLa presente resolución producirá efectos al día siguiente de su publicación en el Diari Oficial de la Generalitat Valenciana."
+    },
+    {
+      "type": "anexo",
+      "id": "anexo-1",
+      "title": "Anexo I. Catálogo de DELEGATIC",
+      "content": "**1. Hardware**\n\n**1.1. Productos no inventariables que los centros pueden adquirir.**\n\nEl apunte contable de los artículos incluidos en este apartado se realizará en ITACA contra la subcuenta 22003 Material informático no inventariable.\n\nSe delega en los centros educativos la adquisición de los siguientes artículos, siempre que estos no estén vinculados con el mantenimiento de los equipos informáticos realizado por la Conselleria de Educación, Universidades y Empleo.\n\n– Baterías de portátiles\n\n– Componentes de audio-vídeo: altavoces, auriculares, micrófonos, cables de conexión\n\n– Conversores y conectores: transceptores, GBIC\n\n– Cortadora láser\n\n– Discos duros\n\n– Discos SSD\n\n– Fuentes de alimentación\n\n– Herramientas: crimpadoras, testers, multímetros\n\n– Lápices para tabletas (stylus)\n\n– Lectores de códigos de barras\n\n– Lectores y grabadores de soportes ópticos\n\n– Lectores de tarjetas\n\n– Mandos a distancia\n\n– Memoria RAM\n\n– Sensores\n\n– Tarjetas de almacenamiento\n\n– Tarjetas de audio\n\n– Tarjetas de red\n\n– Tarjetas de vídeo o gráficas\n\n– Teclados, y ratones y presentadores Inalámbricos?\n\n**1.2. Productos inventariables que los centros pueden adquirir.**\n\nEl apunte contable de los artículos incluidos en este apartado se realizará en ITACA contra la subcuenta 625021TIC (Material TIC inventariable no sujeto a autorización previa). Para la adquisición de aquel hardware que requiera para su correcto funcionamiento disponer de software propio de control se deberá tener en cuenta lo dispuesto en el punto 2.4 de este anexo I.\n\nSe delega en los centros la adquisición de los siguientes artículos:\n\n**1.2.1. Carros para la carga y transporte de tabletas y/u ordenadores portátiles.**\n\n– Armarios de carga propiamente dichos\n\n**1.2.2. Dispositivos táctiles y audiovisuales:**\n\n– Monitores de ordenador\n\n– Proyectores convencionales\n\n– Proyectores de gran angular\n\n– Proyectores interactivos\n\n– Cámaras Web y cámaras IP\n\n– Tabletas digitalizadoras (periféricos táctiles conectados al PC para el diseño gráfico)\n\n– Gafas de realidad virtual y gafas de realidad aumentada\n\n**1.2.3. Equipos de protección:**\n\n– Sistemas de alimentación ininterrumpida\n\n**1.2.4. Robótica:**\n\n– Robots y kits de robótica programable\n\n– Placas con microcontrolador y entorno de desarrollo programable\n\n**1.2.5. Sistemas de almacenamiento:**\n\n– Cabinas de discos (NAS)\n\n**1.2.6. Sistemas de impresión y escáner:**\n\n– Equipos multifunción\n\n– Escáneres\n\n– Impresoras convencionales\n\n– Impresoras 3D, escáneres 3D, grabadoras láser\n\n– Plotters\n\n**1.3. Productos inventariables que los centros pueden adquirir sujetos a autorización previa.**\n\nEl apunte contable de los artículos incluidos en este apartado se realizará en ITACA contra la subcuenta 625022TIC (Material TIC inventariable sujeto a autorización previa). Además, se efectuará la petición de inventariado a través de la herramienta gvaSAI.\n\n**1.3.1. Puntos de acceso inalámbricos para los carros de carga.**\n\n– Puntos de acceso inalámbricos como elemento accesorio al carro de carga para su uso como aula móvil.\n\nEstos equipos deberán cumplir los requisitos del Esquema Nacional de Seguridad (ENS) mediante su inclusión en la guía CCNSTIC-105 del Centro Criptográfico Nacional. Esta adquisición requerirá una autorización previa de la Dirección General de Infraestructuras Educativas, solicitada a través de la herramienta gvaSAI, para garantizar la seguridad y la compatibilidad de acuerdo con los sistemas e infraestructuras corporativos de la Generalitat y solo podrán ser adquiridos por aquellos centros que no hayan sido todavía dotados de wifi corporativa.\n\n**1.3.2. Dispositivos táctiles y audiovisuales:**\n\n– Pantallas interactivas para espacios físicos del centro educativo que no tengan la consideración de aula de docencia\n\nEsta adquisición requerirá una autorización previa de la Dirección General de Infraestructuras Educativas, solicitada a través de la herramienta gvaSAI, para garantizar la seguridad y la compatibilidad de acuerdo con los sistemas e infraestructuras corporativos de la Generalitat.\n\n**2. Software**\n\n**2.1. Software destinado a alumnado con necesidades educativas especiales**\n\nSe delega la competencia de compra del software que esté enfocado a dar soluciones al alumnado con trastornos del aprendizaje (dislexia, TDAH, discalculia...), trastornos del habla y del lenguaje, o con discapacidades sensoriales (baja visión, sordera...), previa autorización en Appsedu a través de petición realizada en la herramienta gvaSAI. Concretamente, se delega lo siguiente:\n\n– Programas que favorezcan el aprendizaje multisensorial\n\n– Sistemas aumentativos y alternativos de comunicación\n\n– Programas específicos dirigidos a mejorar la lectura, la escritura, el aprendizaje y la comunicación\n\n**2.2. Software para Formación Profesional**\n\nPara los estudios de Formación Profesional, se delega la competencia de compra del software requerido para alcanzar los resultados de aprendizaje establecidos en los correspondientes reales decretos de título, así como en los currículums desarrollados en la Comunitat Valenciana.\n\nDicho software se destinará para su uso exclusivo en las enseñanzas de formación profesional impartidos en el centro y deberá estar orientado al aprendizaje de la utilidad o funcionalidad expuesta en cada caso.\n\nEl software educativo y/o licencias adquiridas por los centros educativos para las enseñanzas de formación profesional será responsabilidad del centro educativo y deberá cumplir las indicaciones descritas en anexo II y en Appsedu (https://portal.edu.gva.es/appsedu/es/fpiseacv/)\n\nAsimismo, el centro a través gvaSAI realizará una declaración responsable sobre cumplimiento de los criterios de seguridad y protección de datos del software y/o de las licencias adquiridas atribuidas a la delegación de compra.\n\nPosteriormente a la declaración responsable, el centro registrará el software en la herramienta gvaSAI indicando las familias profesionales para las que se habrá hecho la adquisición.\n\n**2.3. Software destinado a enseñanzas artísticas superiores y estudios de diseño y música (ISEACV).**\n\nEl software educativo y/o licencias adquiridas por los centros educativos para las enseñanzas artísticas superiores y estudios de diseño y música (ISEACV) será responsabilidad del centro educativo y deberá cumplir las indicaciones descritas en Anexo II, también disponibles en Appsedu (https://portal.edu.gva.es/appsedu/es/fpiseacv/).\n\nAsimismo, el centro a través gvaSAI realizará una declaración responsable sobre cumplimiento de los criterios de seguridad y protección de datos del software y/o de las licencias adquiridas atribuidas a la delegación de compra\n\nPosteriormente a la declaración responsable, el centro registrará el software en la herramienta gvaSAI indicando las familias profesionales para las que se habrá hecho la adquisición.\n\nSe delega la competencia de compra del software siguiente:\n\n– Software antiplagio.\n\n– Software de gestión biblioteca y registro público de TFT.\n\n– Software de realización y análisis de encuestas.\n\n– Software de modelado 3D para arquitectura.\n\n– Software de modelado mecánico 3D.\n\n– Software CAD para modelado de superficies y sólidos.\n\n– Software de animación, modelado, simulación y renderizado 3D.\n\n– Software de composición y notación musical.\n\n**2.4. Software de control de hardware periférico delegado.**\n\nEl software de control del hardware periférico delegado deberá cumplir las indicaciones descritas en Anexo II, también disponibles en Appsedu (https://portal.edu.gva.es/appsedu/es/fpiseacv/).\n\nAsimismo, el centro a través gvaSAI realizará una declaración responsable sobre cumplimiento de los criterios de seguridad y protección de datos del software y/o de las licencias adquiridas atribuidas a la delegación de compra\n\nPosteriormente a la declaración responsable, el centro registrará el software en la herramienta gvaSAI indicando las enseñanzas para las que se habrá hecho la adquisición.\n\n**2.5. Software para confección de horarios del profesorado en los centros educativos.**\n\nSe delega la competencia de compra del software destinado a la confección y generación de horarios del profesorado en los centros educativos.\n\nEstas adquisiciones se realizarán previa autorización de la Dirección General de Infraestructuras Educativas a través de petición de validación y autorización de nuevas aplicaciones en la herramienta de gvaSAI de gestión de peticiones e incidencias en la categoría correspondiente referenciando que la petición de software pertenece a Delegatic.\n\n**2.6. Servicios**\n\nQuedan delegados en los centros educativos los servicios de impresión en las condiciones que establezca la normativa vigente al respecto.\n\nPara contratar estos servicios el centro deberá tener un encargo de tratamiento de datos de carácter personal con la empresa proveedora que será custodiado por el propio centro.\n\n**2.7. Apuntes contables**\n\nCuando se adquieran licencias de software que incluyan el derecho de utilización temporal de un producto, incluidas las sucesivas renovaciones de dicho derecho, dichas licencias se consideran no inventariables. La anotación contable en ITACA se realizará con la subcuenta 22003 – Material informático no inventariable.\n\nEl resto de los productos de software considerados como aplicaciones informáticas y bases de datos en soporte físico, excluidas las licencias en las que solo se accede a datos, se considerarán inventariables. El apunte contable de los artículos incluidos en este apartado se realizará en ITACA contra la subcuenta 625021TIC (Material TIC inventariable no sujeto a autorización previa).\n\nNota: En la página web: http://www.ceice.gva.es/delegatic está disponible el catálogo actualizado de equipamiento y productos TIC."
+    },
+    {
+      "type": "anexo",
+      "id": "anexo-2",
+      "title": "Anexo II. Requisitos de protección de datos y seguridad para la compra de software y/o licencias destinadas a FP e ISEACV",
+      "content": "**Consideraciones generales**\n\n– Ninguna aplicación o plataforma podrá ofrecer publicidad al alumnado, ni al profesorado, ni reclamos ni pagos a aplicaciones de terceros.\n\n**Protección de datos**\n\nPara aquellas aplicaciones susceptibles de almacenar datos de carácter personal en servidores externos, el editor del software debe proporcionar una política de privacidad en la que conste:\n\n– Quién es el responsable del tratamiento de datos. Se debe indicar el nombre y los datos de contacto del responsable y, en su caso, del corresponsable, del representante del responsable, y del delegado de protección de datos. Debe constar la identidad y dirección de la persona jurídica o física responsable\n\n– Las finalidades del tratamiento de datos.\n\n– Descripción de las categorías de interesados y de las categorías de datos personales.\n\n– Las categorías de destinatarios a quienes se comunicaron o comunicarán los datos personales, incluidos los destinatarios en terceros países u organizaciones internacionales.\n\n– Las comunicaciones de datos a terceros y su identidad, así como la finalidad para la cual se ceden.\n\n– La ubicación de los datos.\n\n– Para transferencias de datos fuera del Espacio Económico Europeo, las transferencias de datos personales a un tercer país o una organización internacional, incluida la identificación de dicho tercer país u organización internacional y, en el caso de las transferencias indicadas en el artículo 49, apartado 1, párrafo segundo del Reglamento General de Protección de Datos, las garantías adecuadas. Se puede consultar cuáles son las garantías para las transferencias de datos fuera del Espacio Económico Europeo, en la siguiente dirección de la Agencia Española de Protección de Datos: https://www.aepd.es/derechos-y-deberes/cumple-tus-deberes/medidas-de-cumplimiento/garantias-para-las-transferencias-de\n\n– Base jurídica de licitud o legitimación del tratamiento de datos personales.\n\n– Los plazos previstos para la supresión de las diferentes categorías de datos.\n\n– Cuando sea posible, una descripción general de las medidas técnicas y organizativas de seguridad.\n\n– Los posibles accesos que realiza la aplicación a otros datos almacenados en los dispositivos que ejecuten las aplicaciones informáticas o a sus sensores.\n\n– Los derechos de las personas usuarias.\n\nDerechos de las personas usuarias que se deben recoger en la política de privacidad de la aplicación (regulados en la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, y el Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo de 27 de abril de 2016, Reglamento General de Protección de Datos):\n\n– Derecho de acceso: la persona interesada tendrá derecho a obtener del responsable del tratamiento confirmación de si se están tratando o no datos personales que le conciernen y, en tal caso, derecho de acceso a los datos personales.\n\n– Derecho de rectificación: la persona interesada tendrá derecho a obtener sin dilación indebida del responsable del tratamiento, la rectificación de los datos personales inexactos que le conciernan. Teniendo en cuenta los fines del tratamiento, la persona interesada tendrá derecho a que se completen los datos personales que sean incompletos, inclusive mediante una declaración adicional.\n\n– Derecho de supresión: La persona interesada tendrá derecho a obtener sin dilación indebida del responsable del tratamiento, la supresión de los datos personales que le conciernan, el cual estará obligado a suprimir sin dilación indebida los datos personales.\n\n– Derecho de oposición: La persona interesada tendrá derecho a oponerse en cualquier momento, por motivos relacionados con su situación particular, a que datos personales que le conciernan sean objeto de un tratamiento.\n\n– Limitación del tratamiento: La persona interesada tiene derecho a limitar el tratamiento de datos que realiza el responsable de tratamiento.\n\n– Portabilidad: La persona interesada tiene derecho a recibir los datos personales que le incumban, que haya proporcionado a un responsable de tratamiento, en un formato estructurado, de uso común y lectura mecánica, y a transmitirlos a otro responsable del tratamiento sin que lo impida el responsable al que se los hubiera facilitado.\n\n– Derecho a no ser objeto de decisiones individuales automatizadas: la persona interesada tendrá derecho a no ser objeto de una decisión basada únicamente en el tratamiento automatizado, incluida la elaboración de perfiles.\n\n**Seguridad**\n\nSe deberán tener en cuenta, al menos, las siguientes consideraciones:\n\n– Software no autorizado por motivos de seguridad. No se permite la adquisición de software que esté explícitamente no autorizado en Appsedu, cuando su evaluación de seguridad ha determinado que el software es vulnerable.\n\n– Licencias: Todo el software debe de disponer de licencia legal y cumplir con las regulaciones autonómicas, estatales y europeas. Es necesaria la adquisición de la totalidad de las licencias.\n\n– Evaluación de riesgos: Se debe identificar si el software puede estar afectado por alguna vulnerabilidad conocida, se puede realizar esta comprobación en https://www.cvedetails.com/. Si se identificaran vulnerabilidades se deberá realizar una evaluación de impacto y adjuntar a la declaración responsable la evaluación de riesgos y las medidas de mitigación.\n\n– Actualizaciones: El software debe recibir actualizaciones regulares y parches de seguridad.\n\n– Encriptación de datos: Si el software trata datos personales, estos siempre deben encriptarse en su tránsito a través de la red, así como en reposo en aquellos servidores en los que se almacenen.\n\n– Registro de eventos: se recomienda que el software sea capaz de registrar eventos relevantes, que permitan la detección de actividades sospechosas.\n\n**Otros aspectos**\n\n– La Conselleria responsable en materia de educación puede solicitar al centro educativo los informes relativos al análisis de riesgos realizado para la adquisición del software.\n\n– La Conselleria responsable en materia de educación puede solicitar al centro educativo el software para realizar una auditoría de seguridad y protección de datos, y en su caso, referenciarlo en la plataforma Appsedu."
+    }
+  ],
+  "legalAnalysis": {
+    "enactedPursuantTo": [
+      {
+        "title": "Resolución de 30 de septiembre de 2024, del conseller de Educación, Cultura, Universidades y Empleo, sobre delegación de competencias en la Dirección General de Infraestructuras Educativas (DOGV 9949, 02/10/2024)",
+        "relationship": "habilitante"
+      },
+      {
+        "title": "Decreto 136/2023, de 10 de agosto, del Consell, Reglamento Orgánico y Funcional de la Conselleria de Educación, Universidades y Empleo",
+        "relationship": "habilitante"
+      }
+    ],
+    "priorAffectations": [],
+    "posteriorAffectations": [],
+    "derogations": [
+      {
+        "lawId": "resolucion-29-10-2021-delegatic",
+        "title": "Resolución de 29 de octubre de 2021, del conseller de Hacienda y Modelo Económico, sobre delegación de competencias en quien ejerza la dirección de los centros educativos públicos no universitarios de la Generalitat para adquisición de equipamiento y productos TIC",
+        "type": "deroga",
+        "description": "Queda sin efecto con la aprobación de esta resolución."
+      }
+    ],
+    "concordances": []
+  },
+  "promulgation": {
+    "place": "València",
+    "date": "2024-10-03",
+    "signatories": [
+      {
+        "name": "José María Larena Berrocal",
+        "role": "Director general de Infraestructuras Educativas"
+      }
+    ]
+  },
+  "scope": "general",
+  "territory": "autonomico",
+  "temporality": {
+    "type": "permanente"
+  },
+  "docType": "normativa"
+}

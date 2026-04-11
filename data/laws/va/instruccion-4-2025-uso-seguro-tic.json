@@ -1,0 +1,116 @@
+{
+  "id": "instruccion-4-2025-uso-seguro-tic",
+  "slug": "instruccion-4-2025-uso-seguro-tic",
+  "type": "documento",
+  "number": "4/2025",
+  "date": "2025-06-17",
+  "publishedIn": {
+    "source": "CEICE",
+    "number": "",
+    "date": "2025-06-17",
+    "url": "",
+    "pdfUrl": "https://ceice.gva.es/documents/161634279/390142986/4.2025_VAL.pdf/e6e634f1-74c3-db0a-9ba8-c740dd0a3d38"
+  },
+  "title": "Instrucció de Servici 4/2025, de la Direcció General d’Infraestructures Educatives, d’ús segur de l’equipament TIC dels centres educatius",
+  "titleShort": "Instrucció 4/2025 - Ús segur de l’equipament TIC en els centres",
+  "category": "tic",
+  "vigpiracy": {
+    "status": "vigente",
+    "statusLabel": "Vigent",
+    "effectiveDate": "2025-06-17"
+  },
+  "structure": [
+    {
+      "type": "preambulo",
+      "id": "preambulo",
+      "title": "Introducció",
+      "content": "En virtut de les competències atribuïdes pel Decret 38/2025, de 4 de març, del Consell, d'aprovació del Reglament orgànic i funcional de la Conselleria d'Educació, Cultura, Universitats i Ocupació, i concretament en el que es disposa en el seu article 22, apartat m, esta direcció general dicta la següent instrucció:"
+    },
+    {
+      "type": "seccion",
+      "id": "sec-1",
+      "title": "1. Objecte",
+      "content": "Esta normativa regula l'ús de la identitat digital i de l'equipament informàtic gestionat per la Conselleria d'Educació, Cultura, Universitats i Ocupació, és a dir tot aquell que haja sigut donat d'alta en l'inventari."
+    },
+    {
+      "type": "seccion",
+      "id": "sec-2",
+      "title": "2. Àmbit d’aplicació",
+      "content": "Esta normativa s'aplica a tot usuari de:\n\n• Comptes dels dominis @edu.gva.es, @alu.edu.gva.es, @iseacv.gva.es i @alu.iseacv.gva.es.\n\n• Qualsevol aplicació a la qual es dispose d'accés pel fet de tindre accés als comptes anteriors.\n\n• Qualsevol tipus d'equipament informàtic gestionat per la Conselleria, com poden ser els ordinadors, tauletes o pantalles digitals interactives entre altres."
+    },
+    {
+      "type": "seccion",
+      "id": "sec-3",
+      "title": "3. Normes d’ús aplicables a comptes de correu",
+      "content": "• Només es permet el seu ús per a activitats relacionades amb la docència i l’administració educativa, mai per a fins personals ni empresarials.\n\n• És responsabilitat de cada usuari la seguretat dels comptes als quals tinga accés, incloent-hi la custòdia de contrasenyes i el compliment de les mesures de seguretat.\n\n• La possibilitat d’utilitzar estos comptes per al registre en pàgines web o aplicacions de tercers, està igualment limitada a l’activitat docent o educativa.\n\n• No es pot participar en cap activitat que dificulte o interferisca en el funcionament dels servicis.\n\n• Si detecta qualsevol ús no autoritzat de les contrasenyes, incidències de seguretat, enviament o recepció de correu brossa, o sospites d’activitat maliciosa, ha de notificar-ho immediatament a la Conselleria d’Educació, a través del portal de suport i assistència informàtica (http://gvasai.edu.gva.es), i seleccionant «Ciberseguretat», tipus de sol·licitud «Incidència» i, servici afectat, «Pesca, assetjament, estafes i correu brossa».\n\n• No es poden utilitzar els comptes de correu per a anunciar l’aparició de virus, amenaces, etc.\n\nPer part del personal no autoritzat.\n\n• Els comptes han d'utilitzar-se únicament des de dispositius en els quals no existisca sospita de poder estar infectats o manipulats.\n\n• La sessió haurà de tancar-se manualment sempre, especialment quan s'utilitzen dispositius que puguen ser utilitzats per altres persones.\n\n• Els comptes són auditats i podrien ser suspesos en cas d'incompliment de la normativa.\n\n**3.1. Identitat digital personal**\n\nSón un tipus de comptes assignades a docents, alumnat i personal no docent. S'associa a l'activitat educativa i està vinculada a un usuari individual.\n\n• El compte és estrictament personal i no ha de compartir-se amb tercers.\n\n• No estan permesos els enviaments massius, i seran rebutjats els missatges si el nombre màxim de destinataris és superior al límit establit. Per a això existixen alternatives corporatives com les identitats de centre o les bústies de correu compartits.\n\n**3.2. Identitat digital de centre i bústies de correus compartits**\n\nSón els comptes de correu oficials dels centres educatius i les bústies compartides creats amb finalitats concretes. Es distingixen per l’estructura següent:\n\n• Compte del centre educatiu: codigocentro@edu.gva.es\n\n• Bústies de correus compartits: codigocentro.àmbit@edu.gva.es\n\nEstos comptes i bústies compartits tindran caràcter informatiu, com ara:\n\n• Comunicacions del centre amb altres entitats, sense valor administratiu.\n\n• Comunicacions als centres d'avisos d'incidències que afecten als centres docents en general.\n\n• Publicacions d'ordes que afecten a centres docents.\n\n• Informació de cursos dirigits a l'administració dels centres docents.\n\n• Informacions diverses relacionades amb el Bo-lliure (publicació, terminis...).\n\n• Informacions sobre terminis de beques...\n\nA més de les mesures de seguretat aplicables a qualsevol compte, per al cas concret de les bústies de correus compartits, s'establix que:\n\n• No es permet usar-les per a iniciar sessió en terceres aplicacions.\n\n• No es permet usar-les per a iniciar sessió en els equips informàtics, havent d'utilitzar el compte personal per a això."
+    },
+    {
+      "type": "seccion",
+      "id": "sec-4",
+      "title": "4. Normes aplicables a l’equipament informàtic",
+      "content": "L'ús de l'equipament haurà de regir-se pels següents principis:\n\n• Finalitat educativa i administrativa: només s'utilitzaran per a activitats relacionades amb la docència, la formació, la investigació i la gestió educativa.\n\n• Ús responsable i segur: l'usuari és responsable de la custòdia, el bon ús i la protecció dels dispositius mentres li estiguen assignats o en faça ús.\n\n• Compliment normatiu: s'hauran de respectar les normatives vigents, especialment les normes sobre l’ús segur de mitjans tecnològics en l’Administració de la Generalitat i la política de la seguretat de la informació de l’Administració de la Generalitat.\n\n• Quan existisca un equip corporatiu, no es permetrà l'ús de dispositius personals en les xarxes proporcionades per la Conselleria. En cap cas es podrà desconnectar l'equip corporatiu per a la utilització d'un personal. Quan siga necessari l'ús de dispositius personals per a ús educatiu es connectaran a la xarxa wifi corresponent del centre fent ús de la identitat digital proporcionada tant al personal docent com a l'alumnat.\n\n• Qualsevol incidència tècnica, robatori o pèrdua haurà de ser comunicada a la Conselleria d'Educació, a través el portal de suport i assistència informàtica (http://gvasai.edu.gva.es), usant la categoria referent a equip de treball.\n\n• Per a garantir el seu correcte funcionament i compliment normatiu, l'activitat dels equips pot ser auditada i supervisada, sense necessitat de notificar a l'usuari, respectant els principis de necessitat, idoneïtat i proporcionalitat, preservant les garanties del dret a la intimitat de l'usuari i la seguretat de les comunicacions.\n\n• Queda prohibit modificar la configuració, tant física com del programari, del sistema sense autorització expressa de la conselleria.\n\n• No es permet l'ús de dispositius d'emmagatzematge USB.\n\n• Els dispositius hauran d'utilitzar-se dins de l'entorn educatiu baix supervisió del centre.\n\n• L'accés als equips no podrà ser anònim i requerirà d'autenticació mitjançant credencials personals. En els casos en què no siga possible per motius didàctics, serà el professor, o la persona designada per l'equip directiu del centre, el responsable de qualsevol activitat sobre els equips.\n\n• Els usuaris hauran de tancar sessió en finalitzar el seu ús.\n\n• No es permet l'emmagatzematge de dades en els equips, especialment dades personals.\n\n• No està permés connectar-se a xarxes distintes a les corporatives.\n\n• No ha de deixar-se el dispositiu desatés sense bloquejar la sessió."
+    },
+    {
+      "type": "seccion",
+      "id": "sec-5",
+      "title": "5. Derogacions",
+      "content": "La present Instrucció de servici 4/2025 deixa sense efecte les instruccions de servici següents:\n\n• Instrucció de servici núm. 1/2011, sobre els comptes corporatius de correu electrònic per al personal docent.\n\n• Instrucció de servici núm. 2/2011, sobre la gestió del correu brossa dels comptes corporatius de correu electrònic dels centres docents i coordinadors TIC.\n\n• Instrucció de servici núm. 1/2009, per a la utilització dels comptes de correu electrònic oficials de centres docents.\n\n• Instrucció de servici núm. 4/2009, sobre recomanacions de seguretat de l'equipament informàtic dels centres docents."
+    }
+  ],
+  "legalAnalysis": {
+    "enactedPursuantTo": [
+      {
+        "title": "Decret 38/2025, de 4 de març, del Consell, Reglament orgànic i funcional de la Conselleria d’Educació, Cultura, Universitats i Ocupació (art. 22.m)",
+        "articles": [
+          "art-22"
+        ],
+        "relationship": "habilitante"
+      }
+    ],
+    "priorAffectations": [],
+    "posteriorAffectations": [],
+    "derogations": [
+      {
+        "lawId": "instruccion-1-2011-cuentas-correo-docentes",
+        "title": "Instrucció de servici 1/2011 — Comptes corporatius de correu electrònic per al personal docent",
+        "type": "deroga",
+        "description": "Queda sense efecte amb l’aprovació d’aquesta instrucció."
+      },
+      {
+        "lawId": "instruccion-2-2011-spam-cuentas",
+        "title": "Instrucció de servici 2/2011 — Gestió del correu brossa dels comptes corporatius de correu electrònic",
+        "type": "deroga",
+        "description": "Queda sense efecte amb l’aprovació d’aquesta instrucció."
+      },
+      {
+        "lawId": "instruccion-1-2009-correo-centros",
+        "title": "Instrucció de servici 1/2009 — Utilització dels comptes de correu electrònic oficials de centres docents",
+        "type": "deroga",
+        "description": "Queda sense efecte amb l’aprovació d’aquesta instrucció."
+      },
+      {
+        "lawId": "instruccion-4-2009-seguridad-equipamiento",
+        "title": "Instrucció de servici 4/2009 — Recomanacions de seguretat de l’equipament informàtic dels centres docents",
+        "type": "deroga",
+        "description": "Queda sense efecte amb l’aprovació d’aquesta instrucció."
+      }
+    ],
+    "concordances": []
+  },
+  "promulgation": {
+    "place": "València",
+    "date": "2025-06-17",
+    "signatories": [
+      {
+        "name": "José María Larena Berrocal",
+        "role": "Director general d’Infraestructures Educatives"
+      }
+    ]
+  },
+  "scope": "general",
+  "territory": "autonomico",
+  "temporality": {
+    "type": "permanente"
+  },
+  "docType": "documentos"
+}

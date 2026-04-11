@@ -1,0 +1,116 @@
+{
+  "id": "instruccion-4-2025-uso-seguro-tic",
+  "slug": "instruccion-4-2025-uso-seguro-tic",
+  "type": "documento",
+  "number": "4/2025",
+  "date": "2025-06-17",
+  "publishedIn": {
+    "source": "CEICE",
+    "number": "",
+    "date": "2025-06-17",
+    "url": "",
+    "pdfUrl": "https://ceice.gva.es/documents/161634279/390142986/4.2025_CAS.pdf/3f520672-32ae-2147-a696-e5651b6a366c"
+  },
+  "title": "Instrucción de Servicio 4/2025, de la Dirección General de Infraestructuras Educativas, de uso seguro del equipamiento TIC de los centros educativos",
+  "titleShort": "Instrucción 4/2025 - Uso seguro del equipamiento TIC en centros",
+  "category": "tic",
+  "vigpiracy": {
+    "status": "vigente",
+    "statusLabel": "Vigente",
+    "effectiveDate": "2025-06-17"
+  },
+  "structure": [
+    {
+      "type": "preambulo",
+      "id": "preambulo",
+      "title": "Introducción",
+      "content": "En virtud de las competencias atribuidas por el DECRETO 38/2025, de 4 de marzo, del Consell, de aprobación del Reglamento orgánico y funcional de la Conselleria de Educación, Cultura, Universidades y Empleo, y concretamente en lo dispuesto en su artículo 22, apartado m, esta dirección general dicta la siguiente instrucción:"
+    },
+    {
+      "type": "seccion",
+      "id": "sec-1",
+      "title": "1. Objeto",
+      "content": "Esta normativa regula el uso de la identidad digital y del equipamiento informático gestionado por la Conselleria de Educación, Cultura, Universidades y Empleo, es decir todo aquel que haya sido dado de alta en el inventario."
+    },
+    {
+      "type": "seccion",
+      "id": "sec-2",
+      "title": "2. Ámbito de aplicación",
+      "content": "Esta normativa se aplica a todo usuario de:\n\n• Cuentas de los dominios @edu.gva.es, @alu.edu.gva.es, @iseacv.gva.es y @alu.iseacv.gva.es.\n\n• Cualquier aplicación a la que se disponga de acceso por el hecho de tener acceso a las cuentas anteriores.\n\n• Cualquier tipo de equipamiento informático gestionado por la Conselleria, como pueden ser los ordenadores, tabletas o pantallas digitales interactivas entre otros."
+    },
+    {
+      "type": "seccion",
+      "id": "sec-3",
+      "title": "3. Normas de uso aplicables a cuentas de correo",
+      "content": "• Solo se permite su uso para actividades relacionadas con la docencia y la administración educativa, nunca para fines personales ni empresariales.\n\n• Es responsabilidad de cada usuario la seguridad de las cuentas a las que tenga acceso, incluyendo la custodia de contraseñas y el cumplimiento de las medidas de seguridad.\n\n• La posibilidad de utilizar estas cuentas para el registro en páginas web o aplicaciones de terceros, está igualmente limitada a la actividad docente o educativa.\n\n• No se puede participar en ninguna actividad que dificulte o interfiera en el funcionamiento de los servicios.\n\n• Si detecta cualquier uso no autorizado de las contraseñas, incidencias de seguridad, envío o recepción de SPAM, o sospechas de actividad maliciosa, debe notificarse inmediatamente a la Conselleria de Educación, a través el portal de Soporte y Asistencia Informática (http://gvasai.edu.gva.es), y seleccionando “CIBERSEGURIDAD”, tipo de solicitud “Incidencia” y, servicio afectado, “Phishing, acoso, estafas y SPAM”\n\n• No se pueden utilizar las cuentas de correo para anunciar la aparición de virus, amenazas, etc. por parte del personal no autorizado.\n\n• Las cuentas deben utilizarse únicamente desde dispositivos en los que no exista sospecha de poder estar infectados o manipulados.\n\n• La sesión deberá cerrarse manualmente siempre, especialmente cuando se utilicen dispositivos que puedan ser utilizados por otras personas.\n\n• Las cuentas son auditadas y podrían ser suspendidas en caso de incumplimiento de la normativa.\n\n**3.1. Identidad Digital Personal**\n\nSon un tipo de cuentas asignadas a docentes, alumnado y personal no docente. Se asocia a la actividad educativa y está vinculada a un usuario individual.\n\n• La cuenta es estrictamente personal y no debe compartirse con terceros.\n\n• No están permitidos los envíos masivos, siendo rechazados los mensajes si el número máximo de destinatarios es superior al límite establecido. Para ello existen alternativas corporativas como las identidades de centro o los buzones de correo compartidos.\n\n**3.2. Identidad digital de centro y buzones de correos compartidos**\n\nSon las cuentas de correo oficiales de los centros educativos y los buzones compartidos creados con fines concretos. Se distinguen por la siguiente estructura:\n\n• Cuenta del centro educativo: codigocentro@edu.gva.es\n\n• Buzones de correos compartidos: codigocentro.ámbito@edu.gva.es\n\nEstas cuentas y buzones compartidos tendrán carácter informativo, como, por ejemplo:\n\n• Comunicaciones del centro con otras entidades, sin valor administrativo.\n\n• Comunicaciones a los centros de avisos de incidencias que afecten a los centros docentes en general.\n\n• Publicaciones de órdenes que afectan a centros docentes.\n\n• Información de cursos dirigidos a la administración de los centros docentes.\n\n• Informaciones diversas relacionadas con el Bono-libro (publicación, plazos...).\n\n• Informaciones sobre plazos de becas...\n\nAdemás de las medidas de seguridad aplicables a cualquier cuenta, para el caso concreto de los buzones de correos compartidos, se establece que:\n\n• No se permite usarlas para iniciar sesión en terceras aplicaciones.\n\n• No se permite usarlas para iniciar sesión en los equipos informáticos, teniendo que utilizar la cuenta personal para ello."
+    },
+    {
+      "type": "seccion",
+      "id": "sec-4",
+      "title": "4. Normas aplicables al equipamiento informático",
+      "content": "El uso del equipamiento deberá regirse por los siguientes principios:\n\n• Finalidad educativa y administrativa: Solo se utilizarán para actividades relacionadas con la docencia, la formación, la investigación y la gestión educativa.\n\n• Uso responsable y seguro: El usuario es responsable de la custodia, el buen uso y la protección de los dispositivos mientras le estén asignados o haga uso de ellos.\n\n• Cumplimiento normativo: Se deberán respetar las normativas vigentes, en especial la norma de uso seguro de medios tecnológicos de la Generalitat Valenciana y la Política de Seguridad de la Información de la Generalitat Valenciana.\n\n• Cuando exista un equipo corporativo, no se permitirá el uso de dispositivos personales en las redes proporcionadas por la Conselleria. En ningún caso se podrá desconectar el equipo corporativo para la utilización de uno personal. Cuando sea necesario el uso de dispositivos personales para uso educativo se conectarán a la red wifi correspondiente del centro haciendo uso de la identidad digital proporcionada tanto al personal docente como al alumnado.\n\n• Cualquier incidencia técnica, robo o pérdida, deberá ser comunicada a la Conselleria de Educación, a través el portal de Soporte y Asistencia Informática (http://gvasai.edu.gva.es), usando la categoría referente a Equipo de trabajo.\n\n• Para garantizar su correcto funcionamiento y cumplimiento normativo, la actividad de los equipos puede ser auditada y supervisada, sin necesidad de notificar al usuario, respetando los principios de necesidad, idoneidad y proporcionalidad, preservando las garantías del derecho a la intimidad del usuario y la seguridad de las comunicaciones.\n\n• Queda prohibido modificar la configuración, tanto física como software, del sistema sin autorización expresa de la Conselleria.\n\n• No se permite el uso de dispositivos de almacenamiento USB.\n\n• Los dispositivos deberán utilizarse dentro del entorno educativo bajo supervisión del centro.\n\n• El acceso a los equipos no podrá ser anónimo y requerirá de autenticación mediante credenciales personales. En los casos en que no sea posible por motivos didácticos, será el profesor, o la persona designada por el equipo directivo del centro, el responsable de cualquier actividad sobre los equipos.\n\n• Los usuarios deberán cerrar sesión al finalizar su uso.\n\n• No se permite el almacenamiento de datos en los equipos, especialmente datos personales.\n\n• No está permitido conectarse a redes distintas a las corporativas.\n\n• No debe dejarse el dispositivo desatendido sin bloquear la sesión."
+    },
+    {
+      "type": "seccion",
+      "id": "sec-5",
+      "title": "5. Derogaciones",
+      "content": "La presente Instrucción de Servicio 4/2025 deja sin efecto las instrucciones de servicio:\n\n• Instrucción de servicio núm. 1/2011 sobre las cuentas corporativas de correo electrónico para el personal docente.\n\n• Instrucción de servicio núm. 2/2011 sobre la gestión del correo spam de las cuentas corporativas de correo electrónico de los centros docentes y coordinadores TIC.\n\n• Instrucción de servicio nº 1/2009 para la utilización de las cuentas de correo electrónico oficiales de centros docentes.\n\n• Instrucción de servicio nº 4/2009 sobre recomendaciones de seguridad del equipamiento informático de los centros docentes."
+    }
+  ],
+  "legalAnalysis": {
+    "enactedPursuantTo": [
+      {
+        "title": "Decreto 38/2025, de 4 de marzo, del Consell, Reglamento orgánico y funcional de la Conselleria de Educación, Cultura, Universidades y Empleo (art. 22.m)",
+        "articles": [
+          "art-22"
+        ],
+        "relationship": "habilitante"
+      }
+    ],
+    "priorAffectations": [],
+    "posteriorAffectations": [],
+    "derogations": [
+      {
+        "lawId": "instruccion-1-2011-cuentas-correo-docentes",
+        "title": "Instrucción de servicio 1/2011 — Cuentas corporativas de correo electrónico para el personal docente",
+        "type": "deroga",
+        "description": "Queda sin efecto con la aprobación de esta instrucción."
+      },
+      {
+        "lawId": "instruccion-2-2011-spam-cuentas",
+        "title": "Instrucción de servicio 2/2011 — Gestión del correo spam de las cuentas corporativas de correo electrónico",
+        "type": "deroga",
+        "description": "Queda sin efecto con la aprobación de esta instrucción."
+      },
+      {
+        "lawId": "instruccion-1-2009-correo-centros",
+        "title": "Instrucción de servicio 1/2009 — Utilización de las cuentas de correo electrónico oficiales de centros docentes",
+        "type": "deroga",
+        "description": "Queda sin efecto con la aprobación de esta instrucción."
+      },
+      {
+        "lawId": "instruccion-4-2009-seguridad-equipamiento",
+        "title": "Instrucción de servicio 4/2009 — Recomendaciones de seguridad del equipamiento informático de los centros docentes",
+        "type": "deroga",
+        "description": "Queda sin efecto con la aprobación de esta instrucción."
+      }
+    ],
+    "concordances": []
+  },
+  "promulgation": {
+    "place": "València",
+    "date": "2025-06-17",
+    "signatories": [
+      {
+        "name": "José María Larena Berrocal",
+        "role": "Director general de Infraestructuras Educativas"
+      }
+    ]
+  },
+  "scope": "general",
+  "territory": "autonomico",
+  "temporality": {
+    "type": "permanente"
+  },
+  "docType": "documentos"
+}

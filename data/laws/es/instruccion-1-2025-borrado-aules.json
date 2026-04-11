@@ -1,0 +1,79 @@
+{
+  "id": "instruccion-1-2025-borrado-aules",
+  "slug": "instruccion-1-2025-borrado-aules",
+  "type": "documento",
+  "number": "1/2025",
+  "date": "2025-02-24",
+  "publishedIn": {
+    "source": "CEICE",
+    "number": "",
+    "date": "2025-02-24",
+    "url": "",
+    "pdfUrl": "https://ceice.gva.es/documents/161634279/390142986/Instruccin_1_2025_borrado_cursos_aules_castellano_firmado.pdf/ebfedaab-9035-e0e7-b753-1272356ead42"
+  },
+  "title": "Instrucción 1/2025, de la Dirección General de Infraestructuras Educativas, sobre el borrado de las aulas virtuales en la plataforma Aules",
+  "titleShort": "Instrucción 1/2025 - Borrado de aulas virtuales en Aules",
+  "category": "tic",
+  "vigpiracy": {
+    "status": "vigente",
+    "statusLabel": "Vigente",
+    "effectiveDate": "2025-02-24"
+  },
+  "structure": [
+    {
+      "type": "preambulo",
+      "id": "preambulo",
+      "title": "Introducción",
+      "content": "En virtud de las competencias atribuidas por el DECRETO 166/2024, de 12 de noviembre, del Consell, de aprobación del Reglamento orgánico y funcional de la Conselleria de Educación, Cultura, Universidades y Empleo y concretamente en lo dispuesto en su artículo 22, en sus apartados:\n\ni) Potenciar, desarrollar y aplicar las tecnologías de la información y las comunicaciones en el ámbito de la educación.\n\nl) Elaborar las especificaciones técnicas y la calificación del equipamiento informático y de las aplicaciones informáticas destinados a los centros docentes.\n\np) Planificar, priorizar y coordinar las necesidades en materia informática respecto de aplicaciones, comunicaciones y soportes para el Departamento en coordinación con el órgano competente en materia de tecnologías de la información y las comunicaciones de la Generalitat."
+    },
+    {
+      "type": "seccion",
+      "id": "sec-1",
+      "title": "1. Contexto",
+      "content": "La Conselleria de Educación, Cultura, Universidades y Empleo, proporciona la plataforma educativa Aules como herramienta de gestión del aprendizaje de formación en línea tanto en enseñanzas presenciales, a distancia o con modalidad semipresencial a todos los centros educativos, organizaciones y entidades de titularidad de la Generalitat Valenciana y centros educativos sostenidos con fondos públicos. Las distintas enseñanzas están segmentadas y organizadas en agrupaciones denominadas “sabores”.\n\nEn este contexto, los usuarios docentes de la comunidad educativa pueden disponer anualmente de tantos espacios virtuales con propósito educativo, en adelante, aulas virtuales, como requieran. El proceso automatizado de creación de aulas virtuales depende del tipo de enseñanza, así:\n\n• En el caso de la comunidad educativa de centros docentes con enseñanzas presenciales (Infantil, Primaria, Secundaria, Bachillerato, Formación Profesional, Enseñanzas de Régimen Especial, Educación Especial y Formación de Personas Adultas), el proceso se inicia a través de la solicitud del docente en el Mòdul Docent de ITACA, creándose tantas aulas virtuales como contenidos y agrupaciones (horarios) existan en ITACA y matriculando en éstas al alumnado correspondiente.\n\n• Para la comunidad educativa de enseñanzas correspondientes al ISEACV (Instituto Superior de Enseñanzas Artísticas), el proceso se inicia en la aplicación ARTIC que emplean estos centros para la organización de sus enseñanzas.\n\n• En el caso de la comunidad educativa de centros docentes con enseñanzas a distancia o de modalidad semipresencial, la creación de aulas virtuales se realiza de oficio, creando tantas aulas virtuales como asignaturas estén contempladas en la gestión del centro en ITACA y matriculando en éstas al alumnado correspondiente.\n\n• Por último, para los CEFIRES, órganos de la administración pública para la formación permanente del profesorado, competencia de la Subdirección General de Formación del profesorado, las aulas virtuales creadas en Aules corresponden a las ediciones formativas creadas en la plataforma GESFORM que requieran este soporte, atendiendo su matrícula a los participantes, ponentes y asesores correspondientes a cada acción formativa.\n\nAdemás de este proceso automatizado en Aules para la creación de aulas virtuales sincronizadas con ITACA, también se proporcionan mecanismos adicionales para la creación de otras aulas con propósito docente bajo demanda del director del centro.\n\nEl volumen de aulas virtuales creado anualmente es muy elevado, así como también el número de usuarios que utilizan la plataforma Aules, con lo que la gestión de los recursos tecnológicos disponibles, entre éstos el almacenamiento, es prioritaria. Así, el espacio de almacenamiento en Aules viene determinado por el requerido por los docentes con recursos educativos de distinta naturaleza en las aulas virtuales, así como por el consumido por los usuarios durante su actividad en la plataforma. Además, hay que tener en cuenta que este espacio de almacenamiento es cada vez mayor debido a la evolución constante de aplicaciones y a los recursos educativos multimedia. Por este motivo, se hace imprescindible disponer de políticas de borrado anuales que permitan liberar el espacio de almacenamiento ocupado tanto por las aulas virtuales como por los usuarios vinculados a éstas."
+    },
+    {
+      "type": "seccion",
+      "id": "sec-2",
+      "title": "2. Objeto y alcance",
+      "content": "El objeto de esta instrucción es definir la política de borrado de las aulas virtuales en Aules para las distintas etapas y modalidades de educación soportadas en dicha plataforma a excepción de los sabores Docent y Autoformació. Estableciendo también, el grado de afectación para los distintos usuarios vinculados a dichas aulas."
+    },
+    {
+      "type": "seccion",
+      "id": "sec-3",
+      "title": "3. Política de borrado de aulas virtuales",
+      "content": "Con carácter general para todos los sabores objeto de esta instrucción, la vigencia de estas aulas virtuales se establece de la siguiente manera:\n\n- Para el alumnado: Un curso académico.\n\n- Para los docentes: Un curso académico y cuatro meses para el acceso del profesorado (hasta diciembre del curso académico siguiente al que se crearon las aulas virtuales).\n\nEn el caso particular del sabor de Formació del Professorat, se permite el acceso a las aulas virtuales durante un periodo de cuatro años a contar desde el inicio de la campaña en la que fue creada la edición.\n\nAgotado el periodo de acceso para los docentes, se activará el proceso de borrado de todas las aulas virtuales, correspondientes al curso académico anterior. El proceso de borrado conlleva la eliminación de la plataforma de materiales, tareas, libro de calificaciones, etc. vinculados a estas aulas."
+    }
+  ],
+  "legalAnalysis": {
+    "enactedPursuantTo": [
+      {
+        "title": "Decreto 166/2024, de 12 de noviembre, del Consell, Reglamento orgánico y funcional de la Conselleria de Educación, Cultura, Universidades y Empleo (art. 22, apartados i, l y p)",
+        "articles": [
+          "art-22"
+        ],
+        "relationship": "habilitante"
+      }
+    ],
+    "priorAffectations": [],
+    "posteriorAffectations": [],
+    "derogations": [],
+    "concordances": []
+  },
+  "promulgation": {
+    "place": "València",
+    "date": "2025-02-24",
+    "signatories": [
+      {
+        "name": "José María Larena Berrocal",
+        "role": "Director general de Infraestructuras Educativas"
+      }
+    ]
+  },
+  "scope": "general",
+  "territory": "autonomico",
+  "temporality": {
+    "type": "permanente"
+  },
+  "docType": "documentos"
+}

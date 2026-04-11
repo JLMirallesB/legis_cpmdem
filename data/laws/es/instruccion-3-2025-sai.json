@@ -1,0 +1,127 @@
+{
+  "id": "instruccion-3-2025-sai",
+  "slug": "instruccion-3-2025-sai",
+  "type": "documento",
+  "number": "3/2025",
+  "date": "2025-06-17",
+  "publishedIn": {
+    "source": "CEICE",
+    "number": "",
+    "date": "2025-06-17",
+    "url": "",
+    "pdfUrl": "https://ceice.gva.es/documents/161634279/390142986/3.2025_CAS.pdf/689d45a9-ced0-31a1-f7eb-b3160123e79a"
+  },
+  "title": "Instrucción de Servicio 3/2025, de la Dirección General de Infraestructuras Educativas, para la utilización del Servicio de Soporte y Asistencia Informática (SAI) por los centros educativos",
+  "titleShort": "Instrucción 3/2025 - Utilización del SAI en centros educativos",
+  "category": "tic",
+  "vigpiracy": {
+    "status": "vigente",
+    "statusLabel": "Vigente",
+    "effectiveDate": "2025-06-17"
+  },
+  "structure": [
+    {
+      "type": "preambulo",
+      "id": "preambulo",
+      "title": "Introducción",
+      "content": "En virtud de las competencias atribuidas por el DECRETO 38/2025, de 4 de marzo, del Consell, de aprobación del Reglamento orgánico y funcional de la Conselleria de Educación, Cultura, Universidades y Empleo, y concretamente en lo dispuesto en su artículo 22, apartado m, esta dirección general dicta la siguiente instrucción:"
+    },
+    {
+      "type": "seccion",
+      "id": "sec-1",
+      "title": "1. Contexto",
+      "content": "La Conselleria de Educación, Cultura, Universidades y Empleo, a través de la Dirección General de Infraestructuras Educativas, proporciona a los centros educativos dependientes de la Generalitat Valenciana el servicio de Soporte y Asistencia Informática (SAI) para atender las incidencias y peticiones relacionadas con las tecnologías de la información y las comunicaciones (TIC) en equipos informáticos, aplicaciones educativas y administrativas, telecomunicaciones y seguridad informática."
+    },
+    {
+      "type": "seccion",
+      "id": "sec-2",
+      "title": "2. Ámbito de asistencia",
+      "content": "Los servicios suministrados por el SAI abarcan los ámbitos de asistencia siguientes:\n\n• APLICACIONES O SERVICIOS EDUCATIVOS\n\n- Aules, Portaledu, Portaledu blogs, Biblioedu, AppsEdu. Identidad digital o cualquier otra aplicación relacionada con los servicios educativos.\n\n• APLICACIONES O SERVICIOS ADMINISTRATIVOS\n\n- ITACA, OVIDOC, WebFamilia o cualquier otra aplicación relacionada con los servicios administrativos.\n\n• EQUIPO DE TRABAJO\n\n- Incidencias y peticiones relacionadas con equipos informáticos, periféricos, tabletas, LliureX, Windows, gvaSAI-inventario, carros de carga, pantallas y aulas digitales interactivas (ADI) y su mantenimiento considerado como equipamiento TIC.\n\n- Queda excluido aquel material considerado como consumible (cd, toner, etc.).\n\n• RED DE VOZ Y DATOS\n\n- Incidencias y peticiones relacionadas con la conexión a internet, Wi-Fi, telefonía fija y móvil, extensiones y traslado de líneas.\n\n• COORDINACIÓN TIC\n\n- Consultas dirigidas a la Coordinación TIC provincial.\n\n• CIBERSEGURIDAD\n\n- Incidencias y peticiones relacionadas con ciberseguridad."
+    },
+    {
+      "type": "seccion",
+      "id": "sec-3",
+      "title": "3. Tramitación de solicitudes de asistencia",
+      "content": "1.- Cualquier solicitud (incidencia o petición) relacionada con los ámbitos mencionados deberá tramitarse, preferiblemente, a través de la plataforma de gestión de la demanda https://gvasai.edu.gva.es.\n\n2.- También podrá realizarse la tramitación vía telefónica en aquellos casos que no sea posible realizar la tramitación vía telemática. El número de teléfono estará disponible en el portal web del SAI en la dirección https://portal.edu.gva.es/sai.\n\n3.- El protocolo de recepción de solicitudes contempla que a todas y cada una de ellas se les asignará un número identificativo que garantiza que la solicitud ha sido correctamente dada de alta.\n\n4.- Las solicitudes registradas correctamente pueden ser atendidas y resueltas tanto por vía telemática, telefónica o con la visita al centro de los técnicos de campo. Los técnicos deberán identificarse como tales cuando se realice la visita al centro educativo."
+    },
+    {
+      "type": "seccion",
+      "id": "sec-4",
+      "title": "4. Asistencia a los equipos informáticos y el software",
+      "content": "1.- En la atención de solicitudes relacionadas con los equipos informáticos se deben considerar los siguientes aspectos:\n\n• El equipo informático deberá estar inventariado correctamente. Dicho inventario estará disponible desde la plataforma informática de gestión de la demanda.\n\n• Para gestionar la solicitud relacionada con el equipo afectado siempre será necesario proporcionar el número de serie o código de inventario de este. Por ello se recomienda tener esta información antes de empezar la gestión.\n\n• El equipo informático deberá estar en las situaciones indicadas en el “Modelo de atención por tipo de equipo (MATE)”. Dicho documento es accesible a través del portal de equipamiento https://portal.edu.gva.es/equipamentedu/es/manuales/\n\n• Si se trata de equipamiento del centro educativo no suministrado por el departamento de la Generalitat competente en materia de tecnologías de la información y las comunicaciones para la Educación, deberá cumplir las condiciones indicadas en la resolución correspondiente de la Dirección General de Infraestructuras Educativas, por la que se crea el catálogo (DELEGATIC) para la adquisición de equipamiento y productos TIC para el uso en el entorno educativo por parte de la dirección de los centros educativos públicos no universitarios de la Generalitat.\n\n2.- Respecto a las solicitudes relacionadas con el software del equipamiento (sistema operativo o aplicaciones), sólo se atenderán si cumplen tanto los requisitos de la presente instrucción de servicio (alta en el inventario del centro), como la resolución vigente de Delegatic https://ceice.gva.es/es/delegatic y la información disponible en Appsedu https://portal.edu.gva.es/appsedu"
+    },
+    {
+      "type": "seccion",
+      "id": "sec-5",
+      "title": "5. Asistencia a la red de voz y datos",
+      "content": "En cuanto a las solicitudes de voz y datos relacionadas con la telefonía e internet en los centros educativos:\n\n• Los centros no podrán contratar líneas de acceso a internet ni de telefonía por cuenta propia.\n\n• Cualquier solicitud relacionada con las líneas de voz y datos, red de área local y wifi o con los dispositivos de red se realizará según lo dispuesto en el punto 3 de esta instrucción de servicio.\n\n• En cuanto a las líneas de acceso a internet, el alta, mantenimiento y baja de la línea de acceso a internet de los centros educativos es responsabilidad del organismo de la Generalitat\n\ncompetente en materia de comunicaciones. La red de secretaría y de aulas son totalmente independientes y no deben interconectarse en ningún punto de la red.\n\n• Las líneas telefónicas de alarma y ascensor no pueden ser contratadas por el centro educativo. Estas líneas se deberán incluir dentro del contrato de la empresa de mantenimiento del servicio. Dicha empresa deberá incluir el módulo GSM con la línea móvil y batería correspondiente, y será responsabilidad de dicha empresa su control y mantenimiento.\n\n• Respecto a la red de área local cableada, de aulas y dependencias administrativas, y las comunicaciones wifi de todo el centro educativo, para su correcto funcionamiento, y por motivos de seguridad informática, solo podrán ser instaladas, reparadas, modificadas o configuradas por el personal autorizado por la dirección general competente en materia de tecnologías de la información y las comunicaciones para la educación de la Conselleria competente en educación.\n\n• Cuando se requiera conectar dispositivos del tipo Internet of Things (IoT) se deberá solicitar la autorización mediante la plataforma de gestión de la demanda mencionada en esta instrucción de servicio. La petición deberá pasar las validaciones necesarias para garantizar la seguridad de dichos dispositivos. Una vez aprobada dicha solicitud, se realizará la oportuna conexión previa al cierre de la petición.\n\n• Asimismo, es responsabilidad del equipo directivo del centro solicitar las peticiones referentes a la telefonía, siempre cumpliendo que en las aulas no podrán instalarse terminales telefónicos y que estén ubicados en espacios donde el terminal siempre esté bajo supervisión."
+    },
+    {
+      "type": "seccion",
+      "id": "sec-6",
+      "title": "6. Derogaciones",
+      "content": "La presente Instrucción de Servicio 3/2025 deja sin efecto las instrucciones de servicio:\n\n• Instrucción de Servicio 6/2012 - Para la implantación de la telefonía IP en los centros educativos.\n\n• Instrucción de Servicio 5/2012 - Para el correcto uso y gestión de las líneas de datos de los centros educativos.\n\n• Instrucción de Servicio 3/2010 - Para el correcto uso y gestión de las líneas de datos de los centros educativos.\n\n• Instrucción de Servicio 3/2009 - Para la utilización del Servicio de Soporte y Asistencia Informática (SAI) por los centros educativos."
+    }
+  ],
+  "legalAnalysis": {
+    "enactedPursuantTo": [
+      {
+        "title": "Decreto 38/2025, de 4 de marzo, del Consell, Reglamento orgánico y funcional de la Conselleria de Educación, Cultura, Universidades y Empleo (art. 22.m)",
+        "articles": [
+          "art-22"
+        ],
+        "relationship": "habilitante"
+      },
+      {
+        "lawId": "resolucion-03-10-2024-delegatic",
+        "title": "Resolución de 3 de octubre de 2024, de la Dirección General de Infraestructuras Educativas, catálogo DELEGATIC",
+        "relationship": "conformidad"
+      }
+    ],
+    "priorAffectations": [],
+    "posteriorAffectations": [],
+    "derogations": [
+      {
+        "lawId": "instruccion-6-2012-telefonia-ip",
+        "title": "Instrucción de Servicio 6/2012 — Implantación de la telefonía IP en los centros educativos",
+        "type": "deroga",
+        "description": "Queda sin efecto con la aprobación de esta instrucción."
+      },
+      {
+        "lawId": "instruccion-5-2012-lineas-datos",
+        "title": "Instrucción de Servicio 5/2012 — Correcto uso y gestión de las líneas de datos de los centros educativos",
+        "type": "deroga",
+        "description": "Queda sin efecto con la aprobación de esta instrucción."
+      },
+      {
+        "lawId": "instruccion-3-2010-lineas-datos",
+        "title": "Instrucción de Servicio 3/2010 — Correcto uso y gestión de las líneas de datos de los centros educativos",
+        "type": "deroga",
+        "description": "Queda sin efecto con la aprobación de esta instrucción."
+      },
+      {
+        "lawId": "instruccion-3-2009-sai",
+        "title": "Instrucción de Servicio 3/2009 — Utilización del Servicio de Soporte y Asistencia Informática (SAI) por los centros educativos",
+        "type": "deroga",
+        "description": "Queda sin efecto con la aprobación de esta instrucción."
+      }
+    ],
+    "concordances": []
+  },
+  "promulgation": {
+    "place": "València",
+    "date": "2025-06-17",
+    "signatories": [
+      {
+        "name": "José María Larena Berrocal",
+        "role": "Director general de Infraestructuras Educativas"
+      }
+    ]
+  },
+  "scope": "general",
+  "territory": "autonomico",
+  "temporality": {
+    "type": "permanente"
+  },
+  "docType": "documentos"
+}

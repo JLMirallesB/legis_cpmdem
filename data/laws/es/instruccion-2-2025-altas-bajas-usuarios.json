@@ -1,0 +1,91 @@
+{
+  "id": "instruccion-2-2025-altas-bajas-usuarios",
+  "slug": "instruccion-2-2025-altas-bajas-usuarios",
+  "type": "documento",
+  "number": "2/2025",
+  "date": "2025-02-24",
+  "publishedIn": {
+    "source": "CEICE",
+    "number": "",
+    "date": "2025-02-24",
+    "url": "",
+    "pdfUrl": "https://ceice.gva.es/documents/161634279/390142986/Instruccion+2_2025_2_6_24_altas_bajas_usuarios_CAStellano_firmado.pdf/37107084-9d77-9ff2-96df-dfc71926f8f2"
+  },
+  "title": "Instrucción 2/2025, de la Dirección General de Infraestructuras Educativas, sobre altas y bajas de cuentas de usuario en los dominios @edu.gva.es, @alu.edu.gva.es, @iseacv.gva.es y @alu.iseacv.gva.es para los centros educativos de titularidad de la Generalitat",
+  "titleShort": "Instrucción 2/2025 - Altas y bajas de cuentas @edu.gva.es, @alu.edu.gva.es, @iseacv.gva.es",
+  "category": "tic",
+  "vigpiracy": {
+    "status": "vigente",
+    "statusLabel": "Vigente",
+    "effectiveDate": "2025-02-24"
+  },
+  "structure": [
+    {
+      "type": "preambulo",
+      "id": "preambulo",
+      "title": "Introducción",
+      "content": "En virtud de las competencias atribuidas por el DECRETO 166/2024, de 12 de noviembre, del Consell, de aprobación del Reglamento orgánico y funcional de la Conselleria de Educación, Cultura, Universidades y Empleo y concretamente en lo dispuesto en su artículo 22."
+    },
+    {
+      "type": "seccion",
+      "id": "sec-1",
+      "title": "1. Antecedentes",
+      "content": "Todas las personas pertenecientes a los colectivos de personal y alumnado de centros educativos de titularidad de la Generalitat disponen de una cuenta de usuario en los dominios @edu.gva.es, @alu.edu.gva.es, @iseacv.gva.es o @alu.iseacv.gva.es, en adelante Identidad Digital, que les proporciona un conjunto de servicios TIC, como un buzón de correo electrónico o un espacio de almacenamiento en la nube.\n\nEl servicio es gestionado en colaboración por la Dirección General de Tecnologías de la Información y las Comunicaciones y por la Dirección General de Infraestructuras Educativas, y es suministrado en el momento en que las personas usuarias comienzan su relación con la Conselleria de Educación. Esta relación puede ser laboral o académica, dependiendo de la pertenencia del usuario a alguno de los siguientes colectivos:\n\n• Personal docente funcionario o interino.\n\n• Personal no docente de administración y servicios funcionario o interino.\n\n• Alumnado matriculado en algún centro educativo de titularidad de la Generalitat.\n\nPor otro lado, se hace necesario implementar un procedimiento de baja de usuarios automatizado que libere recursos tecnológicos de usuarios que dejan de tener una relación laboral o académica con la Conselleria de Educación. El proceso de baja de cuentas, ejecutado con regularidad, permite una gestión más adecuada de la finalización del acceso a los recursos y servicios por parte de los usuarios, al poder ser informados con antelación, dándoles la posibilidad de salvaguardar sus datos."
+    },
+    {
+      "type": "seccion",
+      "id": "sec-2",
+      "title": "2. Objeto y alcance",
+      "content": "El objeto de esta instrucción es definir el proceso de baja de cuentas de usuario de los dominios @edu.gva.es, @alu.edu.gva.es, @iseacv.gva.es y @alu.iseacv.gva.es para el acceso a servicios y aplicaciones para centros educativos de titularidad de la Generalitat en el ámbito competencial de la Dirección General de Infraestructuras Educativas de la Conselleria de Educación, Universidades y Empleo.\n\nEsta norma aplica a los colectivos de alumnado y de personal docente y no docente, funcionario o interino, de centros educativos de titularidad de la Generalitat."
+    },
+    {
+      "type": "seccion",
+      "id": "sec-3",
+      "title": "3. Servicios y aplicaciones de usuario",
+      "content": "La Identidad Digital proporciona a cada usuario el acceso a servicios informáticos y aplicaciones digitales educativas. Estos servicios y aplicaciones son:\n\n• Buzón de correo electrónico.\n\n• Calendario.\n\n• Espacio de almacenamiento privado en la nube.\n\n• Espacios de almacenamiento colectivos y colaborativos en nube.\n\n• Acceso a aplicativos con autenticación basada en Identidad Digital."
+    },
+    {
+      "type": "seccion",
+      "id": "sec-4",
+      "title": "4. Altas de cuentas de usuario",
+      "content": "El alta de las Identidades Digitales de los usuarios se da cuando se inicia una relación laboral o académica de un nuevo usuario con un centro educativo de titularidad de la Generalitat. El inicio de la relación laboral del personal docente o no docente se produce cuando se asigna al usuario un destino laboral en algún centro educativo de titularidad de la Generalitat. El alumnado inicia una relación académica en el momento en que se produce una matrícula en algún centro educativo de titularidad de la Generalitat.\n\nCon el alta de cada usuario se crea su Identidad Digital y se le proporciona con ella el acceso a las aplicaciones y servicios descritos."
+    },
+    {
+      "type": "seccion",
+      "id": "sec-5",
+      "title": "5. Bajas de cuentas de usuario",
+      "content": "El proceso de baja de las Identidades Digitales de los usuarios se inicia con la condición de baja. En el caso del alumnado, la condición de baja se da al no tener matrícula en ningún centro educativo de titularidad de la Generalitat. En el caso de personal docente y no docente, la condición de baja se da al no tener destino en ningún centro educativo de titularidad de la Generalitat.\n\nEn cada colectivo de usuarios, el proceso de baja de Identidades Digitales tiene sus propias particularidades.\n\n**5.1. Bajas de cuenta de usuario del colectivo de alumnado**\n\nA partir de la condición de baja:\n\n• A los tres meses se notifica por correo electrónico al usuario la situación de baja.\n\n• Un mes más tarde se ejecuta la baja de la identidad digital del usuario, por lo que deja de tener acceso a los servicios descritos.\n\n• Los datos del usuario almacenados en estos servicios, como archivos, carpetas y correos electrónicos, serán eliminados pasados 30 días. Si decide conservarlos, el usuario deberá hacer una copia de sus datos antes de la pérdida de acceso al servicio.\n\n**5.2. Bajas de cuenta de usuario del colectivo de personal docente y no docente**\n\nA partir de la condición de baja:\n\n• A los doce meses se notifica por correo electrónico al usuario la situación de baja.\n\n• Un mes más tarde se ejecuta la baja de la identidad digital del usuario, por lo que deja de tener acceso a los servicios descritos.\n\n• Los datos del usuario almacenados en estos servicios, como archivos, carpetas y correos electrónicos, serán eliminados pasados 30 días. Si decide conservarlos, el usuario deberá hacer una copia de sus datos antes de la pérdida de acceso al servicio.\n\nEn el caso del personal no docente, si tras producirse la condición de baja, el usuario mantiene su relación laboral con la administración de la Generalitat, se le proveerá de la Identidad Digital en el dominio correspondiente."
+    }
+  ],
+  "legalAnalysis": {
+    "enactedPursuantTo": [
+      {
+        "title": "Decreto 166/2024, de 12 de noviembre, del Consell, Reglamento orgánico y funcional de la Conselleria de Educación, Cultura, Universidades y Empleo (art. 22)",
+        "articles": [
+          "art-22"
+        ],
+        "relationship": "habilitante"
+      }
+    ],
+    "priorAffectations": [],
+    "posteriorAffectations": [],
+    "derogations": [],
+    "concordances": []
+  },
+  "promulgation": {
+    "place": "València",
+    "date": "2025-02-24",
+    "signatories": [
+      {
+        "name": "José María Larena Berrocal",
+        "role": "Director general de Infraestructuras Educativas"
+      }
+    ]
+  },
+  "scope": "general",
+  "territory": "autonomico",
+  "temporality": {
+    "type": "permanente"
+  },
+  "docType": "documentos"
+}

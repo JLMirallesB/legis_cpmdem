@@ -1,0 +1,99 @@
+{
+  "id": "instruccion-3-2024-validacion-apps",
+  "slug": "instruccion-3-2024-validacion-apps",
+  "type": "documento",
+  "number": "3/2024",
+  "date": "2024-11-05",
+  "publishedIn": {
+    "source": "CEICE",
+    "number": "",
+    "date": "2024-11-11",
+    "url": "",
+    "pdfUrl": "https://ceice.gva.es/documents/161634279/390142986/3.2024_CAS.pdf/8a851cdd-5999-6c11-7d54-27eda0a8e017"
+  },
+  "title": "Instrucción 3/2024, de 5 de noviembre de 2024, de la Dirección General de Infraestructuras Educativas, para la autorización de aplicaciones educativas que no requieren compra o adquisición de licencias en los centros que imparten estudios de formación profesional, enseñanzas de régimen especial y centros de enseñanzas artísticas superiores y estudios de diseño y música (ISEACV) de titularidad de la Generalitat",
+  "titleShort": "Instrucción 3/2024 - Validación apps educativas sin licencia (FP e ISEACV)",
+  "category": "tic",
+  "vigpiracy": {
+    "status": "vigente",
+    "statusLabel": "Vigente",
+    "effectiveDate": "2024-11-11"
+  },
+  "structure": [
+    {
+      "type": "preambulo",
+      "id": "preambulo",
+      "title": "Introducción",
+      "content": "En virtud de las competencias atribuidas por el DECRETO 136/2023, de 10 de agosto, del Consell, de aprobación del Reglamento orgánico y funcional de la Conselleria de Educación, Universidades y Empleo. [2023/8898] y concretamente en lo dispuesto en su artículo 19, apartado i, a tenor de los siguientes:"
+    },
+    {
+      "type": "seccion",
+      "id": "sec-1",
+      "title": "1. Antecedentes",
+      "content": "En los entornos educativos de formación profesional, el uso de aplicaciones informáticas se ha convertido en una herramienta esencial para facilitar el aprendizaje y la gestión educativa. Estas aplicaciones permiten a los estudiantes y docentes acceder a recursos educativos y realizar actividades prácticas de manera eficiente.\n\nEs fundamental que las aplicaciones instaladas en los equipos informáticos sean seguras y cumplan con los principios establecidos en la normativa de protección de datos. La seguridad de la información y la privacidad de los usuarios son aspectos críticos que deben ser garantizados para tratar evitar cualquier tipo de vulnerabilidad o brecha de datos.\n\nEn los entornos educativos de formación profesional, enseñanzas de régimen especial, así como de enseñanzas artísticas superiores y estudios de diseño y música, existe la necesidad de utilizar software específico que facilite el desarrollo de competencias técnicas y profesionales. Para ello, es necesario que el proceso de instalación y validación de dicho software sea ágil, permitiendo su uso tras haber realizado las comprobaciones pertinentes de seguridad y protección de datos.\n\nLa Conselleria de Educación, Cultura, Universidades y Empleo ha publicado las siguientes resoluciones: RESOLUCIÓN de 30 de septiembre de 2024, sobre delegación de competencias en la Dirección General de Infraestructuras Educativas, para la creación y actualización del catálogo de equipamientos y productos TIC para uso en el centro educativo y en la persona titular de la dirección de los centros docentes públicos no universitarios de titularidad de la Generalitat, para adquisición de equipamiento y productos TIC para uso en el entorno educativo y RESOLUCIÓN de 3 de octubre de 2024, de la Dirección General de Infraestructuras Educativas, por la que se crea el catálogo (DELEGATIC) para la adquisición de equipación y productos TIC para el uso en el entorno educativo por parte de la dirección de los centros educativos públicos no universitarios de la Generalitat.\n\nEl Anexo II de la RESOLUCIÓN de 3 de octubre de 2024, de la Dirección General de Infraestructuras Educativas, por la que se crea el catálogo (DELEGATIC) para la adquisición de equipación y productos TIC para el uso en el entorno educativo por parte de la dirección de los centros educativos públicos no universitarios de la Generalitat establece los requisitos en cuanto a protección de datos y seguridad para la compra de software y/o licencias destinadas a enseñanzas de Formación Profesional y centros de enseñanzas artísticas superiores y estudios de diseño y música (ISEACV)."
+    },
+    {
+      "type": "seccion",
+      "id": "sec-2",
+      "title": "2. Objeto y alcance",
+      "content": "El objeto de esta instrucción es validar la seguridad y los aspectos relativos a la protección de datos de las aplicaciones informáticas necesarias para los estudios de formación profesional que no requieren de compra o adquisición de licencias, siendo este proceso esencial para garantizar que las aplicaciones utilizadas en los entornos educativos cumplan con los estándares de seguridad y protección de datos establecidos por la normativa vigente.\n\nEsta instrucción aplica a todos los centros educativos de titularidad de la Generalitat que imparten enseñanzas de formación profesional, enseñanzas de régimen especial y centros de enseñanzas artísticas superiores y estudios de diseño y música (ISEACV)."
+    },
+    {
+      "type": "seccion",
+      "id": "sec-3",
+      "title": "3. Requisitos en cuanto a protección de datos y seguridad",
+      "content": "**Consideraciones generales**\n\n– Ninguna aplicación o plataforma podrá ofrecer publicidad, ni reclamos, ni pagos a aplicaciones de terceros.\n\n**Protección de datos**\n\nPara aquellas aplicaciones susceptibles de almacenar datos de carácter personal en servidores externos, el editor del software debe proporcionar una política de privacidad en la que conste:\n\n– Quién es el responsable del tratamiento de datos. Se debe indicar el nombre y los datos de contacto del responsable y, en su caso, del corresponsable, del representante del responsable, y del delegado de protección de datos. Debe constar la identidad y dirección de la persona jurídica o física responsable\n\n– Las finalidades del tratamiento de datos.\n\n– Descripción de las categorías de interesados y de las categorías de datos personales.\n\n– Las categorías de destinatarios a quienes se comunicaron o comunicarán los datos personales, incluidos los destinatarios en terceros países u organizaciones internacionales.\n\n– Las comunicaciones de datos a terceros y su identidad, así como la finalidad para la cual se ceden.\n\n– La ubicación de los datos.\n\n– Para transferencias de datos fuera del Espacio Económico Europeo, las transferencias de datos personales a un tercer país o una organización internacional, incluida la identificación de dicho tercer país u organización internacional y, en el caso de las transferencias indicadas en el artículo 49, apartado 1, párrafo segundo del Reglamento General de Protección de Datos, las garantías adecuadas. Se puede consultar cuáles son las garantías para las transferencias de datos fuera del Espacio Económico Europeo, en la siguiente dirección de la Agencia Española de Protección de Datos: https://www.aepd.es/derechos-y-deberes/cumple-tus-deberes/medidas-de-cumplimiento/garantias-para-las-transferencias-de\n\n– Base jurídica de licitud o legitimación del tratamiento de datos personales.\n\n– Los plazos previstos para la supresión de las diferentes categorías de datos.\n\n– Cuando sea posible, una descripción general de las medidas técnicas y organizativas de seguridad.\n\n– Los posibles accesos que realiza la aplicación a otros datos almacenados en los dispositivos que ejecuten las aplicaciones informáticas o a sus sensores.\n\n– Los derechos de las personas usuarias.\n\nDerechos de las personas usuarias que se deben recoger en la política de privacidad de la aplicación (regulados en la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, y el Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo de 27 de abril de 2016, Reglamento General de Protección de Datos):\n\n– Derecho de acceso: la persona interesada tendrá derecho a obtener del responsable del tratamiento confirmación de si se están tratando o no datos personales que le conciernen y, en tal caso, derecho de acceso a los datos personales.\n\n– Derecho de rectificación: la persona interesada tendrá derecho a obtener sin dilación indebida del responsable del tratamiento, la rectificación de los datos personales inexactos que le conciernan.\n\nTeniendo en cuenta los fines del tratamiento, la persona interesada tendrá derecho a que se completen los datos personales que sean incompletos, inclusive mediante una declaración adicional.\n\n– Derecho de supresión: La persona interesada tendrá derecho a obtener sin dilación indebida del responsable del tratamiento, la supresión de los datos personales que le conciernan, el cual estará obligado a suprimir sin dilación indebida los datos personales.\n\n– Derecho de oposición: La persona interesada tendrá derecho a oponerse en cualquier momento, por motivos relacionados con su situación particular, a que datos personales que le conciernan sean objeto de un tratamiento.\n\n– Limitación del tratamiento: La persona interesada tiene derecho a limitar el tratamiento de datos que realiza el responsable de tratamiento.\n\n– Portabilidad: La persona interesada tiene derecho a recibir los datos personales que le incumban, que haya proporcionado a un responsable de tratamiento, en un formato estructurado, de uso común y lectura mecánica, y a transmitirlos a otro responsable del tratamiento sin que lo impida el responsable al que se los hubiera facilitado.\n\n– Derecho a no ser objeto de decisiones individuales automatizadas: la persona interesada tendrá derecho a no ser objeto de una decisión basada únicamente en el tratamiento automatizado, incluida la elaboración de perfiles.\n\n**Seguridad**\n\nSe deberán tener en cuenta, al menos, las siguientes consideraciones:\n\n– Software no autorizado por motivos de seguridad. No se permite el uso de software que esté explícitamente no autorizado en Appsedu.\n\n– Licencias: Todo el software debe de disponer de licencia legal y cumplir con las regulaciones autonómicas, estatales y europeas. En lo referente a esta instrucción, aplica al software que no requiere de compra o adquisición de licencias.\n\n– Evaluación de riesgos: Se debe identificar si el software puede estar afectado por alguna vulnerabilidad conocida, se puede realizar esta comprobación en https://www.cvedetails.com/. Si se identificaran vulnerabilidades se deberá realizar una evaluación de impacto y adjuntar a la declaración responsable la evaluación de riesgos y las medidas de mitigación.\n\n– Actualizaciones: El software debe recibir actualizaciones regulares y parches de seguridad.\n\n– Encriptación de datos: Si el software trata datos personales, estos siempre deben encriptarse en su tránsito a través de la red, así como en reposo en aquellos servidores en los que se almacenen.\n\n– Registro de eventos: se recomienda que el software sea capaz de registrar eventos relevantes, que permitan la detección de actividades sospechosas.\n\n**Otros aspectos**\n\n– La Conselleria responsable en materia de educación puede solicitar al centro educativo los informes relativos al análisis de riesgos realizado para el uso del software.\n\n– La Conselleria responsable en materia de educación puede solicitar al centro educativo el software para realizar una auditoría de seguridad y protección de datos, y en su caso, referenciarlo en la plataforma Appsedu."
+    },
+    {
+      "type": "seccion",
+      "id": "sec-4",
+      "title": "4. Declaración responsable",
+      "content": "El centro, a través de gvaSAI, realizará una declaración responsable sobre cumplimiento de los criterios de seguridad y protección de datos del software que no requiere de compra o adquisición de licencias.\n\nPara acceder a los formularios para las declaraciones responsables, desde gvaSAI:\n\n– Categoría: Aplicaciones o servicios educativos > Nuevo tique sobre otros servicios o aplicaciones educativas > Petición > Autorizaciones SW Apps\n\n– Categoría: Aplicaciones o servicios educativos > Nuevo tique sobre otros servicios o aplicaciones educativas > Petición > Autorizaciones Apps Online (Web)\n\nEstos formularios sólo son accesibles a la dirección del centro educativo."
+    },
+    {
+      "type": "seccion",
+      "id": "sec-5",
+      "title": "5. Autorización",
+      "content": "El centro no podrá utilizar ni instalar el software evaluado hasta que no reciba la autorización correspondiente de la Conselleria competente en educación. La respuesta se proporcionará a través del mismo tique generado al enviar el formulario correspondiente de la declaración responsable."
+    }
+  ],
+  "legalAnalysis": {
+    "enactedPursuantTo": [
+      {
+        "title": "Decreto 136/2023, de 10 de agosto, del Consell, Reglamento orgánico y funcional de la Conselleria de Educación, Universidades y Empleo (art. 19.i)",
+        "articles": [
+          "art-19"
+        ],
+        "relationship": "habilitante"
+      },
+      {
+        "lawId": "resolucion-03-10-2024-delegatic",
+        "title": "Resolución de 3 de octubre de 2024, de la Dirección General de Infraestructuras Educativas, por la que se crea el catálogo DELEGATIC",
+        "articles": [
+          "anexo-2"
+        ],
+        "relationship": "desarrollo"
+      }
+    ],
+    "priorAffectations": [],
+    "posteriorAffectations": [],
+    "derogations": [],
+    "concordances": []
+  },
+  "promulgation": {
+    "place": "València",
+    "date": "2024-11-11",
+    "signatories": [
+      {
+        "name": "José María Larena Berrocal",
+        "role": "Director general de Infraestructuras Educativas"
+      }
+    ]
+  },
+  "scope": "general",
+  "territory": "autonomico",
+  "temporality": {
+    "type": "permanente"
+  },
+  "docType": "documentos"
+}

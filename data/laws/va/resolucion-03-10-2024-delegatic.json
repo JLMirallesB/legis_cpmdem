@@ -1,0 +1,129 @@
+{
+  "id": "resolucion-03-10-2024-delegatic",
+  "slug": "resolucion-03-10-2024-delegatic",
+  "type": "resolucion",
+  "number": "03/10/2024",
+  "date": "2024-10-03",
+  "publishedIn": {
+    "source": "DOGV",
+    "number": "9955",
+    "date": "2024-10-11",
+    "url": "https://dogv.gva.es/es/resultat-dogv?signatura=2024/10422",
+    "pdfUrl": "https://dogv.gva.es/datos/2024/10/11/pdf/2024_10422_va.pdf"
+  },
+  "title": "Resolució de 3 d’octubre de 2024, de la Direcció General d’Infraestructures Educatives, per la qual es crea el catàleg (DELEGATIC) per a l’adquisició d’equipament i productes TIC per a l’ús en l’entorn educatiu per part de la direcció dels centres educatius públics no universitaris de la Generalitat",
+  "titleShort": "Resolució DELEGATIC - Catàleg TIC centres educatius (03/10/2024)",
+  "category": "tic",
+  "vigpiracy": {
+    "status": "vigente",
+    "statusLabel": "Vigent",
+    "effectiveDate": "2024-10-12"
+  },
+  "structure": [
+    {
+      "type": "preambulo",
+      "id": "preambulo",
+      "title": "Preàmbul",
+      "content": "La Conselleria d’Educació, Cultura, Universitats i Ocupació, a través de la Direcció General d’Infraestructures Educatives, és l’únic departament competent per a contractar béns i servicis en matèria de tecnologies de la informació i les telecomunicacions (d’ara en avant, TIC), en l’àmbit dels centres docents públics no universitaris, sense perjuí de les funcions que puguen correspondre a altres òrgans i en coordinació amb els mateixos de la Generalitat, i pel resolc sext de la Resolució de 30 de setembre de 2024, del conseller d’Educació, Cultura, Universitats i Ocupació, sobre delegació de competències en la Direcció General d’Infraestructures Educatives, per a la creació i l’actualització del catàleg d’equipaments i productes TIC per a l’ús en el centre educatiu, i en la persona titular de la direcció dels centres docents públics no universitaris de titularitat de la Generalitat, per a l’adquisició d’equipament i productes TIC per a l’ús en l’entorn educatiu, queda sense efecte la Resolució de 29 d’octubre de 2021, del conseller d’Hisenda i Model Econòmic, sobre delegació de competències en qui exercisca la direcció dels centres educatius públics no universitaris de la Generalitat per a l’adquisició d’equipament i productes TIC per a l’ús en l’entorn educatiu.\n\nD’acord amb el que es preveu en el Decret 136/2023, de 10 d’agost, del Consell, d’aprovació del Reglament orgànic i funcional de la Conselleria d’Educació, Universitats i Ocupació, i de conformitat amb el resolc primer de la Resolució de 30 de setembre de 2024, del conseller d’Educació, Cultura, Universitats i Ocupació, sobre delegació de competències en la Direcció General d’Infraestructures Educatives, per a la creació i l’actualització del catàleg d’equipaments i productes TIC per a l’ús en el centre educatiu, i en la persona titular de la direcció dels centres docents públics no universitaris de titularitat de la Generalitat, per a l’adquisició d’equipament i productes TIC per a l’ús en l’entorn educatiu, que delega en la Direcció General d’Infraestructures Educatives la creació i actualització del catàleg d’equipaments i productes TIC susceptible de ser contractat pels centres educatius de la Generalitat, i amb tot això,"
+    },
+    {
+      "type": "seccion",
+      "id": "ap-1",
+      "title": "Primer. Creació del catàleg",
+      "content": "Crear el catàleg d’equipament, programes i productes TIC susceptibles de ser contractats pels centres educatius de titularitat de la Generalitat, que apareix en l’annex I d’esta resolució."
+    },
+    {
+      "type": "seccion",
+      "id": "ap-2",
+      "title": "Segon. Import màxim de gasto",
+      "content": "Establir com a import màxim de gasto, per a equipament i productes TIC susceptibles de ser contractats per cada centre docent de titularitat de la Generalitat, el que establix la normativa de contractació administrativa per als contractes menors."
+    },
+    {
+      "type": "seccion",
+      "id": "ap-3",
+      "title": "Tercer. Exclusivitat del catàleg",
+      "content": "En tot cas, per motius tècnics i de coordinació, qualsevol provisió de servicis i subministraments TIC ha d’estar subjecta exclusivament al catàleg d’equipament i productes TIC establits per la Direcció General d’Infraestructures Educatives."
+    },
+    {
+      "type": "seccion",
+      "id": "ap-4",
+      "title": "Quart. Publicació del catàleg",
+      "content": "En la pàgina web http://www.ceice.gva.es/delegatic estarà disponible el catàleg d’equipament i productes TIC esmentat en el punt primer, així com les instruccions addicionals per a la gestió de les provisions."
+    },
+    {
+      "type": "seccion",
+      "id": "ap-5",
+      "title": "Quint. Inventariat en gvaSAI",
+      "content": "En aquells casos en els quals s’indique en el catàleg, l’equipament i els productes TIC adquirits pels centres educatius hauran de ser inclosos en la corresponent aplicació d’inventari a través del procediment definit en gvaSAI."
+    },
+    {
+      "type": "seccion",
+      "id": "ap-6",
+      "title": "Sext. Proposta de nous elements",
+      "content": "Els centres docents de titularitat de la Generalitat podran proposar, a través de les direccions generals amb competència en matèria de centres docents, de Formació Professional i d’ensenyances de règim especial, així com de l’ISEACV, la inclusió de nous elements en el catàleg."
+    },
+    {
+      "type": "seccion",
+      "id": "ap-7",
+      "title": "Sèptim. Requisits FP i ISEACV",
+      "content": "La compra de programari i/o llicències destinats a ensenyances de Formació Professional i centres d’ensenyances artístiques superiors i estudis de disseny i música (ISEACV) hauran de complir els requisits quant a protecció de dades i seguretat reflectits en l’annex II en esta resolució."
+    },
+    {
+      "type": "seccion",
+      "id": "recursos",
+      "title": "Recursos i entrada en vigor",
+      "content": "Contra el present acte, que esgota la via administrativa, les persones interessades podran interposar un recurs contenciós administratiu, en el termini de dos mesos, a comptar de l’endemà de ser publicat, davant de la Sala Contenciosa Administrativa del Tribunal Superior de Justícia de la Comunitat Valenciana, d’acord amb el que establixen els articles 10.1.a i 46.1 de la Llei 29/1998, de 13 de juliol, reguladora de la jurisdicció contenciosa administrativa, o, potestativament, un recurs de reposició davant d’este mateix òrgan, en el termini d’un mes, computat en els termes ja indicats, de conformitat amb el que disposen els articles 123 i 124 de la Llei 39/2015, d’1 d’octubre, del procediment administratiu comú de les administracions públiques, sense perjuí que les persones interessades en puguen interposar qualsevol altre que estimen procedent.\n\nEsta resolució produirà efectes l’endemà de publicar-se en el Diari Oficial de la Generalitat Valenciana."
+    },
+    {
+      "type": "anexo",
+      "id": "anexo-1",
+      "title": "Annex I. Catàleg de DELEGATIC",
+      "content": "**1. Maquinari**\n\n**1.1. Productes no inventariables que els centres poden adquirir**\n\nL’apunt comptable dels articles inclosos en este apartat es realitzarà en ITACA contra el subcompte 22003 “Material informàtic no inventariable”.\n\nEs delega en els centres educatius l’adquisició dels articles següents, sempre que estos no estiguen vinculats amb el manteniment dels equips informàtics realitzat per la Conselleria d’Educació, Universitats i Ocupació:\n\n– Bateries de portàtils\n\n– Components d’àudio-vídeo: altaveus, auriculars, micròfons, cables de connexió\n\n– Convertidors i connectors: transceptors, GBIC\n\n– Talladora làser\n\n– Discos durs\n\n– Discos SSD\n\n– Fonts d’alimentació\n\n– Ferramentes: crimpadores, testers, multímetres\n\n– Llapis per a tauletes (stylus)\n\n– Lectors de codis de barres\n\n– Lectors i gravadors de suports òptics\n\n– Lectors de targetes\n\n– Comandaments a distància\n\n– Memòria RAM\n\n– Sensors\n\n– Targetes d’emmagatzematge\n\n– Targetes d’àudio\n\n– Targetes de xarxa\n\n– Targetes de vídeo o gràfiques\n\n– Teclats, i ratolins i presentadors sense fils?\n\n**1.2. Productes inventariables que els centres poden adquirir**\n\nL’apunt comptable dels articles inclosos en este apartat es realitzarà en ITACA contra el subcompte 625021TIC (“Material TIC inventariable no subjecte a autorització prèvia”). Per a l’adquisició d’aquell maquinari que requerisca per al seu funcionament correcte disposar de programari propi de control, s’haurà de tindre en compte el que es disposa en el punt 2.4 d’este annex I.\n\nEs delega en els centres l’adquisició dels articles següents:\n\n**1.2.1. Carros per a la càrrega i el transport de tauletes i/o ordinadors portàtils:**\n\n– Armaris de càrrega pròpiament dits\n\n**1.2.2. Dispositius tàctils i audiovisuals:**\n\n– Monitors d’ordinador\n\n– Projectors convencionals\n\n– Projectors de gran angular\n\n– Projectors interactius\n\n– Càmeres web i càmeres IP\n\n– Tauletes digitalitzadores (perifèrics tàctils connectats al PC per al disseny gràfic)\n\n– Ulleres de realitat virtual i ulleres de realitat augmentada\n\n**1.2.3. Equips de protecció:**\n\n– Sistemes d’alimentació ininterrompuda\n\n**1.2.4. Robòtica:**\n\n– Robots i lots de robòtica programable\n\n– Plaques amb microcontrolador i entorn de desenrotllament programable\n\n**1.2.5. Sistemes d’emmagatzematge:**\n\n– Cabines de discos (NAS)\n\n**1.2.6. Sistemes d’impressió i escàner:**\n\n– Equips multifunció\n\n– Escàners\n\n– Impressores convencionals\n\n– Impressores 3D, escàners 3D, gravadores làser\n\n– Traçadors\n\n**1.3. Productes inventariables que els centres poden adquirir subjectes a autorització prèvia**\n\nL’apunt comptable dels articles inclosos en este apartat es realitzarà en ITACA contra el subcompte 625022TIC (“Material TIC inventariable subjecte a autorització prèvia”). A més, s’efectuarà la petició d’inventariat a través de la ferramenta gvaSAI.\n\n**1.3.1. Punts d’accés sense fils per als carros de càrrega:**\n\n– Punts d’accés sense fils com a element accessori al carro de càrrega per al seu ús com a aula mòbil.\n\nEstos equips han de complir els requisits de l’Esquema Nacional de Seguretat (ENS) mitjançant la seua inclusió en la guia CCNSTIC-105 del Centre Criptogràfic Nacional. Esta adquisició requerirà una autorització prèvia de la Direcció General d’Infraestructures Educatives, sol·licitada a través de la ferramenta gvaSAI, per a garantir la seguretat i la compatibilitat d’acord amb els sistemes i les infraestructures corporatius de la Generalitat i només podran ser adquirits per aquells centres que no hagen sigut encara dotats de wifi corporativa.\n\n**1.3.2. Dispositius tàctils i audiovisuals:**\n\n– Pantalles interactives per a espais físics del centre educatiu que no tinguen la consideració d’aula de docència.\n\nEsta adquisició requerirà una autorització prèvia de la Direcció General d’Infraestructures Educatives, sol·licitada a través de la ferramenta gvaSAI, per a garantir la seguretat i la compatibilitat d’acord amb els sistemes i les infraestructures corporatius de la Generalitat.\n\n**2. Programari**\n\n**2.1. Programari destinat a alumnat amb necessitats educatives especials**\n\nEs delega la competència de compra del programari que estiga enfocat a donar solucions a l’alumnat amb trastorns de l’aprenentatge (dislèxia, TDAH, discalcúlia...), trastorns de la parla i del llenguatge o amb discapacitats sensorials (baixa\n\nvisió, sordesa...), prèvia autorització en Appsedu mitjançant petició realitzada en la ferramenta gvaSAI. Concretament, es delega el següent:\n\n– Programes que afavorisquen l’aprenentatge multisensorial.\n\n– Sistemes augmentatius i alternatius de comunicació.\n\n– Programes específics dirigits a millorar la lectura, l’escriptura, l’aprenentatge i la comunicació.\n\n**2.2. Programari per a Formació Professional**\n\nPer als estudis de Formació Professional, es delega la competència de compra del programari requerit per a aconseguir els resultats d’aprenentatge establits en els corresponents reials decrets de títol, així com en els currículums desplegats a la Comunitat Valenciana.\n\nEste programari es destinarà per al seu ús exclusiu en les ensenyances de Formació Professional impartides en el centre i haurà d’estar orientat a l’aprenentatge de la utilitat o funcionalitat exposada en cada cas.\n\nEl programari educatiu i/o les llicències adquirides pels centres educatius per a les ensenyances de Formació Professional serà responsabilitat del centre educatiu i haurà de complir les indicacions descrites en l'annex II i en Appsedu ( https://portal.edu.gva.es/appsedu/fpiseacv/).\n\nAixí mateix, el centre, a través de gvaSAI, realitzarà una declaració responsable sobre compliment dels criteris de seguretat i protecció de dades del programari i/o de les llicències adquirides atribuïdes a la delegació de compra.\n\nPosteriorment a la declaració responsable, el centre registrarà el programari en la ferramenta gvaSAI indicant les famílies professionals per a les quals s’haurà fet l’adquisició.\n\n**2.3. Programari destinat a ensenyances artístiques superiors i estudis de disseny i música (ISEACV)**\n\nEl programari educatiu i/o les llicències adquirides pels centres educatius per a les ensenyances artístiques superiors i els estudis de disseny i música (ISEACV) serà responsabilitat del centre educatiu i haurà de complir les indicacions descrites en l'annex II, també disponibles en Appsedu (https://portal.edu.gva.es/appsedu/fpiseacv/).\n\nAixí mateix, el centre, a través de gvaSAI, realitzarà una declaració responsable sobre compliment dels criteris de seguretat i protecció de dades del programari i/o de les llicències adquirides atribuïdes a la delegació de compra.\n\nPosteriorment a la declaració responsable, el centre registrarà el programari en la ferramenta gvaSAI indicant les famílies professionals per a les quals s’ha fet l’adquisició.\n\nEs delega la competència de compra del programari següent:\n\n– Programari antiplagi.\n\n– Programari de gestió de biblioteca i registre públic de TFT.\n\n– Programari de realització i anàlisi d’enquestes.\n\n– Programari de modelatge 3D per a arquitectura.\n\n– Programari de modelatge mecànic 3D.\n\n– Programari CAD per a modelatge de superfícies i sòlids.\n\n– Programari d’animació, modelatge, simulació i renderització 3D.\n\n– Programari de composició i notació musical.\n\n**2.4. Programari de control de maquinari perifèric delegat**\n\nEl programari de control del maquinari perifèric delegat haurà de complir les indicacions descrites en l'annex II, també disponibles en Appsedu (https://portal.edu.gva.es/appsedu/fpiseacv/).\n\nAixí mateix, el centre, a través de gvaSAI, realitzarà una declaració responsable sobre compliment dels criteris de seguretat i protecció de dades del programari i/o de les llicències adquirides atribuïdes a la delegació de compra.\n\nPosteriorment a la declaració responsable, el centre registrarà el programari en la ferramenta gvaSAI indicant les ensenyances per a les quals s’ha fet l’adquisició.\n\n**2.5. Programari per a confecció d’horaris del professorat als centres educatius**\n\nEs delega la competència de compra del programari destinat a la confecció i generació d’horaris del professorat als centres educatius.\n\nEstes adquisicions es faran prèvia autorització de la Direcció General d’Infraestructures Educatives a través de petició de validació i autorització de noves aplicacions en la ferramenta de gvaSAI de gestió de peticions i incidències en la categoria corresponent, referenciant que la petició de programari pertany a Delegatic.\n\n**2.6. Servicis**\n\nQueden delegats en els centres educatius els servicis d’impressió en les condicions que establisca la normativa vigent sobre este tema.\n\nPer a contractar estos servicis el centre haurà de tindre un encàrrec de tractament de dades de caràcter personal amb l’empresa proveïdora que serà custodiat pel mateix centre.\n\n**2.7. Apunts comptables**\n\nQuan s’adquirisquen llicències de programari que incloguen el dret d’utilització temporal d’un producte, incloses les successives renovacions d’este dret, estes llicències es consideraran no inventariables. L’anotació comptable en ITACA es farà amb el subcompte 22003 – “Material informàtic no inventariable”.\n\nLa resta dels productes de programari considerats com a aplicacions informàtiques i bases de dades en suport físic, excloses les llicències en les quals només s’accedix a dades, es consideraran inventariables. L’apunt comptable dels articles inclosos en este apartat es realitzarà en ITACA contra el subcompte 625021TIC (“Material TIC inventariable no subjecte a autorització prèvia”).\n\nNota: en la pàgina web: http://www.ceice.gva.es/delegatic està disponible el catàleg actualitzat d’equipament i productes TIC."
+    },
+    {
+      "type": "anexo",
+      "id": "anexo-2",
+      "title": "Annex II. Requisits de protecció de dades i seguretat per a la compra de programari i/o llicències destinats a FP i ISEACV",
+      "content": "**Consideracions generals**\n\n– Cap aplicació o plataforma podrà oferir publicitat a l’alumnat, ni al professorat, ni reclams ni pagaments a aplicacions de tercers.\n\n**Protecció de dades**\n\nPer a aquelles aplicacions susceptibles d’emmagatzemar dades de caràcter personal en servidors externs, l’editor del programari ha de proporcionar una política de privacitat en la qual conste:\n\n– Qui és el responsable del tractament de dades. S’ha d’indicar el nom i les dades de contacte del responsable i, si és el cas, del corresponsable, el representant del responsable i el delegat de protecció de dades. Ha de constar la identitat i adreça de la persona jurídica o física responsable.\n\n– Les finalitats del tractament de dades.\n\n– La descripció de les categories d’interessats i de les categories de dades personals.\n\n– Les categories de destinataris als quals es van comunicar o es comunicaran les dades personals, inclosos els destinataris en tercers països o organitzacions internacionals.\n\n– Les possibles comunicacions de dades a tercers i la seua identitat, així com la finalitat per a la qual se cedixen.\n\n– La ubicació de les dades.\n\n– Per a transferències de dades fora de l’Espai Econòmic Europeu, les transferències de dades personals a un tercer país o una organització internacional, inclosa la identificació d’este tercer país o organització internacional i, en el cas de les transferències indicades en l’article 49, apartat 1, paràgraf segon del Reglament general de protecció de dades, les garanties adequades. Es pot consultar quines són les garanties per a les transferències de dades fora de l’Espai Econòmic Europeu, en l’adreça següent de l’Agència Espanyola de Protecció de Dades: https://www.aepd.es/derechos-y-deberes/cumple-tus-deberes/medidas-de-cumplimiento/garantias-para-las-transferencias-de.\n\n– Base jurídica de licitud o legitimació del tractament de dades personals.\n\n– Els terminis previstos per a la supressió de les diverses categories de dades.\n\n– Quan siga possible, una descripció general de les mesures tècniques i organitzatives de seguretat.\n\n– Els possibles accessos que realitza l’aplicació a altres dades emmagatzemades en els dispositius que executen les aplicacions informàtiques o als seus sensors.\n\n– Els drets de les persones usuàries.\n\nDrets de les persones usuàries que s’han d’arreplegar en la política de privacitat de l’aplicació [regulats en la Llei orgànica 3/2018, de 5 de desembre, de protecció de dades personals i garantia dels drets digitals, i el Reglament (UE) 2016/679, del Parlament Europeu i del Consell, de 27 d’abril de 2016, Reglament general de protecció de dades]:\n\n– Dret d’accés: la persona interessada tindrà dret a obtindre del responsable del tractament confirmació de si s’estan tractant, o no, dades personals que la concernixen i, en eixe cas, dret d’accés a les dades personals.\n\n– Dret de rectificació: la persona interessada tindrà dret a obtindre, sense dilació indeguda del responsable del tractament, la rectificació de les dades personals inexactes que la concernisquen. Tenint en compte els fins del tractament, la persona interessada tindrà dret que es completen les dades personals que siguen incompletes, fins i tot mitjançant una declaració addicional.\n\n– Dret de supressió: la persona interessada tindrà dret a obtindre, sense dilació indeguda del responsable del tractament, la supressió de les dades personals que la concernisquen, el qual estarà obligat a suprimir sense dilació indeguda les dades personals.\n\n– Dret d’oposició: La persona interessada tindrà dret a oposar-se en qualsevol moment, per motius relacionats amb la seua situació particular, al fet que dades personals que la concernisquen siguen objecte d’un tractament.\n\n– Limitació del tractament: La persona interessada té dret a limitar el tractament de dades que realitza el responsable de tractament.\n\n– Portabilitat: La persona interessada té dret a rebre les dades personals que li incumbisquen, que haja proporcionat a un responsable de tractament, en un format estructurat, d’ús comú i lectura mecànica, i a transmetre-les a un altre responsable del tractament sense que ho impedisca el responsable al qual les haja facilitades.\n\n– Dret a no ser objecte de decisions individuals automatitzades: la persona interessada tindrà dret a no ser objecte d’una decisió basada únicament en el tractament automatitzat, inclosa l’elaboració de perfils.\n\n**Seguretat**\n\nS’hauran de tindre en compte, almenys, les consideracions següents:\n\n– Programari no autoritzat per motius de seguretat: no es permet l’adquisició de programari que estiga explícitament no autoritzat en Appsedu, quan la seua avaluació de seguretat ha determinat que el programari és vulnerable.\n\n– Llicències: tot el programari ha de disposar de llicència legal i complir amb les regulacions autonòmiques, estatals i europees. És necessària l’adquisició de totes les llicències.\n\n– Avaluació de riscos: s’ha d’identificar si el programari pot estar afectat per alguna vulnerabilitat coneguda; es pot realitzar esta comprovació en https://www.cvedetails.com/. Si s’identifiquen vulnerabilitats, s’haurà de realitzar una avaluació d’impacte i adjuntar a la declaració responsable l’avaluació de riscos i les mesures de mitigació.\n\n– Actualitzacions: el programari ha de rebre actualitzacions regulars i pedaços de seguretat.\n\n– Encriptació de dades: si el programari tracta dades personals, estes sempre s’han d’encriptar en el seu trànsit a través de la xarxa, així com en repòs en aquells servidors en els quals s’emmagatzemen.\n\n– Registre d’esdeveniments: es recomana que el programari siga capaç de registrar esdeveniments rellevants, que permeten la detecció d’activitats sospitoses.\n\n**Altres aspectes**\n\n– La conselleria responsable en matèria d’educació pot sol·licitar al centre educatiu els informes relatius a l’anàlisi de riscos realitzat per a l’adquisició del programari.\n\n– La conselleria responsable en matèria d’educació pot sol·licitar al centre educatiu el programari per a fer una auditoria de seguretat i protecció de dades, i, si és el cas, referenciar-ho en la plataforma Appsedu."
+    }
+  ],
+  "legalAnalysis": {
+    "enactedPursuantTo": [
+      {
+        "title": "Resolució de 30 de setembre de 2024, del conseller d’Educació, Cultura, Universitats i Ocupació, sobre delegació de competències en la Direcció General d’Infraestructures Educatives (DOGV 9949, 02/10/2024)",
+        "relationship": "habilitante"
+      },
+      {
+        "title": "Decret 136/2023, de 10 d’agost, del Consell, Reglament orgànic i funcional de la Conselleria d’Educació, Universitats i Ocupació",
+        "relationship": "habilitante"
+      }
+    ],
+    "priorAffectations": [],
+    "posteriorAffectations": [],
+    "derogations": [
+      {
+        "lawId": "resolucion-29-10-2021-delegatic",
+        "title": "Resolució de 29 d’octubre de 2021, del conseller d’Hisenda i Model Econòmic, sobre delegació de competències en qui exercisca la direcció dels centres educatius públics no universitaris de la Generalitat per a l’adquisició d’equipament i productes TIC",
+        "type": "deroga",
+        "description": "Queda sense efecte amb l’aprovació d’aquesta resolució."
+      }
+    ],
+    "concordances": []
+  },
+  "promulgation": {
+    "place": "València",
+    "date": "2024-10-03",
+    "signatories": [
+      {
+        "name": "José María Larena Berrocal",
+        "role": "Director general d’Infraestructures Educatives"
+      }
+    ]
+  },
+  "scope": "general",
+  "territory": "autonomico",
+  "temporality": {
+    "type": "permanente"
+  },
+  "docType": "normativa"
+}

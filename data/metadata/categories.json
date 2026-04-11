@@ -100,6 +100,15 @@
       "icon": "check"
     },
     {
+      "id": "tic",
+      "label": { "es": "TIC", "va": "TIC" },
+      "description": {
+        "es": "Tecnologías de la información y la comunicación: protección de datos, uso de medios digitales y equipamiento informático en los centros",
+        "va": "Tecnologies de la informació i la comunicació: protecció de dades, ús de mitjans digitals i equipament informàtic en els centres"
+      },
+      "icon": "book"
+    },
+    {
       "id": "general",
       "label": { "es": "Normativa general", "va": "Normativa general" },
       "description": {

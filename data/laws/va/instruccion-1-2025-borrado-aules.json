@@ -1,0 +1,79 @@
+{
+  "id": "instruccion-1-2025-borrado-aules",
+  "slug": "instruccion-1-2025-borrado-aules",
+  "type": "documento",
+  "number": "1/2025",
+  "date": "2025-02-24",
+  "publishedIn": {
+    "source": "CEICE",
+    "number": "",
+    "date": "2025-02-24",
+    "url": "",
+    "pdfUrl": "https://ceice.gva.es/documents/161634279/390142986/Instruccio_1_2025_esborrar_cursos_aules_valencia_firmado.pdf/dea42e82-c372-f95b-6ebf-10802f87f725"
+  },
+  "title": "Instrucció 1/2025, de la Direcció General d’Infraestructures Educatives, sobre l’esborrament de les aules virtuals en la plataforma Aules",
+  "titleShort": "Instrucció 1/2025 - Esborrament d’aules virtuals en Aules",
+  "category": "tic",
+  "vigpiracy": {
+    "status": "vigente",
+    "statusLabel": "Vigent",
+    "effectiveDate": "2025-02-24"
+  },
+  "structure": [
+    {
+      "type": "preambulo",
+      "id": "preambulo",
+      "title": "Introducció",
+      "content": "En virtut de les competències atribuïdes pel Decret 166/2024, de 12 de novembre, del Consell, d'aprovació del Reglament orgànic i funcional de la Conselleria d'Educació, Cultura, Universitats i Ocupació, i concretament, el que disposa l’article 22, en els seus apartats:\n\ni) Potenciar, desenrotllar i aplicar les tecnologies de la informació i les comunicacions en l'àmbit de l'educació.\n\nl) Elaborar les especificacions tècniques i la qualificació de l'equipament informàtic i de les aplicacions informàtiques destinats als centres docents.\n\np) Planificar, prioritzar i coordinar les necessitats en matèria informàtica respecte d'aplicacions, comunicacions i suports per al departament en coordinació amb l'òrgan competent en matèria de tecnologies de la informació i les comunicacions de la Generalitat."
+    },
+    {
+      "type": "seccion",
+      "id": "sec-1",
+      "title": "1. Context",
+      "content": "La Conselleria d'Educació, Cultura, Universitats i Ocupació proporciona la plataforma educativa Aules com a ferramenta de gestió de l'aprenentatge de formació en línia tant en ensenyances presencials com a distància o amb modalitat semipresencial, a tots els centres educatius, organitzacions i entitats de titularitat de la Generalitat Valenciana i centres educatius sostinguts amb fons públics. Les diferents ensenyances estan segmentades i organitzades en agrupacions denominades “sabors”.\n\nEn este context, els usuaris docents de la comunitat educativa poden disposar anualment de tants espais virtuals amb propòsit educatiu, d'ara en avant, aules virtuals, com necessiten. El procés automatitzat de creació d'aules virtuals depén del tipus d'ensenyança, així:\n\n• En el cas de la comunitat educativa de centres docents amb ensenyances presencials (Infantil, Primària, Secundària, Batxillerat, Formació Professional, Ensenyances de Règim Especial, Educació Especial i Formació de Persones Adultes), el procés s'inicia a través de la sol·licitud del docent en el Mòdul Docent d'ITACA, en què es creen tantes aules virtuals com continguts i agrupacions (horaris) existisquen en ITACA, i es matriculen en estes l'alumnat corresponent.\n\n• Per a la comunitat educativa d'ensenyances corresponents a l’ISEACV (Institut Superior d'Ensenyances Artístiques), el procés s'inicia en l'aplicació ARTIC que empren estos centres per a l'organització de les seues ensenyances.\n\n• En el cas de la comunitat educativa de centres docents amb ensenyances a distància o de modalitat semipresencial, la creació d'aules virtuals es realitza d'ofici, en què es creen tantes aules virtuals com assignatures estiguen previstes en la gestió del centre en ITACA i s’hi matricula l'alumnat corresponent.\n\n• Finalment, per als CEFIRE, òrgans de l'administració pública per a la formació permanent del professorat, competència de la Subdirecció General de Formació del Professorat, les aules virtuals creades en Aules corresponen a les edicions formatives creades en la plataforma GESFORM que requerixen este suport, atenent la seua matrícula als participants, ponents i assessors corresponents a cada acció formativa.\n\nA més d'este procés automatitzat en Aules per a la creació d'aules virtuals sincronitzades amb ITACA, també es proporcionen mecanismes addicionals per a la creació d'altres aules amb propòsit docent sota demanda del director del centre.\n\nEl volum d'aules virtuals creat anualment és molt elevat, així com també el nombre d'usuaris que utilitzen la plataforma Aules, amb la qual cosa la gestió dels recursos tecnològics disponibles, entre estos l'emmagatzematge, és prioritària.\n\nAixí, l'espai d'emmagatzematge en Aules ve determinat pel requerit pels docents amb recursos educatius de distinta naturalesa a les aules virtuals, així com pel consumit pels usuaris durant la seua activitat en la plataforma. A més, cal tindre en compte que este espai d'emmagatzematge és cada vegada major a causa de l'evolució constant d'aplicacions i als recursos educatius multimèdia. Per este motiu, es fa imprescindible disposar de polítiques d'esborrament anuals que permeten alliberar l'espai d'emmagatzematge ocupat tant per les aules virtuals com pels usuaris vinculats a estes."
+    },
+    {
+      "type": "seccion",
+      "id": "sec-2",
+      "title": "2. Objecte i abast",
+      "content": "L'objecte d'esta instrucció és definir la política d'esborrament de les aules virtuals en Aules per a les diferents etapes i modalitats d'educació suportades en esta plataforma, a excepció dels “sabors” Docent i Autoformació. Establint també, el grau d'afectació per als diferents usuaris vinculats a estes aules."
+    },
+    {
+      "type": "seccion",
+      "id": "sec-3",
+      "title": "3. Política d’esborrament d’aules virtuals",
+      "content": "Amb caràcter general per a tots els “sabors” objecte d'esta instrucció, la vigència d'estes aules virtuals s'establix de la manera següent:\n\n- Per a l'alumnat: un curs acadèmic.\n\n- Per als docents: un curs acadèmic i quatre mesos per a l'accés del professorat (fins a desembre del curs acadèmic següent al qual es van crear les aules virtuals).\n\nEn el cas particular del “sabor” de Formació del Professorat, es permet l'accés a les aules virtuals durant un període de quatre anys a comptar a partir de l'inici de la campanya en la qual va ser creada l'edició.\n\nEsgotat el període d'accés per als docents, s'activarà el procés d'esborrament de totes les aules virtuals, corresponents al curs acadèmic anterior. El procés d'esborrament comporta l'eliminació de la plataforma de materials, tasques, llibre de qualificacions, etc., vinculats a estes aules."
+    }
+  ],
+  "legalAnalysis": {
+    "enactedPursuantTo": [
+      {
+        "title": "Decret 166/2024, de 12 de novembre, del Consell, Reglament orgànic i funcional de la Conselleria d’Educació, Cultura, Universitats i Ocupació (art. 22, apartats i, l i p)",
+        "articles": [
+          "art-22"
+        ],
+        "relationship": "habilitante"
+      }
+    ],
+    "priorAffectations": [],
+    "posteriorAffectations": [],
+    "derogations": [],
+    "concordances": []
+  },
+  "promulgation": {
+    "place": "València",
+    "date": "2025-02-24",
+    "signatories": [
+      {
+        "name": "José María Larena Berrocal",
+        "role": "Director general d’Infraestructures Educatives"
+      }
+    ]
+  },
+  "scope": "general",
+  "territory": "autonomico",
+  "temporality": {
+    "type": "permanente"
+  },
+  "docType": "documentos"
+}
