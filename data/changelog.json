@@ -1,5 +1,31 @@
 [
   {
+    "version": "0.16.2",
+    "date": "2026-04-14",
+    "entries": {
+      "es": [
+        {
+          "type": "corrección",
+          "description": "Corrección de saltos de párrafo en el preámbulo de la Orden 4/2026 (premios profesionales de Música y Danza) y separación del párrafo «Asimismo» en el artículo 10, conforme al PDF original publicado en DOGV."
+        },
+        {
+          "type": "nuevo",
+          "description": "Ingesta de la Resolución de 14 de febrero de 2019, de la Secretaría Autonómica de Educación e Investigación, por la cual se dictan instrucciones ante supuestos de no convivencia de los progenitores (DOGV 8489, 20/02/2019). 12 artículos (Primero a Doce) + disposición derogatoria. Regula la actuación de los centros en admisión, baja, cambio de centro, violencia de género, derecho a la información y recogida del alumnado. Categoría: Orientación y Convivencia."
+        }
+      ],
+      "va": [
+        {
+          "type": "correcció",
+          "description": "Correcció de salts de paràgraf en el preàmbul de l'Orde 4/2026 (premis professionals de Música i Dansa) i separació del paràgraf «Així mateix» en l'article 10, conforme al PDF original publicat en DOGV."
+        },
+        {
+          "type": "nou",
+          "description": "Ingesta de la Resolució de 14 de febrer de 2019, de la Secretaria Autonòmica d'Educació i Investigació, per la qual es dicten instruccions davant diversos supòsits de no-convivència dels progenitors (DOGV 8489, 20/02/2019). 12 articles (Primer a Dotze) + disposició derogatòria. Regula l'actuació dels centres en admissió, baixa, canvi de centre, violència de gènere, dret a la informació i recollida de l'alumnat. Categoria: Orientació i Convivència."
+        }
+      ]
+    }
+  },
+  {
     "version": "0.16.1",
     "date": "2026-04-12",
     "entries": {

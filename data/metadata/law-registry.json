@@ -343,6 +343,13 @@
       "status": "ingested",
       "category": "economica",
       "notes": "Documento (no normativa). PDF solo en castellano enviado por correo (no publicado en DOGV). 4 páginas. Circular de la DG Centros Docentes, 17/04/2024. Preámbulo + 7 consideraciones (secciones) + conclusión. Orienta a las direcciones de centros sobre contratación menor: tres presupuestos, duración máxima 12 meses, cláusulas abusivas en reprografía, certificado de obsolescencia, servicio técnico oficial, suministros originales. Referencias a Orden gestión económica 1995, LCSP (Ley 9/2017) y Ley Presupuestos 2024. VA usa mismo contenido ES con nota. URL de verificación CSV."
+    },
+    {
+      "slug": "resolucion-no-convivencia-progenitores-2019",
+      "title": "Resolución instrucciones no convivencia progenitores (2019)",
+      "status": "ingested",
+      "category": "orientacion_convivencia",
+      "notes": "Resolución de 14/02/2019 de la Secretaría Autonómica de Educación e Investigación. Instrucciones para centros docentes sostenidos con fondos públicos ante supuestos de no convivencia de progenitores. 12 artículos (Primero-Doce) + disposición derogatoria. PDF bilingüe DOGV a dos columnas. Deroga Resolución 28/03/2014."
     }
   ]
 }
