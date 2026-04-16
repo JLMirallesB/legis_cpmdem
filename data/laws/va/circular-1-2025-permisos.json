@@ -80,7 +80,24 @@
           "id": "sec-1-7",
           "number": "7",
           "title": "7. Permisos a directors i directores dels centres docents",
-          "content": "Els permisos i les llicències que sol·liciten els directors i les directores dels centres docents en els casos en què estos tinguen la competència delegada per a la concessió al professorat, seran resolts per la persona titular de la direcció territorial amb competències en educació de què depenga el centre.\n\nLa Direcció General competent en matèria d'inclusió educativa resoldrà les sol·licituds dels permisos corresponents als directors o directores de les Unitats Especialitzades d'Orientació.\n\nLa Subdirecció General de Formació del Professorat resoldrà les sol·licituds dels permisos corresponents als directors o directores dels CEFIRE."
+          "content": "Els permisos i llicències que sol·liciten els directors i les directores dels centres docents en els casos en els quals estos tinguen la competència delegada per a la concessió al professorat, seran resolts per la persona titular de la Direcció Territorial amb competències en educació de la qual depenga el centre.\n\nLa Direcció General competent en matèria d'inclusió educativa resoldrà les sol·licituds dels permisos corresponents als directors o directores de les unitats especialitzades d'orientació.\n\nLa Subdirecció General de Formació del Professorat resoldrà les sol·licituds dels permisos corresponents als directors o directores dels CEFIRE.\n\nLa Direcció General de l'Institut Superior d'Ensenyances Artístiques de la Comunitat Valenciana resoldrà les sol·licituds dels permisos corresponents als directors o directores dels centres dependents d'esta entitat autònoma.",
+          "versions": [
+            {
+              "versionId": "v2",
+              "effectiveDate": "2025-05-12",
+              "modifiedBy": {
+                "lawId": "circular-5-2025-iseacv",
+                "title": "Circular 5/2025 - Desplegament art. 7 Circular 1/2025 (ISEACV)"
+              },
+              "content": "Els permisos i llicències que sol·liciten els directors i les directores dels centres docents en els casos en els quals estos tinguen la competència delegada per a la concessió al professorat, seran resolts per la persona titular de la Direcció Territorial amb competències en educació de la qual depenga el centre.\n\nLa Direcció General competent en matèria d'inclusió educativa resoldrà les sol·licituds dels permisos corresponents als directors o directores de les unitats especialitzades d'orientació.\n\nLa Subdirecció General de Formació del Professorat resoldrà les sol·licituds dels permisos corresponents als directors o directores dels CEFIRE.\n\nLa Direcció General de l'Institut Superior d'Ensenyances Artístiques de la Comunitat Valenciana resoldrà les sol·licituds dels permisos corresponents als directors o directores dels centres dependents d'esta entitat autònoma."
+            },
+            {
+              "versionId": "v1",
+              "effectiveDate": "2025-01-17",
+              "modifiedBy": null,
+              "content": "Els permisos i les llicències que sol·liciten els directors i les directores dels centres docents en els casos en què estos tinguen la competència delegada per a la concessió al professorat, seran resolts per la persona titular de la direcció territorial amb competències en educació de què depenga el centre.\n\nLa Direcció General competent en matèria d'inclusió educativa resoldrà les sol·licituds dels permisos corresponents als directors o directores de les Unitats Especialitzades d'Orientació.\n\nLa Subdirecció General de Formació del Professorat resoldrà les sol·licituds dels permisos corresponents als directors o directores dels CEFIRE."
+            }
+          ]
         },
         {
           "type": "articulo",
@@ -587,6 +604,16 @@
     ],
     "priorAffectations": [],
     "posteriorAffectations": [
+      {
+        "lawId": "circular-5-2025-iseacv",
+        "title": "Circular 5/2025 - Desplegament art. 7 Circular 1/2025 (ISEACV)",
+        "type": "modifica",
+        "articles": [
+          "sec-1-7"
+        ],
+        "date": "2025-05-12",
+        "description": "Substituïx l'article 7 (Permisos a directors), i hi afig la competència de la DG de l'ISEACV per a centres dependents d'esta entitat autònoma"
+      },
       {
         "lawId": "circular-6-2025",
         "title": "Circular 6/2025 - Modificació permisos per RDL 9/2025",

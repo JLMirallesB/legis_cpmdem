@@ -1,0 +1,86 @@
+{
+  "id": "circular-5-2025-iseacv",
+  "slug": "circular-5-2025-iseacv",
+  "type": "circular",
+  "number": "5/2025",
+  "date": "2025-05-12",
+  "publishedIn": {
+    "source": "CEICE",
+    "number": "",
+    "date": "2025-05-12",
+    "url": "",
+    "pdfUrl": "https://ceice.gva.es/documents/162909733/389201378/Circular+5_2025+ISEACV_firmado.pdf/3ce59219-4c46-2832-ba73-fa609ed8e7cf"
+  },
+  "title": "Circular 5/2025, de la Dirección General de Personal Docente, por la que se desarrolla el artículo 7 de la Circular 1/2025 de la Dirección General de Personal Docente, por la que se aprueba el Manual/Instrucciones de permisos y licencias del personal docente no universitario de centros públicos dependientes de la Conselleria competente en materia de educación",
+  "titleShort": "Desarrollo art. 7 Circular 1/2025 - Permisos directores ISEACV",
+  "category": "profesorado",
+  "vigpiracy": {
+    "status": "vigente",
+    "statusLabel": "Vigente",
+    "effectiveDate": "2025-05-12"
+  },
+  "structure": [
+    {
+      "type": "preambulo",
+      "id": "preambulo",
+      "title": "Preámbulo",
+      "content": "En fecha 5 de enero de 2023 se publicó en el Diari Oficial de la Generalitat Valenciana el Decreto 234/2022, de 30 de diciembre, del Consell, por el que se regulan las condiciones de trabajo del personal docente no universitario funcionarial dependiente de la Conselleria de Educación, Cultura y Deporte: permisos y licencias.\n\nEl 17 de enero de 2025, se publicó la Circular 1/2025, de la Dirección General de Personal Docente, por la que se aprueba el manual/instrucciones de permisos y licencias del personal docente no universitario de centros públicos dependientes de la Conselleria competente en materia de educación.\n\nEn Disposiciones Generales, en el artículo 7 Permisos a directores y directoras de los centros docentes, recoge la competencia en este punto de la Dirección Territorial, de la Dirección General competente en materia de inclusión educativa y de la Subdirección General de Formación del Profesorado.\n\nTeniendo en cuenta que no se hace referencia a la competencia en caso de centros dependientes del Instituto Superior de Enseñanzas Artísticas de la Comunitat Valenciana (ISEACV), entidad autónoma de carácter administrativo, dependiente de la Conselleria de Educación, Cultura, Universidades y Empleo, creado por la Ley 8/2007, de 2 de marzo, de Ordenación de Centros Superiores de la Generalitat, de Ordenación de Centros Superiores de Enseñanzas Artísticas y de la creación del Instituto Superior de Enseñanzas Artísticas de la Comunitat Valenciana (DOGV 5466, de 8 de marzo de 2007), se procede a incluirlos en dicho artículo, quedando redactado de la siguiente manera."
+    },
+    {
+      "type": "articulo",
+      "id": "art-7-nuevo",
+      "number": "7",
+      "title": "7. Permisos a directores y directoras de los centros docentes",
+      "content": "Los permisos y licencias que soliciten los directores y las directoras de los centros docentes en los casos en que estos tengan la competencia delegada para la concesión al profesorado, serán resueltos por la persona titular de la Dirección Territorial con competencias en educación de que dependa el centro.\n\nLa Dirección General competente en materia de inclusión educativa resolverá las solicitudes de los permisos correspondientes a los directores o directoras de las Unidades Especializadas de Orientación.\n\nLa Subdirección General de Formación del Profesorado resolverá las solicitudes de los permisos correspondientes a los directores o directoras de los CEFIRE.\n\nLa Dirección General del Instituto Superior de Enseñanzas Artísticas de la Comunitat Valenciana resolverá las solicitudes de los permisos correspondientes a los directores o directoras de los centros dependientes de esta entidad autónoma.\n\nEsta Circular sustituye el artículo 7 de las Disposiciones Generales recogido en la Circular 1/2025, de 17 de enero de 2025."
+    }
+  ],
+  "legalAnalysis": {
+    "enactedPursuantTo": [
+      {
+        "lawId": "circular-1-2025-permisos",
+        "title": "Circular 1/2025 - Manual de permisos y licencias del personal docente",
+        "articles": ["sec-1-7"],
+        "relationship": "desarrollo"
+      }
+    ],
+    "priorAffectations": [
+      {
+        "lawId": "circular-1-2025-permisos",
+        "title": "Circular 1/2025 - Manual de permisos y licencias del personal docente",
+        "type": "modifica",
+        "articles": ["sec-1-7"],
+        "date": "2025-05-12",
+        "description": "Sustituye el artículo 7 (Permisos a directores) de las Disposiciones Generales, añadiendo la competencia de la DG del ISEACV para centros dependientes de esta entidad autónoma"
+      }
+    ],
+    "posteriorAffectations": [],
+    "derogations": [],
+    "concordances": [
+      {
+        "lawId": "decreto-234-2022",
+        "title": "Decreto 234/2022 - Permisos y licencias del personal docente",
+        "description": "Base normativa de permisos y licencias del personal docente"
+      },
+      {
+        "title": "Ley 8/2007, de 2 de marzo, de Ordenación de Centros Superiores de la Generalitat y creación del ISEACV",
+        "description": "Ley de creación del ISEACV como entidad autónoma"
+      }
+    ]
+  },
+  "promulgation": {
+    "place": "Valencia",
+    "date": "2025-05-12",
+    "signatories": [
+      {
+        "name": "Francisco Pablo Ortega Gil",
+        "role": "Dirección General de Personal Docente"
+      }
+    ]
+  },
+  "scope": "general",
+  "territory": "autonomico",
+  "temporality": {
+    "type": "permanente"
+  },
+  "docType": "documentos"
+}

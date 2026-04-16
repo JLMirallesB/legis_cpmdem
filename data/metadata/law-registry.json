@@ -352,6 +352,20 @@
       "notes": "Documento (no normativa). PDF solo en castellano enviado por correo (no publicado en DOGV). 4 páginas. Circular de la DG Centros Docentes, 17/04/2024. Preámbulo + 7 consideraciones (secciones) + conclusión. Orienta a las direcciones de centros sobre contratación menor: tres presupuestos, duración máxima 12 meses, cláusulas abusivas en reprografía, certificado de obsolescencia, servicio técnico oficial, suministros originales. Referencias a Orden gestión económica 1995, LCSP (Ley 9/2017) y Ley Presupuestos 2024. VA usa mismo contenido ES con nota. URL de verificación CSV."
     },
     {
+      "slug": "circular-5-2025-iseacv",
+      "title": "Circular 5/2025 - Desarrollo art. 7 Circular 1/2025 (Permisos directores ISEACV)",
+      "status": "ingested",
+      "category": "profesorado",
+      "notes": "Documento (no normativa). PDFs separados ES/VA desde CEICE. Circular de la DG Personal Docente, 12/05/2025. Sustituye el art. 7 (Permisos a directores y directoras de centros docentes) de la Circular 1/2025, añadiendo un párrafo sobre la competencia de la DG del ISEACV para resolver permisos de directores de centros dependientes de esta entidad autónoma. Firmada por Francisco Pablo Ortega Gil, DG Personal Docente."
+    },
+    {
+      "slug": "circular-1-2026-ausencias",
+      "title": "Circular 1/2026 - Instrucciones reguladoras de las ausencias del personal docente",
+      "status": "ingested",
+      "category": "profesorado",
+      "notes": "Documento (no normativa). PDFs separados ES/VA desde CEICE. Circular de la DG Personal Docente, 15/01/2026. Preámbulo + Primero/Segundo (dispositivos) + Anexo I con introducción y 3 apartados (Primero: cumplimiento horario, Segundo: cálculo deducción, Tercero: ausencias por enfermedad/accidente sin IT). Anexos II-VI como formularios PDF descargables (formModels): Anexo II (justificante falta asistencia), III (comunicación superación 4 días), III_A (notificación horas), III_B (notificación días), IV (diligencia negativa firma), VI (listado faltas ITACA). Firmada por Francisco Pablo Ortega Gil, DG Personal Docente."
+    },
+    {
       "slug": "resolucion-no-convivencia-progenitores-2019",
       "title": "Resolución instrucciones no convivencia progenitores (2019)",
       "status": "ingested",

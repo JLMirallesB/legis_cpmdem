@@ -1,0 +1,165 @@
+{
+  "id": "circular-1-2026-ausencias",
+  "slug": "circular-1-2026-ausencias",
+  "type": "circular",
+  "number": "1/2026",
+  "date": "2026-01-15",
+  "publishedIn": {
+    "source": "CEICE",
+    "number": "",
+    "date": "2026-01-15",
+    "url": "",
+    "pdfUrl": "https://ceice.gva.es/webitaca/docs/avisos/Circular_1_2026_absencies_firmado_150126.pdf"
+  },
+  "title": "Circular 1/2026, de 15 de gener, de la Direcció General de Personal Docent, per la qual es dicten instruccions reguladores de les absències del personal docent dels centres públics no universitaris dependents de la Conselleria amb competències en matèria d'educació",
+  "titleShort": "Instruccions reguladores de les absències del personal docent",
+  "category": "profesorado",
+  "vigpiracy": {
+    "status": "vigente",
+    "statusLabel": "Vigent",
+    "effectiveDate": "2026-01-15"
+  },
+  "structure": [
+    {
+      "type": "preambulo",
+      "id": "preambulo",
+      "title": "Preàmbul",
+      "content": "A fi de dur a terme l'ordenació, la clarificació i la unificació del marc normatiu de les absències del personal docent dels centres públics, es realitza la següent resolució."
+    },
+    {
+      "type": "articulo",
+      "id": "primero",
+      "number": "Primer",
+      "title": "Primer",
+      "content": "Dictar instruccions reguladores de les absències al treball del personal docent dels centres públics d'ensenyances no universitàries dependents de la conselleria amb competències en matèria d'educació, de conformitat amb el desplegament de l'annex I de la present resolució."
+    },
+    {
+      "type": "articulo",
+      "id": "segundo",
+      "number": "Segon",
+      "title": "Segon",
+      "content": "El contingut d'esta resolució serà publicat en el portal web de la Conselleria d'Educació, Cultura i Universitats.\n\nLa present resolució es dicta en virtut de les competències assignades a esta Direcció General de Personal Docent, de la Conselleria d'Educació, Cultura i Universitats, descrites en l'article 8 del Decret 38/2025, de 5 de març, del Consell, d'aprovació del Reglament orgànic i funcional de la Conselleria d'Educació, Cultura, Universitats i Ocupació (DOGV 10060, 05.03.2025), es dicta la present resolució.\n\nContra esta resolució, que esgota la via administrativa, la persona interessada podrà interposar un recurs contenciós administratiu, sense perjuí de qualsevol altre que estime procedent, en el termini de dos mesos, a comptar de l'endemà de la recepció d'esta notificació, davant del jutjat contenciós administratiu en què es trobe la seu de l'òrgan autor de l'acte originari impugnat, d'acord amb el que preveuen els articles 8.2, 14, 25.1 i 46.1 de la Llei 29/1998, de 13 de juliol, reguladora de la jurisdicció contenciosa administrativa. Així mateix, es podrà recórrer potestativament en reposició davant d'esta direcció general en el termini d'un mes des de la notificació, de conformitat amb el que preveuen els articles 112, 123 i 124 de la Llei del procediment administratiu comú de les administracions públiques."
+    },
+    {
+      "type": "anexo",
+      "id": "anexo-1",
+      "number": "I",
+      "title": "Annex I. Instruccions reguladores de les absències del personal docent dels centres públics no universitaris dependents de la Conselleria amb competències en matèria d'educació",
+      "children": [
+        {
+          "type": "articulo",
+          "id": "anexo-1-intro",
+          "title": "Introducció",
+          "content": "Les absències del personal docent durant la jornada de treball, totals o parcials, hauran de justificar-se des del primer dia, mitjançant l'aportació de la documentació acreditativa corresponent.\n\nLa falta de justificació de l'absència farà que s'active el règim aplicable relatiu a les absències no acreditades."
+        },
+        {
+          "type": "articulo",
+          "id": "anexo-1-primero",
+          "number": "Primer",
+          "title": "Primer. Compliment de l'horari per part del personal docent",
+          "content": "– El control d'assistència del personal docent correspon a la direcció d'estudis, que comptarà amb la col·laboració del professorat de guàrdia, si és el cas.\n\nPer a dur a terme este control es registraran les absències i els retards referits a les hores de dedicació al centre, d'acord amb el seu horari personal amb independència que estiguen o no justificats.\n\nQualsevol absència que es produïsca, inclosa la d'un dia, haurà de ser notificada i justificada pel docent a la direcció d'estudis tan prompte com siga possible.\n\n– Una còpia de la llista de faltes del professorat elaborada per la direcció d'estudis s'exposarà en un lloc visible de la sala de professors. Una altra còpia quedarà a la disposició del Consell Escolar per a la seua consulta. En els dos llistats figuraran els dígits que ocupen les posiciones quarta, quinta, sexta i sèptima del DNI o, si és el cas, del document acreditatiu de la identitat de les persones estrangeres residents en territori espanyol, d'acord amb la disposició addicional 7a de la Llei orgànica 3/2018, de 5 de desembre, de protecció de dades personals i garantia dels drets digitals.\n\n– Si al cap de 5 dies lectius d'haver-se produït la falta no s'ha presentat a la direcció d'estudis cap justificant, o no ha quedat prou justificada documentalment, la direcció del centre comunicarà per escrit a l'interessat la consideració de la falta injustificada en el termini màxim de deu dies a partir de la data de la falta.\n\n– La direcció del centre remetrà, dins de la primera quinzena de cada mes, al director o directora territorial corresponent la relació del personal docent que haja incorregut en faltes, absències o retards no justificats durant el mes immediatament anterior, així com còpia de les comunicacions remeses a les persones interessades.\n\nAmb independència del que preveu l'article 94 de la Llei 4/2021, de 16 d'abril, de la funció pública valenciana, la diferència, en còmput mensual, entre la jornada reglamentària de treball i l'efectivament realitzada pel docent donarà lloc, llevat que hi haja una justificació, a la corresponent deducció proporcional d'havers."
+        },
+        {
+          "type": "articulo",
+          "id": "anexo-1-segundo",
+          "number": "Segon",
+          "title": "Segon. Càlcul del valor aplicable a la deducció per absències no justificades",
+          "content": "La deducció d'havers per absències sense justificar per al personal docent dependent de la conselleria competent en matèria d'educació es realitza mitjançant un càlcul proporcional sobre les retribucions íntegres mensuals en funció del temps de treball no complit.\n\nCàlcul de la deducció:\n\n1. Es pren com a base la totalitat de les retribucions íntegres mensuals que perceba el personal docent.\n\n2. Esta quantitat es dividix per trenta (el nombre de dies del mes).\n\n3. El resultat es dividix pel nombre d'hores que el personal té l'obligació de complir cada dia.\n\n4. L'import obtingut és el valor/hora, que s'aplicarà al temps de treball no complit sense justificació.\n\nQuan la Inspecció Educativa detecte qualsevol incompliment, per part d'un director o d'una directora, de les responsabilitats que les presents instruccions li conferixen en el control de l'assistència del personal docent, siga per no enviar l'informe de faltes o per fer-ho fora de termini, o bé per no haver realitzat les notificacions subsegüents a què es referixen els paràgrafs anteriors, ho comunicarà al director o directora territorial per a l'adopció de les mesures oportunes."
+        },
+        {
+          "type": "articulo",
+          "id": "anexo-1-tercero",
+          "number": "Tercer",
+          "title": "Tercer. Absències al treball per malaltia o accident sense baixa per incapacitat temporal (IT)",
+          "content": "Absències al treball del personal docent motivades per malaltia o accident i que no donen lloc a una situació d'incapacitat temporal (IT).\n\nDuració: fins a quatre dies al llarg de l'any natural, dels quals només tres podran tindre lloc en dies consecutius.\n\nEfectes retributius (tant en Muface com en la Seguretat Social):\n\n1r. Sense deducció de retribucions: percepció del 100 % de les retribucions per absències de fins a quatre dies al llarg de l'any natural (només tres consecutius).\n\n2n. Amb deducció de retribucions: deducció del 50 % de les retribucions a partir del quint dia d'absència al lloc de treball per malaltia o accident durant l'any natural i el quart dia consecutiu.\n\nEls quatre dies d'absència es computaran dins de l'any natural, i no per a cada un dels nomenaments o llocs de treball ocupats. En cas d'efectuar-se un nou nomenament o canvi de lloc durant l'any natural, el docent haurà d'aportar un certificat de la direcció del centre anterior que faça constar els dies que s'ha absentat del treball per malaltia o accident i que no van donar lloc a una situació d'incapacitat temporal.\n\nLa direcció del centre docent remetrà, dins de la primera quinzena de cada mes, al servici/secció de personal de la direcció territorial corresponent la relació referent al mes immediatament anterior de docents que han superat els 4 dies d'absències, i correspon fer-los una deducció del 50 % d'havers (annex V).\n\nQualsevol absència que es produïsca, incloses les d'un dia, haurà de ser notificada i justificada pel docent a la direcció d'estudis del seu centre, tan prompte com siga possible.\n\nEn tot cas, s'exigirà la justificació de l'absència mitjançant el justificant mèdic corresponent.\n\nA partir del quart dia d'absència, cal que la persona funcionària dispose del corresponent comunicat de baixa mèdica emés per la Seguretat Social o per Muface.\n\nSi al cap de cinc dies lectius d'haver-se produït l'absència no s'ha presentat a la direcció d'estudis cap justificació, o no ha quedat prou justificada amb la documentació aportada, la direcció del centre comunicarà a la persona interessada la consideració de falta injustificada, en el termini màxim de deu dies a partir de la data de la falta (annex III).\n\nLa diferència, en còmput mensual, entre la jornada reglamentària de treball i l'efectivament realitzada per la persona docent donarà lloc, llevat que hi haja una justificació, a la corresponent deducció proporcional d'havers."
+        },
+        {
+          "type": "articulo",
+          "id": "anexo-1-resto-anexos",
+          "title": "Resta d'annexos",
+          "content": "[Els annexos II a VI s'oferixen com a formularis PDF per a la seua descàrrega i impressió. Utilitzeu els botons de descàrrega disponibles en esta pàgina.]\n\nII. Justificació de falta d'assistència.\nIII. Comunicació de superació de 4 dies d'absència per malaltia o accident sense baixa per incapacitat transitòria.\n\u2003III_A. Notificació d'absències no justificades (hores).\n\u2003III_B. Notificació d'absències no justificades (dies).\nIV. Diligència per negar-se a firmar la notificació per falta d'assistència.\nV. Relació mensual de docents que han superat els 4 dies d'absència per malaltia o accident sense baixa.\nVI. Llista de faltes del professorat (ITACA)."
+        }
+      ]
+    }
+  ],
+  "legalAnalysis": {
+    "enactedPursuantTo": [
+      {
+        "title": "Decret 38/2025, de 5 de març, del Consell, d'aprovació del Reglament orgànic i funcional de la Conselleria d'Educació, Cultura, Universitats i Ocupació",
+        "articles": ["art-8"],
+        "relationship": "habilitante"
+      }
+    ],
+    "priorAffectations": [],
+    "posteriorAffectations": [],
+    "derogations": [],
+    "concordances": [
+      {
+        "lawId": "decreto-234-2022",
+        "title": "Decret 234/2022 - Permisos i llicències del personal docent",
+        "description": "Els annexos II a VI referencien els permisos i llicències del Decret 234/2022"
+      },
+      {
+        "title": "Decret 96/2014, del Consell, règim d'absències al treball per malaltia o accident",
+        "description": "Base normativa per al règim de deducció del 50 % de retribucions"
+      },
+      {
+        "title": "Llei 4/2021, de 16 d'abril, de la funció pública valenciana",
+        "description": "Article 94: règim d'absències no justificades"
+      },
+      {
+        "lawId": "circular-1-2025-permisos",
+        "title": "Circular 1/2025 - Manual de permisos i llicències del personal docent",
+        "description": "Els annexos referencien els punts de la Circular 1/2025 per a cada tipus de permís"
+      }
+    ]
+  },
+  "promulgation": {
+    "place": "València",
+    "date": "2026-01-15",
+    "signatories": [
+      {
+        "name": "Francisco Pablo Ortega Gil",
+        "role": "Direcció General de Personal Docent"
+      }
+    ]
+  },
+  "formModels": [
+    {
+      "id": "anexo-2-justificante",
+      "title": "Annex II: Justificant de falta d'assistència",
+      "pdfUrl": "models/circular-1-2026-ausencias-anexo-2-va.pdf"
+    },
+    {
+      "id": "anexo-3-comunicacion",
+      "title": "Annex III: Comunicació de superació de 4 dies d'absència per malaltia sense baixa IT",
+      "pdfUrl": "models/circular-1-2026-ausencias-anexo-3-va.pdf"
+    },
+    {
+      "id": "anexo-3a-notificacion-horas",
+      "title": "Annex III_A: Notificació d'absències no justificades (hores)",
+      "pdfUrl": "models/circular-1-2026-ausencias-anexo-3a-va.pdf"
+    },
+    {
+      "id": "anexo-3b-notificacion-dias",
+      "title": "Annex III_B: Notificació d'absències no justificades (dies)",
+      "pdfUrl": "models/circular-1-2026-ausencias-anexo-3b-va.pdf"
+    },
+    {
+      "id": "anexo-4-diligencia",
+      "title": "Annex IV: Diligència per negar-se a firmar la notificació",
+      "pdfUrl": "models/circular-1-2026-ausencias-anexo-4-va.pdf"
+    },
+    {
+      "id": "anexo-6-listado-faltas",
+      "title": "Annex VI: Llista de faltes del professorat (ITACA)",
+      "pdfUrl": "models/circular-1-2026-ausencias-anexo-6-va.pdf"
+    }
+  ],
+  "scope": "general",
+  "territory": "autonomico",
+  "temporality": {
+    "type": "permanente"
+  },
+  "docType": "documentos"
+}

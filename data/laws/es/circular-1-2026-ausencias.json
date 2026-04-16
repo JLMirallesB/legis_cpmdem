@@ -1,0 +1,165 @@
+{
+  "id": "circular-1-2026-ausencias",
+  "slug": "circular-1-2026-ausencias",
+  "type": "circular",
+  "number": "1/2026",
+  "date": "2026-01-15",
+  "publishedIn": {
+    "source": "CEICE",
+    "number": "",
+    "date": "2026-01-15",
+    "url": "",
+    "pdfUrl": "https://ceice.gva.es/webitaca/docs/avisos/Circular_1_2026_ausencias_firmado_150126.pdf"
+  },
+  "title": "Circular 1/2026, de 15 de enero, de la Dirección General de Personal Docente, por la que se dictan instrucciones reguladoras de las ausencias del personal docente de los centros públicos no universitarios dependientes de la Conselleria con competencias en materia de educación",
+  "titleShort": "Instrucciones reguladoras de las ausencias del personal docente",
+  "category": "profesorado",
+  "vigpiracy": {
+    "status": "vigente",
+    "statusLabel": "Vigente",
+    "effectiveDate": "2026-01-15"
+  },
+  "structure": [
+    {
+      "type": "preambulo",
+      "id": "preambulo",
+      "title": "Preámbulo",
+      "content": "Con el objeto de ordenar, clarificar y unificar el marco normativo de las ausencias del personal docente de los centros públicos se realiza la siguiente resolución."
+    },
+    {
+      "type": "articulo",
+      "id": "primero",
+      "number": "Primero",
+      "title": "Primero",
+      "content": "Dictar instrucciones reguladoras de las ausencias al trabajo del personal docente de los centros públicos de enseñanzas no universitarias dependientes de la Conselleria con competencias en materia de educación, conforme al desarrollo del Anexo I de la presente resolución."
+    },
+    {
+      "type": "articulo",
+      "id": "segundo",
+      "number": "Segundo",
+      "title": "Segundo",
+      "content": "El contenido de esta resolución será publicado en el portal web de la Conselleria de Educación, Cultura y Universidades.\n\nLa presente resolución se dicta en virtud de las competencias asignadas a esta Dirección General de Personal Docente, de la Consellería de Educación, Cultura y Universidades, descritas en el artículo 8 del Decreto 38/2025, de 5 de marzo, del Consell, de aprobación del Reglamento orgánico y funcional de la Conselleria de Educación, Cultura, Universidades y Empleo (DOGV 10060, 05.03.2025).\n\nContra esta resolución que agota la vía administrativa, la persona interesada podrá interponer recurso contencioso-administrativo, sin perjuicio de cualquier otro que estime procedente, en el plazo de dos meses, a contar desde el día siguiente al de la recepción de esta notificación, ante el Juzgado de lo Contencioso-Administrativo en que se halle la sede del órgano autor del acto originario impugnado, de acuerdo con lo previsto en los artículos 8.2, 14, 25.1 y 46.1 de la Ley 29/1998, de 13 de julio, Reguladora de la Jurisdicción Contencioso-Administrativa. Asimismo, podrá ser recurrido potestativamente en reposición ante esta Dirección General en el plazo de un mes desde su notificación, de conformidad con lo previsto en los artículos 112, 123 y 124 de la Ley de Procedimiento Administrativo Común de las Administraciones Públicas."
+    },
+    {
+      "type": "anexo",
+      "id": "anexo-1",
+      "number": "I",
+      "title": "Anexo I. Instrucciones reguladoras de las ausencias del personal docente de los centros públicos no universitarios dependientes de la Conselleria con competencias en materia de educación",
+      "children": [
+        {
+          "type": "articulo",
+          "id": "anexo-1-intro",
+          "title": "Introducción",
+          "content": "Las ausencias del personal docente durante la jornada de trabajo, totales o parciales deberán justificarse desde el primer día, mediante la aportación de la correspondiente documentación acreditativa.\n\nLa falta de justificación de la ausencia dará lugar a que se active el régimen aplicable relativo a las ausencias no acreditadas."
+        },
+        {
+          "type": "articulo",
+          "id": "anexo-1-primero",
+          "number": "Primero",
+          "title": "Primero. Cumplimiento del horario por parte del personal docente",
+          "content": "– El control de asistencia del personal docente corresponde a la jefatura de estudios, que contará con la colaboración del profesorado de guardia, en su caso.\n\nPara llevar a cabo dicho control se registrarán las ausencias y los retrasos referidos a las horas de dedicación al centro, de acuerdo con su horario personal con independencia de que estén o no justificados.\n\nCualquier ausencia que se produzca, incluida la de un día, deberá ser notificada y justificada por el docente a la jefatura de estudios a la mayor brevedad.\n\n– Una copia del listado de faltas del profesorado elaborado por la jefatura de estudios se expondrá en un lugar visible de la sala de profesores. Otra copia quedará a disposición del Consejo Escolar para su consulta. En ambos listados figurarán los dígitos que ocupan las posiciones cuarta, quinta, sexta y séptima del DNI o, en su caso, del documento acreditativo de la identidad de las personas extranjeras residentes en territorio español, de acuerdo con la disposición adicional 7ª de la Ley orgánica 3/2018, de 5 de diciembre de protección de datos personales y garantía de los derechos digitales.\n\n– Si pasados 5 días lectivos de haberse producido la falta no se hubiese presentado a la jefatura de estudios justificante alguno, o no quedará suficientemente justificado documentalmente, la dirección del centro comunicará por escrito al interesado la consideración de la falta injustificada en el plazo máximo de diez días a partir de la fecha de la falta.\n\n– La dirección del centro remitirá dentro de la primera quincena de cada mes, al director o directora territorial correspondiente, la relación del personal docente que haya incurrido en faltas, ausencias o retrasos no justificados durante el mes inmediatamente anterior, así como copia de las comunicaciones remitidas a las personas interesadas.\n\nCon independencia de lo previsto en el artículo 94 de la Ley 4/2021, de 16 de abril, de la Función Pública Valenciana, la diferencia, en cómputo mensual, entre la jornada reglamentaria de trabajo y la efectivamente realizada por el docente dará lugar, salvo justificación, a la correspondiente deducción proporcional de haberes."
+        },
+        {
+          "type": "articulo",
+          "id": "anexo-1-segundo",
+          "number": "Segundo",
+          "title": "Segundo. Cálculo del valor aplicable a la deducción por ausencias no justificadas",
+          "content": "La deducción de haberes por ausencias sin justificar para el personal docente dependiente de la Conselleria competente en materia de educación se realiza mediante un cálculo proporcional sobre las retribuciones íntegras mensuales en función del tiempo de trabajo no cumplido.\n\nCálculo de la deducción:\n\n1. Se toma como base la totalidad de las retribuciones íntegras mensuales que perciba el personal docente.\n\n2. Esta cantidad se divide por treinta (el número de días del mes).\n\n3. El resultado se divide por el número de horas que el personal tiene obligación de cumplir cada día.\n\n4. El importe obtenido es el valor/hora, que se aplicará al tiempo de trabajo no cumplido sin justificación.\n\nCuando la inspección educativa detecte cualquier incumplimiento por parte de un director o de una directora de las responsabilidades que las presentes instrucciones le confieren en el control de la asistencia del personal docente, sea por no enviar el parte de faltas, hacerlo fuera de plazo, o por no haber realizado las notificaciones subsiguientes a las que se refiere los párrafos anteriores, lo comunicará al director o directora territorial para la adopción de las medidas oportunas."
+        },
+        {
+          "type": "articulo",
+          "id": "anexo-1-tercero",
+          "number": "Tercero",
+          "title": "Tercero. Ausencias al trabajo por enfermedad o accidente sin baja por incapacidad temporal (IT)",
+          "content": "Ausencias al trabajo del personal docente motivadas por enfermedad o accidente y que no den lugar a una situación de Incapacidad Temporal (IT).\n\nDuración: hasta cuatro días a lo largo del año natural, de los cuales solo tres podrán tener lugar en días consecutivos.\n\nEfectos retributivos (tanto en Muface como en Seguridad Social):\n\n1.º Sin deducción de retribuciones: percepción del 100% de las retribuciones por ausencias de hasta cuatro días a lo largo del año natural (solo tres consecutivos).\n\n2.º Con deducción de retribuciones: deducción del 50% de las retribuciones a partir del quinto día de ausencia al puesto de trabajo por enfermedad o accidente durante el año natural y el cuarto día consecutivo.\n\nLos cuatro días de ausencia se computarán dentro del año natural y no para cada uno de los nombramientos o puestos de trabajo ocupados. En caso de efectuarse un nuevo nombramiento o cambio de puesto durante el año natural, el docente deberá de aportar un certificado de la dirección del centro anterior que haga constar los días que se ha ausentado del trabajo por enfermedad o accidente y que no dio lugar a una situación de Incapacidad Temporal.\n\nLa dirección del centro docente remitirá dentro de la primera quincena de cada mes, al servicio/sección de personal de la Dirección Territorial correspondiente, la relación referente al mes inmediatamente anterior de docentes que han superado los 4 días de ausencias y corresponde hacerles deducción del 50% de haberes (Anexo V).\n\nCualquier ausencia que se produzca, incluidas las de un día, deberá de ser notificada y justificada por el docente a la Jefatura de Estudios de su centro, a la mayor brevedad posible.\n\nEn todo caso, se exigirá la justificación de la ausencia mediante el correspondiente justificante médico.\n\nA partir del cuarto día de ausencia es necesario que la persona funcionaria disponga del correspondiente parte de baja médica emitido por la Seguridad Social o por Muface.\n\nSi al cabo de cinco días lectivos de haberse producido la ausencia no se hubiera presentado a la jefatura de estudios justificación alguna, o no quedará suficientemente justificada con la documentación aportada, la dirección del centro comunicará a la persona interesada la consideración de falta injustificada, en el plazo máximo de diez días a partir de la fecha de la falta (Anexo III).\n\nLa diferencia en cómputo mensual, entre la jornada reglamentaria de trabajo y la efectivamente realizada por la persona docente dará lugar, salvo justificación, a la correspondiente deducción proporcional de haberes."
+        },
+        {
+          "type": "articulo",
+          "id": "anexo-1-resto-anexos",
+          "title": "Resto de Anexos",
+          "content": "[Los anexos II a VI se ofrecen como formularios PDF para su descarga e impresión. Utilice los botones de descarga disponibles en esta página.]\n\nII. Justificación de falta de asistencia.\nIII. Comunicación superación 4 días ausencia por enfermedad o accidente sin baja por incapacidad transitoria.\n\u2003III_A. Notificación ausencias no justificadas (horas).\n\u2003III_B. Notificación ausencias no justificadas (días).\nIV. Diligencia por negarse a firmar la notificación por falta de asistencia.\nV. Relación mensual de docentes que han superado los 4 días de ausencia por enfermedad o accidente sin baja.\nVI. Listado de faltas del profesorado (ITACA)."
+        }
+      ]
+    }
+  ],
+  "legalAnalysis": {
+    "enactedPursuantTo": [
+      {
+        "title": "Decreto 38/2025, de 5 de marzo, del Consell, de aprobación del Reglamento orgánico y funcional de la Conselleria de Educación, Cultura, Universidades y Empleo",
+        "articles": ["art-8"],
+        "relationship": "habilitante"
+      }
+    ],
+    "priorAffectations": [],
+    "posteriorAffectations": [],
+    "derogations": [],
+    "concordances": [
+      {
+        "lawId": "decreto-234-2022",
+        "title": "Decreto 234/2022 - Permisos y licencias del personal docente",
+        "description": "Los anexos II a VI referencian los permisos y licencias del Decreto 234/2022"
+      },
+      {
+        "title": "Decreto 96/2014, del Consell, régimen de ausencias al trabajo por enfermedad o accidente",
+        "description": "Base normativa para el régimen de deducción del 50% de retribuciones"
+      },
+      {
+        "title": "Ley 4/2021, de 16 de abril, de la Función Pública Valenciana",
+        "description": "Artículo 94: régimen de ausencias no justificadas"
+      },
+      {
+        "lawId": "circular-1-2025-permisos",
+        "title": "Circular 1/2025 - Manual de permisos y licencias del personal docente",
+        "description": "Los anexos referencian los puntos de la Circular 1/2025 para cada tipo de permiso"
+      }
+    ]
+  },
+  "promulgation": {
+    "place": "Valencia",
+    "date": "2026-01-15",
+    "signatories": [
+      {
+        "name": "Francisco Pablo Ortega Gil",
+        "role": "Dirección General de Personal Docente"
+      }
+    ]
+  },
+  "formModels": [
+    {
+      "id": "anexo-2-justificante",
+      "title": "Anexo II: Justificante de falta de asistencia",
+      "pdfUrl": "models/circular-1-2026-ausencias-anexo-2-es.pdf"
+    },
+    {
+      "id": "anexo-3-comunicacion",
+      "title": "Anexo III: Comunicación superación 4 días ausencia por enfermedad sin baja IT",
+      "pdfUrl": "models/circular-1-2026-ausencias-anexo-3-es.pdf"
+    },
+    {
+      "id": "anexo-3a-notificacion-horas",
+      "title": "Anexo III_A: Notificación ausencias no justificadas (horas)",
+      "pdfUrl": "models/circular-1-2026-ausencias-anexo-3a-es.pdf"
+    },
+    {
+      "id": "anexo-3b-notificacion-dias",
+      "title": "Anexo III_B: Notificación ausencias no justificadas (días)",
+      "pdfUrl": "models/circular-1-2026-ausencias-anexo-3b-es.pdf"
+    },
+    {
+      "id": "anexo-4-diligencia",
+      "title": "Anexo IV: Diligencia por negarse a firmar la notificación",
+      "pdfUrl": "models/circular-1-2026-ausencias-anexo-4-es.pdf"
+    },
+    {
+      "id": "anexo-6-listado-faltas",
+      "title": "Anexo VI: Listado de faltas del profesorado (ITACA)",
+      "pdfUrl": "models/circular-1-2026-ausencias-anexo-6-es.pdf"
+    }
+  ],
+  "scope": "general",
+  "territory": "autonomico",
+  "temporality": {
+    "type": "permanente"
+  },
+  "docType": "documentos"
+}

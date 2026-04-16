@@ -1,5 +1,31 @@
 [
   {
+    "version": "0.17.1",
+    "date": "2026-04-16",
+    "entries": {
+      "es": [
+        {
+          "type": "nuevo",
+          "description": "Ingesta de la Circular 1/2026, de 15 de enero, de la Dirección General de Personal Docente, por la que se dictan instrucciones reguladoras de las ausencias del personal docente de los centros públicos no universitarios. Incluye Primero (dictado de instrucciones), Segundo (publicación), Anexo I con texto introductorio y tres apartados (Primero: cumplimiento de horario, Segundo: cálculo de deducción, Tercero: ausencias por enfermedad/accidente sin IT). Los Anexos II a VI (formularios de justificación, comunicaciones, notificaciones y listados) se ofrecen como PDFs descargables. Categoría: Profesorado."
+        },
+        {
+          "type": "nuevo",
+          "description": "Ingesta de la Circular 5/2025, de la Dirección General de Personal Docente, por la que se desarrolla el artículo 7 de la Circular 1/2025 (permisos a directores). Añade la competencia de la DG del ISEACV para resolver permisos de directores de centros dependientes de esta entidad autónoma. Se ha actualizado el artículo 7 de la Circular 1/2025 con selector de versión (v1 original → v2 con ISEACV). Categoría: Profesorado."
+        }
+      ],
+      "va": [
+        {
+          "type": "nou",
+          "description": "Ingesta de la Circular 1/2026, de 15 de gener, de la Direcció General de Personal Docent, per la qual es dicten instruccions reguladores de les absències del personal docent dels centres públics no universitaris. Inclou Primer (dictat d'instruccions), Segon (publicació), Annex I amb text introductori i tres apartats (Primer: compliment d'horari, Segon: càlcul de deducció, Tercer: absències per malaltia/accident sense IT). Els annexos II a VI (formularis de justificació, comunicacions, notificacions i llistats) s'oferixen com a PDF descarregables. Categoria: Professorat."
+        },
+        {
+          "type": "nou",
+          "description": "Ingesta de la Circular 5/2025, de la Direcció General de Personal Docent, per la qual es desenrotlla l'article 7 de la Circular 1/2025 (permisos a directors). Afig la competència de la DG de l'ISEACV per a resoldre permisos de directors de centres dependents d'esta entitat autònoma. S'ha actualitzat l'article 7 de la Circular 1/2025 amb selector de versió (v1 original → v2 amb ISEACV). Categoria: Professorat."
+        }
+      ]
+    }
+  },
+  {
     "version": "0.17.0",
     "date": "2026-04-15",
     "entries": {

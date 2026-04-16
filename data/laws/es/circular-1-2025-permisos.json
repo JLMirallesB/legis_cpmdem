@@ -80,7 +80,24 @@
           "id": "sec-1-7",
           "number": "7",
           "title": "7. Permisos a directores y directoras de los centros docentes",
-          "content": "Los permisos y licencias que soliciten los directores y las directoras de los centros docentes en los casos en que estos tengan la competencia delegada para la concesión al profesorado, serán resueltos por la persona titular de la Dirección Territorial con competencias en educación de que dependa el centro.\n\nLa Dirección General competente en materia de inclusión educativa resolverá las solicitudes de los permisos correspondientes a los directores o directoras de las Unidades Especializadas de Orientación.\n\nLa Subdirección General de Formación del Profesorado resolverá las solicitudes de los permisos correspondientes a los directores o directoras de los CEFIRE."
+          "content": "Los permisos y licencias que soliciten los directores y las directoras de los centros docentes en los casos en que estos tengan la competencia delegada para la concesión al profesorado, serán resueltos por la persona titular de la Dirección Territorial con competencias en educación de que dependa el centro.\n\nLa Dirección General competente en materia de inclusión educativa resolverá las solicitudes de los permisos correspondientes a los directores o directoras de las Unidades Especializadas de Orientación.\n\nLa Subdirección General de Formación del Profesorado resolverá las solicitudes de los permisos correspondientes a los directores o directoras de los CEFIRE.\n\nLa Dirección General del Instituto Superior de Enseñanzas Artísticas de la Comunitat Valenciana resolverá las solicitudes de los permisos correspondientes a los directores o directoras de los centros dependientes de esta entidad autónoma.",
+          "versions": [
+            {
+              "versionId": "v2",
+              "effectiveDate": "2025-05-12",
+              "modifiedBy": {
+                "lawId": "circular-5-2025-iseacv",
+                "title": "Circular 5/2025 - Desarrollo art. 7 Circular 1/2025 (ISEACV)"
+              },
+              "content": "Los permisos y licencias que soliciten los directores y las directoras de los centros docentes en los casos en que estos tengan la competencia delegada para la concesión al profesorado, serán resueltos por la persona titular de la Dirección Territorial con competencias en educación de que dependa el centro.\n\nLa Dirección General competente en materia de inclusión educativa resolverá las solicitudes de los permisos correspondientes a los directores o directoras de las Unidades Especializadas de Orientación.\n\nLa Subdirección General de Formación del Profesorado resolverá las solicitudes de los permisos correspondientes a los directores o directoras de los CEFIRE.\n\nLa Dirección General del Instituto Superior de Enseñanzas Artísticas de la Comunitat Valenciana resolverá las solicitudes de los permisos correspondientes a los directores o directoras de los centros dependientes de esta entidad autónoma."
+            },
+            {
+              "versionId": "v1",
+              "effectiveDate": "2025-01-17",
+              "modifiedBy": null,
+              "content": "Los permisos y licencias que soliciten los directores y las directoras de los centros docentes en los casos en que estos tengan la competencia delegada para la concesión al profesorado, serán resueltos por la persona titular de la Dirección Territorial con competencias en educación de que dependa el centro.\n\nLa Dirección General competente en materia de inclusión educativa resolverá las solicitudes de los permisos correspondientes a los directores o directoras de las Unidades Especializadas de Orientación.\n\nLa Subdirección General de Formación del Profesorado resolverá las solicitudes de los permisos correspondientes a los directores o directoras de los CEFIRE."
+            }
+          ]
         },
         {
           "type": "articulo",
@@ -587,6 +604,16 @@
     ],
     "priorAffectations": [],
     "posteriorAffectations": [
+      {
+        "lawId": "circular-5-2025-iseacv",
+        "title": "Circular 5/2025 - Desarrollo art. 7 Circular 1/2025 (ISEACV)",
+        "type": "modifica",
+        "articles": [
+          "sec-1-7"
+        ],
+        "date": "2025-05-12",
+        "description": "Sustituye el artículo 7 (Permisos a directores), añadiendo la competencia de la DG del ISEACV para centros dependientes de esta entidad autónoma"
+      },
       {
         "lawId": "circular-6-2025",
         "title": "Circular 6/2025 - Modificación permisos por RDL 9/2025",
