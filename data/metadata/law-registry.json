@@ -2,6 +2,13 @@
   "description": "Registro de leyes para tracking de ingesta. NO usado por Astro, solo para seguimiento.",
   "laws": [
     {
+      "slug": "resolucion-coordinacion-horaria-2026-2027",
+      "title": "Resolución 15/04/2026 - Convocatoria Programa de coordinación horaria curso 2026-2027",
+      "status": "ingested",
+      "category": "organizacion",
+      "notes": "Resolución anual de la DG de Ordenación Educativa. Convoca el Programa de coordinación horaria para alumnado que simultanea enseñanzas elementales/profesionales de Música/Danza y régimen general. Preámbulo + 8 apartados. Anual (curso 2026-2027)."
+    },
+    {
       "slug": "ley-40-2015",
       "title": "Ley 40/2015 - Régimen Jurídico del Sector Público (LRJSP)",
       "status": "ingested",
