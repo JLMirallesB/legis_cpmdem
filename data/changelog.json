@@ -1,5 +1,23 @@
 [
   {
+    "version": "0.17.3",
+    "date": "2026-04-23",
+    "entries": {
+      "es": [
+        {
+          "type": "nuevo",
+          "description": "Nuevo cuaderno de fragmentos: Órganos colegiados (Ley 40/2015). Reúne los artículos sobre régimen, secretario, convocatorias y sesiones, actas, abstención y recusación aplicables a cualquier órgano colegiado de las administraciones públicas."
+        }
+      ],
+      "va": [
+        {
+          "type": "nou",
+          "description": "Nou quadern de fragments: Òrgans col·legiats (Llei 40/2015). Reuneix els articles sobre règim, secretari, convocatòries i sessions, actes, abstenció i recusació aplicables a qualsevol òrgan col·legiat de les administracions públiques."
+        }
+      ]
+    }
+  },
+  {
     "version": "0.17.2",
     "date": "2026-04-17",
     "entries": {

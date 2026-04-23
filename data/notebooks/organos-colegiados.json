@@ -1,0 +1,39 @@
+{
+  "id": "organos-colegiados",
+  "slug": "organos-colegiados",
+  "title": {
+    "es": "Órganos colegiados",
+    "va": "Òrgans col·legiats"
+  },
+  "description": {
+    "es": "Régimen de funcionamiento de los órganos colegiados según la Ley 40/2015: constitución, convocatorias, actas, abstención y recusación.",
+    "va": "Règim de funcionament dels òrgans col·legiats segons la Llei 40/2015: constitució, convocatòries, actes, abstenció i recusació."
+  },
+  "updatedAt": "2026-04-23",
+  "fragments": [
+    {
+      "lawSlug": "ley-40-2015",
+      "articleId": "art-15"
+    },
+    {
+      "lawSlug": "ley-40-2015",
+      "articleId": "art-16"
+    },
+    {
+      "lawSlug": "ley-40-2015",
+      "articleId": "art-17"
+    },
+    {
+      "lawSlug": "ley-40-2015",
+      "articleId": "art-18"
+    },
+    {
+      "lawSlug": "ley-40-2015",
+      "articleId": "art-23"
+    },
+    {
+      "lawSlug": "ley-40-2015",
+      "articleId": "art-24"
+    }
+  ]
+}
