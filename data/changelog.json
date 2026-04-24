@@ -1,5 +1,23 @@
 [
   {
+    "version": "0.17.5",
+    "date": "2026-04-24",
+    "entries": {
+      "es": [
+        {
+          "type": "nuevo",
+          "description": "Nuevo cuaderno de fragmentos: Evaluación — sesiones, equipo docente y documentos. Reúne 29 fragmentos de 10 normas (LOE, RD 1577/2006, decretos de currículo 156-159/2007, D.57/2020, Orden 20/2019, Orden 32/2011 y Resolución inicio de curso 2025-2026) sobre evaluación colegiada, sesiones de evaluación, documentos preceptivos (actas, informes individualizados) y obligaciones de actas en departamentos y órganos de coordinación."
+        }
+      ],
+      "va": [
+        {
+          "type": "nou",
+          "description": "Nou quadern de fragments: Avaluació — sessions, equip docent i documents. Reuneix 29 fragments de 10 normes (LOE, RD 1577/2006, decrets de currículum 156-159/2007, D.57/2020, Ordre 20/2019, Ordre 32/2011 i Resolució inici de curs 2025-2026) sobre avaluació col·legiada, sessions d'avaluació, documents preceptius (actes, informes individualitzats) i obligacions d'actes en departaments i òrgans de coordinació."
+        }
+      ]
+    }
+  },
+  {
     "version": "0.17.4",
     "date": "2026-04-23",
     "entries": {
