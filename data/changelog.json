@@ -1,5 +1,23 @@
 [
   {
+    "version": "0.18.1",
+    "date": "2026-04-26",
+    "entries": {
+      "es": [
+        {
+          "type": "corrección",
+          "description": "Corregido el padding horizontal en todas las páginas: los estilos de componente sobreescribían los márgenes del contenedor con padding shorthand, dejando el texto sin margen lateral en móvil."
+        }
+      ],
+      "va": [
+        {
+          "type": "correcció",
+          "description": "Corregit el padding horitzontal en totes les pàgines: els estils de component sobreescrivien els marges del contenidor amb padding shorthand, deixant el text sense marge lateral en mòbil."
+        }
+      ]
+    }
+  },
+  {
     "version": "0.18.0",
     "date": "2026-04-26",
     "entries": {
