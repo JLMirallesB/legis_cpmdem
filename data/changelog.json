@@ -1,5 +1,23 @@
 [
   {
+    "version": "1.0.1",
+    "date": "2026-04-29",
+    "entries": {
+      "es": [
+        {
+          "type": "corrección",
+          "description": "Corregida la separación de párrafos del preámbulo de la Orden 8/2026: detección por sangría del PDF y unión de párrafos partidos entre páginas."
+        }
+      ],
+      "va": [
+        {
+          "type": "correcció",
+          "description": "Corregida la separació de paràgrafs del preàmbul de l'Orde 8/2026: detecció per sagnia del PDF i unió de paràgrafs partits entre pàgines."
+        }
+      ]
+    }
+  },
+  {
     "version": "1.0.0",
     "date": "2026-04-29",
     "entries": {
