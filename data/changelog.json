@@ -1,5 +1,23 @@
 [
   {
+    "version": "1.1.0",
+    "date": "2026-04-29",
+    "entries": {
+      "es": [
+        {
+          "type": "nuevo",
+          "description": "Ingesta de la Orden 28/2011 — Admisión, acceso, matrícula y ordenación general en enseñanzas elementales y profesionales de Música y Danza. Derogada parcialmente por la Orden 8/2026: vigentes el Título III (convalidaciones, arts. 19-24), art. 27 (permanencia) y Título VI (asignaturas optativas, arts. 39-43). Arts. 40 y 43 incluyen versiones con las modificaciones de la Orden 49/2015."
+        }
+      ],
+      "va": [
+        {
+          "type": "nou",
+          "description": "Ingesta de l'Orde 28/2011 — Admissió, accés, matrícula i ordenació general en ensenyances elementals i professionals de Música i Dansa. Derogada parcialment per l'Orde 8/2026: vigents el Títol III (convalidacions, arts. 19-24), art. 27 (permanència) i Títol VI (assignatures optatives, arts. 39-43). Arts. 40 i 43 inclouen versions amb les modificacions de l'Orde 49/2015."
+        }
+      ]
+    }
+  },
+  {
     "version": "1.0.1",
     "date": "2026-04-29",
     "entries": {

@@ -1,0 +1,568 @@
+{
+  "id": "orden-28-2011",
+  "slug": "orden-28-2011",
+  "type": "orden",
+  "number": "28/2011",
+  "date": "2011-05-10",
+  "publishedIn": {
+    "source": "DOGV",
+    "number": "6522",
+    "date": "2011-05-17",
+    "url": "https://dogv.gva.es/va/resultat-dogv?signatura=2011/5562",
+    "pdfUrl": "https://dogv.gva.es/datos/2011/05/17/pdf/2011_5562.pdf"
+  },
+  "title": "Orde 28/2011, de 10 de maig, de la Conselleria d'Educació, per la qual es regulen l'admissió, l'accés i la matrícula, així com els aspectes d'ordenació general, per a l'alumnat que curse les ensenyances elementals i professionals de Música i de Dansa a la Comunitat Valenciana",
+  "titleShort": "O 28/2011 - Admissió, accés, matrícula i ordenació en EE i EEPP de Música i Dansa",
+  "category": "acceso",
+  "vigpiracy": {
+    "status": "derogada_parcial",
+    "statusLabel": "Derogada parcialment",
+    "effectiveDate": "2011-05-18",
+    "lastModifiedDate": "2026-04-30"
+  },
+  "scope": "musica_y_danza",
+  "territory": "autonomico",
+  "temporality": {
+    "type": "permanente"
+  },
+  "docType": "normativa",
+  "promulgation": {
+    "place": "València",
+    "date": "2011-05-10",
+    "signatories": [
+      {
+        "name": "Alejandro Font de Mora Turón",
+        "role": "Conselleria d'Educació"
+      }
+    ]
+  },
+  "structure": [
+    {
+      "type": "preambulo",
+      "id": "preambulo",
+      "title": "Preàmbul",
+      "content": "La Llei Orgànica 2/2006, de 3 de maig, d'Educació, regula en el títol I, capítol VI, secció primera, les ensenyances elementals i professionals de Música i Dansa, i establix en els articles 48, 49 i 50 la seua organització, els requisits d'accés i la titulació a què conduïxen les esmentades ensenyances.\n\nEl Reial Decret 1577/2006, de 22 de desembre, pel qual es fixen els aspectes bàsics del currículum de les ensenyances professionals de Música regulades per la Llei Orgànica 2/2006, de 3 de maig, d'Educació, així com el Reial Decret 85/2007, de 26 de gener, pel qual es fixen els aspectes bàsics del currículum de les ensenyances professionals de Dansa regulades per la Llei Orgànica 2/2006, de 3 de maig, d'Educació, fixen, entre altres, els requisits d'accés a estes ensenyances, els aspectes relacionats amb l'avaluació, la promoció i la permanència en les ensenyances, i la correspondència entre estes ensenyances i les d'Educació Secundària.\n\nEl Reial Decret 242/2009, de 27 de febrer, pel qual s'establixen convalidacions entre les ensenyances professionals de Música i Dansa i l'Educació Secundària Obligatòria i el Batxillerat, així com els efectes que sobre la matèria d'Educació Física han de tindre la condició d'esportista d'alt nivell o alt rendiment i les ensenyances professionals de Dansa, establix les convalidacions de diverses assignatures de les ensenyances professionals de Música i Dansa amb certes matèries del Batxillerat. Addicionalment, l'article 5 disposa que les administracions educatives establiran els procediments de convalidació, que s'iniciaran en el cas que l'alumnat o els seus pares, mares o tutors legals, si és menor d'edat, així ho sol·liciten.\n\nEl Decret 159/2007, de 21 de setembre, del Consell, pel qual s'establix el currículum de les ensenyances elementals de Música i es regula l'accés a estes ensenyances, el Decret 157/2007, de 21 de setembre, del Consell, pel qual s'establix el currículum de les ensenyances elementals de Dansa i es regula l'accés a estes ensenyances, el Decret 158/2007, de 21 de setembre, del Consell, pel qual s'establix el currículum de les ensenyances professionals de Música i es regula l'accés a estes ensenyances, així com el Decret 156/2007, de 21 de setembre, del Consell, pel qual s'establix el currículum de les ensenyances professionals de Dansa i es regula l'accés a estes ensenyances, desenrotllen el que disposa la normativa bàsica. En les seues respectives disposicions finals, els mencionats decrets autoritzen la conselleria competent en matèria d'educació a dictar les disposicions necessàries per a la seua aplicació i desplegament.\n\nPer mitjà d'esta orde, es concreten certs aspectes d'ordenació acadèmica de les ensenyances elementals i professionals de Música i Dansa. En particular, es regulen l'admissió, l'accés i matrícula, la permanència, la convalidació d'assignatures, el procediment per a l'obtenció directa del Certificat de superació de les Ensenyances Elementals de Dansa i de Música, així com el procediment pel qual es regulen les assignatures optatives en les ensenyances professionals de Dansa i de Música en els conservatoris i centres privats autoritzats per a impartir ensenyances elementals i professionals de Música i Dansa a la Comunitat Valenciana.\n\nPer tot això, vista la proposta del director general d'Ordenació i Centres Docents amb data 20 d'abril de 2011, de conformitat amb esta, i en virtut de les competències que m'atribuïx l'article 28.e de la Llei 5/1983, de 30 de desembre, del Consell,"
+    },
+    {
+      "type": "titulo",
+      "id": "titulo-1",
+      "number": "I",
+      "title": "Títol I. Disposició preliminar",
+      "children": [
+        {
+          "type": "capitulo",
+          "id": "cap-unico-1",
+          "number": "únic",
+          "title": "Capítol únic. Objecte",
+          "children": [
+            {
+              "type": "articulo",
+              "id": "art-1",
+              "number": "1",
+              "title": "Article 1. Objecte i àmbit d'aplicació",
+              "content": "1. La present orde té com a objecte regular l'admissió, l'accés i la matrícula, així com els aspectes d'ordenació general, per a l'alumnat que curse les ensenyances elementals i professionals de Música i Dansa a la Comunitat Valenciana.\n\n2. Esta orde serà aplicable en els conservatoris i en els centres privats autoritzats per a impartir ensenyances elementals i professionals de Música i Dansa en l'àmbit de gestió de la Comunitat Valenciana."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "titulo",
+      "id": "titulo-2",
+      "number": "II",
+      "title": "Títol II. Admissió, ingrés, accés i matrícula",
+      "children": [
+        {
+          "type": "capitulo",
+          "id": "cap-1",
+          "number": "I",
+          "title": "Capítol I. Admissió en les ensenyances elementals i professionals de Música i de Dansa",
+          "children": [
+            {
+              "type": "articulo",
+              "id": "art-2",
+              "number": "2",
+              "title": "Article 2. Aspectes generals en l'admissió d'alumnat",
+              "content": "[Derogat per l'Orde 8/2026, de 24 d'abril, per la qual es regula el procés d'admissió a les ensenyances elementals i professionals de Música i Dansa - veure PDF original]"
+            },
+            {
+              "type": "articulo",
+              "id": "art-3",
+              "number": "3",
+              "title": "Article 3. Admissió en les ensenyances elementals de Música i Dansa",
+              "content": "[Derogat per l'Orde 8/2026, de 24 d'abril, per la qual es regula el procés d'admissió a les ensenyances elementals i professionals de Música i Dansa - veure PDF original]"
+            },
+            {
+              "type": "articulo",
+              "id": "art-4",
+              "number": "4",
+              "title": "Article 4. Admissió en les ensenyances professionals de Música i Dansa",
+              "content": "[Derogat per l'Orde 8/2026, de 24 d'abril, per la qual es regula el procés d'admissió a les ensenyances elementals i professionals de Música i Dansa - veure PDF original]"
+            },
+            {
+              "type": "articulo",
+              "id": "art-5",
+              "number": "5",
+              "title": "Article 5. Admissió per sol·licitud de trasllat de centre",
+              "content": "[Derogat per l'Orde 8/2026, de 24 d'abril, per la qual es regula el procés d'admissió a les ensenyances elementals i professionals de Música i Dansa - veure PDF original]"
+            },
+            {
+              "type": "articulo",
+              "id": "art-6",
+              "number": "6",
+              "title": "Article 6. Readmissió",
+              "content": "[Derogat per l'Orde 8/2026, de 24 d'abril, per la qual es regula el procés d'admissió a les ensenyances elementals i professionals de Música i Dansa - veure PDF original]"
+            }
+          ]
+        },
+        {
+          "type": "capitulo",
+          "id": "cap-2",
+          "number": "II",
+          "title": "Capítol II. Proves d'ingrés i accés a les ensenyances",
+          "children": [
+            {
+              "type": "articulo",
+              "id": "art-7",
+              "number": "7",
+              "title": "Article 7. Ingrés i accés a les ensenyances elementals i professionals de Música i Dansa d'aspirants amb característiques excepcionals, que no reunixen els requisits d'edat",
+              "content": "[Derogat per l'Orde 8/2026, de 24 d'abril, per la qual es regula el procés d'admissió a les ensenyances elementals i professionals de Música i Dansa - veure PDF original]"
+            },
+            {
+              "type": "articulo",
+              "id": "art-8",
+              "number": "8",
+              "title": "Article 8. Prova d'ingrés a primer curs de les ensenyances elementals de Música i Dansa",
+              "content": "[Derogat per l'Orde 8/2026, de 24 d'abril, per la qual es regula el procés d'admissió a les ensenyances elementals i professionals de Música i Dansa - veure PDF original]"
+            },
+            {
+              "type": "articulo",
+              "id": "art-9",
+              "number": "9",
+              "title": "Article 9. Adjudicació de places escolars vacants del primer curs d'ensenyances elementals de Dansa i en les especialitats instrumentals de les ensenyances elementals de Música",
+              "content": "[Derogat per l'Orde 8/2026, de 24 d'abril, per la qual es regula el procés d'admissió a les ensenyances elementals i professionals de Música i Dansa - veure PDF original]"
+            },
+            {
+              "type": "articulo",
+              "id": "art-10",
+              "number": "10",
+              "title": "Article 10. Proves d'accés a cursos diferents de primer d'ensenyances elementals de Música i Dansa",
+              "content": "[Derogat per l'Orde 8/2026, de 24 d'abril, per la qual es regula el procés d'admissió a les ensenyances elementals i professionals de Música i Dansa - veure PDF original]"
+            },
+            {
+              "type": "articulo",
+              "id": "art-11",
+              "number": "11",
+              "title": "Article 11. Prova d'accés a les ensenyances professionals de Música i Dansa",
+              "content": "[Derogat per l'Orde 8/2026, de 24 d'abril, per la qual es regula el procés d'admissió a les ensenyances elementals i professionals de Música i Dansa - veure PDF original]"
+            },
+            {
+              "type": "articulo",
+              "id": "art-12",
+              "number": "12",
+              "title": "Article 12. Proves d'accés a cursos diferents de primer de les ensenyances professionals de Música i Dansa",
+              "content": "[Derogat per l'Orde 8/2026, de 24 d'abril, per la qual es regula el procés d'admissió a les ensenyances elementals i professionals de Música i Dansa - veure PDF original]"
+            }
+          ]
+        },
+        {
+          "type": "capitulo",
+          "id": "cap-3",
+          "number": "III",
+          "title": "Capítol III. Calendari de realització de proves i de matrícula",
+          "children": [
+            {
+              "type": "articulo",
+              "id": "art-13",
+              "number": "13",
+              "title": "Article 13. Publicitat dels procediments",
+              "content": "[Derogat per l'Orde 8/2026, de 24 d'abril, per la qual es regula el procés d'admissió a les ensenyances elementals i professionals de Música i Dansa - veure PDF original]"
+            },
+            {
+              "type": "articulo",
+              "id": "art-14",
+              "number": "14",
+              "title": "Article 14. Calendari per a la realització de les proves d'ingrés i accés a ensenyances elementals",
+              "content": "[Derogat per l'Orde 8/2026, de 24 d'abril, per la qual es regula el procés d'admissió a les ensenyances elementals i professionals de Música i Dansa - veure PDF original]"
+            },
+            {
+              "type": "articulo",
+              "id": "art-15",
+              "number": "15",
+              "title": "Article 15. Calendari per a la realització de les proves d'accés a ensenyances professionals",
+              "content": "[Derogat per l'Orde 8/2026, de 24 d'abril, per la qual es regula el procés d'admissió a les ensenyances elementals i professionals de Música i Dansa - veure PDF original]"
+            },
+            {
+              "type": "articulo",
+              "id": "art-16",
+              "number": "16",
+              "title": "Article 16. Prelació en la formalització de matrícula de l'alumnat",
+              "content": "[Derogat per l'Orde 8/2026, de 24 d'abril, per la qual es regula el procés d'admissió a les ensenyances elementals i professionals de Música i Dansa - veure PDF original]"
+            },
+            {
+              "type": "articulo",
+              "id": "art-17",
+              "number": "17",
+              "title": "Article 17. Renúncia de matrícula",
+              "content": "[Derogat per l'Orde 8/2026, de 24 d'abril, per la qual es regula el procés d'admissió a les ensenyances elementals i professionals de Música i Dansa - veure PDF original]"
+            },
+            {
+              "type": "articulo",
+              "id": "art-18",
+              "number": "18",
+              "title": "Article 18. Adjudicació de les vacants sobrevingudes",
+              "content": "[Derogat per l'Orde 8/2026, de 24 d'abril, per la qual es regula el procés d'admissió a les ensenyances elementals i professionals de Música i Dansa - veure PDF original]"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "titulo",
+      "id": "titulo-3",
+      "number": "III",
+      "title": "Títol III. Convalidacions i adaptacions en les ensenyances elementals i professionals de Música i de Dansa",
+      "children": [
+        {
+          "type": "capitulo",
+          "id": "titulo-3-cap-1",
+          "number": "I",
+          "title": "Capítol I. Convalidacions d'assignatures d'ensenyances professionals amb matèries del Batxillerat",
+          "children": [
+            {
+              "type": "articulo",
+              "id": "art-19",
+              "number": "19",
+              "title": "Article 19. Requisits de l'alumnat sol·licitant de convalidacions",
+              "content": "Podrà ser beneficiari de les convalidacions regulades en esta orde l'alumnat dels conservatoris i dels centres privats degudament autoritzats per a impartir ensenyances professionals de Música i Dansa, que curse o haja cursat, totalment o en part, les ensenyances de Batxillerat, i curse o haja cursat les ensenyances professionals de Música o de Dansa."
+            },
+            {
+              "type": "articulo",
+              "id": "art-20",
+              "number": "20",
+              "title": "Article 20. Convalidació única",
+              "content": "Cada matèria o assignatura només podrà ser utilitzada per a una única convalidació."
+            },
+            {
+              "type": "articulo",
+              "id": "art-21",
+              "number": "21",
+              "title": "Article 21. Convalidacions d'assignatures d'ensenyances professionals de Música i Dansa",
+              "content": "Les convalidacions de diverses assignatures de les ensenyances professionals de Música i Dansa amb determinades matèries de modalitat de primer i segon curs de Batxillerat seran les següents, tal com figura en l'annex VIII i en l'annex IX de la present orde:\n\na) L'alumnat que haja superat la matèria d'Anàlisi Musical II del Batxillerat podrà convalidar l'assignatura d'Anàlisi o l'assignatura de Fonaments de Composició de les ensenyances professionals de Música.\n\nb) L'alumnat que haja superat la matèria de Cultura Audiovisual del Batxillerat podrà convalidar l'assignatura de Cultura Audiovisual de les ensenyances professionals de Música o de Dansa.\n\nc) L'alumnat que haja superat la matèria d'Història de la Música i de la Dansa del Batxillerat podrà convalidar els cursos primer i segon de l'assignatura Història de la Música de les ensenyances professionals de Música.\n\nd) L'alumnat que haja superat la matèria de Llenguatge i Pràctica Musical del Batxillerat podrà convalidar l'assignatura de primer curs de Llenguatge Musical de les ensenyances professionals de Música.\n\ne) L'alumnat que haja superat la matèria d'Anatomia Aplicada podrà convalidar els cursos primer i segon de l'assignatura Anatomia i Biomecànica Aplicada a la Dansa de les ensenyances professionals de Dansa.\n\nf) L'alumnat que haja superat la matèria d'Arts Escèniques del Batxillerat podrà convalidar l'assignatura d'Interpretació, i Creativitat i Dansa de les ensenyances professionals de Dansa.\n\ng) L'alumnat que haja superat la matèria d'Història de la Música i de la Dansa del Batxillerat podrà convalidar l'assignatura d'Origen i Evolució de la Dansa, a més de l'assignatura d'Origen i Evolució del Flamenc de l'especialitat de Ball Flamenc, o bé l'assignatura Història de la Dansa pròpia d'una de les especialitats de les ensenyances professionals de Dansa.\n\nh) L'alumnat que haja superat la matèria de Llenguatge i Pràctica Musical podrà sol·licitar la convalidació dels cursos primer, segon i tercer de l'assignatura de Música de les ensenyances professionals de Dansa."
+            },
+            {
+              "type": "articulo",
+              "id": "art-22",
+              "number": "22",
+              "title": "Article 22. Procediment per a sol·licitar la convalidació",
+              "content": "1. Cada una de les convalidacions regulades en la present norma requerirà una sol·licitud expressa per part de l'alumnat, o del pare, mare o tutor legal si és menor d'edat, d'acord amb el model que figura com a annex X de la present orde.\n\n2. L'alumnat haurà de sol·licitar la convalidació, preferentment, davant de la direcció del conservatori o del centre degudament autoritzat d'ensenyances professionals de Música o de Dansa abans del 31 d'octubre, i les sol·licituds seran segellades i datades pels centres en el moment de la presentació. L'alumnat dels conservatoris també podrà presentar la sol·licitud a través de qualsevol mitjà dels previstos en l'article 38.4 de la Llei 30/1992, de 26 de novembre, de Règim Jurídic de les Administracions Públiques i del Procediment Administratiu Comú.\n\n3. Les sol·licituds aniran acompanyades d'un certificat acadèmic oficial dels estudis realitzats de Batxillerat, on s'acredite la superació de la matèria o matèries de Batxillerat amb què se sol·licita realitzar la convalidació, i d'un certificat de matrícula en ensenyances professionals de Música o de Dansa.\n\n4. L'alumnat que curse simultàniament una assignatura objecte de convalidació i la matèria o matèries de Batxillerat la superació de les quals és necessària per a obtindre la convalidació, haurà de presentar un certificat de matrícula de Batxillerat en el moment de la sol·licitud. Perquè la convalidació es faça efectiva haurà de presentar el certificat acadèmic que acredite la superació de la matèria o matèries de Batxillerat corresponents abans de la data en què es realitze l'avaluació final extraordinària, si n'hi ha, en qualsevol altre cas l'assignatura figurarà com a pendent.\n\n5. La direcció dels conservatoris i dels centres privats autoritzats d'ensenyances professionals de Música i Dansa, des del moment de recepció de la documentació completa de l'expedient de convalidació en el centre, disposarà d'un termini màxim de deu dies hàbils per a remetre'l a la direcció general competent en matèria d'ordenació acadèmica. Este òrgan dictarà una resolució expressa respecte a la sol·licitud de convalidació en el termini màxim de dos mesos, i es podran entendre com a desestimatoris els efectes del silenci administratiu. Les resolucions que es dicten davant de les sol·licituds que es realitzen basant-se en el que establix l'apartat 4 d'este article tindran caràcter d'actes administratius provisionals, que adquiriran caràcter definitiu una vegada l'alumne o alumna presente, en la forma i termini oportuns, el certificat acadèmic que acredite la superació de la matèria o matèries de Batxillerat corresponents. Contra les resolucions dictades per la direcció general competent en matèria d'ordenació acadèmica, les persones interessades podran interposar un recurs d'alçada davant de l'òrgan jeràrquic superior d'eixe centre directiu.\n\n6. Les convalidacions de les assignatures de les ensenyances professionals de Música o Dansa es reflectiran en els documents oficials d'avaluació fent constar l'expressió «convalidada» i el codi «CV» en la casella referida a la qualificació de les assignatures objecte de convalidació.\n\n7. Les assignatures objecte de convalidació no seran tingudes en compte en el càlcul de la nota mitjana."
+            }
+          ]
+        },
+        {
+          "type": "capitulo",
+          "id": "titulo-3-cap-2",
+          "number": "II",
+          "title": "Capítol II. Adaptacions entre plans d'estudis i noves especialitats",
+          "children": [
+            {
+              "type": "articulo",
+              "id": "art-23",
+              "number": "23",
+              "title": "Article 23. Alumnat que curse més d'una especialitat",
+              "content": "L'alumnat que curse més d'una especialitat de les ensenyances elementals de Música, o de les ensenyances professionals de Música o de Dansa, únicament cursarà les assignatures comunes per una d'elles. Una vegada cursades i superades en una especialitat, la qualificació obtinguda és vàlida per a totes les especialitats, i d'esta manera haurà de constar en el llibre de qualificacions. Tindran consideració de matèries comunes les previstes en l'article 12 del Decret 159/2007, de 21 de setembre, del Consell, en les ensenyances elementals de Música, les que figuren en l'article 14 del Decret 158/2007, de 21 de setembre, del Consell, pel que fa a les ensenyances professionals de Música, i les assignatures indicades en l'article 15 del Decret 156/2007, de 21 de setembre, del Consell, per a les ensenyances professionals de Dansa."
+            },
+            {
+              "type": "articulo",
+              "id": "art-24",
+              "number": "24",
+              "title": "Article 24. Adaptacions entre plans d'estudis",
+              "content": "1. L'alumnat que haja cursat el grau elemental de Música o Dansa segons l'ordenació del sistema educatiu regulada per la Llei Orgànica 1/1990, de 3 d'octubre, d'Ordenació General del Sistema Educatiu, i que vullga matricular-se en les ensenyances elementals segons la nova ordenació del sistema educatiu, regulat per la Llei Orgànica 2/2006, de 3 de maig, d'Educació, s'incorporarà al curs que li corresponga segons les equivalències, a efectes acadèmics, establides en l'annex IV del Decret 159/2007, de 21 de setembre, del Consell, en el cas de les ensenyances elementals de Música, i les indicades en l'annex IV del Decret 157/2007, de 21 de setembre, del Consell, quant a les ensenyances elementals de Dansa.\n\n2. La incorporació d'alumnat que haja cursat el grau mitjà de Música o de Dansa segons la Llei Orgànica 1/1990, de 3 d'octubre, a les ensenyances professionals de Música o de Dansa es regirà per les equivalències, a efectes acadèmics, regulades en l'annex I i en l'annex II del Reial Decret 806/2006, de 30 de juny, pel qual s'establix el calendari d'aplicació de la nova ordenació del sistema educatiu, establida per la Llei Orgànica 2/2006, de 3 de maig, d'Educació.\n\n3. De conformitat amb el que disposa l'article 20.2 del Reial Decret 806/2006, de 30 de juny, els certificats acreditatius del grau elemental de Música i Dansa de l'ordenació del sistema educatiu extingit, regulada per la Llei Orgànica 1/1990, de 3 d'octubre, tindran els mateixos efectes que els certificats acadèmics realitzats en la nova ordenació del sistema educatiu.\n\n4. En les ensenyances elementals i professionals, l'alumnat que, en el moment de l'extinció de les ensenyances regulades per la Llei Orgànica 1/1990, de 3 d'octubre, haja obtingut avaluació negativa en dos o més assignatures del curs que estava realitzant s'incorporarà al mateix curs de les ensenyances regulades per la Llei Orgànica 2/2006, de 3 de maig.\n\nQuan l'avaluació negativa s'haja obtingut en una única assignatura, l'alumne o alumna s'incorporarà al curs següent de les ensenyances regulades per la nova ordenació del sistema educatiu, excepte en el cas que l'alumne o alumna haja cursat l'últim curs del grau elemental o del grau mitjà del sistema que s'extingix, i en este cas l'alumne o alumna s'incorporarà al mateix curs.\n\nEn els casos d'incorporació al curs següent de les ensenyances regulades per la nova ordenació del sistema educatiu amb una assignatura pendent del sistema anterior, la recuperació es realitzarà basant-se en el currículum vigent de les ensenyances elementals o professionals de Música o de Dansa, segons corresponga, o, en el cas que l'assignatura no existisca en la nova ordenació del sistema educatiu, sobre la base del currículum vigent en el moment que l'alumne o alumna va formalitzar la matrícula per primera vegada."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "titulo",
+      "id": "titulo-4",
+      "number": "IV",
+      "title": "Títol IV. Ampliacions de matrícula, simultaneïtat i permanència en les ensenyances",
+      "children": [
+        {
+          "type": "capitulo",
+          "id": "cap-unico-4",
+          "number": "únic",
+          "title": "Capítol únic",
+          "children": [
+            {
+              "type": "articulo",
+              "id": "art-25",
+              "number": "25",
+              "title": "Article 25. Ampliació de matrícula",
+              "content": "[Derogat per l'Orde 8/2026, de 24 d'abril, per la qual es regula el procés d'admissió a les ensenyances elementals i professionals de Música i Dansa - veure PDF original]"
+            },
+            {
+              "type": "articulo",
+              "id": "art-26",
+              "number": "26",
+              "title": "Article 26. Simultaneïtat",
+              "content": "[Derogat per l'Orde 8/2026, de 24 d'abril, per la qual es regula el procés d'admissió a les ensenyances elementals i professionals de Música i Dansa - veure PDF original]"
+            },
+            {
+              "type": "articulo",
+              "id": "art-27",
+              "number": "27",
+              "title": "Article 27. Permanència",
+              "content": "1. El límit de permanència en les ensenyances elementals de Música i Dansa serà de cinc anys. L'alumne o alumna no podrà romandre més de dos anys en el mateix curs.\n\n2. El límit de permanència en les ensenyances professionals de Música i Dansa serà de huit anys. L'alumne o alumna no podrà romandre més de dos anys en el mateix curs, excepte en sext curs.\n\n3. Tant en les ensenyances elementals com en les professionals, amb caràcter excepcional podrà ampliar-se en un any la permanència en casos de malaltia greu o altres circumstàncies que meresquen la mateixa consideració.\n\n4. L'alumnat podrà sol·licitar l'ampliació excepcional d'un any en el límit de permanència per mitjà de sol·licitud davant de la direcció del conservatori o centre privat autoritzat, segons el model de l'annex XII d'esta orde, abans del 20 de setembre del curs acadèmic, adjuntant la documentació següent:\n\na) Un escrit de motivació de la sol·licitud, exposant la situació i circumstàncies que l'han ocasionat.\n\nb) Un certificat acadèmic oficial dels estudis superats fins al moment de sol·licitar la permanència excepcional durant un any més.\n\nc) Un informe mèdic que acredite la malaltia greu o la situació de l'alumne o alumna, o bé un informe del sol·licitant sobre la situació personal que li va impedir cursar de forma normal els estudis corresponents.\n\nd) Tots els altres documents acreditatius que considere convenient aportar la persona interessada.\n\n5. Una vegada rebuda la documentació anterior en el centre, en el termini màxim de deu dies hàbils la direcció del centre emetrà un informe favorable o desfavorable respecte a la continuïtat de l'alumne o alumna en el centre per a prosseguir els seus estudis, i el remetrà, junt amb la resta de la documentació, a la direcció general competent en matèria d'ordenació acadèmica.\n\n6. La direcció general competent en matèria d'ordenació acadèmica dictarà una resolució expressa a este efecte, que notificarà a l'interessat i a la direcció del centre en el termini màxim d'un mes des de la recepció de la sol·licitud, i es podran entendre com a desestimatoris els efectes del silenci administratiu. Contra este acte administratiu, les persones interessades podran interposar un recurs d'alçada davant de l'òrgan jeràrquic superior de l'òrgan directiu que va dictar l'acte."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "titulo",
+      "id": "titulo-5",
+      "number": "V",
+      "title": "Títol V. Obtenció directa del certificat de superació d'ensenyances elementals",
+      "children": [
+        {
+          "type": "capitulo",
+          "id": "cap-unico-5",
+          "number": "únic",
+          "title": "Capítol únic",
+          "children": [
+            {
+              "type": "articulo",
+              "id": "art-28",
+              "number": "28",
+              "title": "Articles 28 a 38",
+              "content": "[Derogat expressament en la seua totalitat per la disposició derogatòria única, apartat 2, de l'Orde 8/2026, de 24 d'abril]"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "titulo",
+      "id": "titulo-6",
+      "number": "VI",
+      "title": "Títol VI. Assignatures optatives en les ensenyances professionals de Música i de Dansa",
+      "children": [
+        {
+          "type": "capitulo",
+          "id": "cap-unico-6",
+          "number": "únic",
+          "title": "Capítol únic",
+          "children": [
+            {
+              "type": "articulo",
+              "id": "art-39",
+              "number": "39",
+              "title": "Article 39. Característiques i finalitat de les assignatures optatives",
+              "content": "1. Els conservatoris i centres privats autoritzats que impartisquen ensenyances professionals de Música i Dansa oferiran a l'alumnat, en quint i sext curs, assignatures optatives d'acord amb el que preveu l'article 8 del Decret 158/2007, de 21 de setembre, del Consell, en les ensenyances professionals de Música, i conforme a l'article 8 del Decret 156/2007, de 21 de setembre, del Consell, en les ensenyances professionals de Dansa.\n\n2. Les assignatures optatives en els cursos quint i sext de les ensenyances professionals de Música i Dansa són una via per a atendre la diversitat des del currículum. Estes assignatures hauran de respondre als diferents interessos, motivacions i necessitats de l'alumnat, contribuir a la consecució dels objectius generals de les ensenyances professionals de Música i Dansa, així com preparar l'alumnat per als estudis superiors i l'especialització en el seu futur acadèmic i professional."
+            },
+            {
+              "type": "articulo",
+              "id": "art-40",
+              "number": "40",
+              "title": "Article 40. Oferta",
+              "content": "1. L'oferta d'assignatures optatives en quint i sext curs haurà de ser diversa i equilibrada en diferents àmbits formatius i professionals. D'una banda, les assignatures optatives tindran un sentit propedèutic, ja que oferiran una formació complementària que millore la capacitació de l'alumnat per a l'accés a les diferents especialitats del grau Superior, i d'altra banda, contribuiran a ampliar l'oferta formativa dels centres des de criteris d'ocupabilitat i demanda professional per part de l'alumnat amb la finalitat d'atendre distints perfils professionals que puguen definir-se en cada centre.\n\n2. Els conservatoris i centres autoritzats d'ensenyances professionals de Música o Dansa que oferisquen la totalitat de les assignatures optatives d'oferta obligada disposaran de la possibilitat de sol·licitar assignatures optatives de disseny propi, l'autorització de les quals estarà condicionada que hi haja de professorat qualificat per a la seua impartició, i sempre que es tracte de docents preferentment amb destinació definitiva en el centre, en el cas dels conservatoris de titularitat de la Generalitat. En el cas d'estos conservatoris, l'oferta d'estes assignatures no haurà de suposar un augment de la plantilla prevista, i la seua autorització es realitzarà quan el conservatori acredite la possibilitat organitzativa d'implantar l'assignatura corresponent i que hi haja alumnat suficient.\n\nAquells centres que no puguen complir la condició d'oferir la totalitat de les assignatures optatives d'oferta obligada, podran sol·licitar l'autorització d'assignatures optatives de disseny propi, sempre que presenten un informe adjunt a la sol·licitud que justifique de manera raonada la impossibilitat d'oferir totes les assignatures d'oferta obligada.\n\n3. Els centres, en virtut de la seua autonomia pedagògica i organitzativa, realitzaran l'adscripció de les assignatures optatives obligatòries i de disseny propi per als cursos de quint i sext de les ensenyances professionals atenent perfils formatius i professionals de Música o Dansa.\n\n4. La impartició de les assignatures optatives de disseny propi que puguen autoritzar-se als centres, quedarà condicionada, amb caràcter general, al fet que hi haja un nombre d'alumnat matriculat no inferior a quatre en l'assignatura. Qualsevol altra situació haurà de ser justificada per part del centre per a la seua posada en funcionament i informada per la Inspecció d'Educació i autoritzada per la direcció general competent en matèria d'ensenyances de règim especial. A més, el professorat responsable d'estes assignatures haurà d'acreditar, a través de la direcció del centre, a la Inspecció d'Educació la capacitació professional suficient per a impartir-les.",
+              "versions": [
+                {
+                  "versionId": "v2",
+                  "effectiveDate": "2015-05-22",
+                  "modifiedBy": {
+                    "lawId": "orden-49-2015",
+                    "title": "Orde 49/2015, de 14 de maig",
+                    "articleRef": "Article únic, Dèsset"
+                  },
+                  "content": "1. L'oferta d'assignatures optatives en quint i sext curs haurà de ser diversa i equilibrada en diferents àmbits formatius i professionals. D'una banda, les assignatures optatives tindran un sentit propedèutic, ja que oferiran una formació complementària que millore la capacitació de l'alumnat per a l'accés a les diferents especialitats del grau Superior, i d'altra banda, contribuiran a ampliar l'oferta formativa dels centres des de criteris d'ocupabilitat i demanda professional per part de l'alumnat amb la finalitat d'atendre distints perfils professionals que puguen definir-se en cada centre.\n\n2. Els conservatoris i centres autoritzats d'ensenyances professionals de Música o Dansa que oferisquen la totalitat de les assignatures optatives d'oferta obligada disposaran de la possibilitat de sol·licitar assignatures optatives de disseny propi, l'autorització de les quals estarà condicionada que hi haja de professorat qualificat per a la seua impartició, i sempre que es tracte de docents preferentment amb destinació definitiva en el centre, en el cas dels conservatoris de titularitat de la Generalitat. En el cas d'estos conservatoris, l'oferta d'estes assignatures no haurà de suposar un augment de la plantilla prevista, i la seua autorització es realitzarà quan el conservatori acredite la possibilitat organitzativa d'implantar l'assignatura corresponent i que hi haja alumnat suficient.\n\nAquells centres que no puguen complir la condició d'oferir la totalitat de les assignatures optatives d'oferta obligada, podran sol·licitar l'autorització d'assignatures optatives de disseny propi, sempre que presenten un informe adjunt a la sol·licitud que justifique de manera raonada la impossibilitat d'oferir totes les assignatures d'oferta obligada.\n\n3. Els centres, en virtut de la seua autonomia pedagògica i organitzativa, realitzaran l'adscripció de les assignatures optatives obligatòries i de disseny propi per als cursos de quint i sext de les ensenyances professionals atenent perfils formatius i professionals de Música o Dansa.\n\n4. La impartició de les assignatures optatives de disseny propi que puguen autoritzar-se als centres, quedarà condicionada, amb caràcter general, al fet que hi haja un nombre d'alumnat matriculat no inferior a quatre en l'assignatura. Qualsevol altra situació haurà de ser justificada per part del centre per a la seua posada en funcionament i informada per la Inspecció d'Educació i autoritzada per la direcció general competent en matèria d'ensenyances de règim especial. A més, el professorat responsable d'estes assignatures haurà d'acreditar, a través de la direcció del centre, a la Inspecció d'Educació la capacitació professional suficient per a impartir-les."
+                },
+                {
+                  "versionId": "v1",
+                  "effectiveDate": "2011-05-18",
+                  "modifiedBy": null,
+                  "content": "1. L'oferta d'assignatures optatives, en quint i sext curs, haurà de ser diversa i equilibrada en diferents àmbits per a respondre a les necessitats de l'alumnat i contribuir a ampliar l'oferta educativa dels conservatoris i centres privats autoritzats. Per tant, els continguts de les assignatures optatives hauran de ser terminals i no podran tindre continuïtat.\n\n2. L'oferta de les assignatures optatives que els centres docents proposen al seu alumnat s'ajustarà al catàleg següent:\n\na) Assignatures optatives d'oferta obligada.\nTots els conservatoris i centres privats autoritzats d'ensenyances professionals de Música oferiran les següents assignatures optatives: Complement Pianístic, Complement Coral, Estètica de la Música, Fonaments de Composició, Fonaments d'Informàtica Musical i Edició de Partitures, Cultura Audiovisual i Creativitat i Música. El currículum d'estes assignatures és l'indicat en l'annex I del Decret 158/2007, de 21 de setembre, del Consell. L'assignatura Complement Pianístic podrà ser cursada per l'alumnat de totes les especialitats instrumentals i Cant, excepte l'especialitat de Piano.\nTots els conservatoris i centres privats autoritzats d'ensenyances professionals de Dansa oferiran les següents assignatures optatives: Iniciació a la Pedagogia de la Dansa, Percussió Aplicada a la Dansa, Creativitat i Dansa, Cultura Audiovisual i Noves Tecnologies Aplicades a la Dansa. El currículum d'estes assignatures és l'indicat en l'annex I del Decret 156/2007, de 21 de setembre, del Consell.\n\nb) Assignatures optatives de disseny propi.\nEls conservatoris i centres privats autoritzats per a impartir les ensenyances professionals de Música o de Dansa que impartisquen la totalitat de les assignatures optatives d'oferta obligada disposaran de la possibilitat de sol·licitar assignatures optatives de disseny propi, l'autorització de les quals estarà condicionada a l'existència de professorat qualificat per a la seua impartició, i sempre que es tracte de docents preferentment amb destí definitiu en el centre, en el cas dels conservatoris de titularitat de la Generalitat. En el cas d'estos conservatoris, l'oferta d'estes assignatures no haurà de suposar un augment de la plantilla prevista, i la seua autorització es realitzarà quan el conservatori acredite la possibilitat organitzativa d'implantar l'assignatura corresponent i l'existència d'alumnat suficient.\n\n3. Els centres, en virtut de la seua autonomia pedagògica i organitzativa, realitzaran l'adscripció de les assignatures optatives als cursos quint o sext de les ensenyances professionals."
+                }
+              ]
+            },
+            {
+              "type": "articulo",
+              "id": "art-41",
+              "number": "41",
+              "title": "Article 41. Grups i selecció d'assignatures",
+              "content": "1. El nombre de grups que es constituïsquen per a cursar assignatures optatives estarà supeditat al nombre d'alumnes matriculats en els cursos quint i sext de les ensenyances professionals, i al que especifiquen l'annex III del Decret 158/2007, de 21 de setembre, del Consell, i l'annex III del Decret 156/2007, de 21 de setembre, del Consell.\n\n2. Excepcionalment, es podrà impartir les assignatures optatives a un nombre menor d'alumnat del que s'ha establit amb caràcter general quan les peculiaritats o circumstàncies especials del centre així ho requerisquen, amb l'autorització de la direcció general competent en matèria d'ordenació acadèmica i amb un informe previ favorable de la direcció territorial competent en matèria d'educació.\n\n3. La comissió de coordinació pedagògica establirà els procediments necessaris per a conéixer el tipus d'assignatures optatives que millor s'adapten a les característiques de l'alumnat del centre. Els procediments establits constaran en el projecte educatiu del centre.\n\n4. La Inspecció Educativa supervisarà la impartició d'assignatures optatives, tant d'oferta obligada com d'assignatures de disseny propi autoritzades, i comunicarà de forma expressa a la direcció dels conservatoris i als titulars dels centres privats autoritzats les modificacions que, si és el cas, hagen d'introduir en la petició d'autorització per a impartir assignatures optatives de disseny propi."
+            },
+            {
+              "type": "articulo",
+              "id": "art-42",
+              "number": "42",
+              "title": "Article 42. Elecció d'assignatures optatives per l'alumnat",
+              "content": "1. L'alumnat cursarà una assignatura optativa en el quint curs i una altra distinta en el sext curs d'ensenyances professionals de Música o de Dansa d'entre aquelles que oferisca el centre, i en funció del perfil formatiu que li resulte més adequat a l'alumne o alumna.\n\n2. L'alumnat que curse més d'una especialitat no haurà de tornar a cursar noves assignatures optatives.\n\n3. Quan l'alumne o alumna no supere el curs, podrà canviar d'assignatura optativa a l'inici del curs acadèmic següent. Així mateix, si l'alumnat promociona al curs següent amb l'assignatura optativa pendent, podrà triar entre realitzar-la novament, si el centre continua oferint-la, o bé cursar-ne una altra distinta.\n\n4. L'alumnat d'ensenyances professionals de Música podrà cursar l'assignatura optativa de Fonaments de composició sempre que haja superat l'assignatura d'Harmonia de tercer i quart curs. Així mateix, l'alumnat no podrà triar una assignatura optativa fins que no supere aquelles assignatures amb què guarda relació de continuïtat, segons s'establix en els currículums.\n\n5. Els tutors i tutores proporcionaran a l'alumnat la deguda orientació a l'hora de triar les assignatures optatives que resulten més adequades al perfil formatiu de cada alumne o alumna."
+            },
+            {
+              "type": "articulo",
+              "id": "art-43",
+              "number": "43",
+              "title": "Article 43. Autorització d'assignatures optatives de disseny propi",
+              "content": "1. L'oferta d'assignatures optatives de disseny propi en els centres, tant públics com privats, requerirà comptar amb l'autorització de la direcció general competent en matèria d'ordenació acadèmica i amb un informe previ favorable de la direcció territorial competent en matèria d'educació.\n\n2. La sol·licitud d'autorització la realitzarà la direcció dels conservatoris o la titularitat dels centres privats autoritzats, a proposta de la comissió de coordinació pedagògica, vist l'informe dels departaments, i després de l'oportuna aprovació per part del Consell Escolar o per qui tinga atribuïdes les seues funcions. Les sol·licituds s'ompliran segons el model que figura en l'annex XVI de la present orde.\n\n3. Les sol·licituds es remetran a les respectives direccions territorials competents en matèria d'educació, preferentment, o bé per qualsevol mitjà previst en l'article 38.4 de la Llei 30/1992, de 26 de novembre, de Règim Jurídic de les Administracions Públiques i del Procediment Administratiu Comú, abans del 28 de febrer anterior al començament del curs per al qual se sol·licita l'autorització.\n\n4. La sol·licitud s'acompanyarà d'una memòria en què s'incloga:\n\na) Còpia de l'acta de la reunió de la comissió de coordinació pedagògica on conste la proposta de sol·licitud d'autorització de les assignatures optatives de disseny propi.\n\nb) Còpia de l'acta de la sessió del Consell Escolar o de qui tinga atribuïdes les seues funcions amb l'aprovació de la sol·licitud d'autorització de les assignatures optatives proposades.\n\nc) Criteris que han justificat la selecció de les assignatures optatives.\n\nd) Programació de cada assignatura optativa de disseny propi sol·licitada, en què s'incloga, almenys, una breu introducció justificativa, objectius, continguts, mètodes pedagògics i criteris d'avaluació.\n\ne) Materials i mitjans didàctics de què es disposa per al desenrotllament de les assignatures proposades.\n\nf) Informe del departament que es responsabilitzarà de cada assignatura optativa, fent constar el professorat que la impartirà, així com la seua qualificació i disponibilitat horària.\n\ng) Nombre d'alumnes matriculats en els cursos quart i quint de les ensenyances professionals, i previsió de distribució entre les diferents assignatures optatives proposades pel centre i les que ja s'hi impartixen.\n\n5. Les direccions territorials competents en matèria d'educació emetran, abans del 31 de març de cada curs acadèmic, un informe favorable o desfavorable respecte a l'autorització d'assignatures optatives de disseny propi per cada centre sol·licitant. Estos informes seran remesos abans del 15 d'abril a la direcció general competent en matèria d'ordenació acadèmica, que dictarà una resolució a este efecte amb anterioritat al 31 de maig. Si no es dicta una resolució expressa en eixe termini, les sol·licituds d'autorització es podran entendre desestimades. Contra la resolució de la direcció general competent, els centres privats autoritzats podran interposar un recurs d'alçada davant de l'òrgan jeràrquic superior d'aquell que haja dictat l'acte administratiu.\n\n6. Es prioritzarà l'autorització d'assignatures de disseny propi que contribuïsquen a crear perfils formatius en l'alumnat de quint i sext d'ensenyances professionals, de manera que els oriente acadèmicament en la seua formació, per a poder continuar els seus estudis de música o dansa entre l'oferta formativa existent. En la sol·licitud d'autorització d'estes assignatures el centre haurà de justificar el perfil professional i/o formatiu per al qual estan destinades les dites assignatures.",
+              "versions": [
+                {
+                  "versionId": "v2",
+                  "effectiveDate": "2015-05-22",
+                  "modifiedBy": {
+                    "lawId": "orden-49-2015",
+                    "title": "Orde 49/2015, de 14 de maig",
+                    "articleRef": "Article únic, Díhuit"
+                  },
+                  "content": "1. L'oferta d'assignatures optatives de disseny propi en els centres, tant públics com privats, requerirà comptar amb l'autorització de la direcció general competent en matèria d'ordenació acadèmica i amb un informe previ favorable de la direcció territorial competent en matèria d'educació.\n\n2. La sol·licitud d'autorització la realitzarà la direcció dels conservatoris o la titularitat dels centres privats autoritzats, a proposta de la comissió de coordinació pedagògica, vist l'informe dels departaments, i després de l'oportuna aprovació per part del Consell Escolar o per qui tinga atribuïdes les seues funcions. Les sol·licituds s'ompliran segons el model que figura en l'annex XVI de la present orde.\n\n3. Les sol·licituds es remetran a les respectives direccions territorials competents en matèria d'educació, preferentment, o bé per qualsevol mitjà previst en l'article 38.4 de la Llei 30/1992, de 26 de novembre, de Règim Jurídic de les Administracions Públiques i del Procediment Administratiu Comú, abans del 28 de febrer anterior al començament del curs per al qual se sol·licita l'autorització.\n\n4. La sol·licitud s'acompanyarà d'una memòria en què s'incloga:\n\na) Còpia de l'acta de la reunió de la comissió de coordinació pedagògica on conste la proposta de sol·licitud d'autorització de les assignatures optatives de disseny propi.\n\nb) Còpia de l'acta de la sessió del Consell Escolar o de qui tinga atribuïdes les seues funcions amb l'aprovació de la sol·licitud d'autorització de les assignatures optatives proposades.\n\nc) Criteris que han justificat la selecció de les assignatures optatives.\n\nd) Programació de cada assignatura optativa de disseny propi sol·licitada, en què s'incloga, almenys, una breu introducció justificativa, objectius, continguts, mètodes pedagògics i criteris d'avaluació.\n\ne) Materials i mitjans didàctics de què es disposa per al desenrotllament de les assignatures proposades.\n\nf) Informe del departament que es responsabilitzarà de cada assignatura optativa, fent constar el professorat que la impartirà, així com la seua qualificació i disponibilitat horària.\n\ng) Nombre d'alumnes matriculats en els cursos quart i quint de les ensenyances professionals, i previsió de distribució entre les diferents assignatures optatives proposades pel centre i les que ja s'hi impartixen.\n\n5. Les direccions territorials competents en matèria d'educació emetran, abans del 31 de març de cada curs acadèmic, un informe favorable o desfavorable respecte a l'autorització d'assignatures optatives de disseny propi per cada centre sol·licitant. Estos informes seran remesos abans del 15 d'abril a la direcció general competent en matèria d'ordenació acadèmica, que dictarà una resolució a este efecte amb anterioritat al 31 de maig. Si no es dicta una resolució expressa en eixe termini, les sol·licituds d'autorització es podran entendre desestimades. Contra la resolució de la direcció general competent, els centres privats autoritzats podran interposar un recurs d'alçada davant de l'òrgan jeràrquic superior d'aquell que haja dictat l'acte administratiu.\n\n6. Es prioritzarà l'autorització d'assignatures de disseny propi que contribuïsquen a crear perfils formatius en l'alumnat de quint i sext d'ensenyances professionals, de manera que els oriente acadèmicament en la seua formació, per a poder continuar els seus estudis de música o dansa entre l'oferta formativa existent. En la sol·licitud d'autorització d'estes assignatures el centre haurà de justificar el perfil professional i/o formatiu per al qual estan destinades les dites assignatures."
+                },
+                {
+                  "versionId": "v1",
+                  "effectiveDate": "2011-05-18",
+                  "modifiedBy": null,
+                  "content": "1. L'oferta d'assignatures optatives de disseny propi en els centres, tant públics com privats, requerirà comptar amb l'autorització de la direcció general competent en matèria d'ordenació acadèmica i amb un informe previ favorable de la direcció territorial competent en matèria d'educació.\n\n2. La sol·licitud d'autorització la realitzarà la direcció dels conservatoris o la titularitat dels centres privats autoritzats, a proposta de la comissió de coordinació pedagògica, vist l'informe dels departaments, i després de l'oportuna aprovació per part del Consell Escolar o per qui tinga atribuïdes les seues funcions. Les sol·licituds s'ompliran segons el model que figura en l'annex XVI de la present orde.\n\n3. Les sol·licituds es remetran a les respectives direccions territorials competents en matèria d'educació, preferentment, o bé per qualsevol mitjà previst en l'article 38.4 de la Llei 30/1992, de 26 de novembre, de Règim Jurídic de les Administracions Públiques i del Procediment Administratiu Comú, abans del 28 de febrer anterior al començament del curs per al qual se sol·licita l'autorització.\n\n4. La sol·licitud s'acompanyarà d'una memòria en què s'incloga:\n\na) Còpia de l'acta de la reunió de la comissió de coordinació pedagògica on conste la proposta de sol·licitud d'autorització de les assignatures optatives de disseny propi.\n\nb) Còpia de l'acta de la sessió del Consell Escolar o de qui tinga atribuïdes les seues funcions amb l'aprovació de la sol·licitud d'autorització de les assignatures optatives proposades.\n\nc) Criteris que han justificat la selecció de les assignatures optatives.\n\nd) Programació de cada assignatura optativa de disseny propi sol·licitada, en què s'incloga, almenys, una breu introducció justificativa, objectius, continguts, mètodes pedagògics i criteris d'avaluació.\n\ne) Materials i mitjans didàctics de què es disposa per al desenrotllament de les assignatures proposades.\n\nf) Informe del departament que es responsabilitzarà de cada assignatura optativa, fent constar el professorat que la impartirà, així com la seua qualificació i disponibilitat horària.\n\ng) Nombre d'alumnes matriculats en els cursos quart i quint de les ensenyances professionals, i previsió de distribució entre les diferents assignatures optatives proposades pel centre i les que ja s'hi impartixen.\n\n5. Les direccions territorials competents en matèria d'educació emetran, abans del 31 de març de cada curs acadèmic, un informe favorable o desfavorable respecte a l'autorització d'assignatures optatives de disseny propi per cada centre sol·licitant. Estos informes seran remesos abans del 15 d'abril a la direcció general competent en matèria d'ordenació acadèmica, que dictarà una resolució a este efecte amb anterioritat al 31 de maig. Si no es dicta una resolució expressa en eixe termini, les sol·licituds d'autorització es podran entendre desestimades. Contra la resolució de la direcció general competent, els centres privats autoritzats podran interposar un recurs d'alçada davant de l'òrgan jeràrquic superior d'aquell que haja dictat l'acte administratiu."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "disposicion_adicional",
+      "id": "da-1",
+      "number": "primera",
+      "title": "Disposició addicional primera. Autoritzacions vigents d'assignatures optatives",
+      "content": "1. Les assignatures optatives autoritzades a l'empara de l'Orde de 10 de novembre de 1998, de la Conselleria de Cultura, Educació i Ciència, per la qual s'establixen les condicions acadèmiques per a la impartició de les assignatures optatives en el tercer cicle del grau mitjà de les ensenyances de Música regulades conforme al Decret 151/1993, de 17 d'agost, i el procediment per a la seua autorització, es consideraran assignatures de disseny propi.\n\n2. A partir del curs acadèmic 2011-2012, la Inspecció Educativa supervisarà que les assignatures d'oferta obligada i de disseny propi impartides en els centres d'ensenyances professionals de Música i Dansa s'ajusten als requisits establits per la normativa vigent."
+    },
+    {
+      "type": "disposicion_adicional",
+      "id": "da-2",
+      "number": "segunda",
+      "title": "Disposició addicional segona. Difusió i supervisió de la norma",
+      "content": "1. La Inspecció Educativa vetlarà pel compliment del que establix esta orde.\n\n2. La direcció dels conservatoris i dels centres privats autoritzats complirà i farà complir el contingut de la present orde i en difondrà el contingut entre els membres de la comunitat educativa."
+    },
+    {
+      "type": "disposicion_adicional",
+      "id": "da-3",
+      "number": "tercera",
+      "title": "Disposició addicional tercera. Aplicació",
+      "content": "S'autoritza les diferents direccions generals de la Conselleria d'Educació perquè, en l'àmbit de les seues competències respectives, dicten les resolucions i instruccions necessàries per a l'aplicació del que establix esta orde."
+    },
+    {
+      "type": "disposicion_derogatoria",
+      "id": "dd-unica",
+      "number": "única",
+      "title": "Disposició derogatòria única. Derogació normativa",
+      "content": "1. Queden derogades les disposicions següents:\n\na) Orde de 10 de novembre de 1998, de la Conselleria de Cultura, Educació i Ciència, per la qual s'establixen les condicions acadèmiques per a la impartició de les assignatures optatives en el tercer cicle del grau mitjà de les ensenyances de Música regulades conforme al Decret 151/1993, de 17 d'agost, i el procediment per a la seua autorització (DOGV 10.12.1998).\n\nb) Orde de 8 d'abril de 1999, de la Conselleria de Cultura, Educació i Ciència, per la qual es regula el procediment per a l'obtenció directa del Certificat de superació del grau Elemental de Música, regulat per la Llei Orgànica 1/1990, de 3 d'octubre, d'Ordenació General del Sistema Educatiu (DOGV 03.05.1999).\n\nc) Resolució de 5 d'octubre de 2007, de la Direcció General d'Ordenació i Centres Docents, per la qual es regula l'accés a les ensenyances elementals i professionals de Música i Dansa d'aspirants amb característiques excepcionals, que no reunixen els requisits d'edat (DOCV 24.10.2007).\n\nd) Resolució de 8 d'octubre de 2007, de la Direcció General d'Ordenació i Centres Docents, per la qual es regula el procediment d'incorporació d'alumnes que cursen ensenyances elementals i professionals de Música i Dansa, amb assignatures pendents, procedents de plans d'estudi anteriors a la Llei Orgànica 2/2006, d'Educació (DOCV 24.10.2007).\n\ne) Resolució de 26 de març de 2010 de la Direcció General d'Ordenació i Centres Docents, per la qual es dicten instruccions per a les proves d'accés a cada curs, diferent del primer, de les ensenyances professionals de Música, en els centres degudament autoritzats per a impartir ensenyances professionals de Música a la Comunitat Valenciana (DOCV 12.04.2010).\n\n2. Així mateix, queden derogades totes les disposicions del mateix rang o inferior que s'oposen al que establix la present orde."
+    },
+    {
+      "type": "disposicion_final",
+      "id": "df-unica",
+      "number": "única",
+      "title": "Disposició final única. Entrada en vigor",
+      "content": "La present orde entrarà en vigor l'endemà de la publicació en el Diari Oficial de la Comunitat Valenciana."
+    }
+  ],
+  "legalAnalysis": {
+    "enactedPursuantTo": [
+      {
+        "lawId": "ley-organica-2-2006",
+        "title": "Llei Orgànica 2/2006, de 3 de maig, d'Educació (LOE)",
+        "relationship": "conformidad"
+      },
+      {
+        "lawId": "decreto-156-2007",
+        "title": "Decret 156/2007, de 21 de setembre, del Consell (currículum EEPP de Dansa)",
+        "relationship": "desarrollo"
+      },
+      {
+        "lawId": "decreto-157-2007",
+        "title": "Decret 157/2007, de 21 de setembre, del Consell (currículum EE de Dansa)",
+        "relationship": "desarrollo"
+      },
+      {
+        "lawId": "decreto-158-2007",
+        "title": "Decret 158/2007, de 21 de setembre, del Consell (currículum EEPP de Música)",
+        "relationship": "desarrollo"
+      },
+      {
+        "lawId": "decreto-159-2007",
+        "title": "Decret 159/2007, de 21 de setembre, del Consell (currículum EE de Música)",
+        "relationship": "desarrollo"
+      }
+    ],
+    "priorAffectations": [],
+    "posteriorAffectations": [
+      {
+        "lawId": "orden-49-2015",
+        "title": "Orde 49/2015, de 14 de maig",
+        "type": "modifica",
+        "articles": [
+          "art-2",
+          "art-3",
+          "art-4",
+          "art-6",
+          "art-7",
+          "art-8",
+          "art-10",
+          "art-11",
+          "art-12",
+          "art-14",
+          "art-15",
+          "art-16",
+          "art-17",
+          "art-18",
+          "art-25",
+          "art-29",
+          "art-40",
+          "art-43"
+        ],
+        "date": "2015-05-22",
+        "description": "Modifica múltiples articles relatius a admissió, proves, matrícula, ampliació i assignatures optatives"
+      },
+      {
+        "lawId": "orden-8-2026",
+        "title": "Orde 8/2026, de 24 d'abril",
+        "type": "deroga_parcial",
+        "articles": [
+          "art-2",
+          "art-3",
+          "art-4",
+          "art-5",
+          "art-6",
+          "art-7",
+          "art-8",
+          "art-9",
+          "art-10",
+          "art-11",
+          "art-12",
+          "art-13",
+          "art-14",
+          "art-15",
+          "art-16",
+          "art-17",
+          "art-18",
+          "art-25",
+          "art-26",
+          "art-28"
+        ],
+        "date": "2026-04-30",
+        "description": "Deroga el Títol II (admissió, ingrés, accés i matrícula), Títol V (obtenció directa certificat EE) i els articles 25 i 26"
+      }
+    ],
+    "derogations": [],
+    "concordances": [
+      {
+        "lawId": "real-decreto-1577-2006",
+        "title": "Reial Decret 1577/2006, de 22 de desembre (aspectes bàsics currículum EEPP de Música)"
+      },
+      {
+        "lawId": "real-decreto-242-2009",
+        "title": "Reial Decret 242/2009, de 27 de febrer (convalidacions EEPP Música i Dansa amb ESO i Batxillerat)"
+      }
+    ]
+  }
+}

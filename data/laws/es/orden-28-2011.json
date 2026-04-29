@@ -1,0 +1,568 @@
+{
+  "id": "orden-28-2011",
+  "slug": "orden-28-2011",
+  "type": "orden",
+  "number": "28/2011",
+  "date": "2011-05-10",
+  "publishedIn": {
+    "source": "DOGV",
+    "number": "6522",
+    "date": "2011-05-17",
+    "url": "https://dogv.gva.es/es/resultat-dogv?signatura=2011/5562",
+    "pdfUrl": "https://dogv.gva.es/datos/2011/05/17/pdf/2011_5562.pdf"
+  },
+  "title": "Orden 28/2011, de 10 de mayo, de la Conselleria de Educación, por la que se regula la admisión, el acceso y la matrícula, así como los aspectos de ordenación general, para el alumnado que curse las enseñanzas elementales y profesionales de Música y de Danza en la Comunitat Valenciana",
+  "titleShort": "O 28/2011 - Admisión, acceso, matrícula y ordenación en EE y EEPP de Música y Danza",
+  "category": "acceso",
+  "vigpiracy": {
+    "status": "derogada_parcial",
+    "statusLabel": "Derogada parcialmente",
+    "effectiveDate": "2011-05-18",
+    "lastModifiedDate": "2026-04-30"
+  },
+  "scope": "musica_y_danza",
+  "territory": "autonomico",
+  "temporality": {
+    "type": "permanente"
+  },
+  "docType": "normativa",
+  "promulgation": {
+    "place": "Valencia",
+    "date": "2011-05-10",
+    "signatories": [
+      {
+        "name": "Alejandro Font de Mora Turón",
+        "role": "Conselleria de Educación"
+      }
+    ]
+  },
+  "structure": [
+    {
+      "type": "preambulo",
+      "id": "preambulo",
+      "title": "Preámbulo",
+      "content": "La Ley Orgánica 2/2006, de 3 de mayo, de Educación regula en el título I, capítulo VI, sección primera, las enseñanzas elementales y profesionales de Música y Danza, estableciendo en los artículos 48, 49 y 50 su organización, requisitos de acceso y titulación a la que conducen las citadas enseñanzas.\n\nEl Real Decreto 1577/2006, de 22 de diciembre, por el que se fijan los aspectos básicos del currículo de las enseñanzas profesionales de música reguladas por la Ley Orgánica 2/2006, de 3 de mayo, de Educación, así como el Real Decreto 85/2007, de 26 de enero, por el que se fijan los aspectos básicos del currículo de las enseñanzas profesionales de Danza reguladas por la Ley Orgánica 2/2006, de 3 de mayo, de Educación, fijan, entre otros, los requisitos de acceso a estas enseñanzas, los aspectos relacionados con la evaluación, la promoción y la permanencia en las enseñanzas, y la correspondencia entre estas enseñanzas y las de Educación Secundaria.\n\nEl Real Decreto 242/2009, de 27 de febrero, por el que se establecen convalidaciones entre las enseñanzas profesionales de Música y Danza y la Educación Secundaria Obligatoria y el Bachillerato, así como los efectos que sobre la materia de Educación física deben tener la condición de deportista de alto nivel o alto rendimiento y las enseñanzas profesionales de danza, establece las convalidaciones de diversas asignaturas de las enseñanzas profesionales de Música y Danza con ciertas materias del Bachillerato. Adicionalmente, su artículo 5 dispone que las administraciones educativas establecerán los procedimientos de convalidación, que se iniciarán en el caso de que el alumnado o sus padres, madres o tutores legales, si es menor de edad, así lo soliciten.\n\nEl Decreto 159/2007, de 21 de septiembre, del Consell, por el que se establece el currículo de las enseñanzas elementales de Música y se regula el acceso a estas enseñanzas, el Decreto 157/2007, de 21 de septiembre, del Consell, por el que se establece el currículo de las enseñanzas elementales de Danza y se regula el acceso a estas enseñanzas, el Decreto 158/2007, de 21 de septiembre, del Consell, por el que se establece el currículo de las enseñanzas profesionales de música y se regula el acceso a estas enseñanzas, así como el Decreto 156/2007, de 21 de septiembre, del Consell, por el que se establece el currículo de las enseñanzas profesionales de danza y se regula el acceso a estas enseñanzas, desarrollan lo dispuesto en la normativa básica. En sus respectivas disposiciones finales, los mencionados decretos autorizan a la conselleria competente en materia de educación a dictar las disposiciones necesarias para su aplicación y su desarrollo.\n\nMediante esta orden, se concretan ciertos aspectos de ordenación académica de las enseñanzas elementales y profesionales de Música y Danza. En particular, se regulan la admisión, el acceso y matrícula, la permanencia, la convalidación de asignaturas, el procedimiento para la obtención directa del certificado de superación de las enseñanzas elementales de Danza y de música, así como el procedimiento por el que se regulan las asignaturas optativas en las enseñanzas profesionales de danza y de música en los conservatorios y centros privados autorizados para impartir enseñanzas elementales y profesionales de Música y Danza a la Comunitat Valenciana.\n\nPor todo ello, vista la propuesta del director general de Ordenación y Centros Docentes de fecha 20 de abril de 2011, de conformidad con la misma, y en virtud de las competencias que me atribuye el artículo 28.e de la Ley 5/1983, de 30 de diciembre, del Consell,"
+    },
+    {
+      "type": "titulo",
+      "id": "titulo-1",
+      "number": "I",
+      "title": "Título I. Disposición preliminar",
+      "children": [
+        {
+          "type": "capitulo",
+          "id": "cap-unico-1",
+          "number": "único",
+          "title": "Capítulo único. Objeto",
+          "children": [
+            {
+              "type": "articulo",
+              "id": "art-1",
+              "number": "1",
+              "title": "Artículo 1. Objeto y ámbito de aplicación",
+              "content": "1. La presente orden tiene por objeto regular la admisión, el acceso y la matrícula, así como los aspectos de ordenación general, para el alumnado que curse las enseñanzas elementales y profesionales de Música y Danza a la Comunitat Valenciana.\n\n2. Esta orden será de aplicación en los conservatorios y en los centros privados autorizados para impartir enseñanzas elementales y profesionales de Música y Danza en el ámbito de gestión de la Comunitat Valenciana."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "titulo",
+      "id": "titulo-2",
+      "number": "II",
+      "title": "Título II. Admisión, ingreso, acceso y matrícula",
+      "children": [
+        {
+          "type": "capitulo",
+          "id": "cap-1",
+          "number": "I",
+          "title": "Capítulo I. Admisión en las enseñanzas elementales y profesionales de Música y de Danza",
+          "children": [
+            {
+              "type": "articulo",
+              "id": "art-2",
+              "number": "2",
+              "title": "Artículo 2. Aspectos generales en la admisión de alumnado",
+              "content": "[Derogado por la Orden 8/2026, de 24 de abril, por la que se regula el proceso de admisión a las enseñanzas elementales y profesionales de Música y Danza - ver PDF original]"
+            },
+            {
+              "type": "articulo",
+              "id": "art-3",
+              "number": "3",
+              "title": "Artículo 3. Admisión en las enseñanzas elementales de Música y Danza",
+              "content": "[Derogado por la Orden 8/2026, de 24 de abril, por la que se regula el proceso de admisión a las enseñanzas elementales y profesionales de Música y Danza - ver PDF original]"
+            },
+            {
+              "type": "articulo",
+              "id": "art-4",
+              "number": "4",
+              "title": "Artículo 4. Admisión en las enseñanzas profesionales de Música y Danza",
+              "content": "[Derogado por la Orden 8/2026, de 24 de abril, por la que se regula el proceso de admisión a las enseñanzas elementales y profesionales de Música y Danza - ver PDF original]"
+            },
+            {
+              "type": "articulo",
+              "id": "art-5",
+              "number": "5",
+              "title": "Artículo 5. Admisión por solicitud de traslado de centro",
+              "content": "[Derogado por la Orden 8/2026, de 24 de abril, por la que se regula el proceso de admisión a las enseñanzas elementales y profesionales de Música y Danza - ver PDF original]"
+            },
+            {
+              "type": "articulo",
+              "id": "art-6",
+              "number": "6",
+              "title": "Artículo 6. Readmisión",
+              "content": "[Derogado por la Orden 8/2026, de 24 de abril, por la que se regula el proceso de admisión a las enseñanzas elementales y profesionales de Música y Danza - ver PDF original]"
+            }
+          ]
+        },
+        {
+          "type": "capitulo",
+          "id": "cap-2",
+          "number": "II",
+          "title": "Capítulo II. Pruebas de ingreso y acceso a las enseñanzas",
+          "children": [
+            {
+              "type": "articulo",
+              "id": "art-7",
+              "number": "7",
+              "title": "Artículo 7. Ingreso y acceso a las enseñanzas elementales y profesionales de Música y Danza de aspirantes con características excepcionales, que no reúnen los requisitos de edad",
+              "content": "[Derogado por la Orden 8/2026, de 24 de abril, por la que se regula el proceso de admisión a las enseñanzas elementales y profesionales de Música y Danza - ver PDF original]"
+            },
+            {
+              "type": "articulo",
+              "id": "art-8",
+              "number": "8",
+              "title": "Artículo 8. Prueba de ingreso a primer curso de las enseñanzas elementales de Música y Danza",
+              "content": "[Derogado por la Orden 8/2026, de 24 de abril, por la que se regula el proceso de admisión a las enseñanzas elementales y profesionales de Música y Danza - ver PDF original]"
+            },
+            {
+              "type": "articulo",
+              "id": "art-9",
+              "number": "9",
+              "title": "Artículo 9. Adjudicación de puestos escolares vacantes del primer curso de enseñanzas elementales de Danza y en las especialidades instrumentales de las enseñanzas elementales de Música",
+              "content": "[Derogado por la Orden 8/2026, de 24 de abril, por la que se regula el proceso de admisión a las enseñanzas elementales y profesionales de Música y Danza - ver PDF original]"
+            },
+            {
+              "type": "articulo",
+              "id": "art-10",
+              "number": "10",
+              "title": "Artículo 10. Pruebas de acceso a cursos diferentes de primero de enseñanzas elementales de Música y Danza",
+              "content": "[Derogado por la Orden 8/2026, de 24 de abril, por la que se regula el proceso de admisión a las enseñanzas elementales y profesionales de Música y Danza - ver PDF original]"
+            },
+            {
+              "type": "articulo",
+              "id": "art-11",
+              "number": "11",
+              "title": "Artículo 11. Prueba de acceso a las enseñanzas profesionales de Música y Danza",
+              "content": "[Derogado por la Orden 8/2026, de 24 de abril, por la que se regula el proceso de admisión a las enseñanzas elementales y profesionales de Música y Danza - ver PDF original]"
+            },
+            {
+              "type": "articulo",
+              "id": "art-12",
+              "number": "12",
+              "title": "Artículo 12. Pruebas de acceso a cursos diferentes de primero de las enseñanzas profesionales de Música y Danza",
+              "content": "[Derogado por la Orden 8/2026, de 24 de abril, por la que se regula el proceso de admisión a las enseñanzas elementales y profesionales de Música y Danza - ver PDF original]"
+            }
+          ]
+        },
+        {
+          "type": "capitulo",
+          "id": "cap-3",
+          "number": "III",
+          "title": "Capítulo III. Calendario de realización de pruebas y de matrícula",
+          "children": [
+            {
+              "type": "articulo",
+              "id": "art-13",
+              "number": "13",
+              "title": "Artículo 13. Publicidad de los procedimientos",
+              "content": "[Derogado por la Orden 8/2026, de 24 de abril, por la que se regula el proceso de admisión a las enseñanzas elementales y profesionales de Música y Danza - ver PDF original]"
+            },
+            {
+              "type": "articulo",
+              "id": "art-14",
+              "number": "14",
+              "title": "Artículo 14. Calendario para la realización de las pruebas de ingreso y acceso a enseñanzas elementales",
+              "content": "[Derogado por la Orden 8/2026, de 24 de abril, por la que se regula el proceso de admisión a las enseñanzas elementales y profesionales de Música y Danza - ver PDF original]"
+            },
+            {
+              "type": "articulo",
+              "id": "art-15",
+              "number": "15",
+              "title": "Artículo 15. Calendario para la realización de las pruebas de acceso a enseñanzas profesionales",
+              "content": "[Derogado por la Orden 8/2026, de 24 de abril, por la que se regula el proceso de admisión a las enseñanzas elementales y profesionales de Música y Danza - ver PDF original]"
+            },
+            {
+              "type": "articulo",
+              "id": "art-16",
+              "number": "16",
+              "title": "Artículo 16. Prelación en la formalización de matrícula del alumnado",
+              "content": "[Derogado por la Orden 8/2026, de 24 de abril, por la que se regula el proceso de admisión a las enseñanzas elementales y profesionales de Música y Danza - ver PDF original]"
+            },
+            {
+              "type": "articulo",
+              "id": "art-17",
+              "number": "17",
+              "title": "Artículo 17. Renuncia de matrícula",
+              "content": "[Derogado por la Orden 8/2026, de 24 de abril, por la que se regula el proceso de admisión a las enseñanzas elementales y profesionales de Música y Danza - ver PDF original]"
+            },
+            {
+              "type": "articulo",
+              "id": "art-18",
+              "number": "18",
+              "title": "Artículo 18. Adjudicación de las vacantes sobrevenidas",
+              "content": "[Derogado por la Orden 8/2026, de 24 de abril, por la que se regula el proceso de admisión a las enseñanzas elementales y profesionales de Música y Danza - ver PDF original]"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "titulo",
+      "id": "titulo-3",
+      "number": "III",
+      "title": "Título III. Convalidaciones y adaptaciones en las enseñanzas elementales y profesionales de Música y de Danza",
+      "children": [
+        {
+          "type": "capitulo",
+          "id": "titulo-3-cap-1",
+          "number": "I",
+          "title": "Capítulo I. Convalidaciones de asignaturas de enseñanzas profesionales con materias del Bachillerato",
+          "children": [
+            {
+              "type": "articulo",
+              "id": "art-19",
+              "number": "19",
+              "title": "Artículo 19. Requisitos del alumnado solicitante de convalidaciones",
+              "content": "Podrá ser beneficiario de las convalidaciones reguladas en esta orden el alumnado de los conservatorios y de los centros privados debidamente autorizados para impartir enseñanzas profesionales de Música y Danza, que curse o haya cursado, en todo o parte, las enseñanzas de Bachillerato, y curse o haya cursado las enseñanzas profesionales de Música o de Danza."
+            },
+            {
+              "type": "articulo",
+              "id": "art-20",
+              "number": "20",
+              "title": "Artículo 20. Convalidación única",
+              "content": "Cada materia o asignatura sólo podrá ser utilizada para una única convalidación."
+            },
+            {
+              "type": "articulo",
+              "id": "art-21",
+              "number": "21",
+              "title": "Artículo 21. Convalidaciones de asignaturas de enseñanzas profesionales de Música y Danza",
+              "content": "Las convalidaciones de diversas asignaturas de las enseñanzas profesionales de Música y Danza con determinadas materias de modalidad de primer y segundo curso de Bachillerato serán las siguientes, tal y como se compendia en el anexo VIII y en el anexo IX de la presente orden:\n\na) El alumnado que haya superado la materia de Análisis Musical II del Bachillerato podrá convalidar la asignatura de Análisis o la asignatura de Fundamentos de composición de las enseñanzas profesionales de música.\n\nb) El alumnado que haya superado la materia de Cultura Audiovisual del Bachillerato podrá convalidar la asignatura de Cultura audiovisual de las enseñanzas profesionales de Música o de Danza.\n\nc) El alumnado que haya superado la materia de Historia de la Música y de la Danza del Bachillerato podrá convalidar los cursos primero y segundo de la asignatura Historia de la Música de las enseñanzas profesionales de Música.\n\nd) El alumnado que haya superado la materia de Lenguaje y Práctica Musical del Bachillerato podrá convalidar la asignatura de primer curso de Lenguaje Musical de las enseñanzas profesionales de Música.\n\ne) El alumnado que haya superado la materia de Anatomía Aplicada podrá convalidar los cursos primero y segundo de la asignatura Anatomía y Biomecánica Aplicada a la Danza de las enseñanzas profesionales de Danza.\n\nf) El alumnado que haya superado la materia de Artes Escénicas del Bachillerato podrá convalidar la asignatura de Interpretación, y Creatividad y Danza de las enseñanzas profesionales de Danza.\n\ng) El alumnado que haya superado la materia de Historia de la Música y de la Danza del Bachillerato podrá convalidar la asignatura de Origen y Evolución de la Danza, además de la asignatura de Origen y Evolución del Flamenco de la especialidad de Baile Flamenco, o bien la asignatura Historia de la Danza propia de una de las especialidades de las enseñanzas profesionales de Danza.\n\nh) El alumnado que haya superado la materia de Lenguaje y Práctica Musical podrá solicitar la convalidación de los cursos primero, segundo y tercero de la asignatura de Música de las enseñanzas profesionales de Danza."
+            },
+            {
+              "type": "articulo",
+              "id": "art-22",
+              "number": "22",
+              "title": "Artículo 22. Procedimiento para solicitar la convalidación",
+              "content": "1. Cada una de las convalidaciones reguladas en la presente norma requerirá una solicitud expresa por parte del alumnado, o del padre, madre o tutor legal si es menor de edad, conforme al modelo que se adjunta como anexo X de la presente orden.\n\n2. El alumnado deberá solicitar la convalidación, preferentemente, ante la dirección del conservatorio o del centro debidamente autorizado de enseñanzas profesionales de Música o de Danza antes del 31 de octubre, y las solicitudes serán selladas y fechadas por los centros en el momento de su presentación. El alumnado de los conservatorios también podrá presentar su solicitud a través de cualquier medio de los previstos en el artículo 38.4 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.\n\n3. Las solicitudes irán acompañadas de un certificado académico oficial de los estudios realizados de Bachillerato, donde se acredite la superación de la materia o materias de Bachillerato con las que se solicita realizar la convalidación, y de un certificado de matrícula en enseñanzas profesionales de Música o de Danza.\n\n4. El alumnado que curse simultáneamente una asignatura objeto de convalidación y la materia o materias de Bachillerato cuya superación es necesaria para obtener dicha convalidación, deberá presentar un certificado de matrícula de Bachillerato en el momento de la solicitud. Para que la convalidación se haga efectiva deberá presentar el certificado académico que acredite la superación de la materia o materias de Bachillerato correspondientes antes de la fecha en la que se realice la evaluación final extraordinaria, si la hubiese, en otro caso, la asignatura figurará como pendiente.\n\n5. La dirección de los conservatorios y de los centros privados autorizados de enseñanzas profesionales de Música y Danza, desde el momento de recepción de la documentación completa del expediente de convalidación en el centro, dispondrá de un plazo máximo de diez días hábiles para su remisión a la dirección general competente en materia de ordenación académica. Este órgano dictará resolución expresa respecto a la solicitud de convalidación en el plazo máximo de dos meses, pudiendo entenderse como desestimatorios los efectos del silencio administrativo. Las resoluciones que se dicten ante las solicitudes que se realicen en base a lo establecido en el apartado 4 de este artículo, tendrán carácter de actos administrativos provisionales, que adquirirán su carácter definitivo una vez el alumno o alumna presente, en forma y plazo, el certificado académico que acredite la superación de la materia o materias de Bachillerato correspondientes. Contra las resoluciones dictadas por la dirección general competente en materia de ordenación académica, las personas interesadas podrán interponer recurso de alzada ante el órgano jerárquico superior de dicho centro directivo.\n\n6. Las convalidaciones de las asignaturas de las enseñanzas profesionales de Música o Danza se reflejarán en los documentos oficiales de evaluación haciendo constar la expresión «convalidada» y el código «CV» en la casilla referida a la calificación de las asignaturas objeto de convalidación.\n\n7. Las asignaturas objeto de convalidación no serán tenidas en cuenta en el cálculo de la nota media."
+            }
+          ]
+        },
+        {
+          "type": "capitulo",
+          "id": "titulo-3-cap-2",
+          "number": "II",
+          "title": "Capítulo II. Adaptaciones entre planes de estudios y nuevas especialidades",
+          "children": [
+            {
+              "type": "articulo",
+              "id": "art-23",
+              "number": "23",
+              "title": "Artículo 23. Alumnado que curse más de una especialidad",
+              "content": "El alumnado que curse más de una especialidad de las enseñanzas elementales de Música, o de las enseñanzas profesionales de Música o de Danza, únicamente cursará las asignaturas comunes por una de ellas. Una vez cursadas y superadas en una especialidad, la calificación obtenida es válida para todas las especialidades, y de esta manera deberá constar en el libro de calificaciones. Tendrán consideración de materias comunes las contempladas en el artículo 12 del Decreto 159/2007, de 21 de septiembre, del Consell, en las enseñanzas elementales de Música, las que figuran en el artículo 14 del Decreto 158/2007, de 21 de septiembre, del Consell, en lo que se refiere a las enseñanzas profesionales de música, y las asignaturas indicadas en el artículo 15 del Decreto 156/2007, de 21 de septiembre, del Consell, para las enseñanzas profesionales de danza."
+            },
+            {
+              "type": "articulo",
+              "id": "art-24",
+              "number": "24",
+              "title": "Artículo 24. Adaptaciones entre planes de estudios",
+              "content": "1. El alumnado que haya cursado el grado elemental de música o danza según la ordenación del sistema educativo regulada por la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo, y que desee matricularse en las enseñanzas elementales según la nueva ordenación del sistema educativo, regulado por la Ley Orgánica 2/2006, de 3 de mayo, de Educación, se incorporará al curso que le corresponda según las equivalencias, a efectos académicos, establecidas en el anexo IV del Decreto 159/2007, de 21 de septiembre, del Consell, en el caso de las enseñanzas elementales de Música, y las indicadas en el anexo IV del Decreto 157/2007, de 21 de septiembre, del Consell, en cuanto a las enseñanzas elementales de Danza.\n\n2. La incorporación de alumnado, que haya cursado el grado medio de Música o de Danza según la Ley Orgánica 1/1990, de 3 de octubre, a las enseñanzas profesionales de Música o de Danza se regirá por las equivalencias, a efectos académicos, reguladas en el anexo I y en el anexo II del Real Decreto 806/2006, de 30 de junio, por el que se establece el calendario de aplicación de la nueva ordenación del sistema educativo, establecida por la Ley Orgánica 2/2006, de 3 de mayo, de Educación.\n\n3. De conformidad con lo dispuesto en el artículo 20.2 del Real Decreto 806/2006, de 30 de junio, las certificaciones acreditativas del grado elemental de Música y Danza de la ordenación del sistema educativo extinguido, regulada por la Ley Orgánica 1/1990, de 3 de octubre, tendrán los mismos efectos que los propios de las certificaciones académicas realizadas en la nueva ordenación del sistema educativo.\n\n4. En las enseñanzas elementales y profesionales, el alumnado que, en el momento de la extinción de las enseñanzas reguladas por la Ley Orgánica 1/1990, de 3 de octubre, hubiese obtenido evaluación negativa en dos o más asignaturas del curso que estaba realizando, se incorporará al mismo curso de las enseñanzas reguladas por la Ley Orgánica 2/2006, de 3 de mayo.\n\nCuando la evaluación negativa se hubiese obtenido en una única asignatura, el alumno o alumna se incorporará al curso siguiente de las enseñanzas reguladas por la nueva ordenación del sistema educativo, salvo en el caso de que el alumno o alumna haya cursado el último curso del grado elemental o del grado medio del sistema que se extingue, en cuyo caso, el alumno o alumna se incorporará al mismo curso.\n\nEn los casos de incorporación al curso siguiente de las enseñanzas reguladas por la nueva ordenación del sistema educativo con una asignatura pendiente del sistema anterior, la recuperación de la misma se realizará basándose en el currículo vigente de las enseñanzas elementales o profesionales de Música o de Danza, según corresponda, o, en el supuesto de que la asignatura no exista en la nueva ordenación del sistema educativo, sobre la base del currículo vigente en el momento en que el alumno o alumna formalizó la matrícula por primera vez."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "titulo",
+      "id": "titulo-4",
+      "number": "IV",
+      "title": "Título IV. Ampliaciones de matrícula, simultaneidad y permanencia en las enseñanzas",
+      "children": [
+        {
+          "type": "capitulo",
+          "id": "cap-unico-4",
+          "number": "único",
+          "title": "Capítulo único",
+          "children": [
+            {
+              "type": "articulo",
+              "id": "art-25",
+              "number": "25",
+              "title": "Artículo 25. Ampliación de matrícula",
+              "content": "[Derogado por la Orden 8/2026, de 24 de abril, por la que se regula el proceso de admisión a las enseñanzas elementales y profesionales de Música y Danza - ver PDF original]"
+            },
+            {
+              "type": "articulo",
+              "id": "art-26",
+              "number": "26",
+              "title": "Artículo 26. Simultaneidad",
+              "content": "[Derogado por la Orden 8/2026, de 24 de abril, por la que se regula el proceso de admisión a las enseñanzas elementales y profesionales de Música y Danza - ver PDF original]"
+            },
+            {
+              "type": "articulo",
+              "id": "art-27",
+              "number": "27",
+              "title": "Artículo 27. Permanencia",
+              "content": "1. El límite de permanencia en las enseñanzas elementales de Música y Danza será de cinco años. El alumno o alumna no podrá permanecer más de dos años en el mismo curso.\n\n2. El límite de permanencia en las enseñanzas profesionales de Música y Danza será de ocho años. El alumno o alumna no podrá permanecer más de dos años en el mismo curso, excepto en sexto curso.\n\n3. Tanto en las enseñanzas elementales como en las profesionales, con carácter excepcional podrá ampliarse en un año la permanencia en supuestos de enfermedad grave u otras circunstancias que merezcan igual consideración.\n\n4. El alumnado podrá solicitar la ampliación excepcional de un año en el límite de permanencia, mediante solicitud ante la dirección del conservatorio o centro privado autorizado, según modelo del anexo XII de esta orden, antes del 20 de septiembre del curso académico, adjuntando la siguiente documentación:\n\na) Escrito de motivación de la solicitud, exponiendo la situación y circunstancias que la han ocasionado.\n\nb) Un certificado académico oficial de los estudios superados hasta el momento de solicitar la permanencia excepcional durante un año más.\n\nc) Un informe médico que acredite la enfermedad grave o la situación del alumno o alumna, o bien un informe del solicitante sobre la situación personal que le impidió cursar de forma normal los estudios correspondientes.\n\nd) Cuantos otros documentos acreditativos estime conveniente aportar la persona interesada.\n\n5. Una vez recibida la documentación anterior en el centro, en el plazo máximo de diez días hábiles, la dirección del centro emitirá un informe favorable o desfavorable respecto a la continuidad del alumno o alumna en el centro para proseguir sus estudios, y lo remitirá, junto con el resto de la documentación a la dirección general competente en materia de ordenación académica.\n\n6. La dirección general competente en materia de ordenación académica dictará resolución expresa al efecto, que notificará al interesado y a la dirección del centro en el plazo máximo de un mes desde la recepción de la solicitud, pudiendo entenderse como desestimatorios los efectos del silencio administrativo. Contra este acto administrativo, las personas interesadas podrán interponer recurso de alzada ante el órgano jerárquico superior del órgano directivo que dictó el acto."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "titulo",
+      "id": "titulo-5",
+      "number": "V",
+      "title": "Título V. Obtención directa del certificado de superación de enseñanzas elementales",
+      "children": [
+        {
+          "type": "capitulo",
+          "id": "cap-unico-5",
+          "number": "único",
+          "title": "Capítulo único",
+          "children": [
+            {
+              "type": "articulo",
+              "id": "art-28",
+              "number": "28",
+              "title": "Artículos 28 a 38",
+              "content": "[Derogado expresamente en su totalidad por la disposición derogatoria única, apartado 2, de la Orden 8/2026, de 24 de abril]"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "titulo",
+      "id": "titulo-6",
+      "number": "VI",
+      "title": "Título VI. Asignaturas optativas en las enseñanzas profesionales de Música y de Danza",
+      "children": [
+        {
+          "type": "capitulo",
+          "id": "cap-unico-6",
+          "number": "único",
+          "title": "Capítulo único",
+          "children": [
+            {
+              "type": "articulo",
+              "id": "art-39",
+              "number": "39",
+              "title": "Artículo 39. Características y finalidad de las asignaturas optativas",
+              "content": "1. Los conservatorios y centros privados autorizados que impartan enseñanzas profesionales de Música y Danza ofertarán al alumnado, en quinto y sexto curso, asignaturas optativas de acuerdo con lo previsto en el artículo 8 del Decreto 158/2007, de 21 de septiembre, del Consell, en las enseñanzas profesionales de Música, y conforme al artículo 8 del Decreto 156/2007, de 21 de septiembre, del Consell, en las enseñanzas profesionales de Danza.\n\n2. Las asignaturas optativas en los cursos quinto y sexto de las enseñanzas profesionales de Música y Danza son una vía para atender a la diversidad desde el currículo. Estas asignaturas deberán responder a los diferentes intereses, motivaciones y necesidades del alumnado, contribuir a la consecución de los objetivos generales de las enseñanzas profesionales de Música y Danza, así como preparar al alumnado para los estudios superiores y la especialización en su futuro académico y profesional."
+            },
+            {
+              "type": "articulo",
+              "id": "art-40",
+              "number": "40",
+              "title": "Artículo 40. Oferta",
+              "content": "1. La oferta de asignaturas optativas, en quinto y sexto curso, deberá ser diversa y equilibrada en diferentes ámbitos formativos y profesionales. Por una parte, las asignaturas optativas tendrán un sentido propedéutico, al ofrecer una formación complementaria que mejore la capacitación del alumnado para el acceso a las diferentes especialidades del grado Superior, y por otra parte, contribuirán a ampliar la oferta formativa de los centros bajo criterios de empleabilidad y demanda profesional por parte del alumnado con la finalidad de atender distintos perfiles profesionales que puedan definirse en cada centro.\n\n2. Los conservatorios y centros autorizados de enseñanzas profesionales de Música o Danza que oferten la totalidad de las asignaturas optativas de oferta obligada dispondrán de la posibilidad de solicitar asignaturas optativas de diseño propio, cuya autorización estará condicionada a la existencia de profesorado cualificado para su impartición, y siempre y cuando se trate de docentes preferentemente con destino definitivo en el centro, en el caso de los conservatorios de titularidad de la Generalitat. En el caso de estos conservatorios, la oferta de estas asignaturas no deberá suponer un aumento de la plantilla prevista, y su autorización se realizará cuando el conservatorio acredite la posibilidad organizativa de implantar la asignatura correspondiente y la existencia de alumnado suficiente.\n\nAquellos centros que no puedan cumplir con la condición de ofertar la totalidad de las asignaturas optativas de oferta obligada, podrán solicitar la autorización de asignaturas optativas de diseño propio, siempre y cuando presenten un informe adjunto a la solicitud que justifique de forma razonada la imposibilidad de ofertar todas las asignaturas de oferta obligada.\n\n3. Los centros, en virtud de su autonomía pedagógica y organizativa, realizarán la adscripción de las asignaturas optativas obligatorias y de diseño propio para los cursos de quinto y sexto de las enseñanzas profesionales atendiendo a perfiles formativos y profesionales de Música o Danza.\n\n4. La impartición de las asignaturas optativas de diseño propio que pudieran autorizarse a los centros, quedará condicionada, con carácter general, a que exista un número de alumnado matriculado no inferior a cuatro en la asignatura. Cualquier otra situación deberá ser justificada por parte del centro para su puesta en funcionamiento, informada por la Inspección de Educación y autorizada por la dirección general competente en materia de enseñanzas de régimen especial. Además, el profesorado responsable de estas asignaturas deberá acreditar, a través de la dirección del centro, a la Inspección de Educación la suficiente capacitación profesional para impartirlas.",
+              "versions": [
+                {
+                  "versionId": "v2",
+                  "effectiveDate": "2015-05-22",
+                  "modifiedBy": {
+                    "lawId": "orden-49-2015",
+                    "title": "Orden 49/2015, de 14 de mayo",
+                    "articleRef": "Artículo único, Diecisiete"
+                  },
+                  "content": "1. La oferta de asignaturas optativas, en quinto y sexto curso, deberá ser diversa y equilibrada en diferentes ámbitos formativos y profesionales. Por una parte, las asignaturas optativas tendrán un sentido propedéutico, al ofrecer una formación complementaria que mejore la capacitación del alumnado para el acceso a las diferentes especialidades del grado Superior, y por otra parte, contribuirán a ampliar la oferta formativa de los centros bajo criterios de empleabilidad y demanda profesional por parte del alumnado con la finalidad de atender distintos perfiles profesionales que puedan definirse en cada centro.\n\n2. Los conservatorios y centros autorizados de enseñanzas profesionales de Música o Danza que oferten la totalidad de las asignaturas optativas de oferta obligada dispondrán de la posibilidad de solicitar asignaturas optativas de diseño propio, cuya autorización estará condicionada a la existencia de profesorado cualificado para su impartición, y siempre y cuando se trate de docentes preferentemente con destino definitivo en el centro, en el caso de los conservatorios de titularidad de la Generalitat. En el caso de estos conservatorios, la oferta de estas asignaturas no deberá suponer un aumento de la plantilla prevista, y su autorización se realizará cuando el conservatorio acredite la posibilidad organizativa de implantar la asignatura correspondiente y la existencia de alumnado suficiente.\n\nAquellos centros que no puedan cumplir con la condición de ofertar la totalidad de las asignaturas optativas de oferta obligada, podrán solicitar la autorización de asignaturas optativas de diseño propio, siempre y cuando presenten un informe adjunto a la solicitud que justifique de forma razonada la imposibilidad de ofertar todas las asignaturas de oferta obligada.\n\n3. Los centros, en virtud de su autonomía pedagógica y organizativa, realizarán la adscripción de las asignaturas optativas obligatorias y de diseño propio para los cursos de quinto y sexto de las enseñanzas profesionales atendiendo a perfiles formativos y profesionales de Música o Danza.\n\n4. La impartición de las asignaturas optativas de diseño propio que pudieran autorizarse a los centros, quedará condicionada, con carácter general, a que exista un número de alumnado matriculado no inferior a cuatro en la asignatura. Cualquier otra situación deberá ser justificada por parte del centro para su puesta en funcionamiento, informada por la Inspección de Educación y autorizada por la dirección general competente en materia de enseñanzas de régimen especial. Además, el profesorado responsable de estas asignaturas deberá acreditar, a través de la dirección del centro, a la Inspección de Educación la suficiente capacitación profesional para impartirlas."
+                },
+                {
+                  "versionId": "v1",
+                  "effectiveDate": "2011-05-18",
+                  "modifiedBy": null,
+                  "content": "1. La oferta de asignaturas optativas, en quinto y sexto curso, deberá ser diversa y equilibrada en diferentes ámbitos para responder a las necesidades del alumnado y contribuir a ampliar la oferta educativa de los conservatorios y centros privados autorizados. Por tanto, los contenidos de las asignaturas optativas deberán ser terminales y no podrán tener continuidad.\n\n2. La oferta de las asignaturas optativas que los centros docentes propongan a su alumnado se ajustará al siguiente catálogo:\n\na) Asignaturas optativas de oferta obligada.\nTodos los conservatorios y centros privados autorizados de enseñanzas profesionales de música ofertarán las siguientes asignaturas optativas: Complemento Pianístico, Complemento Coral, Estética de la Música, Fundamentos de Composición, Fundamentos de Informática Musical y Edición de Partituras, Cultura Audiovisual y Creatividad y Música. El currículo de estas asignaturas es el indicado en el anexo I del Decreto 158/2007, de 21 de septiembre, del Consell. La asignatura Complemento Pianístico podrá ser cursada por el alumnado de todas las especialidades instrumentales y Canto, excepto la especialidad de Piano.\nTodos los conservatorios y centros privados autorizados de enseñanzas profesionales de Danza ofertarán las siguientes asignaturas optativas: Iniciación a la Pedagogía de la Danza, Percusión Aplicada a la Danza, Creatividad y Danza, Cultura Audiovisual y Nuevas Tecnologías Aplicadas a la Danza. El currículo de estas asignaturas es el indicado en el anexo I del Decreto 156/2007, de 21 de septiembre, del Consell.\n\nb) Asignaturas optativas de diseño propio.\nLos conservatorios y centros privados autorizados para impartir las enseñanzas profesionales de Música o de Danza que impartan la totalidad de las asignaturas optativas de oferta obligada dispondrán de la posibilidad de solicitar asignaturas optativas de diseño propio, cuya autorización estará condicionada a la existencia de profesorado cualificado para su impartición, y siempre y cuando se trate de docentes preferentemente con destino definitivo en el centro, en el caso de los conservatorios de titularidad de la Generalitat. En el caso de estos conservatorios, la oferta de estas asignaturas no deberá suponer un aumento de la plantilla prevista, y su autorización se realizará cuando el conservatorio acredite la posibilidad organizativa de implantar la asignatura correspondiente y la existencia de alumnado suficiente.\n\n3. Los centros, en virtud de su autonomía pedagógica y organizativa, realizarán la adscripción de las asignaturas optativas a los cursos quinto o sexto de las enseñanzas profesionales."
+                }
+              ]
+            },
+            {
+              "type": "articulo",
+              "id": "art-41",
+              "number": "41",
+              "title": "Artículo 41. Grupos y selección de asignaturas",
+              "content": "1. El número de grupos que se constituyan para cursar asignaturas optativas estará supeditado al número de alumnos y alumnas matriculados en los cursos quinto y sexto de las enseñanzas profesionales, y a lo especificado en el anexo III del Decreto 158/2007, de 21 de septiembre, del Consell, y al anexo III del Decreto 156/2007, de 21 de septiembre, del Consell.\n\n2. Excepcionalmente, se podrá impartir las asignaturas optativas a un número menor de alumnado de lo establecido con carácter general cuando las peculiaridades o circunstancias especiales del centro así lo requieran, con la autorización de la dirección general competente en materia de ordenación académica y previo informe favorable de la dirección territorial competente en materia de educación.\n\n3. La comisión de coordinación pedagógica establecerá los procedimientos necesarios para conocer el tipo de asignaturas optativas que mejor se adaptan a las características del alumnado del centro. Los procedimientos establecidos constarán en el proyecto educativo del centro.\n\n4. La Inspección Educativa supervisará la impartición de asignaturas optativas, tanto de oferta obligada como de asignaturas de diseño propio autorizadas, y comunicará de forma expresa a la dirección de los conservatorios y los titulares de los centros privados autorizados las modificaciones que, en su caso, deban introducir en la petición de autorización para impartir asignaturas optativas de diseño propio."
+            },
+            {
+              "type": "articulo",
+              "id": "art-42",
+              "number": "42",
+              "title": "Artículo 42. Elección de asignaturas optativas por el alumnado",
+              "content": "1. El alumnado cursará una asignatura optativa en el quinto curso y otra distinta en el sexto curso de enseñanzas profesionales de Música o de Danza de entre aquellas que oferte el centro, y en función del perfil formativo que le resulte más adecuado al alumno o alumna.\n\n2. El alumnado que curse más de una especialidad no requerirá volver a cursar nuevas asignaturas optativas.\n\n3. Cuando el alumno o alumna no supere el curso podrá cambiar de asignatura optativa al inicio del curso académico siguiente. Asimismo, si el alumnado promociona al curso siguiente con la asignatura optativa pendiente, podrá elegir entre realizarla de nuevo, si el centro continúa ofertándola, o bien cursar otra distinta.\n\n4. El alumnado de enseñanzas profesionales de música podrá cursar la asignatura optativa de Fundamentos de composición siempre que haya superado la asignatura de Armonía de tercer y cuarto curso. Asimismo, el alumnado no podrá escoger una asignatura optativa en tanto no supere aquellas asignaturas con las que guarda relación de continuidad, según se establece en los currículos.\n\n5. Los tutores y tutoras proporcionarán al alumnado la debida orientación a la hora de elegir las asignaturas optativas que resulten más adecuadas al perfil formativo de cada alumno o alumna."
+            },
+            {
+              "type": "articulo",
+              "id": "art-43",
+              "number": "43",
+              "title": "Artículo 43. Autorización de asignaturas optativas de diseño propio",
+              "content": "1. La oferta de asignaturas optativas de diseño propio en los centros, tanto públicos como privados, requerirá contar con la autorización de la dirección general competente en materia de ordenación académica y previo informe favorable de la dirección territorial competente en materia de educación.\n\n2. La solicitud de autorización la realizará la dirección de los conservatorios o la titularidad de los centros privados autorizados, a propuesta de la comisión de coordinación pedagógica, visto el informe de los departamentos, y tras la oportuna aprobación por parte del Consejo Escolar o por quien tenga atribuidas sus funciones. Las solicitudes se cumplimentarán según el modelo que figura en el anexo XVI de la presente orden.\n\n3. Las solicitudes se remitirán a las respectivas direcciones territoriales competentes en materia de educación, preferentemente, o bien por cualquier medio previsto en el artículo 38.4 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, antes del 28 de febrero anterior al comienzo del curso para el que se solicita la autorización.\n\n4. La solicitud se acompañará de una memoria en la que se incluya:\n\na) Copia del acta de la reunión de la comisión de coordinación pedagógica donde conste la propuesta de solicitud de autorización de las asignaturas optativas de diseño propio.\n\nb) Copia del acta de la sesión del Consejo Escolar o de quien tenga atribuidas sus funciones con la aprobación de la solicitud de autorización de las asignaturas optativas propuestas.\n\nc) Criterios que han justificado la selección de las asignaturas optativas.\n\nd) Programación de cada asignatura optativa de diseño propio solicitada, en la que se incluya, al menos, una breve introducción justificativa, objetivos, contenidos, métodos pedagógicos y criterios de evaluación.\n\ne) Materiales y medios didácticos de los que se dispone para el desarrollo de las asignaturas propuestas.\n\nf) Informe del departamento que se responsabilizará de cada asignatura optativa, haciendo constar el profesorado que la impartirá, así como su cualificación y disponibilidad horaria.\n\ng) Número de alumnos y alumnas matriculados en los cursos cuarto y quinto de las enseñanzas profesionales, y previsión de distribución de los mismos entre las diferentes asignaturas optativas propuestas por el centro y las que ya se imparten en el mismo.\n\n5. Las direcciones territoriales competentes en materia de educación emitirán, antes del 31 de marzo de cada curso académico, un informe favorable o desfavorable respecto a la autorización de asignaturas optativas de diseño propio por cada centro solicitante. Estos informes serán remitidos antes del 15 de abril a la dirección general competente en materia de ordenación académica, que dictará resolución a tal efecto con anterioridad al 31 de mayo. Si no se dictase resolución expresa en dicho plazo, las solicitudes de autorización podrán entenderse desestimadas. Contra la resolución de la dirección general competente, los centros privados autorizados podrán interponer recurso de alzada ante el órgano jerárquico superior de aquel que hubiese dictado el acto administrativo.\n\n6. Se priorizará la autorización de asignaturas de diseño propio que contribuyan a crear perfiles formativos en el alumnado de quinto y sexto de enseñanzas profesionales, de forma que les oriente académicamente en su formación, para poder continuar sus estudios de Música o Danza entre la oferta formativa existente. En la solicitud de autorización de estas asignaturas el centro deberá justificar el perfil profesional y/o formativo para el cual están destinadas dichas asignaturas.",
+              "versions": [
+                {
+                  "versionId": "v2",
+                  "effectiveDate": "2015-05-22",
+                  "modifiedBy": {
+                    "lawId": "orden-49-2015",
+                    "title": "Orden 49/2015, de 14 de mayo",
+                    "articleRef": "Artículo único, Dieciocho"
+                  },
+                  "content": "1. La oferta de asignaturas optativas de diseño propio en los centros, tanto públicos como privados, requerirá contar con la autorización de la dirección general competente en materia de ordenación académica y previo informe favorable de la dirección territorial competente en materia de educación.\n\n2. La solicitud de autorización la realizará la dirección de los conservatorios o la titularidad de los centros privados autorizados, a propuesta de la comisión de coordinación pedagógica, visto el informe de los departamentos, y tras la oportuna aprobación por parte del Consejo Escolar o por quien tenga atribuidas sus funciones. Las solicitudes se cumplimentarán según el modelo que figura en el anexo XVI de la presente orden.\n\n3. Las solicitudes se remitirán a las respectivas direcciones territoriales competentes en materia de educación, preferentemente, o bien por cualquier medio previsto en el artículo 38.4 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, antes del 28 de febrero anterior al comienzo del curso para el que se solicita la autorización.\n\n4. La solicitud se acompañará de una memoria en la que se incluya:\n\na) Copia del acta de la reunión de la comisión de coordinación pedagógica donde conste la propuesta de solicitud de autorización de las asignaturas optativas de diseño propio.\n\nb) Copia del acta de la sesión del Consejo Escolar o de quien tenga atribuidas sus funciones con la aprobación de la solicitud de autorización de las asignaturas optativas propuestas.\n\nc) Criterios que han justificado la selección de las asignaturas optativas.\n\nd) Programación de cada asignatura optativa de diseño propio solicitada, en la que se incluya, al menos, una breve introducción justificativa, objetivos, contenidos, métodos pedagógicos y criterios de evaluación.\n\ne) Materiales y medios didácticos de los que se dispone para el desarrollo de las asignaturas propuestas.\n\nf) Informe del departamento que se responsabilizará de cada asignatura optativa, haciendo constar el profesorado que la impartirá, así como su cualificación y disponibilidad horaria.\n\ng) Número de alumnos y alumnas matriculados en los cursos cuarto y quinto de las enseñanzas profesionales, y previsión de distribución de los mismos entre las diferentes asignaturas optativas propuestas por el centro y las que ya se imparten en el mismo.\n\n5. Las direcciones territoriales competentes en materia de educación emitirán, antes del 31 de marzo de cada curso académico, un informe favorable o desfavorable respecto a la autorización de asignaturas optativas de diseño propio por cada centro solicitante. Estos informes serán remitidos antes del 15 de abril a la dirección general competente en materia de ordenación académica, que dictará resolución a tal efecto con anterioridad al 31 de mayo. Si no se dictase resolución expresa en dicho plazo, las solicitudes de autorización podrán entenderse desestimadas. Contra la resolución de la dirección general competente, los centros privados autorizados podrán interponer recurso de alzada ante el órgano jerárquico superior de aquel que hubiese dictado el acto administrativo.\n\n6. Se priorizará la autorización de asignaturas de diseño propio que contribuyan a crear perfiles formativos en el alumnado de quinto y sexto de enseñanzas profesionales, de forma que les oriente académicamente en su formación, para poder continuar sus estudios de Música o Danza entre la oferta formativa existente. En la solicitud de autorización de estas asignaturas el centro deberá justificar el perfil profesional y/o formativo para el cual están destinadas dichas asignaturas."
+                },
+                {
+                  "versionId": "v1",
+                  "effectiveDate": "2011-05-18",
+                  "modifiedBy": null,
+                  "content": "1. La oferta de asignaturas optativas de diseño propio en los centros, tanto públicos como privados, requerirá contar con la autorización de la dirección general competente en materia de ordenación académica y previo informe favorable de la dirección territorial competente en materia de educación.\n\n2. La solicitud de autorización la realizará la dirección de los conservatorios o la titularidad de los centros privados autorizados, a propuesta de la comisión de coordinación pedagógica, visto el informe de los departamentos, y tras la oportuna aprobación por parte del Consejo Escolar o por quien tenga atribuidas sus funciones. Las solicitudes se cumplimentarán según el modelo que figura en el anexo XVI de la presente orden.\n\n3. Las solicitudes se remitirán a las respectivas direcciones territoriales competentes en materia de educación, preferentemente, o bien por cualquier medio previsto en el artículo 38.4 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, antes del 28 de febrero anterior al comienzo del curso para el que se solicita la autorización.\n\n4. La solicitud se acompañará de una memoria en la que se incluya:\n\na) Copia del acta de la reunión de la comisión de coordinación pedagógica donde conste la propuesta de solicitud de autorización de las asignaturas optativas de diseño propio.\n\nb) Copia del acta de la sesión del Consejo Escolar o de quien tenga atribuidas sus funciones con la aprobación de la solicitud de autorización de las asignaturas optativas propuestas.\n\nc) Criterios que han justificado la selección de las asignaturas optativas.\n\nd) Programación de cada asignatura optativa de diseño propio solicitada, en la que se incluya, al menos, una breve introducción justificativa, objetivos, contenidos, métodos pedagógicos y criterios de evaluación.\n\ne) Materiales y medios didácticos de los que se dispone para el desarrollo de las asignaturas propuestas.\n\nf) Informe del departamento que se responsabilizará de cada asignatura optativa, haciendo constar el profesorado que la impartirá, así como su cualificación y disponibilidad horaria.\n\ng) Número de alumnos y alumnas matriculados en los cursos cuarto y quinto de las enseñanzas profesionales, y previsión de distribución de los mismos entre las diferentes asignaturas optativas propuestas por el centro y las que ya se imparten en el mismo.\n\n5. Las direcciones territoriales competentes en materia de educación emitirán, antes del 31 de marzo de cada curso académico, un informe favorable o desfavorable respecto a la autorización de asignaturas optativas de diseño propio por cada centro solicitante. Estos informes serán remitidos antes del 15 de abril a la dirección general competente en materia de ordenación académica, que dictará resolución a tal efecto con anterioridad al 31 de mayo. Si no se dictase resolución expresa en dicho plazo, las solicitudes de autorización podrán entenderse desestimadas. Contra la resolución de la dirección general competente, los centros privados autorizados podrán interponer recurso de alzada ante el órgano jerárquico superior de aquel que hubiese dictado el acto administrativo."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "disposicion_adicional",
+      "id": "da-1",
+      "number": "primera",
+      "title": "Disposición adicional primera. Autorizaciones vigentes de asignaturas optativas",
+      "content": "1. Las asignaturas optativas autorizadas al amparo de la Orden de 10 de noviembre de 1998, de la Conselleria de Cultura, Educación y Ciencia, por la que se establecen las condiciones académicas para la impartición de las asignaturas optativas en el tercer ciclo del grado medio de las enseñanzas de Música reguladas conforme el Decreto 151/1993, de 17 de agosto, y el procedimiento para su autorización, se considerarán asignaturas de diseño propio.\n\n2. A partir del curso académico 2011-2012, la Inspección Educativa supervisará que las asignaturas de oferta obligada y de diseño propio impartidas en los centros de enseñanzas profesionales de Música y Danza se ajusten a los requisitos establecidos por la normativa vigente."
+    },
+    {
+      "type": "disposicion_adicional",
+      "id": "da-2",
+      "number": "segunda",
+      "title": "Disposición adicional segunda. Difusión y supervisión de la norma",
+      "content": "1. La Inspección Educativa velará por el cumplimiento de lo establecido en esta orden.\n\n2. La dirección de los conservatorios y de los centros privados autorizados cumplirá y hará cumplir el contenido de la presente orden y difundirá su contenido entre los miembros de la comunidad educativa."
+    },
+    {
+      "type": "disposicion_adicional",
+      "id": "da-3",
+      "number": "tercera",
+      "title": "Disposición adicional tercera. Aplicación",
+      "content": "Se autoriza a las diferentes direcciones generales de la Conselleria de Educación para que, en el ámbito de sus respectivas competencias, dicten cuantas resoluciones e instrucciones sean precisas para la aplicación de lo establecido en esta orden."
+    },
+    {
+      "type": "disposicion_derogatoria",
+      "id": "dd-unica",
+      "number": "única",
+      "title": "Disposición derogatoria única. Derogación normativa",
+      "content": "1. Quedan derogadas las siguientes disposiciones:\n\na) Orden de 10 de noviembre de 1998, de la Conselleria de Cultura, Educación y Ciencia, por la que se establecen las condiciones académicas para la impartición de las asignaturas optativas en el tercer ciclo del grado medio de las enseñanzas de Música reguladas conforme el Decreto 151/1993, de 17 de agosto, y el procedimiento para su autorización (DOGV 10.12.1998).\n\nb) Orden de 8 de abril de 1999, de la Conselleria de Cultura, Educación y Ciencia, por la que se regula el procedimiento para la obtención directa del Certificado de superación del grado Elemental de Música, regulado por la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo (DOGV 03.05.1999).\n\nc) Resolución de 5 de octubre de 2007, de la Dirección General de Ordenación y Centros Docentes, por la que se regula el acceso a las enseñanzas elementales y profesionales de Música y Danza de aspirantes con características excepcionales, que no reúnen los requisitos de edad (DOCV 24.10.2007).\n\nd) Resolución de 8 de octubre de 2007, de la Dirección General de Ordenación y Centros Docentes, por la que se regula el procedimiento de incorporación de alumnos que cursan enseñanzas elementales y profesionales de Música y Danza, con asignaturas pendientes, procedentes de planes de estudio anteriores a la Ley Orgánica 2/2006, de Educación (DOCV 24.10.2007).\n\ne) Resolución de 26 de marzo de 2010 de la Dirección General de Ordenación y Centros Docentes, por la que se dictan instrucciones para las pruebas de acceso a cada curso, diferente del primero, de las enseñanzas profesionales de música, en los centros debidamente autorizados para impartir enseñanzas profesionales de música a la Comunitat Valenciana (DOCV 12.04.2010).\n\n2. Asimismo, quedan derogadas todas las disposiciones de igual o inferior rango que se opongan a lo establecido en la presente orden."
+    },
+    {
+      "type": "disposicion_final",
+      "id": "df-unica",
+      "number": "única",
+      "title": "Disposición final única. Entrada en vigor",
+      "content": "La presente orden entrará en vigor al día siguiente al de su publicación en el Diari Oficial de la Comunitat Valenciana."
+    }
+  ],
+  "legalAnalysis": {
+    "enactedPursuantTo": [
+      {
+        "lawId": "ley-organica-2-2006",
+        "title": "Ley Orgánica 2/2006, de 3 de mayo, de Educación (LOE)",
+        "relationship": "conformidad"
+      },
+      {
+        "lawId": "decreto-156-2007",
+        "title": "Decreto 156/2007, de 21 de septiembre, del Consell (currículo EEPP de Danza)",
+        "relationship": "desarrollo"
+      },
+      {
+        "lawId": "decreto-157-2007",
+        "title": "Decreto 157/2007, de 21 de septiembre, del Consell (currículo EE de Danza)",
+        "relationship": "desarrollo"
+      },
+      {
+        "lawId": "decreto-158-2007",
+        "title": "Decreto 158/2007, de 21 de septiembre, del Consell (currículo EEPP de Música)",
+        "relationship": "desarrollo"
+      },
+      {
+        "lawId": "decreto-159-2007",
+        "title": "Decreto 159/2007, de 21 de septiembre, del Consell (currículo EE de Música)",
+        "relationship": "desarrollo"
+      }
+    ],
+    "priorAffectations": [],
+    "posteriorAffectations": [
+      {
+        "lawId": "orden-49-2015",
+        "title": "Orden 49/2015, de 14 de mayo",
+        "type": "modifica",
+        "articles": [
+          "art-2",
+          "art-3",
+          "art-4",
+          "art-6",
+          "art-7",
+          "art-8",
+          "art-10",
+          "art-11",
+          "art-12",
+          "art-14",
+          "art-15",
+          "art-16",
+          "art-17",
+          "art-18",
+          "art-25",
+          "art-29",
+          "art-40",
+          "art-43"
+        ],
+        "date": "2015-05-22",
+        "description": "Modifica múltiples artículos relativos a admisión, pruebas, matrícula, ampliación, y asignaturas optativas"
+      },
+      {
+        "lawId": "orden-8-2026",
+        "title": "Orden 8/2026, de 24 de abril",
+        "type": "deroga_parcial",
+        "articles": [
+          "art-2",
+          "art-3",
+          "art-4",
+          "art-5",
+          "art-6",
+          "art-7",
+          "art-8",
+          "art-9",
+          "art-10",
+          "art-11",
+          "art-12",
+          "art-13",
+          "art-14",
+          "art-15",
+          "art-16",
+          "art-17",
+          "art-18",
+          "art-25",
+          "art-26",
+          "art-28"
+        ],
+        "date": "2026-04-30",
+        "description": "Deroga el Título II (admisión, ingreso, acceso y matrícula), Título V (obtención directa certificado EE), y los artículos 25 y 26"
+      }
+    ],
+    "derogations": [],
+    "concordances": [
+      {
+        "lawId": "real-decreto-1577-2006",
+        "title": "Real Decreto 1577/2006, de 22 de diciembre (aspectos básicos currículo EEPP de Música)"
+      },
+      {
+        "lawId": "real-decreto-242-2009",
+        "title": "Real Decreto 242/2009, de 27 de febrero (convalidaciones EEPP Música y Danza con ESO y Bachillerato)"
+      }
+    ]
+  }
+}

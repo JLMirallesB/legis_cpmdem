@@ -392,6 +392,13 @@
       "status": "ingested",
       "category": "acceso",
       "notes": "PDFs separados ES/VA. 29 arts (7 caps) + 3 DA + 1 DD + 2 DF + 10 anexos. Regula admisión, pruebas de acceso, matriculación y adaptaciones NEAE. Deroga parcialmente Orden 28/2011 y Orden 49/2015 (preceptos de admisión, acceso y matrícula; título V completo de O.28/2011). Bilingüe DOGV."
+    },
+    {
+      "slug": "orden-28-2011",
+      "title": "Orden 28/2011 - Admisión, acceso, matrícula y ordenación en EE y EEPP de Música y Danza",
+      "status": "ingested",
+      "category": "acceso",
+      "notes": "PDF bilingüe DOGV 2 columnas. 43 arts (6 títulos) + 3 DA + 1 DT + 1 DD + 1 DF + 16 anexos. Derogada parcialmente por O.8/2026 (Títulos II y V completos, arts 25-26). Vigentes: Título III (convalidaciones, arts 19-24), art 27 (permanencia), Título VI (optativas, arts 39-43). Modificada por O.49/2015 (arts 40, 43 con versions[])."
     }
   ]
 }
