@@ -111,7 +111,7 @@ function formatDate(dateStr?: string): string {
         {analysis.posteriorAffectations.map((aff) => (
           <li>
             <span class={`affectation-badge aff-${aff.type}`}>
-              {t(`analysis.affectation.${aff.type}`, lang)}
+              {t(`analysis.affectation_passive.${aff.type}`, lang)}
             </span>
             {aff.lawId ? (
               <a href={`${base}${lang}/${lawPath}/${aff.lawId}/`}>{aff.title}</a>
