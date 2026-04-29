@@ -1,5 +1,31 @@
 [
   {
+    "version": "1.0.0",
+    "date": "2026-04-29",
+    "entries": {
+      "es": [
+        {
+          "type": "nuevo",
+          "description": "Nueva categoría «Acceso y admisión» en el catálogo de legislación."
+        },
+        {
+          "type": "nuevo",
+          "description": "Ingesta de la Orden 8/2026 — Admisión a enseñanzas elementales y profesionales de Música y Danza. 29 artículos (7 capítulos), 3 disposiciones adicionales, 1 disposición derogatoria, 2 disposiciones finales y 10 anexos (estructura de pruebas de acceso, adaptaciones NEAE y procedimiento de autorización para aspirantes de 7 años). Deroga parcialmente las Órdenes 28/2011 y 49/2015."
+        }
+      ],
+      "va": [
+        {
+          "type": "nou",
+          "description": "Nova categoria «Accés i admissió» en el catàleg de legislació."
+        },
+        {
+          "type": "nou",
+          "description": "Ingesta de l'Orde 8/2026 — Admissió a ensenyances elementals i professionals de Música i Dansa. 29 articles (7 capítols), 3 disposicions addicionals, 1 disposició derogatòria, 2 disposicions finals i 10 annexos (estructura de proves d'accés, adaptacions NESE i procediment d'autorització per a aspirants de 7 anys). Deroga parcialment les Ordes 28/2011 i 49/2015."
+        }
+      ]
+    }
+  },
+  {
     "version": "0.18.1",
     "date": "2026-04-26",
     "entries": {

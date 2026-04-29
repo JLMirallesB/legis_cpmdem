@@ -385,6 +385,13 @@
       "status": "ingested",
       "category": "orientacion_convivencia",
       "notes": "Resolución de 14/02/2019 de la Secretaría Autonómica de Educación e Investigación. Instrucciones para centros docentes sostenidos con fondos públicos ante supuestos de no convivencia de progenitores. 12 artículos (Primero-Doce) + disposición derogatoria. PDF bilingüe DOGV a dos columnas. Deroga Resolución 28/03/2014."
+    },
+    {
+      "slug": "orden-8-2026",
+      "title": "Orden 8/2026 - Admisión a enseñanzas elementales y profesionales de Música y Danza",
+      "status": "ingested",
+      "category": "acceso",
+      "notes": "PDFs separados ES/VA. 29 arts (7 caps) + 3 DA + 1 DD + 2 DF + 10 anexos. Regula admisión, pruebas de acceso, matriculación y adaptaciones NEAE. Deroga parcialmente Orden 28/2011 y Orden 49/2015 (preceptos de admisión, acceso y matrícula; título V completo de O.28/2011). Bilingüe DOGV."
     }
   ]
 }

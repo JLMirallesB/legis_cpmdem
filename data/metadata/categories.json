@@ -37,6 +37,15 @@
       "icon": "check"
     },
     {
+      "id": "acceso",
+      "label": { "es": "Acceso y admisión", "va": "Accés i admissió" },
+      "description": {
+        "es": "Normas sobre acceso, admisión, pruebas de acceso y matriculación en las enseñanzas de música y danza",
+        "va": "Normes sobre accés, admissió, proves d'accés i matriculació en les ensenyances de música i dansa"
+      },
+      "icon": "door"
+    },
+    {
       "id": "flexibilizacion",
       "label": { "es": "Flexibilización", "va": "Flexibilització" },
       "description": {
