@@ -497,52 +497,52 @@
     {
       "id": "anexo-1-pdf",
       "title": "Anexo I — Publicación de la información del proceso de admisión (PDF)",
-      "pdfUrl": "/legis_cpmdem/pdf/orden-8-2026/anexo-I_es.pdf"
+      "pdfUrl": "pdf/orden-8-2026/anexo-I_es.pdf"
     },
     {
       "id": "anexo-2-pdf",
       "title": "Anexo II — Prueba de acceso a 1.º de EE de Música (PDF)",
-      "pdfUrl": "/legis_cpmdem/pdf/orden-8-2026/anexo-II_es.pdf"
+      "pdfUrl": "pdf/orden-8-2026/anexo-II_es.pdf"
     },
     {
       "id": "anexo-3-pdf",
       "title": "Anexo III — Prueba de acceso a curso ≠ 1.º de EE de Música (PDF)",
-      "pdfUrl": "/legis_cpmdem/pdf/orden-8-2026/anexo-III_es.pdf"
+      "pdfUrl": "pdf/orden-8-2026/anexo-III_es.pdf"
     },
     {
       "id": "anexo-4-pdf",
       "title": "Anexo IV — Prueba de acceso a 1.º de EE de Danza (PDF)",
-      "pdfUrl": "/legis_cpmdem/pdf/orden-8-2026/anexo-IV_es.pdf"
+      "pdfUrl": "pdf/orden-8-2026/anexo-IV_es.pdf"
     },
     {
       "id": "anexo-5-pdf",
       "title": "Anexo V — Prueba de acceso a curso ≠ 1.º de EE de Danza (PDF)",
-      "pdfUrl": "/legis_cpmdem/pdf/orden-8-2026/anexo-V_es.pdf"
+      "pdfUrl": "pdf/orden-8-2026/anexo-V_es.pdf"
     },
     {
       "id": "anexo-6-pdf",
       "title": "Anexo VI — Prueba de acceso a EEPP de Música (PDF)",
-      "pdfUrl": "/legis_cpmdem/pdf/orden-8-2026/anexo-VI_es.pdf"
+      "pdfUrl": "pdf/orden-8-2026/anexo-VI_es.pdf"
     },
     {
       "id": "anexo-7-pdf",
       "title": "Anexo VII — Prueba de acceso a 1.º de EEPP de Danza (PDF)",
-      "pdfUrl": "/legis_cpmdem/pdf/orden-8-2026/anexo-VII_es.pdf"
+      "pdfUrl": "pdf/orden-8-2026/anexo-VII_es.pdf"
     },
     {
       "id": "anexo-8-pdf",
       "title": "Anexo VIII — Prueba de acceso a curso ≠ 1.º de EEPP de Danza (PDF)",
-      "pdfUrl": "/legis_cpmdem/pdf/orden-8-2026/anexo-VIII_es.pdf"
+      "pdfUrl": "pdf/orden-8-2026/anexo-VIII_es.pdf"
     },
     {
       "id": "anexo-9-pdf",
       "title": "Anexo IX — Autorización aspirantes de 7 años (PDF)",
-      "pdfUrl": "/legis_cpmdem/pdf/orden-8-2026/anexo-IX_es.pdf"
+      "pdfUrl": "pdf/orden-8-2026/anexo-IX_es.pdf"
     },
     {
       "id": "anexo-10-pdf",
       "title": "Anexo X — Tipos de adaptaciones y documentación (PDF)",
-      "pdfUrl": "/legis_cpmdem/pdf/orden-8-2026/anexo-X_es.pdf"
+      "pdfUrl": "pdf/orden-8-2026/anexo-X_es.pdf"
     }
   ],
   "scope": "musica_y_danza",
