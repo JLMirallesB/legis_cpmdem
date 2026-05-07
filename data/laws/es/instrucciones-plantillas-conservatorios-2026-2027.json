@@ -157,17 +157,17 @@
     {
       "id": "anexo-1",
       "title": "Anexo I - Profesorado que completa horario con otras especialidades",
-      "pdfUrl": "/legis_cpmdem/models/instrucciones-plantillas-conservatorios-anexo-1-es.pdf"
+      "pdfUrl": "models/instrucciones-plantillas-conservatorios-anexo-1-es.pdf"
     },
     {
       "id": "anexo-2",
       "title": "Anexo II - Profesorado suprimido o desplazado que opta por recolocación",
-      "pdfUrl": "/legis_cpmdem/models/instrucciones-plantillas-conservatorios-anexo-2-es.pdf"
+      "pdfUrl": "models/instrucciones-plantillas-conservatorios-anexo-2-es.pdf"
     },
     {
       "id": "anexo-3",
       "title": "Anexo III - Profesorado desplazado por falta de horario",
-      "pdfUrl": "/legis_cpmdem/models/instrucciones-plantillas-conservatorios-anexo-3-es.pdf"
+      "pdfUrl": "models/instrucciones-plantillas-conservatorios-anexo-3-es.pdf"
     }
   ],
   "promulgation": {
