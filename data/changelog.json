@@ -1,5 +1,31 @@
 [
   {
+    "version": "1.2.0",
+    "date": "2026-05-21",
+    "entries": {
+      "es": [
+        {
+          "type": "nuevo",
+          "description": "Ingesta de la Resolución de 19/05/2026 — Convocatoria de pruebas para la obtención directa del Certificado de Enseñanzas Elementales de Música y Danza (año 2026). Incluye estructura de pruebas, criterios de ponderación y calificación (anexos II y III procesados), y modelos descargables de acta y certificados (anexos IV, V y VI)."
+        },
+        {
+          "type": "nuevo",
+          "description": "Nueva categoría «Obtención directa» en el catálogo de normativa."
+        }
+      ],
+      "va": [
+        {
+          "type": "nou",
+          "description": "Ingesta de la Resolució de 19/05/2026 — Convocatòria de proves per a l'obtenció directa del Certificat d'Ensenyances Elementals de Música i Dansa (any 2026). Inclou estructura de proves, criteris de ponderació i qualificació (annexos II i III processats), i models descarregables d'acta i certificats (annexos IV, V i VI)."
+        },
+        {
+          "type": "nou",
+          "description": "Nova categoria «Obtenció directa» en el catàleg de normativa."
+        }
+      ]
+    }
+  },
+  {
     "version": "1.1.3",
     "date": "2026-05-10",
     "entries": {

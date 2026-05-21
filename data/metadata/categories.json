@@ -118,6 +118,15 @@
       "icon": "book"
     },
     {
+      "id": "obtencion_directa",
+      "label": { "es": "Obtención directa", "va": "Obtenció directa" },
+      "description": {
+        "es": "Pruebas para la obtención directa de certificados de enseñanzas elementales de Música y Danza",
+        "va": "Proves per a l'obtenció directa de certificats d'ensenyances elementals de Música i Dansa"
+      },
+      "icon": "award"
+    },
+    {
       "id": "general",
       "label": { "es": "Normativa general", "va": "Normativa general" },
       "description": {
