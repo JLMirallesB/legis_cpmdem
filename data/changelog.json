@@ -1,5 +1,55 @@
 [
   {
+    "version": "2.4.2",
+    "date": "2026-09-08",
+    "entries": {
+      "es": [
+        {
+          "type": "corregido",
+          "description": "El artículo 7 del Decreto 156/2007, el que enumera las asignaturas de las enseñanzas profesionales de danza, estaba cortado: le faltaban el apartado 1 y la lista de asignaturas comunes, y el texto arrancaba a media enumeración de Danza contemporánea. Ahora se lee entero, con las seis comunes y las asignaturas propias de las cuatro especialidades."
+        },
+        {
+          "type": "corregido",
+          "description": "El anexo III del Decreto 156/2007 mostraba duplicada la tabla horaria de Danza española en lugar de la relación numérica profesor/alumno. Dice ya lo que publicó el DOGV: máximo 1/15 en todas las asignaturas de las enseñanzas profesionales de danza."
+        },
+        {
+          "type": "nuevo",
+          "description": "El anexo II del Decreto 157/2007, la carga lectiva de las enseñanzas elementales de danza, que no estaba: 4 horas semanales en primero, 6 en segundo, 10 en tercero y 13,5 en cuarto, hasta las 1.072 horas del grado, asignatura por asignatura."
+        },
+        {
+          "type": "corregido",
+          "description": "El anexo III del Decreto 157/2007 llegaba con restos del anexo IV pegados detrás y era ilegible. Queda la regla sola: máximo 1/20 en todas las asignaturas de las enseñanzas elementales de danza."
+        },
+        {
+          "type": "nuevo",
+          "description": "El anexo IV del Decreto 157/2007, las equivalencias académicas entre los cursos del grado elemental de danza de la LOGSE y los de las enseñanzas elementales de la LOE, que se había perdido dentro del anexo anterior."
+        }
+      ],
+      "va": [
+        {
+          "type": "corregit",
+          "description": "L'article 7 del Decret 156/2007, el que enumera les assignatures de les ensenyances professionals de dansa, estava tallat: hi faltaven l'apartat 1 i la llista d'assignatures comunes, i el text començava a mitja enumeració de Dansa contemporània. Ara es llig sencer, amb les sis comunes i les assignatures pròpies de les quatre especialitats."
+        },
+        {
+          "type": "corregit",
+          "description": "L'annex III del Decret 156/2007 mostrava duplicada la taula horària de Dansa espanyola en lloc de la relació numèrica professor/alumne. Ja diu el que va publicar el DOGV: màxim 1/15 en totes les assignatures de les ensenyances professionals de dansa."
+        },
+        {
+          "type": "nou",
+          "description": "L'annex II del Decret 157/2007, la càrrega lectiva de les ensenyances elementals de dansa, que no hi era: 4 hores setmanals en primer, 6 en segon, 10 en tercer i 13,5 en quart, fins a les 1.072 hores del grau, assignatura per assignatura."
+        },
+        {
+          "type": "corregit",
+          "description": "L'annex III del Decret 157/2007 arribava amb restes de l'annex IV apegades darrere i era il·legible. Queda la regla sola: màxim 1/20 en totes les assignatures de les ensenyances elementals de dansa."
+        },
+        {
+          "type": "nou",
+          "description": "L'annex IV del Decret 157/2007, les equivalències acadèmiques entre els cursos del grau elemental de dansa de la LOGSE i els de les ensenyances elementals de la LOE, que s'havia perdut dins de l'annex anterior."
+        }
+      ]
+    }
+  },
+  {
     "version": "2.4.1",
     "date": "2026-09-03",
     "entries": {

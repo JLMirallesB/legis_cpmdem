@@ -369,9 +369,21 @@
     },
     {
       "type": "anexo",
+      "id": "anexo-2",
+      "title": "Annex II. Càrrega lectiva de les ensenyances elementals de dansa",
+      "content": "Càrrega lectiva de les ensenyances elementals de dansa\n\n| Assignatures | 1º | 2º | 3º | 4º | Total grau |\n|---|---|---|---|---|---|\n| Dansa acadèmica | 2 | 3 | 5 | 7 | 544 |\n| Folklore | 1 | 1 |  |  | 64 |\n| Expressió musical i rítmica | 1 | 1 | 1 | 1 | 128 |\n| Tècnica de sabata |  | 1 | 1,5 | 2 | 144 |\n| Iniciació a la dança contemporània |  |  | 1 | 1,5 | 80 |\n| Escola bolera |  |  | 1,5 | 2 | 112 |\n| Total setmanal | 4 | 6 | 10 | 13.5 |  |\n| Total hores de l’especialitat |  |  |  |  | 1072 |"
+    },
+    {
+      "type": "anexo",
       "id": "anexo-3",
       "title": "Annex III. Relació numèrica professor-alumne",
-      "content": "Relació numèrica professor-alumne Màxim 1/20 en totes les assignatures descrites a l’annex II ANNE Equivalències, a l’efecte acadèmic, de les ensenyances de grau elemen d’octubre, d’Ordenació General del Sistema Educatiu, amb les ensenyance d’Educació. Pla d’estudis de grau elemental de Dansa, regulat per la Llei Pla d’estudis de grau elemental de Dansa, regulat per la Llei Pla Orgànica 1/1990, de 3 d’octubre, d’Ordenació General cor del Sistema Educatiu de 3 Primer curs ensenyances grau elemental LOGSE Prim Segon curs ensenyances grau elemental LOGSE Seg Tercer curs ensenyances grau elemental LOGSE Ter Quart curs ensenyances grau elemental LOGSE Qu * * * ANEX Equivalencias a efectos académicos, de las enseñanzas de grado elemen 3 de octubre, de Ordenación General del Sistema Educativo, con las enseñan mayo, de Educación. Plan de estudios de grado elemental de Danza, regulado Pla por la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación a la General del Sistema Educativo Primer curso enseñanzas grado elemental LOGSE Prim Segundo curso enseñanzas grado elemental LOGSE Seg Tercer curso enseñanzas grado elemental LOGSE Ter Cuarto curso enseñanzas grado elemental LOGSE Cua"
+      "content": "Relació numèrica professor-alumne\n\nMàxim 1/20 en totes les assignatures descrites a l’annex II"
+    },
+    {
+      "type": "anexo",
+      "id": "anexo-4",
+      "title": "Annex IV. Equivalències a l’efecte acadèmic de les ensenyances de grau elemental de dansa",
+      "content": "Equivalències, a l’efecte acadèmic, de les ensenyances de grau elemental de Dansa del pla d’estudis regulat per la Llei Orgànica 1/1990, de 3 d’octubre, d’Ordenació General del Sistema Educatiu, amb les ensenyances elementals de Dansa corresponents a la Llei Orgànica 2/2006, de maig, d’Educació.\n\n| Pla d’estudis de grau elemental de Dansa, regulat per la Llei Orgànica 1/1990, de 3 d’octubre, d’Ordenació General del Sistema Educatiu | Pla d’estudis de les ensenyances elementals de Dansa, corresponents a la Llei Orgànica 2/2006, de 3 de maig, d’Educació |\n|---|---|\n| Primer curs ensenyances grau elemental LOGSE | Primer curs ensenyances elementals LOE |\n| Segon curs ensenyances grau elemental LOGSE | Segon curs ensenyances elementals LOE |\n| Tercer curs ensenyances grau elemental LOGSE | Tercer curs ensenyances elementals LOE |\n| Quart curs ensenyances grau elemental LOGSE | Quart curs ensenyances elementals LOE |"
     }
   ],
   "legalAnalysis": {

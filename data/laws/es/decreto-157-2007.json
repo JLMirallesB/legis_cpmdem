@@ -412,9 +412,21 @@
     },
     {
       "type": "anexo",
+      "id": "anexo-2",
+      "title": "Anexo II. Carga lectiva de las enseñanzas elementales de danza",
+      "content": "Carga lectiva de las enseñanzas elementales de danza\n\n| Asignaturas | 1º | 2º | 3º | 4º | Total grado |\n|---|---|---|---|---|---|\n| Danza académica | 2 | 3 | 5 | 7 | 544 |\n| Folklore | 1 | 1 |  |  | 64 |\n| Expresión musical y rítmica | 1 | 1 | 1 | 1 | 128 |\n| Técnica de zapato |  | 1 | 1,5 | 2 | 144 |\n| Iniciación a la danza contemporánea |  |  | 1 | 1,5 | 80 |\n| Escuela bolera |  |  | 1,5 | 2 | 112 |\n| Total semanal | 4 | 6 | 10 | 13.5 |  |\n| Total horas de la especialidad |  |  |  |  | 1072 |"
+    },
+    {
+      "type": "anexo",
       "id": "anexo-3",
       "title": "Anexo III. Relación numérica profesor-alumno",
-      "content": "Relación numérica profesor-alumno Máximo 1/20 en todas las asignaturas descritas en el anexo II EX IV ntal de Dansa del pla d’estudis regulat per la Llei Orgànica 1/1990, de 3 es elementals de Dansa corresponents a la Llei Orgànica 2/2006, de maig, a d’estudis de les ensenyances elementals de Dansa, rresponents a la Llei Orgànica 2/2006, 3 de maig, d’Educació mer curs ensenyances elementals LOE gon curs ensenyances elementals LOE rcer curs ensenyances elementals LOE uart curs ensenyances elementals LOE * * XO IV ntal de danza del Plan de estudios regulado por la Ley Orgánica 1/1990, de nzas elementales de Danza correspondientes a la Ley Orgánica 2/2006, de an de estudios de las enseñanzas elementales de Danza, correspondientes a Ley Orgánica 2/2006, de 3 de mayo, de Educación mer curso enseñanzas elementales LOE gundo curso enseñanzas elementales LOE rcer curso enseñanzas elementales LOE arto curso enseñanzas elementales LOE"
+      "content": "Relación numérica profesor-alumno\n\nMáximo 1/20 en todas las asignaturas descritas en el anexo II"
+    },
+    {
+      "type": "anexo",
+      "id": "anexo-4",
+      "title": "Anexo IV. Equivalencias a efectos académicos de las enseñanzas de grado elemental de danza",
+      "content": "Equivalencias a efectos académicos, de las enseñanzas de grado elemental de danza del Plan de estudios regulado por la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo, con las enseñanzas elementales de Danza correspondientes a la Ley Orgánica 2/2006, de mayo, de Educación.\n\n| Plan de estudios de grado elemental de Danza, regulado por la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo | Plan de estudios de las enseñanzas elementales de Danza, correspondientes a la Ley Orgánica 2/2006, de 3 de mayo, de Educación |\n|---|---|\n| Primer curso enseñanzas grado elemental LOGSE | Primer curso enseñanzas elementales LOE |\n| Segundo curso enseñanzas grado elemental LOGSE | Segundo curso enseñanzas elementales LOE |\n| Tercer curso enseñanzas grado elemental LOGSE | Tercer curso enseñanzas elementales LOE |\n| Cuarto curso enseñanzas grado elemental LOGSE | Cuarto curso enseñanzas elementales LOE |"
     }
   ],
   "legalAnalysis": {
