@@ -1,5 +1,39 @@
 [
   {
+    "version": "2.5.1",
+    "date": "2026-09-13",
+    "entries": {
+      "es": [
+        {
+          "type": "corregido",
+          "description": "Las cuatro disposiciones adicionales del Decreto 158/2007 mostraban el mismo texto, con las cuatro pegadas, y las dos finales también estaban duplicadas. Ahora cada una dice solo lo suyo: valoración del título profesional en el acceso a superiores, alumnado con discapacidad, incorporación desde planes anteriores y especialidades no desarrolladas."
+        },
+        {
+          "type": "corregido",
+          "description": "El artículo 27 del Decreto 159/2007 reproducía la disposición adicional única en lugar de su propio texto. Dice ya lo que publicó el DOGV: la conselleria garantizará que la prueba de acceso a las enseñanzas profesionales de música se adecúe al currículo de las elementales. Sus dos disposiciones finales, que también estaban duplicadas, quedan separadas."
+        },
+        {
+          "type": "corregido",
+          "description": "En los Decretos 156/2007 y 157/2007 las disposiciones adicionales y finales venían agrupadas en un solo bloque. Quedan separadas y con su título completo, y en los cuatro decretos se quita el subtítulo («Única.», «Primera.») que se repetía al principio del texto."
+        }
+      ],
+      "va": [
+        {
+          "type": "corregit",
+          "description": "Les quatre disposicions addicionals del Decret 158/2007 mostraven el mateix text, amb les quatre apegades, i les dos finals també estaven duplicades. Ara cada una diu només el que li correspon: valoració del títol professional en l'accés a superiors, alumnat amb discapacitat, incorporació des de plans anteriors i especialitats no desenrotllades."
+        },
+        {
+          "type": "corregit",
+          "description": "L'article 27 del Decret 159/2007 reproduïa la disposició addicional única en lloc del seu propi text. Ja diu el que va publicar el DOGV: la conselleria garantirà que la prova d'accés a les ensenyances professionals de música s'adeqüe al currículum de les elementals. Les seues dos disposicions finals, que també estaven duplicades, queden separades."
+        },
+        {
+          "type": "corregit",
+          "description": "En els Decrets 156/2007 i 157/2007 les disposicions addicionals i finals venien agrupades en un sol bloc. Queden separades i amb el títol complet, i en els quatre decrets es lleva el subtítol («Única.», «Primera.») que es repetia al principi del text."
+        }
+      ]
+    }
+  },
+  {
     "version": "2.5.0",
     "date": "2026-09-13",
     "entries": {

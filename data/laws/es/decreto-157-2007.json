@@ -346,26 +346,32 @@
     {
       "type": "disposicion_adicional",
       "id": "da-unica",
-      "title": "Disposición adicional única",
-      "content": "Única. Alumnado con discapacidad y atención a la diversidad\n\n1. La conselleria competente en materia de educación, adoptará las medidas oportunas para la adaptación del currículo a las necesidades del alumnado con discapacidad y facilitará su acceso a estas enseñanzas.\n\n2. La conselleria competente en materia de educación, a propuesta de los centros educativos, autorizará las adaptaciones necesarias para permitir la realización de la prueba específica de ingreso a las personas con discapacidad que opten a ella.\n\n3. Aquellos alumnos con discapacidades que superen las pruebas específicas y se hayan matriculado, serán objeto de un adecuado seguimiento por el grupo de profesores. Los centros que escolaricen alumnos con discapacidad dispondrán de los recursos necesarios, humanos y materiales, para atender el proceso de enseñanza/aprendizaje."
+      "title": "Disposición adicional única. Alumnado con discapacidad y atención a la diversidad",
+      "content": "1. La conselleria competente en materia de educación, adoptará las medidas oportunas para la adaptación del currículo a las necesidades del alumnado con discapacidad y facilitará su acceso a estas enseñanzas.\n\n2. La conselleria competente en materia de educación, a propuesta de los centros educativos, autorizará las adaptaciones necesarias para permitir la realización de la prueba específica de ingreso a las personas con discapacidad que opten a ella.\n\n3. Aquellos alumnos con discapacidades que superen las pruebas específicas y se hayan matriculado, serán objeto de un adecuado seguimiento por el grupo de profesores. Los centros que escolaricen alumnos con discapacidad dispondrán de los recursos necesarios, humanos y materiales, para atender el proceso de enseñanza/aprendizaje."
     },
     {
       "type": "disposicion_transitoria",
       "id": "dt-unica",
-      "title": "Disposición transitoria única",
-      "content": "Única. Incorporación de alumnos procedentes de planes anteriores con asignaturas pendientes\n\nLos alumnos que a la entrada en vigor de este decreto cursen estudios de grado elemental de danza, de acuerdo con el plan de estudios regulado por el Decreto 152/1993, por el que se establece el Currículo del Grado Elemental de Danza y se regula el acceso a dicho grado, se incorporarán a los cursos respectivos de las enseñanzas elementales de danza de acuerdo con las condiciones que se regulan en la presente norma."
+      "title": "Disposición transitoria única. Incorporación de alumnos procedentes de planes anteriores con asignaturas pendientes",
+      "content": "Los alumnos que a la entrada en vigor de este decreto cursen estudios de grado elemental de danza, de acuerdo con el plan de estudios regulado por el Decreto 152/1993, por el que se establece el Currículo del Grado Elemental de Danza y se regula el acceso a dicho grado, se incorporarán a los cursos respectivos de las enseñanzas elementales de danza de acuerdo con las condiciones que se regulan en la presente norma."
     },
     {
       "type": "disposicion_derogatoria",
       "id": "dd-unica",
       "title": "Disposición derogatoria única",
-      "content": "Única\n\na) Por lo que a las enseñanzas elementales de danza se refiere, queda derogado el Decreto 152/1993, de 17 de agosto, por el que se establece el Currículo del Grado Elemental de Danza y se regula el acceso a dicho grado, sin perjuicio de su aplicación transitoria en función de la nueva ordenación del sistema educativo establecida por el Real Decreto 806/2006, de 30 de junio del calendario de aplicación de la Ley Orgánica de Educación.\n\nb) También quedan derogadas todas las disposiciones de igual o inferior rango que se opongan al presente Decreto."
+      "content": "a) Por lo que a las enseñanzas elementales de danza se refiere, queda derogado el Decreto 152/1993, de 17 de agosto, por el que se establece el Currículo del Grado Elemental de Danza y se regula el acceso a dicho grado, sin perjuicio de su aplicación transitoria en función de la nueva ordenación del sistema educativo establecida por el Real Decreto 806/2006, de 30 de junio del calendario de aplicación de la Ley Orgánica de Educación.\n\nb) También quedan derogadas todas las disposiciones de igual o inferior rango que se opongan al presente Decreto."
     },
     {
       "type": "disposicion_final",
-      "id": "df-unica",
-      "title": "Disposiciones finales",
-      "content": "Primera\n\nSe autoriza a la conselleria competente en materia de educación, a dictar las disposiciones necesarias para la aplicación y el desarrollo de este decreto. Segunda\n\nEl presente Decreto entrará en vigor al día siguiente de su publicación en el Diari Oficial de la Comunitat Valenciana, si bien sus efectos académicos serán los referidos en el calendario de aplicación de la Ley Orgánica de Educación, regulado por el Real Decreto 806/2006, de 30 de junio."
+      "id": "df-1",
+      "title": "Disposición final primera",
+      "content": "Se autoriza a la conselleria competente en materia de educación, a dictar las disposiciones necesarias para la aplicación y el desarrollo de este decreto."
+    },
+    {
+      "type": "disposicion_final",
+      "id": "df-2",
+      "title": "Disposición final segunda",
+      "content": "El presente Decreto entrará en vigor al día siguiente de su publicación en el Diari Oficial de la Comunitat Valenciana, si bien sus efectos académicos serán los referidos en el calendario de aplicación de la Ley Orgánica de Educación, regulado por el Real Decreto 806/2006, de 30 de junio."
     },
     {
       "type": "anexo",

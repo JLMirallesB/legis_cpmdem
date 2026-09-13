@@ -346,26 +346,32 @@
     {
       "type": "disposicion_adicional",
       "id": "da-unica",
-      "title": "Disposició addicional única",
-      "content": "Única. Alumnat amb discapacitat i atenció a la diversitat\n\n1. La conselleria competent en matèria d’Educació adoptarà les mesures oportunes per a l’adaptació del currículum a les necessitats de l’alumnat amb discapacitat i li facilitarà l’accés a estes ensenyances.\n\n2. La conselleria competent en matèria d’Educació, a proposta dels centres educatius, autoritzarà les adaptacions necessàries per a permetre la realització de la prova específica d’ingrés a les persones amb discapacitat que opten a fer-la.\n\n3. Aquells alumnes amb discapacitats que superen les proves específiques, i que s’hi hagen matriculat, seran objecte d’un adequat seguiment pel grup de professors. Els centres que escolaritzen alumnes amb discapacitat disposaran dels recursos necessaris, humans i materials, per a atendre el procés d’ensenyança/aprenentatge."
+      "title": "Disposició addicional única. Alumnat amb discapacitat i atenció a la diversitat",
+      "content": "1. La conselleria competent en matèria d’Educació adoptarà les mesures oportunes per a l’adaptació del currículum a les necessitats de l’alumnat amb discapacitat i li facilitarà l’accés a estes ensenyances.\n\n2. La conselleria competent en matèria d’Educació, a proposta dels centres educatius, autoritzarà les adaptacions necessàries per a permetre la realització de la prova específica d’ingrés a les persones amb discapacitat que opten a fer-la.\n\n3. Aquells alumnes amb discapacitats que superen les proves específiques, i que s’hi hagen matriculat, seran objecte d’un adequat seguiment pel grup de professors. Els centres que escolaritzen alumnes amb discapacitat disposaran dels recursos necessaris, humans i materials, per a atendre el procés d’ensenyança/aprenentatge."
     },
     {
       "type": "disposicion_transitoria",
       "id": "dt-unica",
-      "title": "Disposició transitòria única",
-      "content": "Única. Incorporació d’alumnes procedents de plans anteriors amb assignatures pendents\n\nEls alumnes que a l’entrada en vigor d’este decret cursen estudis de grau elemental de Dansa, d’acord amb el pla d’estudis regulat pel Decret 152/1993, pel qual s’establix el currículum del grau elemental de Dansa i es regula l’accés al dit grau, s’incorporaran als cursos respectius de les ensenyances elementals de Dansa d’acord amb les condicions que es regulen en la present norma."
+      "title": "Disposició transitòria única. Incorporació d’alumnes procedents de plans anteriors amb assignatures pendents",
+      "content": "Els alumnes que a l’entrada en vigor d’este decret cursen estudis de grau elemental de Dansa, d’acord amb el pla d’estudis regulat pel Decret 152/1993, pel qual s’establix el currículum del grau elemental de Dansa i es regula l’accés al dit grau, s’incorporaran als cursos respectius de les ensenyances elementals de Dansa d’acord amb les condicions que es regulen en la present norma."
     },
     {
       "type": "disposicion_derogatoria",
       "id": "dd-unica",
       "title": "Disposició derogatòria única",
-      "content": "Única\n\na).Pel que fa a les ensenyances elementals de Dansa, queda derogat el Decret 152/1993, de 17 d’agost, pel qual s’establix el currículum oficial de les ensenyances de grau elemental de Dansa i es regula l’accés al dit grau, sense perjuí de la seua aplicació transitòria en funció de la nova ordenació del sistema educatiu que establix el Reial Decret 806/2006, de 30 de juny, del calendari d’aplicació de la Llei Orgànica d’Educació.\n\nb) També queden derogades totes les disposicions del mateix rang o d’un rang inferior que s’oposen al present decret."
+      "content": "a).Pel que fa a les ensenyances elementals de Dansa, queda derogat el Decret 152/1993, de 17 d’agost, pel qual s’establix el currículum oficial de les ensenyances de grau elemental de Dansa i es regula l’accés al dit grau, sense perjuí de la seua aplicació transitòria en funció de la nova ordenació del sistema educatiu que establix el Reial Decret 806/2006, de 30 de juny, del calendari d’aplicació de la Llei Orgànica d’Educació.\n\nb) També queden derogades totes les disposicions del mateix rang o d’un rang inferior que s’oposen al present decret."
     },
     {
       "type": "disposicion_final",
-      "id": "df-unica",
-      "title": "Disposicions finals",
-      "content": "Primera\n\nS’autoritza la conselleria competent en matèria d’Educació a dictar les disposicions necessàries per a aplicar i desplegar este decret. Segona\n\nEl present decret entrarà en vigor l’endemà de la seua publicació en el Diari Oficial de la Comunitat Valenciana, si bé el seu efecte acadèmic serà el referit en el calendari d’aplicació de la Llei Orgànica d’Educació, regulat pel Reial Decret 806/2006, de 30 de juny."
+      "id": "df-1",
+      "title": "Disposició final primera",
+      "content": "S’autoritza la conselleria competent en matèria d’Educació a dictar les disposicions necessàries per a aplicar i desplegar este decret."
+    },
+    {
+      "type": "disposicion_final",
+      "id": "df-2",
+      "title": "Disposició final segona",
+      "content": "El present decret entrarà en vigor l’endemà de la seua publicació en el Diari Oficial de la Comunitat Valenciana, si bé el seu efecte acadèmic serà el referit en el calendari d’aplicació de la Llei Orgànica d’Educació, regulat pel Reial Decret 806/2006, de 30 de juny."
     },
     {
       "type": "anexo",

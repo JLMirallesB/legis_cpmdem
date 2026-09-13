@@ -204,5 +204,20 @@
       "checkedAt": "2026-09-13"
     }
   ],
-  "discarded": []
+  "discarded": [
+    {
+      "law": "decreto-156-2007",
+      "items": [
+        "da-3#3"
+      ],
+      "reason": "Convalidación ministerial de estudios de planes anteriores a la LOGSE para incorporarse a la nueva ordenación; no trata la correspondencia con la secundaria"
+    },
+    {
+      "law": "decreto-158-2007",
+      "items": [
+        "da-3#3"
+      ],
+      "reason": "Convalidación ministerial de estudios de planes anteriores a la LOGSE para incorporarse a la nueva ordenación; no trata la correspondencia con la secundaria"
+    }
+  ]
 }
