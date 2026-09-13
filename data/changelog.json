@@ -1,5 +1,31 @@
 [
   {
+    "version": "2.5.0",
+    "date": "2026-09-13",
+    "entries": {
+      "es": [
+        {
+          "type": "nuevo",
+          "description": "Procedimiento de convalidaciones de ESO para el alumnado de enseñanzas profesionales de música (Servicio de Ordenación Académica, junio de 2024): la Música de 1.º a 3.º de ESO se convalida con 1.º de Instrumento o Voz, la de 4.º con 2.º, y la optativa mientras se mantenga la matrícula en el conservatorio. Se pide en el centro de ESO antes del 31 de octubre; sin respuesta a finales de noviembre, se entiende concedida. Con el modelo de solicitud (anexo I) y los modelos de resolución estimatoria y denegatoria."
+        },
+        {
+          "type": "nuevo",
+          "description": "Procedimiento paralelo para el alumnado de enseñanzas profesionales de danza, que además de convalidar la Música de ESO (con 1.º y 2.º de Música) y la optativa puede pedir la exención de Educación Física. Con el modelo de solicitud (anexo II) y los mismos modelos de resolución."
+        }
+      ],
+      "va": [
+        {
+          "type": "nou",
+          "description": "Procediment de convalidacions d'ESO per a l'alumnat d'ensenyances professionals de música (Servici d'Ordenació Acadèmica, juny de 2024): la Música de 1r a 3r d'ESO es convalida amb 1r d'Instrument o Veu, la de 4t amb 2n, i l'optativa mentre es mantinga la matrícula en el conservatori. Es demana en el centre d'ESO abans del 31 d'octubre; sense resposta a final de novembre, s'entén concedida. Amb el model de sol·licitud (annex I) i els models de resolució estimatòria i denegatòria."
+        },
+        {
+          "type": "nou",
+          "description": "Procediment paral·lel per a l'alumnat d'ensenyances professionals de dansa, que a més de convalidar la Música d'ESO (amb 1r i 2n de Música) i l'optativa pot demanar l'exempció d'Educació Física. Amb el model de sol·licitud (annex II) i els mateixos models de resolució."
+        }
+      ]
+    }
+  },
+  {
     "version": "2.4.2",
     "date": "2026-09-08",
     "entries": {

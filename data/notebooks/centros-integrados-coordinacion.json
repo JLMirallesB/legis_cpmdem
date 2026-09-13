@@ -21,7 +21,7 @@
     "convalidacion",
     "convalidacio"
   ],
-  "updatedAt": "2026-07-18",
+  "updatedAt": "2026-09-13",
   "refs": [
     {
       "law": "ley-organica-2-2006",
@@ -94,6 +94,114 @@
         "es": "5cbfcc5f",
         "va": "f377d908"
       }
+    },
+    {
+      "law": "instrucciones-convalidaciones-eso-musica-2024",
+      "article": "preambulo",
+      "hash": {
+        "es": "d982f6d9",
+        "va": "f4b5cf55"
+      },
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "law": "instrucciones-convalidaciones-eso-musica-2024",
+      "article": "solicitud",
+      "hash": {
+        "es": "5c22a7a2",
+        "va": "e5f0f925"
+      },
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "law": "instrucciones-convalidaciones-eso-musica-2024",
+      "article": "documentacion",
+      "hash": {
+        "es": "41d1852a",
+        "va": "9b33d933"
+      },
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "law": "instrucciones-convalidaciones-eso-musica-2024",
+      "article": "organo-competente",
+      "hash": {
+        "es": "99f2da6b",
+        "va": "908cdfde"
+      },
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "law": "instrucciones-convalidaciones-eso-musica-2024",
+      "article": "registro",
+      "hash": {
+        "es": "6fbdad26",
+        "va": "53451ead"
+      },
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "law": "instrucciones-convalidaciones-eso-musica-2024",
+      "article": "calificacion",
+      "hash": {
+        "es": "8f63c017",
+        "va": "2a4160a4"
+      },
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "law": "instrucciones-convalidaciones-eso-danza-2024",
+      "article": "preambulo",
+      "hash": {
+        "es": "4ad4c2af",
+        "va": "c49fefdb"
+      },
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "law": "instrucciones-convalidaciones-eso-danza-2024",
+      "article": "solicitud",
+      "hash": {
+        "es": "1ac046ae",
+        "va": "722d1a7e"
+      },
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "law": "instrucciones-convalidaciones-eso-danza-2024",
+      "article": "documentacion",
+      "hash": {
+        "es": "a6785d63",
+        "va": "fd3c8a81"
+      },
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "law": "instrucciones-convalidaciones-eso-danza-2024",
+      "article": "organo-competente",
+      "hash": {
+        "es": "c2cdfbb2",
+        "va": "88e8e20f"
+      },
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "law": "instrucciones-convalidaciones-eso-danza-2024",
+      "article": "registro",
+      "hash": {
+        "es": "3e692715",
+        "va": "039f4c1a"
+      },
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "law": "instrucciones-convalidaciones-eso-danza-2024",
+      "article": "calificacion",
+      "hash": {
+        "es": "6816a652",
+        "va": "4d6d605c"
+      },
+      "checkedAt": "2026-09-13"
     }
   ],
   "discarded": []

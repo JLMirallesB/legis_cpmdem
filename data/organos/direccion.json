@@ -1508,6 +1508,16 @@
       "article": "anexo-7-2",
       "apartado": "7.2.1.2.8",
       "reason": "No se puede anclar: el texto valenciano numera esa sección como 7.1.1.2, errata en la fuente"
+    },
+    {
+      "law": "instrucciones-convalidaciones-eso-musica-2024",
+      "article": "organo-competente",
+      "reason": "Quien resuelve es la dirección del centro de ESO, no la del conservatorio"
+    },
+    {
+      "law": "instrucciones-convalidaciones-eso-danza-2024",
+      "article": "organo-competente",
+      "reason": "Quien resuelve es la dirección del centro de ESO, no la del conservatorio"
     }
   ],
   "titleTerms": [

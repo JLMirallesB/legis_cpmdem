@@ -303,6 +303,20 @@
       "notes": "Documento (no normativa). PDFs separados ES/VA. Sin artículos, solo contenido con 4 tablas de convalidaciones. Firmado por DG Centros Docentes."
     },
     {
+      "slug": "instrucciones-convalidaciones-eso-musica-2024",
+      "title": "Procedimiento de convalidaciones ESO – enseñanzas profesionales de música (2024)",
+      "status": "ingested",
+      "category": "convalidaciones",
+      "notes": "Documento (no normativa) del Servicio de Ordenación Académica (DG Ordenación Educativa y Política Lingüística), publicado en ceice.gva.es/…/secundaria/normativa/procedimientos. Sin firma ni fecha en el texto: la fecha 26/06/2024 sale del nombre del fichero (240626_…). PDFs separados ES/VA. Introducción + 5 epígrafes. Desarrolla el art. 32 del D.107/2022 (modificado por D.66/2024) y la Orden 19/2023, ninguno ingestado. formModels: anexo I del D.66/2024 (bilingüe) y modelos de resolución estimatoria/denegatoria (26/07/2024, comunes a música, danza y deportistas). Erratas del original transcritas tal cual."
+    },
+    {
+      "slug": "instrucciones-convalidaciones-eso-danza-2024",
+      "title": "Procedimiento de convalidaciones y exención ESO – enseñanzas profesionales de danza (2024)",
+      "status": "ingested",
+      "category": "convalidaciones",
+      "notes": "Gemelo del de música para danza (art. 31 del D.107/2022): añade la exención de Educación Física (apartados 2.3 y 4.3). Misma fuente, fecha deducida del nombre de fichero y modelos (anexo II del D.66/2024). Erratas del original transcritas tal cual: doble coma en la introducción ES, «apartado 8» en ES frente a «apartat 9» en VA, «de la l'assignatura» en VA. El procedimiento de deportistas de la misma página no se ingesta (no afecta a conservatorios)."
+    },
+    {
       "slug": "orden-gestion-economica-1995",
       "title": "Orden 18/05/1995 - Gestión económica de centros docentes",
       "status": "ingested",
