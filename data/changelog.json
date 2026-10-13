@@ -1,5 +1,23 @@
 [
   {
+    "version": "2.5.2",
+    "date": "2026-10-13",
+    "entries": {
+      "es": [
+        {
+          "type": "corregido",
+          "description": "La ficha de las normas de organización y funcionamiento (NOF · RRI) recoge ya el artículo 20.6 del Decreto 57/2020, que estaba descartado como mención de pasada: es el que manda que el reglamento de régimen interno especifique las competencias de las comisiones permanentes del Consejo Escolar."
+        }
+      ],
+      "va": [
+        {
+          "type": "corregit",
+          "description": "La fitxa de les normes d'organització i funcionament (NOF · RRI) arreplega ja l'article 20.6 del Decret 57/2020, que estava descartat com a menció de passada: és el que mana que el reglament de règim intern especifique les competències de les comissions permanents del Consell Escolar."
+        }
+      ]
+    }
+  },
+  {
     "version": "2.5.1",
     "date": "2026-09-13",
     "entries": {

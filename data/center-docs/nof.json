@@ -22,7 +22,7 @@
     "reglament de regim interior",
     "reglament de regim intern"
   ],
-  "updatedAt": "2026-08-19",
+  "updatedAt": "2026-10-13",
   "refs": [
     {
       "law": "ley-organica-2-2006",
@@ -85,6 +85,17 @@
         "va": "6845209f"
       },
       "checkedAt": "2026-08-19"
+    },
+    {
+      "law": "decreto-57-2020",
+      "article": "art-20",
+      "apartado": "6",
+      "note": "El RRI especifica las competencias de las comisiones permanentes del Consejo Escolar",
+      "hash": {
+        "es": "950a8c78",
+        "va": "618cf35a"
+      },
+      "checkedAt": "2026-10-13"
     },
     {
       "law": "decreto-57-2020",
@@ -379,12 +390,6 @@
       "article": "art-61",
       "apartado": "t",
       "reason": "Las normas de organización del Gobierno, no las de un centro docente"
-    },
-    {
-      "law": "decreto-57-2020",
-      "article": "art-20",
-      "apartado": "6",
-      "reason": "Composición de las comisiones del Consejo Escolar"
     },
     {
       "law": "decreto-57-2020",
