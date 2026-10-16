@@ -16,7 +16,7 @@
   "category": "curriculo",
   "vigpiracy": {
     "status": "vigente_parcial",
-    "statusLabel": "Vigent amb modificacions (RD 628/2022)",
+    "statusLabel": "Vigent amb modificacions (RD 1953/2009 i RD 628/2022)",
     "effectiveDate": "2007-02-14",
     "lastModifiedDate": "2022-07-28"
   },
@@ -132,7 +132,25 @@
           "id": "art-11",
           "number": "11",
           "title": "Artículo 11. Evaluación.",
-          "content": "1. La evaluación de las enseñanzas profesionales de danza se llevará a cabo teniendo en cuenta los objetivos educativos y los criterios de evaluación establecidos en el currículo.\n\n2. La evaluación del aprendizaje de los alumnos será continua e integradora, aunque diferenciada según las distintas asignaturas del currículo.\n\n3. La evaluación será realizada por el conjunto de profesores del alumno coordinados por el profesor tutor, actuando dichos profesores de manera integrada a lo largo del proceso de evaluación y en la adopción de las decisiones resultantes de dicho proceso.\n\n4. Los profesores evaluarán tanto el aprendizaje de los alumnos como los procesos de enseñanza.\n\n5. Las Administraciones educativas regularán las condiciones para que los centros organicen las oportunas pruebas extraordinarias con el fin de facilitar a los alumnos la recuperación de las asignaturas con evaluación negativa.\n\n6. Los resultados de la evaluación final de las distintas asignaturas que componen el currículo se expresarán mediante la escala numérica de 1 a 10 sin decimales, considerándose positivas las calificaciones iguales o superiores a cinco y negativas las inferiores a cinco. La nota media será la media aritmética de las calificaciones de todas las asignaturas cursadas que formen parte de las enseñanzas profesionales de música en la especialidad, redondeada a la centésima más próxima y en caso de equidistancia a la superior."
+          "content": "1. La evaluación de las enseñanzas profesionales de danza se llevará a cabo teniendo en cuenta los objetivos educativos y los criterios de evaluación establecidos en el currículo.\n\n2. La evaluación del aprendizaje de los alumnos será continua e integradora, aunque diferenciada según las distintas asignaturas del currículo.\n\n3. La evaluación será realizada por el conjunto de profesores del alumno coordinados por el profesor tutor, actuando dichos profesores de manera integrada a lo largo del proceso de evaluación y en la adopción de las decisiones resultantes de dicho proceso.\n\n4. Los profesores evaluarán tanto el aprendizaje de los alumnos como los procesos de enseñanza.\n\n5. Las Administraciones educativas regularán las condiciones para que los centros organicen las oportunas pruebas extraordinarias con el fin de facilitar a los alumnos la recuperación de las asignaturas con evaluación negativa.\n\n6. Los resultados de la evaluación final de las distintas asignaturas que componen el currículo se expresarán mediante la escala numérica de 1 a 10 sin decimales, considerándose positivas las calificaciones iguales o superiores a cinco y negativas las inferiores a cinco.\n\nLa nota media será la media aritmética de las calificaciones de todas las asignaturas cursadas que formen parte de las enseñanzas profesionales de danza en la especialidad, redondeada a la centésima más próxima y en caso de equidistancia a la superior.",
+          "versions": [
+            {
+              "versionId": "v2",
+              "effectiveDate": "2010-01-19",
+              "modifiedBy": {
+                "lawId": "real-decreto-1953-2009",
+                "title": "Reial Decret 1953/2009, de 18 de desembre",
+                "articleRef": "art-2"
+              },
+              "content": "1. La evaluación de las enseñanzas profesionales de danza se llevará a cabo teniendo en cuenta los objetivos educativos y los criterios de evaluación establecidos en el currículo.\n\n2. La evaluación del aprendizaje de los alumnos será continua e integradora, aunque diferenciada según las distintas asignaturas del currículo.\n\n3. La evaluación será realizada por el conjunto de profesores del alumno coordinados por el profesor tutor, actuando dichos profesores de manera integrada a lo largo del proceso de evaluación y en la adopción de las decisiones resultantes de dicho proceso.\n\n4. Los profesores evaluarán tanto el aprendizaje de los alumnos como los procesos de enseñanza.\n\n5. Las Administraciones educativas regularán las condiciones para que los centros organicen las oportunas pruebas extraordinarias con el fin de facilitar a los alumnos la recuperación de las asignaturas con evaluación negativa.\n\n6. Los resultados de la evaluación final de las distintas asignaturas que componen el currículo se expresarán mediante la escala numérica de 1 a 10 sin decimales, considerándose positivas las calificaciones iguales o superiores a cinco y negativas las inferiores a cinco.\n\nLa nota media será la media aritmética de las calificaciones de todas las asignaturas cursadas que formen parte de las enseñanzas profesionales de danza en la especialidad, redondeada a la centésima más próxima y en caso de equidistancia a la superior."
+            },
+            {
+              "versionId": "v1",
+              "effectiveDate": "2007-02-14",
+              "modifiedBy": null,
+              "content": "1. La evaluación de las enseñanzas profesionales de danza se llevará a cabo teniendo en cuenta los objetivos educativos y los criterios de evaluación establecidos en el currículo.\n\n2. La evaluación del aprendizaje de los alumnos será continua e integradora, aunque diferenciada según las distintas asignaturas del currículo.\n\n3. La evaluación será realizada por el conjunto de profesores del alumno coordinados por el profesor tutor, actuando dichos profesores de manera integrada a lo largo del proceso de evaluación y en la adopción de las decisiones resultantes de dicho proceso.\n\n4. Los profesores evaluarán tanto el aprendizaje de los alumnos como los procesos de enseñanza.\n\n5. Las Administraciones educativas regularán las condiciones para que los centros organicen las oportunas pruebas extraordinarias con el fin de facilitar a los alumnos la recuperación de las asignaturas con evaluación negativa.\n\n6. Los resultados de la evaluación final de las distintas asignaturas que componen el currículo se expresarán mediante la escala numérica de 1 a 10 sin decimales, considerándose positivas las calificaciones iguales o superiores a cinco y negativas las inferiores a cinco."
+            }
+          ]
         },
         {
           "type": "articulo",
@@ -293,6 +311,16 @@
     ],
     "priorAffectations": [],
     "posteriorAffectations": [
+      {
+        "lawId": "real-decreto-1953-2009",
+        "title": "Reial Decret 1953/2009, de 18 de desembre",
+        "type": "modifica",
+        "articles": [
+          "art-11"
+        ],
+        "date": "2009-12-18",
+        "description": "Afig un paràgraf a l'art. 11.6: càlcul de la nota mitjana"
+      },
       {
         "lawId": "real-decreto-628-2022",
         "title": "Reial Decret 628/2022, de 26 de juliol",

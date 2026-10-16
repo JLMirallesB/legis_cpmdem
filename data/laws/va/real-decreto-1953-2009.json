@@ -1,0 +1,116 @@
+{
+  "id": "real-decreto-1953-2009",
+  "slug": "real-decreto-1953-2009",
+  "type": "real_decreto",
+  "number": "1953/2009",
+  "date": "2009-12-18",
+  "publishedIn": {
+    "source": "BOE",
+    "number": "15",
+    "date": "2010-01-18",
+    "url": "https://www.boe.es/eli/es/rd/2009/12/18/1953",
+    "pdfUrl": "https://www.boe.es/boe/dias/2010/01/18/pdfs/BOE-A-2010-728.pdf"
+  },
+  "title": "Reial Decret 1953/2009, de 18 de desembre, pel qual es modifiquen el Reial Decret 1577/2006, de 22 de desembre, el Reial Decret 85/2007, de 26 de gener, i el Reial Decret 1467/2007, de 2 de novembre, pel que fa al càlcul de la nota mitjana de l'alumnat dels ensenyaments professionals de música i dansa",
+  "titleShort": "RD 1953/2009 - Càlcul de la nota mitjana EEPP Música i Dansa",
+  "category": "evaluacion",
+  "vigpiracy": {
+    "status": "vigente",
+    "statusLabel": "Vigent (l'art. 3 modifica el RD 1467/2007, ja derogat)",
+    "effectiveDate": "2010-01-19"
+  },
+  "structure": [
+    {
+      "type": "preambulo",
+      "id": "preambulo",
+      "title": "Preámbulo",
+      "content": "[Aquest reial decret només existeix en castellà. El text es mostra en castellà.]\n\nEl Real Decreto 1577/2006, de 22 de diciembre, por el que se fijan los aspectos básicos del currículo de las enseñanzas profesionales de música reguladas por la Ley Orgánica 2/2006, de 3 de mayo, de Educación, y el Real Decreto 85/2007, de 26 de enero, por el que se fijan los aspectos básicos del currículo de las enseñanzas profesionales de danza reguladas por la Ley Orgánica 2/2006, de 3 de mayo, de Educación, hacen referencia en su disposición adicional segunda y en su disposición adicional primera, respectivamente, a la valoración de la nota media del expediente de estos estudios, sin que ni en dichas disposiciones ni en el articulado se indique cómo establecer la citada nota media.\n\nLa nota media del expediente constituye un aspecto básico del currículo de las enseñanzas profesionales de música y de danza, toda vez que la misma incide en la nota de la prueba de acceso a las enseñanzas superiores y, en consecuencia, puede ser determinante para el acceso a dichos estudios por parte de los alumnos que realicen la citada prueba. Por lo tanto, resulta necesario fijar el criterio para determinar dicha nota media del expediente y la forma de efectuar el cálculo de decimales, de manera que se apliquen las mismas pautas a todo el alumnado, con independencia del centro en el que cursen sus estudios.\n\nPor otra parte, el artículo 15 del Real Decreto 1467/2007, de 2 de noviembre, por el que se establece la estructura del bachillerato y se fijan sus enseñanzas mínimas, dispone que, de acuerdo con el artículo 50.2 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, el alumnado que finalice las enseñanzas profesionales de música o de danza obtendrá el título de Bachiller si supera las materias comunes del bachillerato. Es preciso, en consecuencia, establecer el cálculo de la nota media que ha de figurar en el título de Bachiller de este alumnado. A estos mismos efectos y en virtud del calendario de aplicación de la nueva ordenación de las respectivas enseñanzas, es también necesario tener en cuenta las situaciones del alumnado que, habiendo superado las materias comunes de las enseñanzas del bachillerato reguladas por la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo, finalice además las enseñanzas profesionales de música o de danza establecidas en la Ley Orgánica 2/2006, de 3 de mayo, de Educación.\n\nEn el proceso de elaboración de este real decreto han sido consultadas las comunidades autónomas y han emitido informe el Consejo Escolar del Estado y el Ministerio de Política Territorial.\n\nEn su virtud, a propuesta del Ministro de Educación, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 18 de diciembre,"
+    },
+    {
+      "type": "articulo",
+      "id": "art-1",
+      "number": "1",
+      "title": "Artículo 1. Modificación del Real Decreto 1577/2006",
+      "content": "Se añade al apartado 6 del artículo 11 del Real Decreto 1577/2006, de 22 de diciembre, por el que se fijan los aspectos básicos del currículo de las enseñanzas profesionales de música reguladas por la Ley Orgánica 2/2006, de 3 de mayo, de Educación, un párrafo nuevo redactado en los siguientes términos:\n\n«La nota media será la media aritmética de las calificaciones de todas las asignaturas cursadas que formen parte de las enseñanzas profesionales de música en la especialidad, redondeada a la centésima más próxima y en caso de equidistancia a la superior.»"
+    },
+    {
+      "type": "articulo",
+      "id": "art-2",
+      "number": "2",
+      "title": "Artículo 2. Modificación del Real Decreto 85/2007",
+      "content": "Se añade al apartado 6 del artículo 11 del Real Decreto 85/2007, de 26 de enero, por el que se fijan los aspectos básicos del currículo de las enseñanzas profesionales de danza reguladas por la Ley Orgánica 2/2006, de 3 de mayo, de Educación, un párrafo nuevo redactado en los siguientes términos:\n\n«La nota media será la media aritmética de las calificaciones de todas las asignaturas cursadas que formen parte de las enseñanzas profesionales de danza en la especialidad, redondeada a la centésima más próxima y en caso de equidistancia a la superior.»"
+    },
+    {
+      "type": "articulo",
+      "id": "art-3",
+      "number": "3",
+      "title": "Artículo 3. Modificación del Real Decreto 1467/2007",
+      "content": "El Real Decreto 1467/2007, de 2 de noviembre, por el que se establece la estructura del bachillerato y se fijan sus enseñanzas mínimas, queda modificado como sigue:\n\n1. Se añade una disposición adicional octava, redactada en los siguientes términos:\n\n«Disposición adicional octava. Cálculo de la nota media del bachillerato del alumnado que finalice las enseñanzas profesionales de música o de danza y supere las materias comunes del bachillerato.\n\nLa nota media del bachillerato que debe figurar en el título de Bachiller del alumnado que finalice las enseñanzas profesionales de música o de danza y supere las materias comunes del bachillerato será la media aritmética de las calificaciones de todas las materias comunes del bachillerato y de las asignaturas de los cursos 5º y 6º de las enseñanzas profesionales de música o de danza en la correspondiente especialidad, redondeada a la centésima más próxima y en caso de equidistancia a la superior. En el caso del alumnado que acceda directamente a 6º curso de las enseñanzas profesionales de música o de danza, para el cálculo de la nota media serán consideradas las calificaciones de las asignaturas de dicho curso y de todas las materias comunes del bachillerato.»\n\n2. Se añade una disposición transitoria cuarta, redactada en los siguientes términos:\n\n«Disposición transitoria cuarta.\n\n1. Al alumnado que finalice en el año académico 2008-2009 las enseñanzas profesionales de música o de danza establecidas en la Ley Orgánica 2/2006, de 3 de mayo, de Educación, y que además haya superado las materias comunes de las enseñanzas del bachillerato reguladas por la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo, le será de aplicación el artículo 14.2 del Real Decreto 1178/1992, de 2 de octubre, por el que se establecen las enseñanzas mínimas del Bachillerato, obteniendo de este modo el título de Bachiller.\n\n2. Al alumnado que finalice después del año académico 2008-2009 las enseñanzas profesionales de música o de danza establecidas en la Ley Orgánica 2/2006, de 3 de mayo, de Educación, y que además tenga superadas las materias comunes de las enseñanzas del bachillerato reguladas por la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo, le será de aplicación el artículo 15.3 del Real Decreto 1467/2007, de 2 de noviembre, por el que se establece la estructura del bachillerato y se fijan sus enseñanzas mínimas, obteniendo de este modo el título de Bachiller.\n\n3. La nota media del bachillerato que debe figurar en el título de Bachiller del alumnado a que hacen referencia los dos puntos anteriores, será la media aritmética de las calificaciones de las materias comunes del bachillerato cursado y de las asignaturas de los cursos 5º y 6º de las enseñanzas profesionales de música o de danza en la correspondiente especialidad, redondeada a la centésima más próxima y en caso de equidistancia a la superior. En el caso del alumnado que acceda directamente a 6º curso de las enseñanzas profesionales de música o de danza, para el cálculo de la nota media serán consideradas las calificaciones de las asignaturas de dicho curso y de todas las materias comunes del bachillerato.»"
+    },
+    {
+      "type": "disposicion_final",
+      "id": "df-unica",
+      "title": "Disposición final única. Entrada en vigor",
+      "content": "El presente real decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado»."
+    }
+  ],
+  "legalAnalysis": {
+    "enactedPursuantTo": [
+      {
+        "lawId": "ley-organica-2-2006",
+        "title": "Llei Orgànica 2/2006, de 3 de maig, d'Educació",
+        "relationship": "desarrollo"
+      }
+    ],
+    "priorAffectations": [
+      {
+        "lawId": "real-decreto-1577-2006",
+        "title": "Reial Decret 1577/2006 - Currículum EEPP Música",
+        "type": "modifica",
+        "articles": [
+          "art-11"
+        ],
+        "description": "Afig un paràgraf a l'art. 11.6: càlcul de la nota mitjana"
+      },
+      {
+        "lawId": "real-decreto-85-2007",
+        "title": "Reial Decret 85/2007 - Currículum bàsic EEPP Dansa",
+        "type": "modifica",
+        "articles": [
+          "art-11"
+        ],
+        "description": "Afig un paràgraf a l'art. 11.6: càlcul de la nota mitjana"
+      },
+      {
+        "lawId": "real-decreto-1467-2007",
+        "title": "Reial Decret 1467/2007 - Estructura del batxillerat",
+        "type": "modifica",
+        "articles": [],
+        "description": "Afig la DA 8a i la DT 4a: nota mitjana del títol de Batxiller de qui acaba els EEPP de música o dansa (norma no ingressada, ja derogada)"
+      }
+    ],
+    "posteriorAffectations": [],
+    "derogations": [],
+    "concordances": []
+  },
+  "promulgation": {
+    "place": "Madrid",
+    "date": "2009-12-18",
+    "signatories": [
+      {
+        "name": "Juan Carlos I",
+        "role": "Rei d'Espanya"
+      },
+      {
+        "name": "Ángel Gabilondo Pujol",
+        "role": "Ministeri d'Educació"
+      }
+    ]
+  },
+  "scope": "musica_y_danza",
+  "territory": "estatal",
+  "temporality": {
+    "type": "permanente"
+  },
+  "docType": "normativa"
+}

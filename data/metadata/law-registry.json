@@ -170,6 +170,13 @@
       "notes": "20 arts + 4 DA + 1 DD + 2 DF + 2 anexos. Solo en español. Modificado por RD 628/2022. Primer real_decreto ingresado."
     },
     {
+      "slug": "real-decreto-1953-2009",
+      "title": "Real Decreto 1953/2009 - Cálculo de la nota media EEPP Música y Danza",
+      "status": "ingested",
+      "category": "evaluacion",
+      "notes": "3 arts + DF única. Solo en español (BOE 15, 18/01/2010). Añade el párrafo de la nota media al art. 11.6 del RD 1577/2006 y del RD 85/2007 (versiones v1→v2 creadas) y la DA 8.ª y DT 4.ª al RD 1467/2007 (bachillerato, no ingresado y ya derogado)."
+    },
+    {
       "slug": "real-decreto-628-2022",
       "title": "Real Decreto 628/2022 - Modificaciones enseñanzas artísticas (LOMLOE)",
       "status": "ingested",

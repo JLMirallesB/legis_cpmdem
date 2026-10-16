@@ -1,5 +1,31 @@
 [
   {
+    "version": "2.6.0",
+    "date": "2026-10-16",
+    "entries": {
+      "es": [
+        {
+          "type": "nuevo",
+          "description": "Real Decreto 1953/2009, de 18 de diciembre, que fija cómo se calcula la nota media de las enseñanzas profesionales de música y danza: media aritmética de todas las asignaturas de la especialidad, redondeada a la centésima y, en caso de equidistancia, hacia arriba. También regula la nota media del título de Bachiller del alumnado que lo obtiene al acabar las enseñanzas profesionales."
+        },
+        {
+          "type": "corregido",
+          "description": "El artículo 11 del RD 1577/2006 (música) y del RD 85/2007 (danza) muestra ahora el párrafo de la nota media como lo que es, un añadido del RD 1953/2009, con selector de versión entre el texto original y el vigente. En el de danza se ha corregido además «enseñanzas profesionales de música» por «de danza»: el error venía del texto consolidado del BOE, no de la norma que lo introdujo."
+        }
+      ],
+      "va": [
+        {
+          "type": "nou",
+          "description": "Reial Decret 1953/2009, de 18 de desembre, que fixa com es calcula la nota mitjana dels ensenyaments professionals de música i dansa: mitjana aritmètica de totes les assignatures de l'especialitat, arredonida a la centèsima i, en cas d'equidistància, cap amunt. També regula la nota mitjana del títol de Batxiller de l'alumnat que l'obté en acabar els ensenyaments professionals."
+        },
+        {
+          "type": "corregit",
+          "description": "L'article 11 del RD 1577/2006 (música) i del RD 85/2007 (dansa) mostra ara el paràgraf de la nota mitjana com el que és, un afegit del RD 1953/2009, amb selector de versió entre el text original i el vigent. En el de dansa s'ha corregit a més «enseñanzas profesionales de música» per «de danza»: l'error venia del text consolidat del BOE, no de la norma que el va introduir."
+        }
+      ]
+    }
+  },
+  {
     "version": "2.5.2",
     "date": "2026-10-13",
     "entries": {
