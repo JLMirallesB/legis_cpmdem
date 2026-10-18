@@ -1,0 +1,320 @@
+{
+  "id": "ley-3-2026",
+  "slug": "ley-3-2026",
+  "type": "ley",
+  "number": "3/2026",
+  "date": "2026-06-29",
+  "publishedIn": {
+    "source": "DOGV",
+    "number": "10396",
+    "date": "2026-07-02",
+    "url": "https://dogv.gva.es/va/resultat-dogv?signatura=2026%2F22611",
+    "pdfUrl": "https://dogv.gva.es/datos/2026/07/02/pdf/2026_22611_va.pdf"
+  },
+  "title": "Llei 3/2026, de 29 de juny, de la Generalitat, de mesures urgents davant la hiperregulació, l’agilització de procediments i la garantia de la unitat de mercat",
+  "titleShort": "Llei 3/2026 - Mesures urgents davant la hiperregulació",
+  "category": "general",
+  "vigpiracy": {
+    "status": "vigente",
+    "statusLabel": "Vigent",
+    "effectiveDate": "2026-07-03"
+  },
+  "legalAnalysis": {
+    "enactedPursuantTo": [],
+    "priorAffectations": [
+      {
+        "lawId": "decreto-2-2022",
+        "title": "Decret 2/2022, de 14 de gener, del Consell, de regulació de les escoles d’ensenyament artístic no formal de Música i d’Arts Escèniques",
+        "type": "modifica",
+        "articles": [
+          "art-10"
+        ],
+        "date": "2026-07-03",
+        "description": "L’article 98 introduïx els apartats 7 i 8 de l’article 10 (infraestructures educatives): fase prèvia amb proposta d’espais, memòria i plans, que la conselleria informa abans de la inscripció, i document tècnic amb les llicències municipals abans de posar en ús les instal·lacions. Reproduïx sense canvis l’article 81 del Decret llei 14/2025, que ja els havia introduït des del 30 de desembre de 2025."
+      },
+      {
+        "lawId": "ley-20-2017",
+        "title": "Llei 20/2017, de 28 de desembre, de la Generalitat, de taxes",
+        "type": "modifica",
+        "articles": [],
+        "date": "2026-07-03",
+        "description": "L’article 84 modifica els articles 1.3-1 (expedició de certificats per actuació administrativa automatitzada), 17.1-2, 20.1-4 i 26.2-5. Cap no pertany al títol XIV (taxes en matèria d’educació), així que no canvia cap article reproduït ací. Reproduïx l’article 67 del Decret llei 14/2025."
+      }
+    ],
+    "posteriorAffectations": [],
+    "derogations": [
+      {
+        "lawId": "decreto-ley-14-2025",
+        "title": "Decret llei 14/2025, de 26 de desembre, del Consell, de mesures urgents davant la hiperregulació, l’agilització de procediments i la garantia de la unitat de mercat",
+        "type": "deroga",
+        "date": "2026-07-03",
+        "description": "La disposició derogatòria única (apartat 1.c) deroga el decret llei, que esta llei substituïx després de la seua tramitació parlamentària. El seu article 81 havia introduït els apartats 7 i 8 de l’article 10 del Decret 2/2022, que l’article 98 d’esta llei reproduïx sense canvis."
+      }
+    ],
+    "concordances": []
+  },
+  "promulgation": {
+    "place": "València",
+    "date": "2026-06-29",
+    "signatories": [
+      {
+        "name": "Juan Francisco Pérez Llorca",
+        "role": "President de la Generalitat"
+      }
+    ]
+  },
+  "structure": [
+    {
+      "type": "preambulo",
+      "id": "preambulo",
+      "title": "Preàmbul",
+      "content": "I\n\nLes referències al Decret llei 14/2025, de 26 de desembre, del Consell, de mesures urgents enfront de la hiperregulació, l’agilitació de procediments i la garantia de la unitat de mercat, contingudes en este preàmbul s’entendran fetes a esta llei, excepte quan hagen de referir-se al citat decret llei en atenció als seus efectes o a altres circumstàncies derivades de la seua aplicació.\n\nEl present decret llei, pel qual s’adopten mesures de simplificació administrativa, millora de la qualitat reguladora i reforç dels drets socials i econòmics en la Comunitat Valenciana, respon a la necessitat d’actuar davant d’un context econòmic, financer i normatiu especialment complex. Encara que s’han consolidat alguns indicadors de recuperació després de les crisis successives dels últims anys, l’economia valenciana continua enfrontant desafiaments estructurals, com la insuficiència del sistema de finançament autonòmic, la incertesa derivada de l’entorn geopolític i les exigències d’adaptació a la doble transició digital i ecològica. A això se suma una sobrecàrrega normativa acumulada que llastra l’eficàcia de l’acció administrativa, frena el dinamisme empresarial i compromet la qualitat dels servicis públics. Este escenari exigix l’adopció immediata de reformes estructurals que doten la Generalitat de ferramentes àgils, eficaces i adaptades a les necessitats reals de la ciutadania i del teixit productiu.\n\nLa Generalitat ha de comptar amb un marc normatiu simplificat, interoperable i adaptat a esta transformació, que li permeta no sols liderar la transició en el seu àmbit competencial, sinó també actuar com a facilitadora perquè ciutadania, empreses i institucions s’integren en este nou model productiu i administratiu.\n\nA estes circumstàncies se suma una pressió sostinguda sobre el mercat de la vivenda, en el qual els preus continuen creixent molt per damunt dels ingressos mitjans. En els últims tres anys, els salaris en la Comunitat Valenciana han pujat un 4,3%, mentres que els lloguers s’han incrementat un 46,2%, amb la qual cosa s’ha generat una bretxa d’accessibilitat cada vegada més insostenible. Esta tensió residencial, unida a l’augment generalitzat del cost de vida i a l’infrafinançament estructural que patix la Generalitat, limita la capacitat de les administracions per a atendre amb agilitat les necessitats socials més urgents.\n\nA més, l’actual complexitat normativa i la lentitud de determinats procediments administratius, especialment en àmbits com l’urbanisme, l’energia, la vivenda o els servicis socials, alentixen la implantació d’iniciatives privades i dificulten l’execució de polítiques públiques clau. Esta situació desincentiva la inversió, penalitza a les xicotetes i mitjanes empreses i genera desafecció ciutadana. La simplificació administrativa i l’eliminació de càrregues innecessàries són, per tant, condicions indispensables per a dinamitzar el mercat, reforçar la confiança dels operadors i garantir l’accés efectiu als drets.\n\nLa situació financera de la Generalitat és especialment crítica a causa d’un infrafinançament estructural prolongat. Segons l’Institut Valencià d’Investigacions Econòmiques (IVIE), este infrafinançament explica entre el 80% i el 88% del deute autonòmic acumulat fins a 2022, equivalent a més de 43.000 milions d’euros. En 2024, el deute autonòmic va arribar al 40,7% del PIB regional, el percentatge més elevat entre totes les comunitats autònomes. Eixe mateix any, la Generalitat va haver de rebre més de 10.700 milions d’euros a través del Fons de liquiditat autonòmica (FLA). En 2025, davant de l’absència del mecanisme extraordinari de finançament (extra-FLA), el Consell s’ha vist obligat a sol·licitar crèdits bancaris per un import de 1.816 milions d’euros, la qual cosa ha incrementat el cost dels interessos a més de 1.100 milions anuals, que podran superar els 1.200 milions si no es revisa el sistema vigent.\n\nEste escenari evidencia la urgència de millorar l’eficiència administrativa i de racionalitzar la gestió dels recursos públics. La simplificació del marc normatiu i procedimental permet reduir costos, accelerar la tramitació de polítiques públiques essencials i minimitzar l’impacte financer de l’infrafinançament sobre la ciutadania.\n\nII\n\nLa necessitat de modernitzar, agilitzar i simplificar l’Administració pública de la Comunitat Valenciana és hui més apressant que mai. L’elevada demanda de servicis, la necessitat d’atraure i consolidar inversió, i l’obligació de gestionar amb eficiència els recursos públics exigixen respostes estructurals, immediates i eficaces.\n\nLa ineficiència dels processos actuals afecta directament la ciutadania, el teixit econòmic i a la mateixa capacitat operativa de l’Administració. La persistència de procediments manuals, l’escassa interoperabilitat i la fragmentació normativa dificulten l’acció pública, generen duplicitats i eleven innecessàriament els costos de compliment. Esta complexitat penalitza especialment les xicotetes i mitjanes empreses, que constituïxen la base del sistema productiu valencià.\n\nEl present decret llei s’estructura per a respondre a una doble necessitat: combatre la hiperregulació i modernitzar el funcionament administratiu. Inclou mesures que reduïxen la densitat de la càrrega normativa, eliminen duplicitats, reforcen la seguretat jurídica i establixen ferramentes innovadores per a garantir la interoperabilitat, l’automatització i l’ús ètic de la dada pública.\n\nActua també com a instrument habilitador de polítiques públiques clau en els principals àmbits econòmics i socials de la Comunitat Valenciana, afectades per un marc normatiu dispers, rígid o desfasat. La reforma simultània i coordinada de múltiples disposicions permetrà desbloquejar projectes estratègics, eliminar traves injustificades i reforçar la capacitat d’intervenció pública.\n\nEsta norma no es limita a ajustos tècnics, sinó que promou una simplificació des del disseny, orientada a previndre noves càrregues administratives, facilitar el compliment normatiu i garantir una administració més àgil, més proactiva i centrada en la ciutadania. La seua aplicació transversal afecta tota l’Administració de la Generalitat, el seu sector públic instrumental i les entitats locals.\n\nL’excepcionalitat i urgència d’esta intervenció legislativa es justifica per la necessitat d’actuar de manera coordinada i sistèmica davant de l’acumulació de disfuncions administratives i normatives, el bloqueig de projectes estratègics, l’impacte econòmic de l’infrafinançament i la creixent demanda de servicis públics eficaços. Només mitjançant una acció normativa immediata és possible alliberar capacitats administratives, activar polítiques públiques clau, fomentar la mamprenedoria i oferir respostes efectives als desafiaments actuals.\n\nIII\n\nEl títol I incorpora mesures davant de la hiperregulació, per a l’agilització, la unitat de mercat i les empreses emergents.\n\n[No relatiu a conservatoris professionals de música i dansa - vegeu PDF original]\n\nA més, és fonamental que es fomente la mamprenedoria des d’etapes primerenques per a promoure la creació de talent i el desenrotllament de futurs mamprenedors i mamprenedores. Per això s’establix el marc de les «startups d’estudiants» que, com a instrument educatiu, servisca per a acostar la innovació i la mamprenedoria als jóvens. Quant a la tipologia dels contractes que afecten el personal d’investigador, de conformitat amb la salvaguarda competencial que establix l’article 12 de l’LCTI, s’establix que esta serà la prevista en la normativa de la Seguretat Social. D’altra banda, es facilita la participació dels investigadors i les investigadores en la mamprenedoria innovadora, que permeta la modulació de la seua càrrega docent i destine els seus coneixements a l’activitat d’I+D+i.\n\n[No relatiu a conservatoris professionals de música i dansa - vegeu PDF original]\n\nEl títol VI conté les modificacions en matèria d’educació, cultura i esport.\n\n[No relatiu a conservatoris professionals de música i dansa - vegeu PDF original]\n\nEl Decret 2/2022, de 14 de gener, del Consell, de regulació de les escoles d’ensenyança artística no formal de música i d’arts escèniques, establix en l’article 10, relatiu a infraestructures educatives, requisits generals per als centres, sense concretar per a cada tipologia d’ensenyança els aspectes que han d’avaluar-se i verificar-se pels servicis tècnics competents. Per a minimitzar costos d’inversió i determinar amb antelació la viabilitat de les sol·licituds d’inscripció o modificació d’autorització, s’incorpora una fase inicial que permeta comprovar si les instal·lacions complixen els requisits bàsics abans d’elaborar el document tècnic definitiu, la qual cosa permetrà agilitzar la tramitació i complir els terminis establits en les autoritzacions i evitar els perjuís derivats del seu incompliment, com la concessió de possibles subvencions anuals derivades d’estes autoritzacions; la qual cosa justifica la necessitat extraordinària i urgent de la seua inclusió en este decret llei.\n\n[No relatiu a conservatoris professionals de música i dansa - vegeu PDF original]\n\nIV\n\nQuant a l’estructura, aquesta llei consta de 133 articles, distribuïts en nou títols, cinc disposicions addicionals, tres disposicions transitòries, una derogatòria i quatre disposicions finals.\n\nD’acord amb el que disposa l’article 59 de la Llei 1/2022, de 13 d’abril, de transparència i bon govern de la Comunitat Valenciana, este decret llei s’ajusta als principis de bona regulació. Igualment, es complix el principi de necessitat, que ha quedat plenament justificat. També es complixen els principis de seguretat jurídica, proporcionalitat i eficàcia, i cal destacar que les mesures que incorpora són congruents amb l’ordenament jurídic i incorporen la millor alternativa possible atesa la situació d’excepcionalitat, ja que contenen la regulació necessària i imprescindible per a aconseguir els objectius mencionats.\n\nQuant al principi de transparència, vista la urgència per a l’aprovació d’esta norma, s’exceptuen els tràmits de consulta pública prèvia i d’audiència i informació públiques, de conformitat amb l’article 133.4 de la Llei 39/2015, d’1 d’octubre, i amb l’article 14 de la Llei 4/2023, de 13 d’abril, de participació ciutadana i foment de l’associacionisme de la Comunitat Valenciana."
+    },
+    {
+      "type": "titulo",
+      "id": "titulo-1",
+      "title": "Títol I. Mesures davant de la hiperregulació, per a l’agilització, la unitat de mercat i les empreses emergents",
+      "children": [
+        {
+          "type": "capitulo",
+          "id": "titulo-1-cap-1-3",
+          "title": "Capítols I a III. Mesures davant de la hiperregulació, mesures d’agilització i unitat de mercat",
+          "children": [
+            {
+              "type": "articulo",
+              "id": "titulo-1-cap-1-3-nota",
+              "title": "Articles 1 a 22",
+              "content": "[No relatiu a conservatoris professionals de música i dansa - vegeu PDF original]"
+            }
+          ]
+        },
+        {
+          "type": "capitulo",
+          "id": "titulo-1-cap-4",
+          "title": "Capítol IV. Millores en activitat de mamprenedoria, innovació i inversió",
+          "children": [
+            {
+              "type": "seccion",
+              "id": "titulo-1-cap-4-sec-1",
+              "title": "Secció primera. De l’activitat de mamprenedoria",
+              "children": [
+                {
+                  "type": "articulo",
+                  "id": "art-23-24",
+                  "title": "Articles 23 i 24",
+                  "content": "[No relatiu a conservatoris professionals de música i dansa - vegeu PDF original]"
+                },
+                {
+                  "type": "articulo",
+                  "id": "art-25",
+                  "number": "25",
+                  "title": "Article 25. Start-ups d’estudiants",
+                  "content": "1. La iniciativa acadèmica denominada «Start-up d’estudiants» estarà dirigida a estudiants d’Educació Secundària, Batxillerat, Formació Professional, ensenyances artístiques i esportives de règim especial, estudis de grau i màster, així com al personal docent d’estos nivells educatius.\n\n2. La formació impartida en el marc de la iniciativa inclourà, almenys, els àmbits següents:\n\na) En relació amb l’objecte de la iniciativa: identificació del problema, proposta de solució, anàlisi del mercat, desenrotllament del producte, definició de l’avantatge competitiu, estratègia d’implantació, model de negoci i elaboració del pla empresarial.\n\nb) En relació amb l’execució de la iniciativa: constitució de l’equip, selecció de la tecnologia adequada, busca de finançament i altres aspectes operatius necessaris per a la seua viabilitat, la capacitació i la certificació.\n\n3. L’avaluació de l’aprofitament i superació del programa la realitzarà l’entitat acadèmica organitzadora, mitjançant perfils interns i externs (testimoniatges) qualificats, i donarà lloc, si és el cas, a l’expedició d’un certificat oficial de participació i aprofitament, a més de tindre un impacte en els resultats finals de l’estudiant participant."
+                }
+              ]
+            },
+            {
+              "type": "seccion",
+              "id": "titulo-1-cap-4-sec-2",
+              "title": "Secció segona. De l’activitat d’innovació",
+              "children": [
+                {
+                  "type": "articulo",
+                  "id": "titulo-1-cap-4-sec-2-nota",
+                  "title": "Articles 26 a 32",
+                  "content": "[No relatiu a conservatoris professionals de música i dansa - vegeu PDF original]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "titulo",
+      "id": "titulo-2",
+      "title": "Títol II. Mesures generals i organitzatives en matèria de simplificació",
+      "children": [
+        {
+          "type": "capitulo",
+          "id": "titulo-2-cap-1-4",
+          "title": "Capítols I a IV. Simplificació procedimental i tecnològica, funció pública, arxius i Inspecció General de Servicis",
+          "children": [
+            {
+              "type": "articulo",
+              "id": "titulo-2-cap-1-4-nota",
+              "title": "Articles 33 a 63",
+              "content": "[No relatiu a conservatoris professionals de música i dansa - vegeu PDF original]"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "titulo",
+      "id": "titulo-3",
+      "title": "Títol III. Mesures socials i en matèria de vivenda",
+      "children": [
+        {
+          "type": "capitulo",
+          "id": "titulo-3-cap-1-2",
+          "title": "Capítols I i II. Servicis socials i altres mesures dirigides a la ciutadania: parelles de fet, assistència gratuïta i mediació",
+          "children": [
+            {
+              "type": "articulo",
+              "id": "titulo-3-cap-1-2-nota",
+              "title": "Articles 64 a 80",
+              "content": "[No relatiu a conservatoris professionals de música i dansa - vegeu PDF original]"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "titulo",
+      "id": "titulo-4",
+      "title": "Títol IV. Mesures en matèria d’economia i hisenda",
+      "children": [
+        {
+          "type": "articulo",
+          "id": "titulo-4-nota",
+          "title": "Articles 81 a 91",
+          "content": "[No relatiu a conservatoris professionals de música i dansa - vegeu PDF original]"
+        }
+      ]
+    },
+    {
+      "type": "titulo",
+      "id": "titulo-5",
+      "title": "Títol V. Mesures en matèria de sanitat",
+      "children": [
+        {
+          "type": "articulo",
+          "id": "titulo-5-nota",
+          "title": "Articles 92 i 93",
+          "content": "[No relatiu a conservatoris professionals de música i dansa - vegeu PDF original]"
+        }
+      ]
+    },
+    {
+      "type": "titulo",
+      "id": "titulo-6",
+      "title": "Títol VI. Mesures en matèria d’educació, cultura i esport",
+      "children": [
+        {
+          "type": "articulo",
+          "id": "art-94-97",
+          "title": "Articles 94 a 97",
+          "content": "[No relatiu a conservatoris professionals de música i dansa - vegeu PDF original]"
+        },
+        {
+          "type": "articulo",
+          "id": "art-98",
+          "number": "98",
+          "title": "Article 98. Modificació del Decret 2/2022, de 14 de gener, del Consell de regulació de les escoles d’ensenyança artística no formal de música i d’arts escèniques",
+          "content": "El Decret 2/2022, de 14 de gener, del Consell de regulació de les escoles d’ensenyança artística no formal de música i d’arts escèniques, queda modificat com seguix:\n\nÚnic. S’introduïxen dos nous apartats 7 i 8 en l’article 10 amb la redacció següent:\n\n«Article 10. Infraestructures educatives\n\n[…]\n\n7. En una fase prèvia, el sol·licitant presentarà una proposta d’espais que servirà per a albergar totes les ensenyances que es pretén inscriure, que inclourà una memòria i plans indicatius d’estos. Una vegada avaluada positivament l’existència dels espais docents requerits normativament per la conselleria, s’emetrà un informe previ pel departament competent en el procediment.\n\n8. Abans de la seua inscripció i posada en ús de les instal·lacions, s’haurà d’aportar document tècnic, firmat per tècnic competent, que inclourà justificació dels requisits mencionats en els apartats anteriors, així com les llicències municipals pertinents per a l’obertura i el funcionament de l’activitat prevista en eixe document i respecte dels espais indicats en la fase prèvia.»"
+        },
+        {
+          "type": "articulo",
+          "id": "art-99-100",
+          "title": "Articles 99 i 100",
+          "content": "[No relatiu a conservatoris professionals de música i dansa - vegeu PDF original]"
+        }
+      ]
+    },
+    {
+      "type": "titulo",
+      "id": "titulo-7",
+      "title": "Títol VII. Mesures en matèria de medi ambient, urbanisme i agricultura",
+      "children": [
+        {
+          "type": "capitulo",
+          "id": "titulo-7-cap-1-5",
+          "title": "Capítols I a V. Urbanisme, paisatge i avaluació ambiental; medi natural i animal i prevenció d’incendis; transports i logística; qualitat i educació ambiental, i agricultura",
+          "children": [
+            {
+              "type": "articulo",
+              "id": "titulo-7-cap-1-5-nota",
+              "title": "Articles 101 a 122",
+              "content": "[No relatiu a conservatoris professionals de música i dansa - vegeu PDF original]"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "titulo",
+      "id": "titulo-8",
+      "title": "Títol VIII. Mesures dirigides al sector industrial, energètic i comerç",
+      "children": [
+        {
+          "type": "articulo",
+          "id": "titulo-8-nota",
+          "title": "Articles 123 a 127",
+          "content": "[No relatiu a conservatoris professionals de música i dansa - vegeu PDF original]"
+        }
+      ]
+    },
+    {
+      "type": "titulo",
+      "id": "titulo-9",
+      "title": "Títol IX. Mesures en matèria de turisme",
+      "children": [
+        {
+          "type": "articulo",
+          "id": "titulo-9-nota",
+          "title": "Articles 128 a 133",
+          "content": "[No relatiu a conservatoris professionals de música i dansa - vegeu PDF original]"
+        }
+      ]
+    },
+    {
+      "type": "disposicion_adicional",
+      "id": "da-1-5",
+      "title": "Disposicions addicionals primera a cinquena",
+      "content": "[No relatiu a conservatoris professionals de música i dansa - vegeu PDF original]"
+    },
+    {
+      "type": "disposicion_transitoria",
+      "id": "dt-1-3",
+      "title": "Disposicions transitòries primera a tercera",
+      "content": "[No relatiu a conservatoris professionals de música i dansa - vegeu PDF original]"
+    },
+    {
+      "type": "disposicion_derogatoria",
+      "id": "dd-unica",
+      "title": "Disposició derogatòria única. Derogació normativa",
+      "content": "1. Queden derogades les normes amb rang de llei següents:\n\na) Decret llei 20/2024, de 30 de desembre, del Consell, de mesures urbanístiques urgents per a afavorir les tasques de reconstrucció després dels danys produïts per la dana.\n\nb) Decret llei 7/2024, de 9 de juliol, del Consell, de simplificació administrativa de la Generalitat.\n\nc) Decret llei 14/2025, de 26 de desembre, del Consell, de mesures enfront de la hiperregulació, l’agilitació de procediments i la garantia de la unitat de mercat.\n\n3. Així mateix, queden derogades totes les disposicions de rang igual o inferior que s’oposen al que disposa este decret llei.\n\n2. Queden derogades les normes amb rang inferior a la llei següents:\n\na) Decret 77/1984, de 30 de juliol, del Consell de la Generalitat Valenciana, sobre regulació de transport escolar.\n\nb) Decret 90/1995, de 16 de maig, del Govern Valencià, pel qual es regula la composició, les competències i el funcionament del Consell de la Formació de Persones Adultes en la Comunitat Valenciana.\n\nc) Orde de 15 de novembre de 1988, del conseller d’Obres Públiques, Urbanisme i Transports, sobre autorització provisional per a la prestació de servicis públics de transport escolar.\n\nd) Orde de 10 de novembre de 1999, de la Conselleria d’Economia i Hisenda, sobre la distribució de l’excedent i el pressupost anual del Fons de formació i promoció cooperativa, en les cooperatives de crèdit de la Comunitat Valenciana.\n\ne) Orde de 2 de maig de 2000, de la Conselleria de Cultura, Educació i Ciència, de la Conselleria d’Ocupació i de la Conselleria de Benestar Social, per la qual s’aprova el Reglament de funcionament del Consell de la Formació de Persones Adultes en la Comunitat Valenciana.\n\nf) Orde de 31 de juliol de 2009, de la Conselleria d’Infraestructures i Transport, relativa a la prestació de servicis de transport intermodal d’accés als recintes aeroportuaris de la Comunitat Valenciana.\n\ng) Orde 46/2016, de 5 d’agost, de la Conselleria d’Educació, Investigació Cultura i Esport, per la qual s’aproven les bases reguladores per a la concessió de subvencions per al foment de l’esport federat i els programes de tecnificació esportiva en la Comunitat Valenciana.\n\nh) Orde 56/2016, de 21 de setembre, de la Conselleria d’Educació, Investigació, Cultura i Esport, per la qual s’establixen les bases reguladores per a la concessió de subvencions destinades a les federacions esportives per a l’adquisició de material immobilitzat.\n\ni) Orde 62/2016, de 28 de setembre, de la Conselleria d’Educació, Investigació, Cultura i Esport, per la qual s’establixen les bases reguladores per a la concessió de subvencions destinades a les federacions esportives amb participació com a seleccions de la Comunitat Valenciana en els campionats d’Espanya.\n\nj) Orde 31/2017, de 17 de juliol, de la Conselleria d’Educació, Investigació, Cultura i Esport, per la qual s’aproven les bases reguladores per a la concessió de subvencions a federacions esportives per al desplegament del programa Esport a l’Escola.\n\nk) Orde 2/2021, de 30 d’abril, de la Conselleria d’Economia Sostenible, Sectors Productius, Comerç i Treball, per la qual es regula l’Observatori de Distribuïdors d’Assegurances i Reassegurances de la Comunitat Valenciana.\n\nl) Orde 32/2022, de 13 de maig, de la Conselleria d’Educació, Cultura i Esport, per la qual s’aproven les bases reguladores i la convocatòria per a l’any 2022 de les subvencions destinades als clubs i les seccions esportives d’entitats sense ànim de lucre de la Comunitat Valenciana amb participació en competicions oficials internacionals i competicions de màxima categoria estatal d’esport no professional.\n\nm) Orde 15/2023, de 26 de maig, de la Conselleria d’Educació, Cultura i Esport, per la qual s’establixen les bases reguladores per a la concessió de subvencions destinades al desplegament dels plans d’especialització esportiva.\n\nn) Decret 110/1989, de 17 de juliol, del Consell de la Generalitat Valenciana, pel qual es regula la prestació dels servicis públics interurbans de grua d’arrossegament i autocarregant de vehicles avariats.\n\no) Decret 47/1991, de 20 de març, del Consell de la Generalitat Valenciana, pel qual es modifica el quadern de servici per als servicis públics interurbans de grua d’arrossegament i autocarregant de vehicles avariats.\n\n3. Així mateix, queden derogades totes les disposicions de rang igual o inferior que s’oposen al que disposa este decret llei."
+    },
+    {
+      "type": "disposicion_final",
+      "id": "df-1",
+      "title": "Disposició final primera. Adequació de la normativa autonòmica",
+      "content": "En el termini d’un any comptat des de la seua publicació en el DOGV, s’adequarà la normativa autonòmica al que es preveu en el capítol III del títol I del present decret llei."
+    },
+    {
+      "type": "disposicion_final",
+      "id": "df-2",
+      "title": "Disposició final segona. Habilitació normativa",
+      "content": "El Consell podrà aprovar les normes de rang reglamentari que resulten necessàries per al desplegament del que es preveu en el capítol III del títol I del present decret llei."
+    },
+    {
+      "type": "disposicion_final",
+      "id": "df-3",
+      "title": "Disposició final tercera. Rang de les disposicions reglamentàries modificades",
+      "content": "1. Les normes reglamentàries que són objecte de modificació per la present norma conserven el rang i la naturalesa reglamentària prèvia, la qual cosa suposa que podran ser modificades o derogades a través d’una norma posterior de rang igual o superior.\n\n2. L’annex IV, «Estàndards urbanístics i normalització de determinacions urbanístiques», del text refós de la Llei d’ordenació del territori, urbanisme i paisatge, aprovat mitjançant el Decret legislatiu 1/2021, de 18 de juny, del Consell, que és objecte de modificació pel present decret llei, conserva el seu rang i la naturalesa reglamentària prèvia, la qual cosa suposa que podrà ser modificat o derogat a través d’una norma posterior d’igual o superior rang."
+    },
+    {
+      "type": "disposicion_final",
+      "id": "df-4",
+      "title": "Disposició final quarta. Entrada en vigor",
+      "content": "La present llei entrarà en vigor l’endemà de la publicació en el Diari Oficial de la Generalitat Valenciana."
+    }
+  ],
+  "scope": "general",
+  "territory": "autonomico",
+  "temporality": {
+    "type": "permanente"
+  },
+  "docType": "normativa"
+}

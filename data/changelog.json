@@ -1,5 +1,39 @@
 [
   {
+    "version": "2.7.0",
+    "date": "2026-10-18",
+    "entries": {
+      "es": [
+        {
+          "type": "nuevo",
+          "description": "Ley 3/2026, de 29 de junio, de medidas urgentes frente a la hiperregulación, que sustituye y deroga el Decreto ley 14/2025. Se reproducen íntegros el artículo 25, que abre las «startups de estudiantes» a las enseñanzas artísticas de régimen especial, y el artículo 98, que modifica el Decreto 2/2022 de escuelas de música y artes escénicas. Del resto de la ley se conserva la estructura con la nota de no relativo."
+        },
+        {
+          "type": "actualizado",
+          "description": "Decreto 2/2022: el artículo 10 (infraestructuras educativas) incorpora los apartados 7 y 8, con selector de versión. Fase previa con propuesta de espacios, memoria y planos que informa la conselleria, y documento técnico con las licencias municipales antes de poner en uso las instalaciones. Los introdujo el Decreto ley 14/2025 desde el 30 de diciembre de 2025 y la Ley 3/2026 los mantiene con el mismo texto."
+        },
+        {
+          "type": "actualizado",
+          "description": "Ley 20/2017 de tasas: se anota la modificación de la Ley 3/2026 (artículo 84). No afecta a las tasas de educación."
+        }
+      ],
+      "va": [
+        {
+          "type": "nou",
+          "description": "Llei 3/2026, de 29 de juny, de mesures urgents davant la hiperregulació, que substituïx i deroga el Decret llei 14/2025. Es reproduïxen íntegres l’article 25, que obri les «start-ups d’estudiants» als ensenyaments artístics de règim especial, i l’article 98, que modifica el Decret 2/2022 d’escoles de música i arts escèniques. De la resta de la llei es conserva l’estructura amb la nota de no relatiu."
+        },
+        {
+          "type": "actualitzat",
+          "description": "Decret 2/2022: l’article 10 (infraestructures educatives) incorpora els apartats 7 i 8, amb selector de versió. Fase prèvia amb proposta d’espais, memòria i plans que informa la conselleria, i document tècnic amb les llicències municipals abans de posar en ús les instal·lacions. Els va introduir el Decret llei 14/2025 des del 30 de desembre de 2025 i la Llei 3/2026 els manté amb el mateix text."
+        },
+        {
+          "type": "actualitzat",
+          "description": "Llei 20/2017 de taxes: s’anota la modificació de la Llei 3/2026 (article 84). No afecta les taxes d’educació."
+        }
+      ]
+    }
+  },
+  {
     "version": "2.6.1",
     "date": "2026-10-18",
     "entries": {
@@ -11,7 +45,7 @@
       ],
       "va": [
         {
-          "type": "corregido",
+          "type": "corregit",
           "description": "Decret 2/2022 d'escoles d'ensenyament artístic no formal: s'eliminen restes de l'extracció del PDF. Els articles 7 i 11 ja no acaben amb el títol del capítol següent, la redacció original de l'article 25 ja no arrossega les disposicions finals i la signatura, i la versió en valencià perd les capçaleres de pàgina que s'havien colat en el text."
         }
       ]

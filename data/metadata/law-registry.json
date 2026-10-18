@@ -560,6 +560,13 @@
       "status": "ingested",
       "category": "profesorado",
       "notes": "Circular de la DG de Personal Docente firmada el 01/09/2026 y publicada en el portal CEICE el 02/09/2026. Sustituye íntegramente el apartado 12 de la Circular 1/2025 (permisos y licencias). Cambios principales: el plazo de solicitud de inicio de curso pasa a la instrucción anual (antes 1 de julio-15 de agosto con prórroga), el permiso se suspende y se reanuda en vez de finalizar, se separa la documentación de solicitantes nuevos (A) y de renovación (B) con declaración responsable ex art. 69 Ley 39/2015, y se añaden causas de extinción y observaciones sobre OVIDOC, ITACA y comprobación de requisitos. Preámbulo + apartado 12. Ámbito general, autonómico, permanente."
+    },
+    {
+      "slug": "ley-3-2026",
+      "title": "Ley 3/2026 - Medidas urgentes frente a la hiperregulación, la agilización de procedimientos y la garantía de la unidad de mercado",
+      "status": "ingested",
+      "category": "general",
+      "notes": "Ley de la Generalitat (DOGV 10396, 02/07/2026), tramitación como proyecto de ley del Decreto ley 14/2025, al que deroga. PDF separado por idioma (2026/22611). Ingesta parcial con el modelo de ley-5-2026: texto íntegro del art. 25 (start-ups de estudiantes, abierto a las enseñanzas artísticas de régimen especial), del art. 98 (apartados 7 y 8 del art. 10 del D. 2/2022), de la derogatoria y de las 4 DF; del resto (9 títulos, 133 arts.) se conserva la estructura con la nota de no relativo. Preámbulo podado: I, II y IV enteros y, de III, solo los párrafos de start-ups y del D. 2/2022. Modifica el D. 2/2022 (art. 10, versiones v1 original, v2 DL 14/2025 y v3 esta ley, con el mismo texto) y la Ley 20/2017 de tasas (art. 84: arts. 1.3-1, 17.1-2, 20.1-4 y 26.2-5, fuera del título XIV, sin versiones). El DL 14/2025 no está ingestado: decreto-ley-14-2025 queda como enlace pendiente. Vigente desde 03/07/2026."
     }
   ]
 }

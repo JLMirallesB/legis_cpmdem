@@ -332,6 +332,14 @@
     "priorAffectations": [],
     "posteriorAffectations": [
       {
+        "lawId": "ley-3-2026",
+        "title": "Llei 3/2026, de 29 de juny, de la Generalitat",
+        "type": "modifica",
+        "articles": [],
+        "date": "2026-07-03",
+        "description": "L’article 84 modifica els articles 1.3-1, 17.1-2, 20.1-4 i 26.2-5, cap del títol XIV (taxes en matèria d’educació). No canvia cap article reproduït ací. Abans, del 30/12/2025 al 02/07/2026, l’article 67 del Decret llei 14/2025 havia fet els mateixos canvis."
+      },
+      {
         "lawId": "ley-5-2026",
         "title": "Llei 5/2026, de 31 de juliol, de la Generalitat, de mesures fiscals, de gestió administrativa i financera, i d’organització de la Generalitat",
         "type": "modifica",
