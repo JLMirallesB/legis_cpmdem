@@ -207,6 +207,16 @@
         "va": "91c68c06"
       },
       "checkedAt": "2026-08-19"
+    },
+    {
+      "law": "decreto-57-2020",
+      "article": "art-36",
+      "apartado": "h",
+      "hash": {
+        "es": "ff92e6f1",
+        "va": "979f5794"
+      },
+      "checkedAt": "2026-10-18"
     }
   ],
   "discarded": [
@@ -242,12 +252,6 @@
       "article": "art-6",
       "apartado": "4",
       "reason": "Funciones de la tutoría en convivencia: ficha de convivencia"
-    },
-    {
-      "law": "decreto-57-2020",
-      "article": "art-36",
-      "apartado": "h",
-      "reason": "Planificación de las sesiones de evaluación"
     },
     {
       "law": "decreto-104-2018",

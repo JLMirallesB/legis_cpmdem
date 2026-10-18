@@ -343,6 +343,86 @@
         "va": "bc2d5e58"
       },
       "checkedAt": "2026-08-19"
+    },
+    {
+      "law": "decreto-193-2025",
+      "article": "art-18",
+      "apartado": "1",
+      "hash": {
+        "es": "d71c17cd",
+        "va": "77221327"
+      },
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "law": "decreto-57-2020",
+      "article": "art-56",
+      "apartado": "1",
+      "hash": {
+        "es": "914b068a",
+        "va": "267f66ac"
+      },
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "law": "resolucion-inicio-curso-2025-2026",
+      "article": "anexo-1-2",
+      "apartado": "1.2.5.1",
+      "hash": {
+        "es": "56018cb6",
+        "va": "2072443f"
+      },
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "law": "resolucion-inicio-curso-2026-2027",
+      "article": "anexo-1-2",
+      "apartado": "1.2.5.1",
+      "hash": {
+        "es": "8ca98f2f",
+        "va": "5f228c22"
+      },
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "law": "decreto-57-2020",
+      "article": "art-44",
+      "apartado": "6.m",
+      "hash": {
+        "es": "f570d605",
+        "va": "088e94b7"
+      },
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "law": "resolucion-inicio-curso-2026-2027",
+      "article": "anexo-3-2",
+      "apartado": "3.2.4.4",
+      "hash": {
+        "es": "9f346c35",
+        "va": "b6ec1b82"
+      },
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "law": "resolucion-piie-2026-2028",
+      "article": "apartado-5",
+      "apartado": "1",
+      "hash": {
+        "es": "03b3c8c0",
+        "va": "ad44720e"
+      },
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "law": "decreto-57-2020",
+      "article": "art-31",
+      "apartado": "5",
+      "hash": {
+        "es": "229a593a",
+        "va": "bddcf39c"
+      },
+      "checkedAt": "2026-10-18"
     }
   ],
   "discarded": [
@@ -379,12 +459,6 @@
       "reason": "Preámbulo: encuadre, no regulación"
     },
     {
-      "law": "decreto-193-2025",
-      "article": "art-18",
-      "apartado": "1",
-      "reason": "El plan de convivencia: ficha propia"
-    },
-    {
       "law": "decreto-57-2020",
       "article": "art-11",
       "apartado": "m",
@@ -410,21 +484,9 @@
     },
     {
       "law": "decreto-57-2020",
-      "article": "art-31",
-      "apartado": "5",
-      "reason": "La memoria final de curso: ficha propia"
-    },
-    {
-      "law": "decreto-57-2020",
       "article": "art-40",
       "apartado": "2.n",
       "reason": "Quién organiza las actividades, no qué recoge la PGA"
-    },
-    {
-      "law": "decreto-57-2020",
-      "article": "art-44",
-      "apartado": "6.m",
-      "reason": "Propuestas de actividades de la AMPA"
     },
     {
       "law": "decreto-57-2020",
@@ -443,12 +505,6 @@
       "article": "art-52",
       "apartado": "6",
       "reason": "La memoria final de curso: ficha propia"
-    },
-    {
-      "law": "decreto-57-2020",
-      "article": "art-56",
-      "apartado": "1",
-      "reason": "El plan de autoevaluación: ficha propia"
     },
     {
       "law": "orden-20-2019",
@@ -506,24 +562,6 @@
     },
     {
       "law": "resolucion-inicio-curso-2025-2026",
-      "article": "anexo-1-2",
-      "apartado": "1.2.5.1",
-      "reason": "La autoevaluación: ficha propia"
-    },
-    {
-      "law": "resolucion-inicio-curso-2026-2027",
-      "article": "anexo-1-2",
-      "apartado": "1.2.5.1",
-      "reason": "La autoevaluación: ficha propia"
-    },
-    {
-      "law": "resolucion-inicio-curso-2026-2027",
-      "article": "anexo-3-2",
-      "apartado": "3.2.4.4",
-      "reason": "Desplazamiento del profesorado"
-    },
-    {
-      "law": "resolucion-inicio-curso-2025-2026",
       "article": "anexo-4-3",
       "apartado": "1",
       "reason": "La memoria final de curso: ficha propia"
@@ -557,12 +595,6 @@
       "article": "preambulo",
       "apartado": "0",
       "reason": "Preámbulo: encuadre, no regulación"
-    },
-    {
-      "law": "resolucion-piie-2026-2028",
-      "article": "apartado-5",
-      "apartado": "1",
-      "reason": "Requisitos de los proyectos de innovación"
     }
   ]
 }

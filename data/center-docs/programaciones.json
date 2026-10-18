@@ -358,6 +358,46 @@
         "va": "61fb136f"
       },
       "checkedAt": "2026-08-19"
+    },
+    {
+      "law": "decreto-57-2020",
+      "article": "art-31",
+      "apartado": "4",
+      "hash": {
+        "es": "596875ac",
+        "va": "e988b934"
+      },
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "law": "decreto-57-2020",
+      "article": "art-35",
+      "apartado": "1",
+      "hash": {
+        "es": "f1448a14",
+        "va": "6170bb23"
+      },
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "law": "orden-20-2019",
+      "article": "art-17",
+      "apartado": "1.c",
+      "hash": {
+        "es": "a317019d",
+        "va": "d414d2a0"
+      },
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "law": "orden-20-2019",
+      "article": "art-14",
+      "apartado": "1",
+      "hash": {
+        "es": "f26ce59f",
+        "va": "711ef34e"
+      },
+      "checkedAt": "2026-10-18"
     }
   ],
   "discarded": [
@@ -387,18 +427,6 @@
       "article": "art-27",
       "apartado": "1",
       "reason": "Naturaleza de los departamentos didácticos"
-    },
-    {
-      "law": "decreto-57-2020",
-      "article": "art-31",
-      "apartado": "4",
-      "reason": "Reuniones por grupos de asignaturas"
-    },
-    {
-      "law": "decreto-57-2020",
-      "article": "art-35",
-      "apartado": "1",
-      "reason": "Naturaleza de la comisión de coordinación pedagógica"
     },
     {
       "law": "decreto-57-2020",
@@ -432,21 +460,9 @@
     },
     {
       "law": "orden-20-2019",
-      "article": "art-14",
-      "apartado": "1",
-      "reason": "Encuadre de las medidas de nivel II"
-    },
-    {
-      "law": "orden-20-2019",
       "article": "art-16",
       "apartado": "2",
       "reason": "Actuaciones dentro del aula ordinaria"
-    },
-    {
-      "law": "orden-20-2019",
-      "article": "art-17",
-      "apartado": "1.c",
-      "reason": "Documentos de gestión del centro en general"
     },
     {
       "law": "orden-20-2019",

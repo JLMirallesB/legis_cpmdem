@@ -147,6 +147,46 @@
         "va": "22a274f4"
       },
       "checkedAt": "2026-08-19"
+    },
+    {
+      "law": "decreto-57-2020",
+      "article": "art-56",
+      "apartado": "3",
+      "hash": {
+        "es": "de0f326a",
+        "va": "c39292e2"
+      },
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "law": "resolucion-inicio-curso-2025-2026",
+      "article": "anexo-4-2",
+      "apartado": "4.2.2.3",
+      "hash": {
+        "es": "2c92a191",
+        "va": "84c40145"
+      },
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "law": "resolucion-inicio-curso-2026-2027",
+      "article": "anexo-4-2",
+      "apartado": "4.2.2.3",
+      "hash": {
+        "es": "34968c17",
+        "va": "e23f22c7"
+      },
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "law": "resolucion-paf-2026-2027",
+      "article": "apartado-13",
+      "apartado": "b",
+      "hash": {
+        "es": "65883fe8",
+        "va": "672fe984"
+      },
+      "checkedAt": "2026-10-18"
     }
   ],
   "discarded": [
@@ -166,12 +206,6 @@
       "reason": "El Plan de Mejora: ficha propia"
     },
     {
-      "law": "decreto-57-2020",
-      "article": "art-56",
-      "apartado": "3",
-      "reason": "El plan de autoevaluación: ficha propia"
-    },
-    {
       "law": "orden-20-2019",
       "article": "art-58",
       "apartado": "4.c",
@@ -184,28 +218,10 @@
       "reason": "Modifica la Orden 5/2017; se cita el artículo 10 vigente"
     },
     {
-      "law": "resolucion-inicio-curso-2025-2026",
-      "article": "anexo-4-2",
-      "apartado": "4.2.2.3",
-      "reason": "El Plan de Mejora: ficha propia"
-    },
-    {
-      "law": "resolucion-inicio-curso-2026-2027",
-      "article": "anexo-4-2",
-      "apartado": "4.2.2.3",
-      "reason": "El Plan de Mejora: ficha propia"
-    },
-    {
       "law": "resolucion-paf-2026-2027",
       "article": "preambulo",
       "apartado": "0",
       "reason": "Preámbulo: encuadre, no regulación"
-    },
-    {
-      "law": "resolucion-paf-2026-2027",
-      "article": "apartado-13",
-      "apartado": "b",
-      "reason": "Formación del profesorado"
     },
     {
       "law": "resolucion-paf-2026-2027",

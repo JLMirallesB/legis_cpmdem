@@ -547,6 +547,56 @@
       },
       "checkedAt": "2026-08-19",
       "part": "curriculo"
+    },
+    {
+      "law": "orden-8-2026",
+      "article": "art-8",
+      "apartado": "1",
+      "hash": {
+        "es": "64833860",
+        "va": "1803825f"
+      },
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "law": "orden-28-2011",
+      "article": "art-41",
+      "apartado": "3",
+      "hash": {
+        "es": "b715081b",
+        "va": "e4bb9d61"
+      },
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "law": "decreto-57-2020",
+      "article": "art-31",
+      "apartado": "5",
+      "hash": {
+        "es": "229a593a",
+        "va": "bddcf39c"
+      },
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "law": "decreto-57-2020",
+      "article": "art-56",
+      "apartado": "2",
+      "hash": {
+        "es": "97ef4493",
+        "va": "59163534"
+      },
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "law": "decreto-104-2018",
+      "article": "art-14",
+      "apartado": "1.a",
+      "hash": {
+        "es": "b005d87b",
+        "va": "603132ad"
+      },
+      "checkedAt": "2026-10-18"
     }
   ],
   "discarded": [
@@ -569,18 +619,6 @@
       "law": "resolucion-piie-2026-2028",
       "article": "*",
       "reason": "Mención de pasada en los motivos de exclusión"
-    },
-    {
-      "law": "orden-8-2026",
-      "article": "art-8",
-      "apartado": "1",
-      "reason": "Mención de pasada: la prueba de acceso, no el PEC"
-    },
-    {
-      "law": "orden-28-2011",
-      "article": "art-41",
-      "apartado": "3",
-      "reason": "Mención de pasada: selección de asignaturas"
     },
     {
       "law": "orden-4-2026",
@@ -650,12 +688,6 @@
     },
     {
       "law": "decreto-57-2020",
-      "article": "art-31",
-      "apartado": "5",
-      "reason": "La memoria de los departamentos"
-    },
-    {
-      "law": "decreto-57-2020",
       "article": "art-38",
       "apartado": "2.a",
       "reason": "Formación del profesorado"
@@ -665,12 +697,6 @@
       "article": "art-51",
       "apartado": "2",
       "reason": "El proyecto de gestión: ficha propia"
-    },
-    {
-      "law": "decreto-57-2020",
-      "article": "art-56",
-      "apartado": "2",
-      "reason": "El plan de autoevaluación: ficha propia"
     },
     {
       "law": "decreto-104-2018",
@@ -689,12 +715,6 @@
       "article": "art-12",
       "apartado": "2.a",
       "reason": "Es la PGA, no el PEC"
-    },
-    {
-      "law": "decreto-104-2018",
-      "article": "art-14",
-      "apartado": "1.a",
-      "reason": "Detalle de los niveles de respuesta"
     },
     {
       "law": "decreto-104-2018",

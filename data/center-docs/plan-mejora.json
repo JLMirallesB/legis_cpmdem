@@ -410,6 +410,46 @@
       },
       "checkedAt": "2026-08-19",
       "part": "autoevaluacion"
+    },
+    {
+      "law": "orden-5-2017",
+      "article": "art-10",
+      "apartado": "2",
+      "hash": {
+        "es": "af7614a7",
+        "va": "559e1dff"
+      },
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "law": "resolucion-coordinacion-horaria-2026-2027",
+      "article": "apartado-7",
+      "apartado": "0",
+      "hash": {
+        "es": "346ae2a6",
+        "va": "8aaca625"
+      },
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "law": "resolucion-inicio-curso-2025-2026",
+      "article": "anexo-4-3",
+      "apartado": "2",
+      "hash": {
+        "es": "0bc6c478",
+        "va": "edee56b3"
+      },
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "law": "resolucion-inicio-curso-2026-2027",
+      "article": "anexo-4-3",
+      "apartado": "2",
+      "hash": {
+        "es": "0bc6c478",
+        "va": "424f9a17"
+      },
+      "checkedAt": "2026-10-18"
     }
   ],
   "discarded": [
@@ -453,34 +493,10 @@
       "reason": "Convocatorias de innovación; usa la denominación de régimen general"
     },
     {
-      "law": "orden-5-2017",
-      "article": "art-10",
-      "apartado": "2",
-      "reason": "La programación general anual: ficha propia"
-    },
-    {
       "law": "orden-4-2026",
       "article": "df-3",
       "apartado": "2~4",
       "reason": "Modifica la Orden 5/2017"
-    },
-    {
-      "law": "resolucion-coordinacion-horaria-2026-2027",
-      "article": "apartado-7",
-      "apartado": "0",
-      "reason": "La programación general anual: ficha propia"
-    },
-    {
-      "law": "resolucion-inicio-curso-2025-2026",
-      "article": "anexo-4-3",
-      "apartado": "2",
-      "reason": "La memoria final de curso: ficha propia"
-    },
-    {
-      "law": "resolucion-inicio-curso-2026-2027",
-      "article": "anexo-4-3",
-      "apartado": "2",
-      "reason": "La memoria final de curso: ficha propia"
     },
     {
       "law": "decreto-2-2022",

@@ -341,6 +341,66 @@
         "va": "8aaca625"
       },
       "checkedAt": "2026-08-19"
+    },
+    {
+      "law": "decreto-193-2025",
+      "article": "art-6",
+      "apartado": "5",
+      "hash": {
+        "es": "c0900cd6",
+        "va": "2c0f2c4b"
+      },
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "law": "decreto-193-2025",
+      "article": "art-28",
+      "apartado": "28.1.7.a.3",
+      "hash": {
+        "es": "e2ce28ac",
+        "va": "96165cda"
+      },
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "law": "decreto-193-2025",
+      "article": "art-28",
+      "apartado": "28.1.7.c.1",
+      "hash": {
+        "es": "0fb35d8b",
+        "va": "0da3a71d"
+      },
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "law": "decreto-93-2016",
+      "article": "art-22",
+      "apartado": "3",
+      "hash": {
+        "es": "1e3f45f3",
+        "va": "29cf4d8e"
+      },
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "law": "cuenta-gestion-centros-docentes",
+      "article": "sec-pregunta-29",
+      "apartado": "ingresos-recibidos-de-las-familias-por-i",
+      "hash": {
+        "es": "286a722a",
+        "va": "286a722a"
+      },
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "law": "resolucion-inicio-curso-2026-2027",
+      "article": "anexo-3-2",
+      "apartado": "3.2.3.2",
+      "hash": {
+        "es": "c7f8174b",
+        "va": "8f243618"
+      },
+      "checkedAt": "2026-10-18"
     }
   ],
   "discarded": [
@@ -406,38 +466,14 @@
     {
       "law": "decreto-193-2025",
       "article": "art-6",
-      "apartado": "5",
-      "reason": "El proyecto educativo: ficha propia"
-    },
-    {
-      "law": "decreto-193-2025",
-      "article": "art-6",
       "apartado": "6",
       "reason": "Deber del profesorado, no contenido de las NOF"
-    },
-    {
-      "law": "decreto-193-2025",
-      "article": "art-28",
-      "apartado": "28.1.7.a.3",
-      "reason": "Trámite del expediente disciplinario"
-    },
-    {
-      "law": "decreto-193-2025",
-      "article": "art-28",
-      "apartado": "28.1.7.c.1",
-      "reason": "Trámite del expediente disciplinario"
     },
     {
       "law": "decreto-193-2025",
       "article": "art-33",
       "apartado": "2.a",
       "reason": "Derechos de las familias: la referencia es incidental"
-    },
-    {
-      "law": "decreto-93-2016",
-      "article": "art-22",
-      "apartado": "3",
-      "reason": "Constitución del consejo escolar: mención de pasada"
     },
     {
       "law": "orden-32-2011",
@@ -464,22 +500,10 @@
       "reason": "Modifica la Orden 5/2017; no regula las NOF"
     },
     {
-      "law": "cuenta-gestion-centros-docentes",
-      "article": "sec-pregunta-29",
-      "apartado": "ingresos-recibidos-de-las-familias-por-i",
-      "reason": "Xarxa Llibres: mención de pasada"
-    },
-    {
       "law": "guia-plan-mejora",
       "article": "anexo-2",
       "apartado": "centro",
       "reason": "Indicadores del plan de mejora"
-    },
-    {
-      "law": "resolucion-inicio-curso-2026-2027",
-      "article": "anexo-3-2",
-      "apartado": "3.2.3.2",
-      "reason": "Criterios de agrupamiento y distribución de grupos"
     },
     {
       "law": "ley-organica-2-2006",

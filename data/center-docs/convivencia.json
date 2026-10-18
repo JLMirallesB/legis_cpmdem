@@ -141,6 +141,26 @@
         "va": "ec774952"
       },
       "checkedAt": "2026-08-19"
+    },
+    {
+      "law": "decreto-193-2025",
+      "article": "art-5",
+      "apartado": "4",
+      "hash": {
+        "es": "f21d0237",
+        "va": "ebbc25ae"
+      },
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "law": "decreto-193-2025",
+      "article": "art-4",
+      "apartado": "5",
+      "hash": {
+        "es": "cc09f265",
+        "va": "3ca4cba1"
+      },
+      "checkedAt": "2026-10-18"
     }
   ],
   "discarded": [
@@ -160,18 +180,6 @@
       "article": "preambulo",
       "apartado": "0",
       "reason": "Preámbulo: encuadre, no regulación"
-    },
-    {
-      "law": "decreto-193-2025",
-      "article": "art-4",
-      "apartado": "5",
-      "reason": "El proyecto educativo: ficha propia"
-    },
-    {
-      "law": "decreto-193-2025",
-      "article": "art-5",
-      "apartado": "4",
-      "reason": "Las normas de organización y funcionamiento: ficha propia"
     },
     {
       "law": "decreto-57-2020",

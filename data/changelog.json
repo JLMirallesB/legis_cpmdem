@@ -1,5 +1,23 @@
 [
   {
+    "version": "2.9.1",
+    "date": "2026-10-18",
+    "entries": {
+      "es": [
+        {
+          "type": "corregido",
+          "description": "Documentos de centro: se recuperan 34 apartados que se habían descartado aunque regulan el documento. Casi todos hablaban de dos documentos a la vez y se quedaron fuera de los dos. Ahora la PGA recoge que de ella forman parte el plan de convivencia, el de autoevaluación, el plan de mejora y los proyectos de innovación. La memoria final incluye el informe del Plan de Mejora y las conclusiones de la autoevaluación. Las NOF recogen la elección del instructor de los expedientes, las normas de Xarxa Llibres y los criterios de reparto de grupos. El PEC incorpora los criterios de valoración de la prueba de acceso y los procedimientos de elección de optativas."
+        }
+      ],
+      "va": [
+        {
+          "type": "corregit",
+          "description": "Documents de centre: es recuperen 34 apartats que s’havien descartat tot i que regulen el document. Quasi tots parlaven de dos documents alhora i es van quedar fora de tots dos. Ara la PGA recull que en formen part el pla de convivència, el d’autoavaluació, el pla de millora i els projectes d’innovació. La memòria final inclou l’informe del Pla de Millora i les conclusions de l’autoavaluació. Les NOF arrepleguen l’elecció de l’instructor dels expedients, les normes de Xarxa Llibres i els criteris de repartiment de grups. El PEC incorpora els criteris de valoració de la prova d’accés i els procediments d’elecció d’optatives."
+        }
+      ]
+    }
+  },
+  {
     "version": "2.9.0",
     "date": "2026-10-18",
     "entries": {
