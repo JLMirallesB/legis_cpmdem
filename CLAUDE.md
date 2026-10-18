@@ -415,7 +415,7 @@ corrige a ojo**: se deja como está.
 #### Estructura JSON
 - `id` y `slug` deben ser iguales y coincidir con el nombre del archivo (sin .json)
 - Convención: `{tipo}-{numero}-{año}` → `decreto-158-2007`. Para resoluciones anuales: `resolucion-inicio-curso-2025-2026`
-- Categorías válidas: `curriculo`, `organizacion`, `acceso`, `evaluacion`, `profesorado`, `titulaciones`, `general`
+- Categorías válidas: las de `data/metadata/categories.json` (no mantener lista duplicada aquí). Las leyes ómnibus van en `leyes_modificadoras`, no en `general`
 - IDs de estructura: `art-N`, `titulo-N`, `titulo-N-cap-N`, `cap-N`, `da-N`, `dt-N`, `dd-unica`, `df-N`, `anexo-N`, `preambulo`
 
 #### Propiedades de clasificación (OBLIGATORIO en toda nueva ingesta)
@@ -488,6 +488,8 @@ Cada año, junto a los presupuestos, Les Corts aprueban una ley de medidas fisca
 
 1. **¿Modifica la Ley 20/2017, de tasas?** Casi siempre sí, y casi siempre toca el título XIV (tasas en materia de educación). Hay que abrir `data/laws/{es,va}/ley-20-2017.json` y **crear las versiones** de los artículos afectados (`art-14-1-2`, `art-14-2-5`, `art-14-5-5`, `dt-unica`…), actualizar `posteriorAffectations` y `vigpiracy.lastModifiedDate`. Si no se hace, el repositorio publica tarifas de matrícula caducadas, que es peor que no publicarlas.
 2. **¿Modifica alguna otra ley ya ingestada?** Revisar el capítulo de la Conselleria de Educación, Cultura y Universidades y el índice completo: el Decreto 193/2025 de convivencia, el Decreto 80/2017 de inspección o los decretos de currículo pueden aparecer en cualquier capítulo.
+
+Categoría: **`leyes_modificadoras`** («Leyes de medidas y ómnibus»), tanto para las leyes de acompañamiento como para las de medidas urgentes (`ley-3-2026`, hiperregulación). Lo que las une es la forma, no el tema; `general` queda para normativa transversal con contenido propio.
 
 Convenciones de alcance para estas leyes (ver `ley-5-2026` como modelo): se conserva el esqueleto completo de títulos, capítulos y secciones, agrupando en un solo nodo los **tramos de capítulos seguidos** sin incidencia («Capítulos I a VI. …»), y se reproduce con texto íntegro solo lo que afecta a las enseñanzas de música y danza. El preámbulo se poda igual: enteros los apartados de encuadre general de la ley, y del resto solo los párrafos con incidencia, sustituyendo los tramos elididos por la nota.
 

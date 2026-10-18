@@ -537,7 +537,7 @@
       "slug": "ley-5-2026",
       "title": "Ley 5/2026 - Medidas fiscales, de gestión administrativa y financiera, y de organización de la Generalitat",
       "status": "ingested",
-      "category": "general",
+      "category": "leyes_modificadoras",
       "notes": "Ley de acompañamiento (DOGV 10425, 10/08/2026). Ingesta parcial: texto íntegro en los arts. 1, 2 y 17 (tasas de educación no universitaria y de enseñanzas artísticas superiores, Ley 20/2017; en el cuadro del art. 2 van en negrita los conceptos de conservatorio), los arts. 152-157 (capítulo VII, Educación) y la derogatoria y las 5 DF. Del resto de la ley (3 títulos, 15 capítulos, 199 arts) se conserva la estructura con los tramos de capítulos seguidos agrupados en un nodo con la nota de no relativo a conservatorios. Preámbulo podado: apartados I-III enteros y, de IV, V y VII, solo los párrafos de educación, tasas y parte final. Modifica el D.193/2025 (arts. 25, 30 y 32) y la Ley 20/2017 de tasas. El preámbulo se omitió en la edición ES y lo reprodujo la corrección de errores DOGV 10425 bis (2026/26688). Vigente desde 11/08/2026."
     },
     {
@@ -565,7 +565,7 @@
       "slug": "ley-3-2026",
       "title": "Ley 3/2026 - Medidas urgentes frente a la hiperregulación, la agilización de procedimientos y la garantía de la unidad de mercado",
       "status": "ingested",
-      "category": "general",
+      "category": "leyes_modificadoras",
       "notes": "Ley de la Generalitat (DOGV 10396, 02/07/2026), tramitación como proyecto de ley del Decreto ley 14/2025, al que deroga. PDF separado por idioma (2026/22611). Ingesta parcial con el modelo de ley-5-2026: texto íntegro del art. 25 (start-ups de estudiantes, abierto a las enseñanzas artísticas de régimen especial), del art. 98 (apartados 7 y 8 del art. 10 del D. 2/2022), de la derogatoria y de las 4 DF; del resto (9 títulos, 133 arts.) se conserva la estructura con la nota de no relativo. Preámbulo podado: I, II y IV enteros y, de III, solo los párrafos de start-ups y del D. 2/2022. Modifica el D. 2/2022 (art. 10, versiones v1 original, v2 DL 14/2025 y v3 esta ley, con el mismo texto) y la Ley 20/2017 de tasas (art. 84: arts. 1.3-1, 17.1-2, 20.1-4 y 26.2-5, fuera del título XIV, sin versiones). El DL 14/2025 no está ingestado: decreto-ley-14-2025 queda como enlace pendiente. Vigente desde 03/07/2026."
     }
   ]

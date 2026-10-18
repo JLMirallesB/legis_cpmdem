@@ -104,15 +104,25 @@ Mismo que el nombre del archivo sin `.json`. Los campos `id` y `slug` deben tene
 
 Ver `data/metadata/categories.json`:
 
-| ID | Descripción |
-|----|-------------|
-| `curriculo` | Planes de estudio y currículo |
-| `organizacion` | Organización y funcionamiento de centros |
-| `acceso` | Acceso, admisión y pruebas de ingreso |
-| `evaluacion` | Evaluación, calificación y promoción |
-| `profesorado` | Normativa del profesorado |
-| `titulaciones` | Títulos, certificaciones y equivalencias |
-| `general` | Legislación general de educación |
+| ID | Etiqueta |
+|----|----------|
+| `curriculo` | Currículo |
+| `organizacion` | Organización y funcionamiento |
+| `premios` | Premios |
+| `evaluacion` | Evaluación |
+| `acceso` | Acceso y admisión |
+| `flexibilizacion` | Flexibilización |
+| `leyes_organicas` | Leyes Orgánicas de Educación |
+| `orientacion_convivencia` | Orientación y Convivencia |
+| `profesorado` | Profesorado |
+| `titulaciones` | Titulaciones |
+| `economica` | Gestión económica |
+| `convalidaciones` | Convalidaciones |
+| `tic` | TIC |
+| `obtencion_directa` | Obtención directa |
+| `convocatorias` | Convocatorias |
+| `leyes_modificadoras` | Leyes de medidas y ómnibus |
+| `general` | Normativa general |
 
 ---
 

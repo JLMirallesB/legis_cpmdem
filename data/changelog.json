@@ -1,5 +1,23 @@
 [
   {
+    "version": "2.7.1",
+    "date": "2026-10-18",
+    "entries": {
+      "es": [
+        {
+          "type": "mejora",
+          "description": "Nueva categoría «Leyes de medidas y ómnibus» para las leyes que modifican de una vez muchas normas: la Ley 5/2026, de acompañamiento, y la Ley 3/2026, de medidas frente a la hiperregulación. Hasta ahora estaban en «Normativa general», mezcladas con los calendarios."
+        }
+      ],
+      "va": [
+        {
+          "type": "millora",
+          "description": "Nova categoria «Lleis de mesures i òmnibus» per a les lleis que modifiquen d'una vegada moltes normes: la Llei 5/2026, d'acompanyament, i la Llei 3/2026, de mesures davant la hiperregulació. Fins ara estaven en «Normativa general», barrejades amb els calendaris."
+        }
+      ]
+    }
+  },
+  {
     "version": "2.7.0",
     "date": "2026-10-18",
     "entries": {

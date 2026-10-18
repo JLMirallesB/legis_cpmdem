@@ -136,6 +136,15 @@
       "icon": "door"
     },
     {
+      "id": "leyes_modificadoras",
+      "label": { "es": "Leyes de medidas y ómnibus", "va": "Lleis de mesures i òmnibus" },
+      "description": {
+        "es": "Leyes de acompañamiento y de medidas urgentes que modifican de una vez muchas normas; se reproduce solo lo que afecta a los conservatorios y a las escuelas de música y artes escénicas",
+        "va": "Lleis d'acompanyament i de mesures urgents que modifiquen d'una vegada moltes normes; es reproduïx només el que afecta els conservatoris i les escoles de música i arts escèniques"
+      },
+      "icon": "scale"
+    },
+    {
       "id": "general",
       "label": { "es": "Normativa general", "va": "Normativa general" },
       "description": {
