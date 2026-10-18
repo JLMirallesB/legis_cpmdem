@@ -1,5 +1,23 @@
 [
   {
+    "version": "2.8.1",
+    "date": "2026-10-18",
+    "entries": {
+      "es": [
+        {
+          "type": "mejora",
+          "description": "Protocolo de emergencias exteriores por fenómenos meteorológicos adversos: enlace a la Guía técnica de apoyo y consulta rápida para el profesorado del 112 Comunitat Valenciana (agosto de 2026), con pautas de prevención, autoprotección y respuesta inicial ante inundaciones, tormentas, incendios, terremotos y otros riesgos. Disponible en valenciano."
+        }
+      ],
+      "va": [
+        {
+          "type": "millora",
+          "description": "Protocol d’emergències exteriors per fenòmens meteorològics adversos: enllaç a la Guia tècnica de suport i consulta ràpida per al professorat del 112 Comunitat Valenciana (agost de 2026), amb pautes de prevenció, autoprotecció i resposta inicial davant d’inundacions, tempestes, incendis, terratrémols i altres riscos."
+        }
+      ]
+    }
+  },
+  {
     "version": "2.8.0",
     "date": "2026-10-18",
     "entries": {

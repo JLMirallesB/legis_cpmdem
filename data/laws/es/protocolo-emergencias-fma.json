@@ -215,6 +215,13 @@
       }
     ]
   },
+  "externalResources": [
+    {
+      "id": "guia-112-profesorado",
+      "title": "Guía técnica de apoyo y consulta rápida para el profesorado de centros docentes no universitarios (112 CV, agosto de 2026; en valenciano)",
+      "url": "https://www.112cv.gva.es/documents/163565706/413620410/Guia+val+DIGITAL+05-08.pdf/6b1a605c-f436-98eb-31e8-38a5c8a0ce82"
+    }
+  ],
   "scope": "general",
   "territory": "autonomico",
   "temporality": {
