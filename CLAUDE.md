@@ -108,8 +108,10 @@ node scripts/refs-triage.mjs pec --ley <slug-de-la-ley-nueva>
 ```
 
 Lista los apartados de esa ley que hablan del documento y que aún no están
-decididos. Cada candidato acaba en uno de dos sitios de la ficha: en `refs` si
-regula el documento, o en `discarded` con su motivo si es mención de pasada.
+decididos. Cada candidato acaba en uno de tres sitios de la ficha: en `refs` si
+regula el documento; en `refs` con `effect` y nota bilingüe si, sin regularlo,
+le da consecuencias (solo fichas de documentos, ver «Efectos» en
+`docs/DATA-SCHEMA.md`); o en `discarded` con su motivo si es mención de pasada.
 Lo ya decidido no se vuelve a preguntar, así que el cribado no se repite.
 
 Criterio de corte: entra lo que **regula** el documento —qué contiene, quién lo
@@ -117,10 +119,20 @@ elabora, quién lo aprueba, qué obligación impone— y no lo que solo lo nombr
 («de acuerdo con el proyecto educativo»). Ante la duda, descartar y anotar por
 qué: un descarte razonado se revisa fácil, una ficha inflada no se lee.
 
+Efecto o descarte: es efecto si la norma hace depender algo **concreto y
+comprobable** del documento —autoriza, obliga, permite reclamar, otra actuación
+tiene que ajustarse a él, alguien lo vigila—. «De acuerdo con el proyecto
+educativo» suelto, en una lista de funciones, sigue siendo marco genérico. El
+cribado marca con `◆` los candidatos con pinta de efecto.
+
 Regla de separación entre fichas: **si tienen nombre distinto son documentos
 distintos**, aunque uno viva dentro de otro. El PEC, la PGA y el Plan de Mejora
 son tres fichas, no una. (Y en conservatorios el documento se llama **Plan de
-Mejora**: el PAM es otra cosa, de los centros de régimen general.)
+Mejora**: el PAM es otra cosa, de los centros de régimen general.) Pero la
+regla sirve para no fundir fichas, **no para descartar**: un apartado que dice
+«el plan de convivencia se incorporará a la PGA» regula las dos y entra en las
+dos. Descartarlo de cada una con «ficha propia» fue el error que corrigió la
+v2.9.1 (34 apartados).
 
 **Fichas que no se criban por términos.** Algunas no se definen por una
 palabra sino por un tramo de articulado («los arts. 15-24 de la Ley 40/2015»)

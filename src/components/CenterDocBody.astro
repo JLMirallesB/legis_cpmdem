@@ -58,6 +58,38 @@ const historico = doc.groups.find(g => g.id === 'historico');
         </section>
       ))}
 
+      {doc.effects.length > 0 && (
+        <section class="doc-group effects">
+          <h2 class="group-title">{t('docs.effects.title', lang)}</h2>
+          <p class="group-desc">{t('docs.effects.desc', lang)}</p>
+
+          {doc.effects.map(group => (
+            <section class="effect-group">
+              <h3 class="effect-heading">{t(`docs.effect.${group.id}`, lang)}</h3>
+              <p class="group-desc">{t(`docs.effect.${group.id}_desc`, lang)}</p>
+
+              {group.items.map(f => (
+                <article class="fragment-block effect-block">
+                  <p class="effect-note">{f.note}</p>
+                  <h4 class="fragment-title">
+                    <a href={`${base}${lang}/${lawPath}/${f.lawSlug}/`} class="effect-law">{f.lawShort}</a>
+                    {f.schoolYear && (
+                      <span class="law-course">{t('docs.course', lang, { year: f.schoolYear })}</span>
+                    )}
+                    <a href={f.url}>{f.articleTitle}</a>
+                    {f.apartado && (
+                      <span class="fragment-apartado">{t('cuadernos.apartado', lang, { path: f.apartado })}</span>
+                    )}
+                  </h4>
+                  <FreshnessBadge freshness={f.freshness} lang={lang} checkedAt={f.savedAt} />
+                  <div class="fragment-body" set:html={f.html} />
+                </article>
+              ))}
+            </section>
+          ))}
+        </section>
+      )}
+
       {historico && (
         <details class="historico">
           <summary>{t('docs.historico_toggle', lang)}</summary>
@@ -259,6 +291,42 @@ const historico = doc.groups.find(g => g.id === 'historico');
   .fragment-body {
     font-size: 0.95rem;
     line-height: 1.65;
+  }
+
+  .effects {
+    border-top: 1px solid var(--color-border);
+    padding-top: var(--space-lg);
+  }
+
+  .effect-group { margin-bottom: var(--space-xl); }
+
+  .effect-heading {
+    font-size: 1rem;
+    font-weight: 600;
+    margin-bottom: var(--space-xs);
+  }
+
+  /* La nota es lo primero que se lee: el texto legal viene a respaldarla. */
+  .effect-note {
+    font-weight: 600;
+    margin-bottom: var(--space-xs);
+  }
+
+  .effect-block .fragment-title {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    gap: var(--space-xs) var(--space-sm);
+  }
+
+  .fragment-title a.effect-law {
+    color: var(--color-text);
+    border-bottom: 1px solid var(--color-border);
+  }
+
+  .fragment-title a.effect-law:hover {
+    color: var(--color-primary);
+    text-decoration: none;
   }
 
   .descartes {

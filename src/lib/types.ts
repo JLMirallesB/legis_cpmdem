@@ -188,8 +188,22 @@ export interface Ref {
   part?: string;                          // id de la parte del documento a la que pertenece
   checkedAt?: string;                     // YYYY-MM-DD en que se revisó por última vez
   hash?: Partial<Record<Lang, string>>;   // huella del texto resuelto ese día
-  note?: string;                          // por qué está aquí (uso editorial)
+  note?: string | Record<Lang, string>;   // por qué está aquí; bilingüe y visible si es un efecto
+  effect?: RefEffect;                     // solo documentos: el apartado no regula el documento, le da consecuencias
 }
+
+/**
+ * Lo que otra norma hace depender de un documento de centro, sin regular qué
+ * es ni quién lo hace. Va en un bloque aparte de la ficha y siempre con nota,
+ * porque «de acuerdo con el proyecto educativo» no se entiende sin decir qué
+ * consecuencia tiene.
+ *
+ *   vincula    autoriza, obliga, da derecho o permite reclamar
+ *   parametro  otra actuación tiene que ajustarse al documento
+ *   control    alguien vigila el documento o su cumplimiento
+ */
+export type RefEffect = 'vincula' | 'parametro' | 'control';
+export const REF_EFFECTS: RefEffect[] = ['vincula', 'parametro', 'control'];
 
 export type FreshnessLevel = 'ok' | 'caducado' | 'revisar' | 'derogado' | 'roto';
 
@@ -338,6 +352,17 @@ export interface CenterDocGroup {
   laws: CenterDocLawGroup[];
 }
 
+/** Un efecto resuelto: el fragmento citado más la consecuencia, dicha en una frase. */
+export interface ResolvedEffect extends ResolvedFragment {
+  note: string;
+  schoolYear?: string;
+}
+
+export interface CenterDocEffectGroup {
+  id: RefEffect;
+  items: ResolvedEffect[];
+}
+
 /** Un descarte, resuelto para poder revisarlo sin abrir el JSON. */
 export interface ResolvedDiscard {
   lawSlug: string;
@@ -383,7 +408,9 @@ export interface ResolvedCenterDoc {
   parts: ResolvedPart[];
   related: ResolvedRelation[];
   discarded: DiscardLawGroup[];
-  refCount: number;
+  effects: CenterDocEffectGroup[];
+  refCount: number;               // lo que regula el documento
+  effectCount: number;            // lo que otras normas hacen depender de él
   lawCount: number;
   freshness: FreshnessLevel;
 }

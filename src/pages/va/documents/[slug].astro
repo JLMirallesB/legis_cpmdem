@@ -36,6 +36,7 @@ const dateFormatted = new Date(doc.updatedAt).toLocaleDateString('ca-ES', {
       <p class="doc-desc">{doc.description}</p>
       <p class="doc-meta">
         {t('docs.refs', lang, { count: String(doc.refCount) })}
+        {doc.effectCount > 0 && <>{' · '}{t('docs.effects_count', lang, { count: String(doc.effectCount) })}</>}
         {' · '}
         {t('docs.laws', lang, { count: String(doc.lawCount) })}
         {' · '}

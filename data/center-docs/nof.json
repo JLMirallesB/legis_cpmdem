@@ -22,7 +22,7 @@
     "reglament de regim interior",
     "reglament de regim intern"
   ],
-  "updatedAt": "2026-10-13",
+  "updatedAt": "2026-10-18",
   "refs": [
     {
       "law": "ley-organica-2-2006",
@@ -229,7 +229,12 @@
         "es": "975d1b8e",
         "va": "11d33487"
       },
-      "checkedAt": "2026-08-19"
+      "checkedAt": "2026-08-19",
+      "effect": "vincula",
+      "note": {
+        "es": "Las familias tienen el deber de respetar las NOF y de hacer que sus hijos las respeten",
+        "va": "Les famílies tenen el deure de respectar les NOF i de fer que els seus fills les respecten"
+      }
     },
     {
       "law": "decreto-193-2025",
@@ -401,6 +406,51 @@
         "va": "8f243618"
       },
       "checkedAt": "2026-10-18"
+    },
+    {
+      "law": "decreto-193-2025",
+      "article": "art-6",
+      "apartado": "6",
+      "effect": "vincula",
+      "note": {
+        "es": "El profesorado debe actuar ante las conductas contrarias a las NOF",
+        "va": "El professorat ha d’actuar davant de les conductes contràries a les NOF"
+      },
+      "hash": {
+        "es": "bd3320b4",
+        "va": "dfa22e27"
+      },
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "law": "ley-organica-2-2006",
+      "article": "art-129",
+      "apartado": "k",
+      "effect": "vincula",
+      "note": {
+        "es": "Pueden atribuir funciones al claustro",
+        "va": "Poden atribuir funcions al claustre"
+      },
+      "hash": {
+        "es": "91e93602",
+        "va": "9a2f00f5"
+      },
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "law": "decreto-57-2020",
+      "article": "art-21",
+      "apartado": "4.l",
+      "effect": "vincula",
+      "note": {
+        "es": "Pueden atribuir funciones al claustro",
+        "va": "Poden atribuir funcions al claustre"
+      },
+      "hash": {
+        "es": "06fcbd88",
+        "va": "b5e914c7"
+      },
+      "checkedAt": "2026-10-18"
     }
   ],
   "discarded": [
@@ -435,12 +485,6 @@
     },
     {
       "law": "ley-organica-2-2006",
-      "article": "art-129",
-      "apartado": "k",
-      "reason": "Cláusula de cierre de las funciones del claustro"
-    },
-    {
-      "law": "ley-organica-2-2006",
       "article": "df-1",
       "apartado": "5",
       "reason": "Modifica la LODE; se cita la LODE"
@@ -452,12 +496,6 @@
       "reason": "Las normas de organización del Gobierno, no las de un centro docente"
     },
     {
-      "law": "decreto-57-2020",
-      "article": "art-21",
-      "apartado": "4.l",
-      "reason": "Cláusula de cierre de las funciones del claustro"
-    },
-    {
       "law": "decreto-193-2025",
       "article": "art-4",
       "apartado": "5",
@@ -465,15 +503,9 @@
     },
     {
       "law": "decreto-193-2025",
-      "article": "art-6",
-      "apartado": "6",
-      "reason": "Deber del profesorado, no contenido de las NOF"
-    },
-    {
-      "law": "decreto-193-2025",
       "article": "art-33",
       "apartado": "2.a",
-      "reason": "Derechos de las familias: la referencia es incidental"
+      "reason": "Marco genérico: lo nombra como referencia, sin consecuencia concreta"
     },
     {
       "law": "orden-32-2011",

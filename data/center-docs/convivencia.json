@@ -22,7 +22,7 @@
     "bienestar y proteccion",
     "benestar i proteccio"
   ],
-  "updatedAt": "2026-08-19",
+  "updatedAt": "2026-10-18",
   "refs": [
     {
       "law": "ley-organica-2-2006",
@@ -49,12 +49,16 @@
       "law": "decreto-193-2025",
       "article": "art-26",
       "apartado": "1.a",
-      "note": "El plan se tiene en cuenta al graduar las medidas disciplinarias",
+      "note": {
+        "es": "Sus estrategias cuentan al graduar las medidas disciplinarias",
+        "va": "Les seues estratègies compten a l’hora de graduar les mesures disciplinàries"
+      },
       "hash": {
         "es": "91ab830b",
         "va": "4a3a120e"
       },
-      "checkedAt": "2026-08-19"
+      "checkedAt": "2026-08-19",
+      "effect": "parametro"
     },
     {
       "law": "decreto-193-2025",
@@ -81,23 +85,31 @@
       "law": "decreto-57-2020",
       "article": "art-52",
       "apartado": "5.b.8",
-      "note": "La PGA concreta sus acuerdos",
+      "note": {
+        "es": "La PGA concreta sus acuerdos",
+        "va": "La PGA en concreta els acords"
+      },
       "hash": {
         "es": "a8dfd12b",
         "va": "26ba525e"
       },
-      "checkedAt": "2026-08-19"
+      "checkedAt": "2026-08-19",
+      "effect": "parametro"
     },
     {
       "law": "decreto-57-2020",
       "article": "art-30",
       "apartado": "c",
-      "note": "Las programaciones incorporan sus acuerdos",
+      "note": {
+        "es": "Las programaciones incorporan sus acuerdos",
+        "va": "Les programacions n’incorporen els acords"
+      },
       "hash": {
         "es": "de0d38e7",
         "va": "37765348"
       },
-      "checkedAt": "2026-08-19"
+      "checkedAt": "2026-08-19",
+      "effect": "parametro"
     },
     {
       "law": "decreto-57-2020",

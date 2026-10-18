@@ -20,7 +20,7 @@
     "accion tutorial",
     "accio tutorial"
   ],
-  "updatedAt": "2026-08-19",
+  "updatedAt": "2026-10-18",
   "refs": [
     {
       "law": "decreto-193-2025",
@@ -51,7 +51,12 @@
         "es": "dc8aa212",
         "va": "c73281e1"
       },
-      "checkedAt": "2026-08-19"
+      "checkedAt": "2026-08-19",
+      "effect": "parametro",
+      "note": {
+        "es": "La jefatura de estudios coordina a los tutores según el plan",
+        "va": "La prefectura d’estudis coordina els tutors segons el pla"
+      }
     },
     {
       "law": "decreto-57-2020",
@@ -61,7 +66,12 @@
         "es": "a2074b73",
         "va": "5037db5d"
       },
-      "checkedAt": "2026-08-19"
+      "checkedAt": "2026-08-19",
+      "effect": "parametro",
+      "note": {
+        "es": "Los tutores hacen las actividades que prevé el plan",
+        "va": "Els tutors fan les activitats que preveu el pla"
+      }
     },
     {
       "law": "decreto-57-2020",
@@ -71,7 +81,12 @@
         "es": "ddc36842",
         "va": "63e45286"
       },
-      "checkedAt": "2026-08-19"
+      "checkedAt": "2026-08-19",
+      "effect": "vincula",
+      "note": {
+        "es": "El plan puede atribuir funciones a los tutores",
+        "va": "El pla pot atribuir funcions als tutors"
+      }
     },
     {
       "law": "decreto-57-2020",
@@ -81,7 +96,12 @@
         "es": "bcb4b9a8",
         "va": "cdea5bce"
       },
-      "checkedAt": "2026-08-19"
+      "checkedAt": "2026-08-19",
+      "effect": "parametro",
+      "note": {
+        "es": "La atención a las familias sigue lo que establece el plan",
+        "va": "L’atenció a les famílies seguix el que establix el pla"
+      }
     },
     {
       "law": "decreto-57-2020",
@@ -91,7 +111,12 @@
         "es": "3ed043a3",
         "va": "cffe7470"
       },
-      "checkedAt": "2026-08-19"
+      "checkedAt": "2026-08-19",
+      "effect": "vincula",
+      "note": {
+        "es": "El plan puede atribuir funciones a los equipos docentes",
+        "va": "El pla pot atribuir funcions als equips docents"
+      }
     },
     {
       "law": "decreto-57-2020",
@@ -217,6 +242,36 @@
         "va": "979f5794"
       },
       "checkedAt": "2026-10-18"
+    },
+    {
+      "law": "decreto-193-2025",
+      "article": "art-6",
+      "apartado": "1",
+      "effect": "parametro",
+      "note": {
+        "es": "El tutor coordina al equipo docente en el ámbito del plan",
+        "va": "El tutor coordina l’equip docent en l’àmbit del pla"
+      },
+      "hash": {
+        "es": "61fc03d5",
+        "va": "861e7b9d"
+      },
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "law": "decreto-193-2025",
+      "article": "art-6",
+      "apartado": "4",
+      "effect": "parametro",
+      "note": {
+        "es": "El tutor actúa contra los conflictos en el marco de la acción tutorial",
+        "va": "El tutor actua contra els conflictes en el marc de l’acció tutorial"
+      },
+      "hash": {
+        "es": "2d9c8f16",
+        "va": "bc2fafce"
+      },
+      "checkedAt": "2026-10-18"
     }
   ],
   "discarded": [
@@ -240,18 +295,6 @@
       "article": "art-121",
       "apartado": "2",
       "reason": "El proyecto educativo: ficha propia"
-    },
-    {
-      "law": "decreto-193-2025",
-      "article": "art-6",
-      "apartado": "1",
-      "reason": "Funciones de la tutoría en convivencia: ficha de convivencia"
-    },
-    {
-      "law": "decreto-193-2025",
-      "article": "art-6",
-      "apartado": "4",
-      "reason": "Funciones de la tutoría en convivencia: ficha de convivencia"
     },
     {
       "law": "decreto-104-2018",

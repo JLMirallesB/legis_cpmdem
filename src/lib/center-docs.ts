@@ -1,8 +1,9 @@
 import type {
   Lang, Law, CenterDocDefinition, CenterDocGroup, CenterDocGroupId, Ref,
   ResolvedCenterDoc, ResolvedFragment, FreshnessLevel, DiscardLawGroup, ResolvedDiscard,
-  ResolvedPart, ResolvedRelation
+  ResolvedPart, ResolvedRelation, CenterDocEffectGroup, RefEffect, ResolvedEffect
 } from './types';
+import { REF_EFFECTS } from './types';
 import { getAllLaws } from './laws';
 import { resolveRef } from './notebooks';
 import { worstFreshness, findNode, currentContent, resolveApartado } from './refs-core.mjs';
@@ -39,6 +40,12 @@ function groupOf(law: Law, today: string): CenterDocGroupId {
     return expires && expires <= today ? 'historico' : 'curso';
   }
   return law.territory === 'estatal' ? 'estatal' : 'autonomico';
+}
+
+/** La nota de una referencia en el idioma pedido; las antiguas son solo texto. */
+function noteText(ref: Ref, lang: Lang): string {
+  if (!ref.note) return '';
+  return typeof ref.note === 'string' ? ref.note : ref.note[lang] ?? ref.note.es;
 }
 
 export function getAllCenterDocs(collection: Collection = 'documentos'): CenterDocDefinition[] {
@@ -155,9 +162,11 @@ export function resolveCenterDoc(
   for (const law of getAllLaws(lang)) lawMap.set(law.slug, law);
 
   const buckets = new Map<CenterDocGroupId, Map<string, ResolvedFragment[]>>();
+  const effectBuckets = new Map<RefEffect, ResolvedEffect[]>();
   const seenLaws = new Set<string>();
   let peor: FreshnessLevel = 'ok';
   let refCount = 0;
+  let effectCount = 0;
 
   const refs: Ref[] = partId ? def.refs.filter(r => r.part === partId) : def.refs;
 
@@ -170,6 +179,24 @@ export function resolveCenterDoc(
     }
 
     const gid = groupOf(law, now);
+
+    // Un efecto vigente va a su bloque, no a los de temporalidad. Uno de unas
+    // instrucciones ya vencidas cae al histórico como cualquier otra cita: lo
+    // que hacía depender del documento ya no rige.
+    if (ref.effect && gid !== 'historico') {
+      if (!effectBuckets.has(ref.effect)) effectBuckets.set(ref.effect, []);
+      effectBuckets.get(ref.effect)!.push({
+        ...resolved,
+        lawShort: law.titleShort ?? resolved.lawShort,
+        note: noteText(ref, lang),
+        schoolYear: law.temporality?.schoolYear
+      });
+      seenLaws.add(ref.law);
+      peor = worstFreshness(peor, resolved.freshness.level) as FreshnessLevel;
+      effectCount++;
+      continue;
+    }
+
     if (!buckets.has(gid)) buckets.set(gid, new Map());
     const byLaw = buckets.get(gid)!;
     if (!byLaw.has(ref.law)) byLaw.set(ref.law, []);
@@ -216,7 +243,10 @@ export function resolveCenterDoc(
     related: resolveRelations(def, lang, collection),
     // Los descartes son de la ficha entera: en la vista de una parte sobran.
     discarded: partId ? [] : resolveDiscarded(def, lang, lawMap),
+    effects: REF_EFFECTS.filter(e => effectBuckets.has(e))
+      .map((id): CenterDocEffectGroup => ({ id, items: effectBuckets.get(id)! })),
     refCount,
+    effectCount,
     lawCount: seenLaws.size,
     freshness: peor
   };

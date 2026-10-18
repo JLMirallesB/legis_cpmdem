@@ -441,6 +441,21 @@ function validateRefs() {
       total++;
       const donde = `${ctx} refs[${i}] ${ref.law}/${ref.article}${ref.apartado ? '#' + ref.apartado : ''}`;
 
+      // Efectos: solo en documentos, con tipo conocido y nota en los dos
+      // idiomas, porque la nota es lo que la ficha enseña primero.
+      if (ref.effect !== undefined) {
+        if (basename(dir) !== 'center-docs') {
+          error(donde, `effect solo se usa en las fichas de documentos (data/center-docs/)`);
+        } else if (!['vincula', 'parametro', 'control'].includes(ref.effect)) {
+          error(donde, `effect desconocido "${ref.effect}" (permitidos: vincula, parametro, control)`);
+        }
+        for (const lang of ['es', 'va']) {
+          if (typeof ref.note !== 'object' || !ref.note?.[lang]?.trim()) {
+            error(donde, `un efecto necesita note.${lang}: la consecuencia dicha en una frase`);
+          }
+        }
+      }
+
       for (const lang of ['es', 'va']) {
         const law = laws[lang].get(ref.law);
         if (!law) { error(donde, `la ley no existe en ${lang}/`); continue; }

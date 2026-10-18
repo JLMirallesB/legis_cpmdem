@@ -1,5 +1,31 @@
 [
   {
+    "version": "2.10.0",
+    "date": "2026-10-18",
+    "entries": {
+      "es": [
+        {
+          "type": "nuevo",
+          "description": "Documentos de centro: nuevo bloque «Lo que otras normas hacen depender de él». Recoge los apartados que no regulan el documento pero le dan consecuencias, cada uno con una frase que dice cuál, y los ordena en tres grupos: lo que autoriza, obliga o da derechos (las extraescolares de la PGA no necesitan permiso; matricularse supone respetar el PEC; se puede reclamar si no se aplican los criterios de la programación), lo que tiene que ajustarse al documento (la prueba de acceso, la evaluación, los horarios o los puestos de perfil, al PEC) y quién lo vigila."
+        },
+        {
+          "type": "mejora",
+          "description": "70 efectos repartidos entre PEC, PGA, programaciones, plan de acción tutorial, NOF y plan de convivencia: 28 que ya estaban en las fichas mezclados con la regulación y 42 que se habían descartado. La cabecera de cada ficha los cuenta aparte."
+        }
+      ],
+      "va": [
+        {
+          "type": "nou",
+          "description": "Documents de centre: nou bloc «El que altres normes fan dependre d’ell». Arreplega els apartats que no regulen el document però li donen conseqüències, cadascun amb una frase que diu quina, i els ordena en tres grups: el que autoritza, obliga o dona drets (les extraescolars de la PGA no necessiten permís; matricular-se suposa respectar el PEC; es pot reclamar si no s’apliquen els criteris de la programació), el que s’ha d’ajustar al document (la prova d’accés, l’avaluació, els horaris o els llocs de perfil, al PEC) i qui el vigila."
+        },
+        {
+          "type": "millora",
+          "description": "70 efectes repartits entre PEC, PGA, programacions, pla d’acció tutorial, NOF i pla de convivència: 28 que ja estaven en les fitxes barrejats amb la regulació i 42 que s’havien descartat. La capçalera de cada fitxa els compta a banda."
+        }
+      ]
+    }
+  },
+  {
     "version": "2.9.1",
     "date": "2026-10-18",
     "entries": {

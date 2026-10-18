@@ -28,7 +28,7 @@
     "programacio d'aula",
     "programacions d'aula"
   ],
-  "updatedAt": "2026-08-19",
+  "updatedAt": "2026-10-18",
   "refs": [
     {
       "law": "decreto-57-2020",
@@ -125,7 +125,12 @@
         "es": "5efa402c",
         "va": "dbc9f0d8"
       },
-      "checkedAt": "2026-08-19"
+      "checkedAt": "2026-08-19",
+      "effect": "control",
+      "note": {
+        "es": "La jefatura de estudios garantiza que se cumplan",
+        "va": "La prefectura d’estudis garantix que es complisquen"
+      }
     },
     {
       "law": "decreto-57-2020",
@@ -135,7 +140,12 @@
         "es": "1af327c6",
         "va": "59face1e"
       },
-      "checkedAt": "2026-08-19"
+      "checkedAt": "2026-08-19",
+      "effect": "control",
+      "note": {
+        "es": "La jefatura de departamento vela por su cumplimiento",
+        "va": "La direcció de departament vetla pel seu compliment"
+      }
     },
     {
       "law": "decreto-57-2020",
@@ -172,12 +182,16 @@
       "law": "decreto-57-2020",
       "article": "art-40",
       "apartado": "2.i",
-      "note": "Lo que está en la programación no puede ser actividad extraescolar",
+      "note": {
+        "es": "Lo que está en la programación no puede darse como actividad extraescolar",
+        "va": "El que està en la programació no es pot fer com a activitat extraescolar"
+      },
       "hash": {
         "es": "78ec4a8d",
         "va": "3c7a5392"
       },
-      "checkedAt": "2026-08-19"
+      "checkedAt": "2026-08-19",
+      "effect": "vincula"
     },
     {
       "law": "decreto-158-2007",
@@ -238,12 +252,16 @@
       "law": "orden-32-2011",
       "article": "art-4",
       "apartado": "6.a",
-      "note": "Se puede reclamar por aplicación incorrecta de sus criterios",
+      "note": {
+        "es": "Se puede reclamar una calificación por aplicar mal sus criterios de evaluación",
+        "va": "Es pot reclamar una qualificació per aplicar malament els seus criteris d’avaluació"
+      },
       "hash": {
         "es": "44b8981a",
         "va": "47b2ecfb"
       },
-      "checkedAt": "2026-08-19"
+      "checkedAt": "2026-08-19",
+      "effect": "vincula"
     },
     {
       "law": "orden-32-2011",
@@ -253,7 +271,12 @@
         "es": "402abb12",
         "va": "9f76d013"
       },
-      "checkedAt": "2026-08-19"
+      "checkedAt": "2026-08-19",
+      "effect": "vincula",
+      "note": {
+        "es": "Se puede reclamar si los instrumentos de evaluación no se ajustan a ella",
+        "va": "Es pot reclamar si els instruments d’avaluació no s’hi ajusten"
+      }
     },
     {
       "law": "orden-20-2019",
@@ -302,12 +325,16 @@
       "law": "resolucion-inicio-curso-2026-2027",
       "article": "anexo-8-3",
       "apartado": "8.3.1.3.d",
-      "note": "El procedimiento sustitutorio sale de la programación",
+      "note": {
+        "es": "El examen de quien pierde la evaluación continua incluye todos los contenidos de la programación",
+        "va": "L’examen de qui perd l’avaluació contínua inclou tots els continguts de la programació"
+      },
       "hash": {
         "es": "a0a9d969",
         "va": "81da33b1"
       },
-      "checkedAt": "2026-08-19"
+      "checkedAt": "2026-08-19",
+      "effect": "parametro"
     },
     {
       "law": "resolucion-inicio-curso-2026-2027",
@@ -347,7 +374,12 @@
         "es": "55b5f73f",
         "va": "0e354d17"
       },
-      "checkedAt": "2026-08-19"
+      "checkedAt": "2026-08-19",
+      "effect": "parametro",
+      "note": {
+        "es": "El examen de quien pierde la evaluación continua incluye todos los contenidos de la programación",
+        "va": "L’examen de qui perd l’avaluació contínua inclou tots els continguts de la programació"
+      }
     },
     {
       "law": "resolucion-inicio-curso-2025-2026",
@@ -398,6 +430,21 @@
         "va": "711ef34e"
       },
       "checkedAt": "2026-10-18"
+    },
+    {
+      "law": "decreto-57-2020",
+      "article": "da-3",
+      "apartado": "0",
+      "effect": "control",
+      "note": {
+        "es": "La inspección les presta especial atención",
+        "va": "La inspecció hi presta especial atenció"
+      },
+      "hash": {
+        "es": "fde7dac2",
+        "va": "44429146"
+      },
+      "checkedAt": "2026-10-18"
     }
   ],
   "discarded": [
@@ -433,12 +480,6 @@
       "article": "art-50",
       "apartado": "5",
       "reason": "El proyecto educativo: ficha propia"
-    },
-    {
-      "law": "decreto-57-2020",
-      "article": "da-3",
-      "apartado": "0",
-      "reason": "Cláusula general de cumplimiento e inspección"
     },
     {
       "law": "decreto-104-2018",

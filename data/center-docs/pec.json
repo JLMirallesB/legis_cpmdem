@@ -24,7 +24,7 @@
     "concrecion del curriculo",
     "concrecio del curriculum"
   ],
-  "updatedAt": "2026-08-19",
+  "updatedAt": "2026-10-18",
   "refs": [
     {
       "law": "ley-organica-2-2006",
@@ -55,18 +55,27 @@
         "es": "cb267b74",
         "va": "cb267b74"
       },
-      "checkedAt": "2026-08-19"
+      "checkedAt": "2026-08-19",
+      "effect": "parametro",
+      "note": {
+        "es": "La dirección impulsa planes para alcanzar sus fines",
+        "va": "La direcció impulsa plans per a assolir-ne les finalitats"
+      }
     },
     {
       "law": "ley-organica-2-2006",
       "article": "art-84",
       "apartado": "9",
-      "note": "Matricularse supone respetar el PEC",
+      "note": {
+        "es": "Matricularse en el centro supone respetar su proyecto educativo",
+        "va": "Matricular-se en el centre suposa respectar-ne el projecte educatiu"
+      },
       "hash": {
         "es": "687fa58c",
         "va": "687fa58c"
       },
-      "checkedAt": "2026-08-19"
+      "checkedAt": "2026-08-19",
+      "effect": "vincula"
     },
     {
       "law": "decreto-57-2020",
@@ -104,12 +113,16 @@
       "law": "decreto-57-2020",
       "article": "art-52",
       "apartado": "3",
-      "note": "De qué modo la PGA deriva del PEC",
+      "note": {
+        "es": "La PGA se construye con las decisiones del PEC",
+        "va": "La PGA es construïx amb les decisions del PEC"
+      },
       "hash": {
         "es": "95f989e1",
         "va": "a5c87c31"
       },
-      "checkedAt": "2026-08-19"
+      "checkedAt": "2026-08-19",
+      "effect": "parametro"
     },
     {
       "law": "decreto-57-2020",
@@ -119,7 +132,12 @@
         "es": "b5077070",
         "va": "c214b372"
       },
-      "checkedAt": "2026-08-19"
+      "checkedAt": "2026-08-19",
+      "effect": "parametro",
+      "note": {
+        "es": "La dirección impulsa planes para alcanzar sus objetivos",
+        "va": "La direcció impulsa plans per a assolir-ne els objectius"
+      }
     },
     {
       "law": "decreto-57-2020",
@@ -129,7 +147,12 @@
         "es": "587858e4",
         "va": "b5fba73f"
       },
-      "checkedAt": "2026-08-19"
+      "checkedAt": "2026-08-19",
+      "effect": "parametro",
+      "note": {
+        "es": "El consejo escolar fija según el PEC las directrices de la programación y de las actividades complementarias",
+        "va": "El consell escolar fixa segons el PEC les directrius de la programació i de les activitats complementàries"
+      }
     },
     {
       "law": "decreto-57-2020",
@@ -139,7 +162,12 @@
         "es": "db7a4de6",
         "va": "59afe030"
       },
-      "checkedAt": "2026-08-19"
+      "checkedAt": "2026-08-19",
+      "effect": "parametro",
+      "note": {
+        "es": "El consejo escolar fija según el PEC la participación del centro en actividades culturales",
+        "va": "El consell escolar fixa segons el PEC la participació del centre en activitats culturals"
+      }
     },
     {
       "law": "decreto-57-2020",
@@ -169,7 +197,12 @@
         "es": "afe2b53d",
         "va": "e1c4f409"
       },
-      "checkedAt": "2026-08-19"
+      "checkedAt": "2026-08-19",
+      "effect": "control",
+      "note": {
+        "es": "La COCOPE hace el seguimiento y evalúa su cumplimiento",
+        "va": "La COCOPE en fa el seguiment i n’avalua el compliment"
+      }
     },
     {
       "law": "decreto-57-2020",
@@ -179,7 +212,12 @@
         "es": "f4525386",
         "va": "55ffbcc4"
       },
-      "checkedAt": "2026-08-19"
+      "checkedAt": "2026-08-19",
+      "effect": "control",
+      "note": {
+        "es": "La COCOPE garantiza la coherencia entre el PEC y la PGA",
+        "va": "La COCOPE garantix la coherència entre el PEC i la PGA"
+      }
     },
     {
       "law": "decreto-57-2020",
@@ -341,7 +379,12 @@
         "es": "6416029d",
         "va": "06fce19c"
       },
-      "checkedAt": "2026-08-19"
+      "checkedAt": "2026-08-19",
+      "effect": "parametro",
+      "note": {
+        "es": "Las NOF se redactan según sus líneas y criterios",
+        "va": "Les NOF es redacten segons les seues línies i criteris"
+      }
     },
     {
       "law": "decreto-193-2025",
@@ -391,7 +434,12 @@
         "es": "b678d2d2",
         "va": "5ca0c19e"
       },
-      "checkedAt": "2026-08-19"
+      "checkedAt": "2026-08-19",
+      "effect": "parametro",
+      "note": {
+        "es": "Es el referente para redactar la PGA",
+        "va": "És el referent per a redactar la PGA"
+      }
     },
     {
       "law": "resolucion-inicio-curso-2026-2027",
@@ -420,7 +468,12 @@
         "es": "b678d2d2",
         "va": "5ca0c19e"
       },
-      "checkedAt": "2026-08-19"
+      "checkedAt": "2026-08-19",
+      "effect": "parametro",
+      "note": {
+        "es": "Es el referente para redactar la PGA",
+        "va": "És el referent per a redactar la PGA"
+      }
     },
     {
       "law": "resolucion-inicio-curso-2025-2026",
@@ -597,6 +650,381 @@
         "va": "603132ad"
       },
       "checkedAt": "2026-10-18"
+    },
+    {
+      "law": "decreto-193-2025",
+      "article": "art-30",
+      "apartado": "30.2.b",
+      "effect": "vincula",
+      "note": {
+        "es": "El alumnado tiene el deber de respetarlo",
+        "va": "L’alumnat té el deure de respectar-lo"
+      },
+      "hash": {
+        "es": "91983a2e",
+        "va": "4cef7fa9"
+      },
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "law": "decreto-193-2025",
+      "article": "art-32",
+      "apartado": "32.4.b",
+      "effect": "vincula",
+      "note": {
+        "es": "El profesorado tiene el deber de respetarlo y hacerlo respetar",
+        "va": "El professorat té el deure de respectar-lo i fer-lo respectar"
+      },
+      "hash": {
+        "es": "b65c4570",
+        "va": "a834dbae"
+      },
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "law": "decreto-193-2025",
+      "article": "art-29",
+      "apartado": "29.4.c",
+      "effect": "vincula",
+      "note": {
+        "es": "El alumnado tiene derecho a ser informado sobre él",
+        "va": "L’alumnat té dret a ser-ne informat"
+      },
+      "hash": {
+        "es": "eb3a90dd",
+        "va": "a64a1d61"
+      },
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "law": "decreto-193-2025",
+      "article": "art-33",
+      "apartado": "2.e",
+      "effect": "vincula",
+      "note": {
+        "es": "Las familias tienen derecho a ser informadas sobre él",
+        "va": "Les famílies tenen dret a ser-ne informades"
+      },
+      "hash": {
+        "es": "5dd3c424",
+        "va": "3b6aa32c"
+      },
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "law": "decreto-193-2025",
+      "article": "art-29",
+      "apartado": "29.7.c",
+      "effect": "vincula",
+      "note": {
+        "es": "El alumnado puede reunirse en el centro para las actividades que forman parte de él",
+        "va": "L’alumnat pot reunir-se en el centre per a les activitats que en formen part"
+      },
+      "hash": {
+        "es": "98eb6369",
+        "va": "fe5d7d29"
+      },
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "law": "decreto-156-2007",
+      "article": "art-10",
+      "apartado": "3",
+      "effect": "parametro",
+      "note": {
+        "es": "La prueba de acceso de danza se ajusta a su concreción curricular",
+        "va": "La prova d’accés de dansa s’ajusta a la seua concreció curricular"
+      },
+      "hash": {
+        "es": "388d11e5",
+        "va": "58fee99d"
+      },
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "law": "decreto-158-2007",
+      "article": "art-10",
+      "apartado": "3",
+      "effect": "parametro",
+      "note": {
+        "es": "La prueba de acceso de música se ajusta a su concreción curricular",
+        "va": "La prova d’accés de música s’ajusta a la seua concreció curricular"
+      },
+      "hash": {
+        "es": "fe95a4e7",
+        "va": "1a8a572d"
+      },
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "law": "decreto-156-2007",
+      "article": "art-16",
+      "apartado": "3",
+      "effect": "parametro",
+      "note": {
+        "es": "La evaluación en danza profesional, en coherencia con él",
+        "va": "L’avaluació en dansa professional, en coherència amb ell"
+      },
+      "hash": {
+        "es": "fe2b1e42",
+        "va": "12c4e841"
+      },
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "law": "decreto-158-2007",
+      "article": "art-15",
+      "apartado": "3",
+      "effect": "parametro",
+      "note": {
+        "es": "La evaluación en música profesional, en coherencia con él",
+        "va": "L’avaluació en música professional, en coherència amb ell"
+      },
+      "hash": {
+        "es": "8f597047",
+        "va": "598b4eae"
+      },
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "law": "decreto-157-2007",
+      "article": "art-13",
+      "apartado": "3",
+      "effect": "parametro",
+      "note": {
+        "es": "La evaluación en danza elemental, en coherencia con él",
+        "va": "L’avaluació en dansa elemental, en coherència amb ell"
+      },
+      "hash": {
+        "es": "27cbb35d",
+        "va": "b106e98b"
+      },
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "law": "decreto-159-2007",
+      "article": "art-14",
+      "apartado": "3",
+      "effect": "parametro",
+      "note": {
+        "es": "La evaluación en música elemental, en coherencia con él",
+        "va": "L’avaluació en música elemental, en coherència amb ell"
+      },
+      "hash": {
+        "es": "30a5546e",
+        "va": "8d6f208d"
+      },
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "law": "decreto-57-2020",
+      "article": "art-26",
+      "apartado": "2.a",
+      "effect": "parametro",
+      "note": {
+        "es": "El equipo docente hace el seguimiento del alumnado según el PEC",
+        "va": "L’equip docent fa el seguiment de l’alumnat segons el PEC"
+      },
+      "hash": {
+        "es": "19c5c7f9",
+        "va": "b6570d50"
+      },
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "law": "decreto-57-2020",
+      "article": "art-26",
+      "apartado": "2.b",
+      "effect": "parametro",
+      "note": {
+        "es": "El equipo docente evalúa según el PEC",
+        "va": "L’equip docent avalua segons el PEC"
+      },
+      "hash": {
+        "es": "fe3f24d0",
+        "va": "8a764edf"
+      },
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "law": "decreto-57-2020",
+      "article": "art-11",
+      "apartado": "g",
+      "effect": "parametro",
+      "note": {
+        "es": "Los horarios se hacen según sus criterios",
+        "va": "Els horaris es fan segons els seus criteris"
+      },
+      "hash": {
+        "es": "796d1d14",
+        "va": "17321f2c"
+      },
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "law": "decreto-193-2025",
+      "article": "art-6",
+      "apartado": "2",
+      "effect": "parametro",
+      "note": {
+        "es": "La tutoría aplica en su grupo sus actuaciones contra la violencia",
+        "va": "La tutoria aplica en el seu grup les seues actuacions contra la violència"
+      },
+      "hash": {
+        "es": "df8b4806",
+        "va": "d64be43e"
+      },
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "law": "decreto-193-2025",
+      "article": "art-6",
+      "apartado": "3",
+      "effect": "parametro",
+      "note": {
+        "es": "La tutoría hace que el equipo docente aplique sus actuaciones contra la violencia",
+        "va": "La tutoria fa que l’equip docent aplique les seues actuacions contra la violència"
+      },
+      "hash": {
+        "es": "c0cac223",
+        "va": "4c4aadda"
+      },
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "law": "orden-9-2025",
+      "article": "art-9",
+      "apartado": "0",
+      "effect": "parametro",
+      "note": {
+        "es": "El perfil docente de los puestos tiene que responder a su desarrollo",
+        "va": "El perfil docent dels llocs ha de respondre al seu desplegament"
+      },
+      "hash": {
+        "es": "52a21fe7",
+        "va": "8dbed216"
+      },
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "law": "decreto-140-2026",
+      "article": "art-7",
+      "apartado": "3",
+      "effect": "parametro",
+      "note": {
+        "es": "Los puestos de perfil en comisión de servicios se definen por su vinculación con él",
+        "va": "Els llocs de perfil en comissió de servicis es definixen per la seua vinculació amb ell"
+      },
+      "hash": {
+        "es": "8a38da75",
+        "va": "618448da"
+      },
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "law": "decreto-140-2026",
+      "article": "art-7",
+      "apartado": "4.b",
+      "effect": "parametro",
+      "note": {
+        "es": "La dirección justifica la propuesta de perfil con los objetivos del PEC",
+        "va": "La direcció justifica la proposta de perfil amb els objectius del PEC"
+      },
+      "hash": {
+        "es": "e4457a5b",
+        "va": "7f3bf288"
+      },
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "law": "decreto-57-2020",
+      "article": "art-51",
+      "apartado": "2",
+      "effect": "parametro",
+      "note": {
+        "es": "El proyecto de gestión tiene que ser coherente con él",
+        "va": "El projecte de gestió ha de ser coherent amb ell"
+      },
+      "hash": {
+        "es": "e9ea46eb",
+        "va": "8f562ffc"
+      },
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "law": "resolucion-inicio-curso-2025-2026",
+      "article": "anexo-2-1",
+      "apartado": "2",
+      "effect": "parametro",
+      "note": {
+        "es": "El proyecto de gestión tiene que ser coherente con él",
+        "va": "El projecte de gestió ha de ser coherent amb ell"
+      },
+      "hash": {
+        "es": "7d44b134",
+        "va": "c59ce441"
+      },
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "law": "resolucion-inicio-curso-2026-2027",
+      "article": "anexo-2-1",
+      "apartado": "2",
+      "effect": "parametro",
+      "note": {
+        "es": "El proyecto de gestión tiene que ser coherente con él",
+        "va": "El projecte de gestió ha de ser coherent amb ell"
+      },
+      "hash": {
+        "es": "7d44b134",
+        "va": "68af8c35"
+      },
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "law": "decreto-57-2020",
+      "article": "art-30",
+      "apartado": "b",
+      "effect": "parametro",
+      "note": {
+        "es": "Las programaciones tienen que ser coherentes con él",
+        "va": "Les programacions han de ser coherents amb ell"
+      },
+      "hash": {
+        "es": "004bc1e3",
+        "va": "96b11f3c"
+      },
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "law": "orden-20-2019",
+      "article": "art-10",
+      "apartado": "8",
+      "effect": "parametro",
+      "note": {
+        "es": "Las medidas de inclusión, coherentes con él",
+        "va": "Les mesures d’inclusió, coherents amb ell"
+      },
+      "hash": {
+        "es": "e17a69b7",
+        "va": "d6d4f1d7"
+      },
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "law": "decreto-57-2020",
+      "article": "art-20",
+      "apartado": "6",
+      "effect": "control",
+      "note": {
+        "es": "Las comisiones del consejo escolar velan por la coherencia entre PEC, proyecto curricular y PGA",
+        "va": "Les comissions del consell escolar vetlen per la coherència entre PEC, projecte curricular i PGA"
+      },
+      "hash": {
+        "es": "950a8c78",
+        "va": "618cf35a"
+      },
+      "checkedAt": "2026-10-18"
     }
   ],
   "discarded": [
@@ -640,75 +1068,45 @@
     },
     {
       "law": "decreto-57-2020",
-      "article": "art-11",
-      "apartado": "g",
-      "reason": "El horario general, no el PEC"
-    },
-    {
-      "law": "decreto-57-2020",
-      "article": "art-20",
-      "apartado": "6",
-      "reason": "Composición de las comisiones del Consejo Escolar"
-    },
-    {
-      "law": "decreto-57-2020",
-      "article": "art-26",
-      "apartado": "2.a",
-      "reason": "Mención de pasada"
-    },
-    {
-      "law": "decreto-57-2020",
-      "article": "art-26",
-      "apartado": "2.b",
-      "reason": "Mención de pasada"
-    },
-    {
-      "law": "decreto-57-2020",
       "article": "art-27",
       "apartado": "1",
-      "reason": "Mención de pasada"
+      "reason": "Marco genérico: lo nombra como referencia, sin consecuencia concreta"
     },
     {
       "law": "decreto-57-2020",
       "article": "art-30",
       "apartado": "i",
-      "reason": "Mención de pasada"
+      "reason": "Marco genérico: lo nombra como referencia, sin consecuencia concreta"
     },
     {
       "law": "decreto-57-2020",
       "article": "art-30",
       "apartado": "j",
-      "reason": "Mención de pasada"
+      "reason": "Marco genérico: lo nombra como referencia, sin consecuencia concreta"
     },
     {
       "law": "decreto-57-2020",
       "article": "art-30",
       "apartado": "k",
-      "reason": "Mención de pasada"
+      "reason": "Marco genérico: lo nombra como referencia, sin consecuencia concreta"
     },
     {
       "law": "decreto-57-2020",
       "article": "art-38",
       "apartado": "2.a",
-      "reason": "Formación del profesorado"
-    },
-    {
-      "law": "decreto-57-2020",
-      "article": "art-51",
-      "apartado": "2",
-      "reason": "El proyecto de gestión: ficha propia"
+      "reason": "Marco genérico: lo nombra como referencia, sin consecuencia concreta"
     },
     {
       "law": "decreto-104-2018",
       "article": "art-5",
       "apartado": "14",
-      "reason": "Funciones de la conselleria"
+      "reason": "Marco genérico: lo nombra como referencia, sin consecuencia concreta"
     },
     {
       "law": "decreto-104-2018",
       "article": "art-8",
       "apartado": "2",
-      "reason": "Participación del alumnado"
+      "reason": "Marco genérico: lo nombra como referencia, sin consecuencia concreta"
     },
     {
       "law": "decreto-104-2018",
@@ -736,129 +1134,27 @@
     },
     {
       "law": "decreto-193-2025",
-      "article": "art-6",
-      "apartado": "2",
-      "reason": "Tutoría"
-    },
-    {
-      "law": "decreto-193-2025",
-      "article": "art-6",
-      "apartado": "3",
-      "reason": "Tutoría"
-    },
-    {
-      "law": "decreto-193-2025",
       "article": "art-11",
       "apartado": "4",
-      "reason": "Coordinación docente"
-    },
-    {
-      "law": "decreto-193-2025",
-      "article": "art-29",
-      "apartado": "29.4.c",
-      "reason": "Derechos del alumnado: mención de pasada"
-    },
-    {
-      "law": "decreto-193-2025",
-      "article": "art-29",
-      "apartado": "29.7.c",
-      "reason": "Derechos del alumnado: mención de pasada"
-    },
-    {
-      "law": "decreto-193-2025",
-      "article": "art-30",
-      "apartado": "30.2.b",
-      "reason": "Deberes del alumnado: mención de pasada"
-    },
-    {
-      "law": "decreto-193-2025",
-      "article": "art-32",
-      "apartado": "32.4.b",
-      "reason": "Deberes del profesorado: mención de pasada"
-    },
-    {
-      "law": "decreto-193-2025",
-      "article": "art-33",
-      "apartado": "2.e",
-      "reason": "Derechos de las familias: mención de pasada"
-    },
-    {
-      "law": "orden-20-2019",
-      "article": "art-10",
-      "apartado": "8",
-      "reason": "Directrices de la CCP"
+      "reason": "Marco genérico: lo nombra como referencia, sin consecuencia concreta"
     },
     {
       "law": "orden-20-2019",
       "article": "art-40",
       "apartado": "1",
-      "reason": "Personal de apoyo"
+      "reason": "Marco genérico: lo nombra como referencia, sin consecuencia concreta"
     },
     {
       "law": "orden-20-2019",
       "article": "art-43",
       "apartado": "1",
-      "reason": "Agentes externos"
-    },
-    {
-      "law": "decreto-156-2007",
-      "article": "art-10",
-      "apartado": "3",
-      "reason": "Prueba de acceso"
-    },
-    {
-      "law": "decreto-156-2007",
-      "article": "art-16",
-      "apartado": "3",
-      "reason": "Criterios de evaluación"
-    },
-    {
-      "law": "decreto-158-2007",
-      "article": "art-10",
-      "apartado": "3",
-      "reason": "Prueba de acceso"
-    },
-    {
-      "law": "decreto-158-2007",
-      "article": "art-15",
-      "apartado": "3",
-      "reason": "Criterios de evaluación"
-    },
-    {
-      "law": "decreto-157-2007",
-      "article": "art-13",
-      "apartado": "3",
-      "reason": "Criterios de evaluación"
-    },
-    {
-      "law": "decreto-159-2007",
-      "article": "art-14",
-      "apartado": "3",
-      "reason": "Criterios de evaluación"
-    },
-    {
-      "law": "resolucion-inicio-curso-2025-2026",
-      "article": "anexo-2-1",
-      "apartado": "2",
-      "reason": "Gestión económica"
-    },
-    {
-      "law": "resolucion-inicio-curso-2026-2027",
-      "article": "anexo-2-1",
-      "apartado": "2",
-      "reason": "Gestión económica"
+      "reason": "Marco genérico: lo nombra como referencia, sin consecuencia concreta"
     },
     {
       "law": "resolucion-inicio-curso-2026-2027",
       "article": "anexo-4-1",
       "apartado": "1",
       "reason": "Es la PGA, no el PEC"
-    },
-    {
-      "law": "decreto-57-2020",
-      "article": "art-30",
-      "apartado": "b",
-      "reason": "Las programaciones didácticas: ficha propia"
     },
     {
       "law": "orden-5-2017",
@@ -896,12 +1192,6 @@
       "reason": "Preámbulo: encuadre, no regulación"
     },
     {
-      "law": "orden-9-2025",
-      "article": "art-9",
-      "apartado": "0",
-      "reason": "Perfil docente de los puestos; la referencia al PEC es incidental"
-    },
-    {
       "law": "resolucion-coordinacion-horaria-2026-2027",
       "article": "apartado-5",
       "apartado": "0",
@@ -922,18 +1212,6 @@
       "law": "decreto-140-2026",
       "article": "preambulo",
       "reason": "Preámbulo: describe el decreto, no regula nada"
-    },
-    {
-      "law": "decreto-140-2026",
-      "article": "art-7",
-      "apartado": "3",
-      "reason": "Regula los puestos de perfil; el proyecto educativo solo aparece como referencia para definirlos"
-    },
-    {
-      "law": "decreto-140-2026",
-      "article": "art-7",
-      "apartado": "4.b",
-      "reason": "Usa el proyecto educativo como criterio para motivar la propuesta, no regula el PEC"
     }
   ],
   "parts": [

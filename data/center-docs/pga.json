@@ -19,7 +19,7 @@
     "programacio general anual",
     "pga"
   ],
-  "updatedAt": "2026-08-19",
+  "updatedAt": "2026-10-18",
   "refs": [
     {
       "law": "ley-organica-2-2006",
@@ -151,7 +151,12 @@
         "es": "f4525386",
         "va": "55ffbcc4"
       },
-      "checkedAt": "2026-08-19"
+      "checkedAt": "2026-08-19",
+      "effect": "control",
+      "note": {
+        "es": "La COCOPE garantiza la coherencia entre el PEC y la PGA",
+        "va": "La COCOPE garantix la coherència entre el PEC i la PGA"
+      }
     },
     {
       "law": "decreto-57-2020",
@@ -423,6 +428,171 @@
         "va": "bddcf39c"
       },
       "checkedAt": "2026-10-18"
+    },
+    {
+      "law": "circular-1-2025-permisos",
+      "article": "sec-1-15",
+      "apartado": "1",
+      "effect": "vincula",
+      "note": {
+        "es": "Las extraescolares de la PGA no son permiso: la autorización va implícita en su aprobación",
+        "va": "Les extraescolars de la PGA no són permís: l’autorització va implícita en la seua aprovació"
+      },
+      "hash": {
+        "es": "8d090951",
+        "va": "f775c490"
+      },
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "law": "decreto-234-2022",
+      "article": "art-4",
+      "apartado": "1~2",
+      "effect": "vincula",
+      "note": {
+        "es": "Las extraescolares de la PGA no son permiso: la autorización va implícita en su aprobación",
+        "va": "Les extraescolars de la PGA no són permís: l’autorització va implícita en la seua aprovació"
+      },
+      "hash": {
+        "es": "9a770a47",
+        "va": "227e1e25"
+      },
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "law": "cuenta-gestion-centros-docentes",
+      "article": "sec-pregunta-4",
+      "apartado": "0",
+      "effect": "vincula",
+      "note": {
+        "es": "No se pueden pagar desde la cuenta del centro actividades no previstas en la PGA",
+        "va": "No es poden pagar des del compte del centre activitats no previstes en la PGA"
+      },
+      "hash": {
+        "es": "f91e57d0",
+        "va": "f91e57d0"
+      },
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "law": "decreto-57-2020",
+      "article": "art-51",
+      "apartado": "2",
+      "effect": "parametro",
+      "note": {
+        "es": "El proyecto de gestión tiene que ser coherente con ella",
+        "va": "El projecte de gestió ha de ser coherent amb ella"
+      },
+      "hash": {
+        "es": "e9ea46eb",
+        "va": "8f562ffc"
+      },
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "law": "resolucion-inicio-curso-2025-2026",
+      "article": "anexo-2-1",
+      "apartado": "2",
+      "effect": "parametro",
+      "note": {
+        "es": "El proyecto de gestión tiene que ser coherente con ella",
+        "va": "El projecte de gestió ha de ser coherent amb ella"
+      },
+      "hash": {
+        "es": "7d44b134",
+        "va": "c59ce441"
+      },
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "law": "resolucion-inicio-curso-2026-2027",
+      "article": "anexo-2-1",
+      "apartado": "2",
+      "effect": "parametro",
+      "note": {
+        "es": "El proyecto de gestión tiene que ser coherente con ella",
+        "va": "El projecte de gestió ha de ser coherent amb ella"
+      },
+      "hash": {
+        "es": "7d44b134",
+        "va": "68af8c35"
+      },
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "law": "decreto-57-2020",
+      "article": "art-30",
+      "apartado": "l",
+      "effect": "parametro",
+      "note": {
+        "es": "Los departamentos colaboran en las actividades aprobadas en ella",
+        "va": "Els departaments col·laboren en les activitats aprovades en ella"
+      },
+      "hash": {
+        "es": "dda1ce37",
+        "va": "9eb74042"
+      },
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "law": "decreto-57-2020",
+      "article": "art-40",
+      "apartado": "2.n",
+      "effect": "parametro",
+      "note": {
+        "es": "Sus extraescolares no pueden discriminar ni tener ánimo de lucro",
+        "va": "Les seues extraescolars no poden discriminar ni tindre ànim de lucre"
+      },
+      "hash": {
+        "es": "7554550a",
+        "va": "157bf701"
+      },
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "law": "decreto-57-2020",
+      "article": "art-20",
+      "apartado": "6",
+      "effect": "control",
+      "note": {
+        "es": "Las comisiones del consejo escolar velan por la coherencia entre PEC, proyecto curricular y PGA",
+        "va": "Les comissions del consell escolar vetlen per la coherència entre PEC, projecte curricular i PGA"
+      },
+      "hash": {
+        "es": "950a8c78",
+        "va": "618cf35a"
+      },
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "law": "resolucion-inicio-curso-2025-2026",
+      "article": "anexo-4-3",
+      "apartado": "1",
+      "effect": "control",
+      "note": {
+        "es": "El claustro evalúa su cumplimiento al acabar el curso",
+        "va": "El claustre n’avalua el compliment en acabar el curs"
+      },
+      "hash": {
+        "es": "3c7fc2e0",
+        "va": "0af0e609"
+      },
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "law": "resolucion-inicio-curso-2026-2027",
+      "article": "anexo-4-3",
+      "apartado": "1",
+      "effect": "control",
+      "note": {
+        "es": "El claustro y el consejo escolar evalúan su cumplimiento al acabar el curso",
+        "va": "El claustre i el consell escolar n’avaluen el compliment en acabar el curs"
+      },
+      "hash": {
+        "es": "0dde6d56",
+        "va": "676e8591"
+      },
+      "checkedAt": "2026-10-18"
     }
   ],
   "discarded": [
@@ -466,33 +636,9 @@
     },
     {
       "law": "decreto-57-2020",
-      "article": "art-20",
-      "apartado": "6",
-      "reason": "Composición de las comisiones del Consejo Escolar"
-    },
-    {
-      "law": "decreto-57-2020",
       "article": "art-27",
       "apartado": "1",
       "reason": "Naturaleza de los departamentos didácticos"
-    },
-    {
-      "law": "decreto-57-2020",
-      "article": "art-30",
-      "apartado": "l",
-      "reason": "Colaboración en actividades ya aprobadas"
-    },
-    {
-      "law": "decreto-57-2020",
-      "article": "art-40",
-      "apartado": "2.n",
-      "reason": "Quién organiza las actividades, no qué recoge la PGA"
-    },
-    {
-      "law": "decreto-57-2020",
-      "article": "art-51",
-      "apartado": "2",
-      "reason": "El proyecto de gestión: ficha propia"
     },
     {
       "law": "decreto-57-2020",
@@ -520,21 +666,9 @@
     },
     {
       "law": "circular-1-2025-permisos",
-      "article": "sec-1-15",
-      "apartado": "1",
-      "reason": "Permisos del profesorado"
-    },
-    {
-      "law": "circular-1-2025-permisos",
       "article": "sec-7",
       "apartado": "2.b",
       "reason": "Permisos del profesorado"
-    },
-    {
-      "law": "decreto-234-2022",
-      "article": "art-4",
-      "apartado": "1~2",
-      "reason": "Indemnizaciones por razón del servicio"
     },
     {
       "law": "cuenta-gestion-centros-docentes",
@@ -543,39 +677,9 @@
       "reason": "Gestión económica"
     },
     {
-      "law": "cuenta-gestion-centros-docentes",
-      "article": "sec-pregunta-4",
-      "apartado": "0",
-      "reason": "Gestión económica"
-    },
-    {
-      "law": "resolucion-inicio-curso-2025-2026",
-      "article": "anexo-2-1",
-      "apartado": "2",
-      "reason": "Gestión económica"
-    },
-    {
-      "law": "resolucion-inicio-curso-2026-2027",
-      "article": "anexo-2-1",
-      "apartado": "2",
-      "reason": "Gestión económica"
-    },
-    {
-      "law": "resolucion-inicio-curso-2025-2026",
-      "article": "anexo-4-3",
-      "apartado": "1",
-      "reason": "La memoria final de curso: ficha propia"
-    },
-    {
       "law": "resolucion-inicio-curso-2025-2026",
       "article": "anexo-4-3",
       "apartado": "2",
-      "reason": "La memoria final de curso: ficha propia"
-    },
-    {
-      "law": "resolucion-inicio-curso-2026-2027",
-      "article": "anexo-4-3",
-      "apartado": "1",
       "reason": "La memoria final de curso: ficha propia"
     },
     {

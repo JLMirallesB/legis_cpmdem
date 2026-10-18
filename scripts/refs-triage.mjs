@@ -69,9 +69,19 @@ for (const f of readdirSync(dirLeyes).filter(f => f.endsWith('.json')).sort()) {
  */
 const VERBOS = /\b(elaborar[aá]?n?|elaboraci[oó]n|aprobar[aá]?n?|aprobaci[oó]n|incluir[aá]?n?|inclusi[oó]n|contendr[aá]n?|contener|recoger[aá]n?|recoge|comprender[aá]|definir[aá]|establecer[aá]|fijar[aá]|revisar[aá]|revisi[oó]n|modificar[aá]|publicidad|p[uú]blico|remitir[aá]|constituye|formar[aá] parte|se concreta|desarrollar[aá]|evaluar[aá]n?|informar[aá]|propuestas para la elaboraci[oó]n|elaborar|aprovar[aà]?n?|elaboraci[oó]|aprovaci[oó]|inclour[aà]|contindr[aà]|arreplegar[aà]|arreplega|establir[aà]|revisar[aà]|revisi[oó]|constituïx|constitueix|formar[aà] part|es concreta|desenvolupar[aà])\b/i;
 
+/**
+ * ¿Le da consecuencias? Solo se mira en las fichas de documentos, que son las
+ * que tienen bloque de efectos: un apartado que no regula el documento pero
+ * hace que otra cosa dependa de él («en coherencia con el proyecto educativo»,
+ * «implícita en la aprobación de la PGA») no es una mención de pasada. Es una
+ * pista, no un veredicto: «de acuerdo con el PEC» suelto sigue siendo marco.
+ */
+const EFECTOS = /\b(de acuerdo con|conforme (a|con)|en coherencia con|coherencia (del|de la|de los|entre|con)|se ajustar[aá]n?|respetar|impl[ií]cita|en el marco|previst[ao]s? en|d'acord amb|en coher[eè]ncia amb|s'ajustar[aà]|respectar|impl[ií]cita)\b/i;
+
 /** Criba una ficha. Devuelve cuántos candidatos deja sin decidir. */
 function cribar(rutaDoc) {
   const doc = JSON.parse(readFileSync(rutaDoc, 'utf8'));
+  const esDocumento = rutaDoc.includes('center-docs');
 
   /** Compara sin tildes: los términos de búsqueda se escriben sin ellas y así
    *  «règim» y «régimen» caen bajo la misma consulta. */
@@ -130,7 +140,8 @@ function cribar(rutaDoc) {
                   : null;
             if (estado && !TODOS) { decididos++; continue; }
             if (!estado) nuevos++;
-            hits.push({ node, ap, estado, regula: VERBOS.test(ap.text) });
+            hits.push({ node, ap, estado, regula: VERBOS.test(ap.text),
+              efecto: esDocumento && EFECTOS.test(ap.text) });
           }
         }
         if (node.children) walk(node.children);
@@ -143,7 +154,7 @@ function cribar(rutaDoc) {
     const anual = law.temporality?.type === 'anual' ? `  [anual ${law.temporality.schoolYear}]` : '';
     lineas.push(`\n### ${law.slug}  (${law.territory}, ${law.vigpiracy.status})${anual}`);
     for (const h of hits) {
-      const marca = h.estado ? `[${h.estado}] ` : h.regula ? '★ ' : '· ';
+      const marca = h.estado ? `[${h.estado}] ` : h.regula ? '★ ' : h.efecto ? '◆ ' : '· ';
       const texto = h.ap.text.replace(/\s+/g, ' ').slice(0, 150);
       lineas.push(`  ${marca}${h.node.id}#${h.ap.path}  ${texto}`);
     }
@@ -179,6 +190,7 @@ for (const ruta of rutas) {
 
 console.log(`\n${totalNuevos} candidatos sin decidir` + (TODOS ? `, ${totalDecididos} ya decididos` : ''));
 console.log('★ = el apartado parece regular el documento, no solo mencionarlo');
+console.log('◆ = puede ser un efecto: no lo regula, pero hace depender algo de él (ficha de documento)');
 
 // El hueco se dice en voz alta: son las fichas que nadie va a cribar por ti.
 if (manuales.length) {

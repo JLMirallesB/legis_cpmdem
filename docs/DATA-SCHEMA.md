@@ -327,7 +327,8 @@ cuando la ley cambia.
   "apartado": "2",                // opcional; ausente = el nodo entero
   "checkedAt": "2026-08-19",      // última revisión humana
   "hash": { "es": "a3f1c9d2", "va": "7d20be41" },
-  "note": "…"                     // opcional, uso editorial
+  "note": "…",                    // opcional, uso editorial (bilingüe y visible si es un efecto)
+  "effect": "parametro"           // solo fichas de documentos; ver «Efectos»
 }
 ```
 
@@ -419,6 +420,30 @@ vuelva a preguntar por lo mismo. `article: "*"` descarta la ley entera.
 Lo anual cae solo al histórico cuando pasa su fecha: nadie tiene que acordarse
 en septiembre de mover nada.
 
+### Efectos: lo que otras normas hacen depender del documento
+
+Una ref con `effect` no regula el documento (qué contiene, quién lo elabora o
+aprueba) sino que le da consecuencias. Va a un bloque propio, «Lo que otras
+normas hacen depender de él», debajo de los de temporalidad, y no cuenta como
+referencia sino como efecto en la cabecera.
+
+| `effect` | Cuándo | Ejemplo |
+|---|---|---|
+| `vincula` | autoriza, obliga, da derecho o permite reclamar | las extraescolares de la PGA no necesitan permiso |
+| `parametro` | otra actuación tiene que ajustarse al documento | la prueba de acceso se ajusta a la concreción curricular del PEC |
+| `control` | alguien vigila el documento o su cumplimiento | la COCOPE garantiza la coherencia PEC-PGA |
+
+Un efecto **siempre** lleva `note: { "es": "…", "va": "…" }`: la consecuencia en
+una frase, que la ficha enseña antes que el texto legal. `npm run validate` da
+error si falta, si el tipo no es uno de los tres o si aparece fuera de
+`data/center-docs/`. Un efecto de unas instrucciones ya vencidas cae al
+histórico como cualquier otra cita.
+
+La prueba para distinguirlo de una mención: que la norma haga depender algo
+**concreto y comprobable** del documento. «La evaluación, en coherencia con el
+proyecto educativo» es efecto; «los departamentos proponen formación de acuerdo
+con el proyecto educativo» es marco genérico y se descarta.
+
 ### Cribar una ley contra una ficha
 
 ```bash
@@ -426,3 +451,6 @@ node scripts/refs-triage.mjs pec                    # candidatos sin decidir
 node scripts/refs-triage.mjs pec --ley ley-5-2026   # solo una ley
 node scripts/refs-triage.mjs pec --all              # incluye los ya decididos
 ```
+
+`★` marca lo que parece regular el documento; `◆`, en fichas de documentos, lo
+que puede ser un efecto. Son pistas para leer primero, no veredictos.
