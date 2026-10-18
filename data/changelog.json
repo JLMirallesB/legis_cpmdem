@@ -1,5 +1,23 @@
 [
   {
+    "version": "2.6.1",
+    "date": "2026-10-18",
+    "entries": {
+      "es": [
+        {
+          "type": "corregido",
+          "description": "Decreto 2/2022 de escuelas de enseñanza artística no formal: se eliminan restos de la extracción del PDF. Los artículos 7 y 11 ya no acaban con el título del capítulo siguiente, la redacción original del artículo 25 ya no arrastra las disposiciones finales y la firma, y la versión en valenciano pierde las cabeceras de página que se habían colado en el texto."
+        }
+      ],
+      "va": [
+        {
+          "type": "corregido",
+          "description": "Decret 2/2022 d'escoles d'ensenyament artístic no formal: s'eliminen restes de l'extracció del PDF. Els articles 7 i 11 ja no acaben amb el títol del capítol següent, la redacció original de l'article 25 ja no arrossega les disposicions finals i la signatura, i la versió en valencià perd les capçaleres de pàgina que s'havien colat en el text."
+        }
+      ]
+    }
+  },
+  {
     "version": "2.6.0",
     "date": "2026-10-16",
     "entries": {
