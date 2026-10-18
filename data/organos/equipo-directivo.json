@@ -466,6 +466,42 @@
         "va": "5f067a34"
       },
       "checkedAt": "2026-08-19"
+    },
+    {
+      "law": "protocolo-emergencias-fma",
+      "article": "sec-3",
+      "hash": {
+        "es": "82511356",
+        "va": "b2b8e2b0"
+      },
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "law": "protocolo-emergencias-fma",
+      "article": "sec-4",
+      "hash": {
+        "es": "c2fd873c",
+        "va": "48b971e1"
+      },
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "law": "protocolo-emergencias-fma",
+      "article": "sec-5",
+      "hash": {
+        "es": "f9341eef",
+        "va": "29853af4"
+      },
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "law": "protocolo-emergencias-fma",
+      "article": "sec-8",
+      "hash": {
+        "es": "7ddf1cdd",
+        "va": "5f76cc96"
+      },
+      "checkedAt": "2026-10-18"
     }
   ],
   "discarded": [

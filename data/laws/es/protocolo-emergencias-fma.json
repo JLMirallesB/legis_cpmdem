@@ -1,0 +1,224 @@
+{
+  "id": "protocolo-emergencias-fma",
+  "slug": "protocolo-emergencias-fma",
+  "type": "documento",
+  "number": "",
+  "date": "2025-10-22",
+  "publishedIn": {
+    "source": "CEICE",
+    "number": "",
+    "date": "2025-10-22",
+    "url": "https://ceice.gva.es/documents/162909733/397868725/PROTOCOLO+EMERGENCIAS+FMA_CAS.pdf/0943d676-4139-2eae-c03b-3c263ef3966a",
+    "pdfUrl": "https://ceice.gva.es/documents/162909733/397868725/PROTOCOLO+EMERGENCIAS+FMA_CAS.pdf/0943d676-4139-2eae-c03b-3c263ef3966a"
+  },
+  "title": "Protocolo de actuación en caso de emergencias exteriores (fenómenos meteorológicos adversos) para el personal funcionario de centros docentes públicos no universitarios dependientes de la Conselleria competente en materia de educación",
+  "titleShort": "Protocolo de emergencias exteriores por fenómenos meteorológicos adversos (FMA)",
+  "category": "organizacion",
+  "vigpiracy": {
+    "status": "vigente",
+    "statusLabel": "Vigente",
+    "effectiveDate": "2025-10-22"
+  },
+  "structure": [
+    {
+      "id": "sec-1",
+      "type": "seccion",
+      "title": "1. Objeto",
+      "content": "El objetivo de este protocolo es establecer un marco de actuación que permita contrarrestar los posibles efectos negativos de las situaciones de emergencia causadas por fenómenos meteorológicos adversos (FMA) y garantizar de este modo la seguridad y salud tanto de las personas trabajadoras de los centros docentes como del alumnado presente en ellos, conforme a la Ley 31/1995 de Prevención de Riesgos Laborales y a las instrucciones de las autoridades competentes en materia de emergencias y protección civil.\n\nAdemás, con este documento, se facilita a las personas responsables de los centros docentes públicos no universitarios de la Generalitat Valenciana, un modelo de protocolo que sirva de base para la elaboración de los protocolos que han de incluir necesariamente dentro de sus Planes de Autoprotección o documento de medidas de actuación en caso de emergencia que debe tener el centro, conforme al artículo 20 de la Ley 31/1995 de prevención de riesgos laborales y del resto de normativa vigente que le es de aplicación.\n\nNo obstante, como modelo que es, a la hora de elaborar los protocolos en los centros docentes, éstos deben ser adaptados y concretados teniendo en cuenta tanto la estructura de la organización del centro de que se trate, las características particulares de los usuarios del centro, así como las características y entorno del edificio, o edificios, en los que se desarrolla la actividad.\n\nEste protocolo de actuación se refiere exclusivamente a fenómenos meteorológicos adversos (excepto las temperaturas extremas).\n\nPor otra parte, hay que indicar que este modelo está basado en el Protocolo de actuación en caso de emergencias exteriores para el personal de la Administración de la Generalitat que la Dirección General de Función Pública elaboró, así como en la publicación de los modelos de protocolos de actuación frente a emergencias exteriores en centros de trabajo elaborado por el servicio de prevención de riesgos laborales del personal propio de la Generalitat Valenciana."
+    },
+    {
+      "id": "sec-2",
+      "type": "seccion",
+      "title": "2. Ámbito de aplicación",
+      "content": "El protocolo se aplica a todo el personal que preste servicios en los centros docentes públicos no universitarios de la Generalitat Valenciana independientemente del organismo, entidad o empresa privada a la que pertenezca, para su activación en situaciones de emergencia exterior debida a fenómenos meteorológicos adversos susceptibles de aviso por parte de AEMET, u otros riesgos comunicados por las autoridades competentes en materia de protección civil.\n\nDeclarada la alerta, su efectividad se extenderá tanto al personal cuyo centro de trabajo o su domicilio radique en una zona afectada por la alerta, como al personal del centro docente que no se encuentre en estos supuestos, pero tenga que atravesar una zona afectada por la alerta para desplazarse desde su domicilio a su centro docente, o viceversa."
+    },
+    {
+      "id": "sec-3",
+      "type": "seccion",
+      "title": "3. Derechos y observancia del protocolo",
+      "content": "Según la Ley 13/2010 de 23 de noviembre de Protección Civil y Gestión de emergencias, en sus artículos 14.1 b y 23 se concreta que los planes territoriales de ámbito inferior al de la Comunidad serán de ámbito municipal y supramunicipal y que la estructura y contenido de estos planes se acomodarán a las directrices dispuestas en dicha Ley y a los que fije el Plan Territorial de Emergencia de la Comunidad Valenciana, y también en el Plan especial frente a inundaciones.\n\nTodas las actuaciones se encaminarán a cumplir el Plan Territorial Municipal ante emergencias y aquellos planes de actuación municipal para hacer frente a riesgos concretos, colaborando en la obtención y transmisión de información con el centro de coordinación de emergencias a través de su CECOPAL, centro de coordinación operativa municipal.\n\nEl artículo 20 de la Ley 31/1995 de prevención de riesgos laborales establece que teniendo en cuenta el tamaño y la actividad del centro, así como la posible presencia de personas ajenas a la misma, deberá analizar las posibles situaciones de emergencia y adoptar las medidas necesarias en materia de primeros auxilios, lucha contra incendios y evacuación de los trabajadores, designando para ello al personal encargado de poner en práctica estas medidas y comprobando periódicamente, en su caso, su correcto funcionamiento. El citado personal deberá poseer la formación necesaria, ser suficiente en número y disponer del material adecuado, en función de las circunstancias antes señaladas.\n\nPor otro lado, el artículo 21 de la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales establece las garantías del personal que esté o pueda estar expuesto a un riesgo grave e inminente con ocasión de su trabajo, siendo de aplicación al personal de la Administración de la Generalitat.\n\nDe conformidad con lo mencionado en dicho artículo, todas las medidas que se adopten tienen que garantizar que el personal sea informado lo antes posible sobre la existencia de estos riesgos y de las actuaciones a realizar recibiendo las instrucciones necesarias en cada caso.\n\nDe acuerdo con las instrucciones para la organización y el funcionamiento de los centros docentes para cada curso escolar, en el apartado referente a “Medidas de emergencia y planes de autoprotección del centro”, y con lo establecido en el artículo 77 y artículo 92, respectivamente del Decreto 253/2019 y del Decreto 252/2019, por los que se establece la regulación de la organización y funcionamiento de los centros públicos que imparten enseñanzas tanto de Educación Infantil o Educación Primaria como de Educación Secundaria Obligatoria, Bachillerato y Formación Profesional, los centros establecerán medidas de emergencia y, en su caso, un plan de autoprotección, de acuerdo con el que se establezca en la normativa sobre la materia, su implantación será responsabilidad del equipo directivo.\n\nAtendiendo a los artículos 10 y 12 de la Orden 27/2012 de 18 de junio, de la Conselleria de Educación, Formación y Ocupación, sobre planes de autoprotección o medidas de emergencia de los centros educativos no universitarios de la Comunidad Valenciana, la dirección de cada centro educativo establecerá el procedimiento para informar sobre el plan de autoprotección o medidas de emergencia a fin de que sea conocido por todos los sectores de la Comunidad Educativa y el director del centro coordinará y se responsabilizará de la elaboración, implantación, mantenimiento, revisión y, en su caso, actualización del plan de autoprotección o de las medidas de emergencia.\n\nLa inobservancia de estas disposiciones por parte de cualquier responsable podría comportar las sancionas correspondientes.\n\nConforme a los artículos 33, 34 y 38 de la Ley 31/1995 de Prevención de Riesgos Laborales sobre la consulta y participación de las personas trabajadoras, el presente documento será objeto de consulta y participación del personal docente en los respectivos Comités de Seguridad y Salud de la Conselleria de Educación, Cultura, Universidades y Empleo."
+    },
+    {
+      "id": "sec-4",
+      "type": "seccion",
+      "title": "4. Actuaciones previas",
+      "content": "La dirección del centro designará a una o varias personas del equipo directivo para la gestión de avisos y alertas con las siguientes funciones:\n\n– Establecer los canales de comunicación (web, correo electrónico, grupo de difusión, etc…) con el personal trabajador del centro docente, considerando los más adecuados en función del horario laboral y extralaboral.\n– Disponer de directorio actualizado de los responsables de los servicios municipales de emergencias y protección civil del ayuntamiento.\n– Solicitar de las personas responsables en materia de protección civil del ayuntamiento información sobre las actuaciones establecidas en caso de precipitaciones intensas, inundaciones, nevadas, vendavales, etc.\n– Comunicar al personal trabajador del centro las instrucciones establecidas según nivel de aviso.\n– Identificar aquellos puestos de trabajo que deban tener consideración de imprescindibles, en cuanto a su permanencia física en el centro de trabajo.\n\nLa dirección del centro docente tendrá que designar también a una persona o varias personas sustitutas para asegurar la comunicación efectiva."
+    },
+    {
+      "id": "sec-5",
+      "type": "seccion",
+      "title": "5. Funciones y responsabilidades",
+      "content": "Dirección de centro docente en el supuesto de centros docentes de Infantil, Primaria, Educación Especial, Adultos:\n\n1.- Solicitar al ayuntamiento la realización de las actividades de mantenimiento de forma previa al inicio del curso:\n\n– Limpieza de cubiertas, bajantes y canalizaciones; revisión del estado de cornisas, balcones y fachadas; asegurar toldos, persianas, antenas y otros elementos; retirada de árboles muertos o ramas que sobresalgan de las estructuras, y objetos que se encuentren en patios (como porterías o canastas), terrazas (como placas solares, antenas), techos o balcones y que puedan volarse.\n– Comprobación y mantenimiento de puntos de edificio por donde pueda haber contacto con el exterior (cierres de ventanas, puertas, etc.)\n– Revisión y mantenimiento de instalaciones, equipos y sistemas de calefacción.\n– Revisión y mantenimiento de luces de emergencia y señalización fotoluminiscente de vías y salidas de evacuación.\n– Revisión y mantenimiento de las puertas de emergencia: accesos despejados y apertura operativa.\n– Revisión y mantenimiento de equipos o instalaciones como pararrayos, toma de tierra, grupos electrógenos y bombas de achique.\n\nDirección de los centros docentes en el supuesto de centros docentes de ESO, Bachillerato, Formación Profesional, EOI, Conservatorios, etc.\n\n1.- Ordenar la realización de las actividades de mantenimiento de forma previa al inicio del curso:\n\n– Limpieza de cubiertas, bajantes y canalizaciones; revisión del estado de cornisas, balcones y fachadas; asegurar toldos, persianas, antenas, y otros elementos; retirada de árboles muertos o ramas que sobresalgan de las estructuras, y objetos que se encuentren en patios (como porterías o canastas), en terrazas (como placas solares, antenas), techos o balcones y que puedan volarse.\n– Comprobación y mantenimiento de puntos de edificio por donde pueda haber contacto con el exterior (cierres de ventanas, puertas, etc.).\n– Revisión y mantenimiento de instalaciones, equipos y sistemas de calefacción.\n– Revisión y mantenimiento de luces de emergencia y señalización fotoluminiscente de vías y salidas de evacuación.\n– Revisión y mantenimiento de las puertas de emergencia: accesos despejados y apertura operativa.\n– Revisión y mantenimiento de equipos e instalaciones como pararrayos, toma de tierra, grupos electrógenos y bombas de achique.\n\nPersona/s del equipo directivo designada/s para la gestión de avisos y alertas:\n\n– Vigilancia de los avisos desde AEMET y del organismo competente en materia de protección civil o de la persona responsable jerárquica superior.\n– Vigilar la situación y evolución de avisos y alertas meteorológicas conforme a los avisos emitidos por los distintos organismos competentes.\n– Comunicar a todo el personal a su cargo los avisos y alertas recibidas, para que sigan las instrucciones previstas en el documento de medidas de emergencias o, en su caso, en su plan de autoprotección.\n\nTodo el personal:\n\n– Cumplir con las instrucciones de actuación, según el nivel de aviso, recibidas por la dirección del centro o de la persona designada del equipo directivo.\n– Permanecer atentos ante posteriores comunicados de la persona designada.\n– Permanecer atento a la información meteorológica."
+    },
+    {
+      "id": "sec-6",
+      "type": "seccion",
+      "title": "6. Enlaces de consulta",
+      "content": "Información AEMET:\n\nhttps://www.aemet.es/es/eltiempo/prediccion/avisos\nhttp://meteoruta.aemet.es/p_index.html\nZonas de predicción meteorológica. Detalle de municipios por zonas\n\nInformación emergencias 112:\n\nhttps://www.112cv.gva.es/va/emergencias-meteorologicas\nhttps://www.112cv.gva.es/es/preemergencias-meteorologicas\nhttps://www.112cv.gva.es/es/\n\nInformación carreteras:\n\nDGT - Información e incidencias de tráfico\nhttps://infocar.dgt.es/etraffic/\n\nEn caso de avisos o alertas es importante mantener los canales de comunicación abiertos y, en caso de riesgo, consultar la información de manera frecuente."
+    },
+    {
+      "id": "sec-7",
+      "type": "seccion",
+      "title": "7. Alertas",
+      "content": "Existen tres categorías de alerta en función de la gravedad de las consecuencias previstas:\n\n| Alerta | Riesgo |\n|---|---|\n| Amarilla | Riesgo bajo |\n| Naranja | Riesgo importante |\n| Roja | Riesgo extremo |\n\n**ALERTAS METEOROLÓGICAS POR PRECIPITACIONES INTENSAS**\n\n(Niveles de riesgo meteorológico definidos por AEMET)\n\n| Nivel | Significado |\n|---|---|\n| Verde | No hay ningún riesgo meteorológico. |\n| Amarillo | Hay algún riesgo meteorológico para alguna actividad concreta, pero no para la población en general. |\n| Naranja | Hay un riesgo meteorológico importando con cierto grado de peligro para las actividades usuales. |\n| Rojo | El riesgo meteorológico es extremo con riesgo para la población muy alto. |\n\nEn función del tipo de alerta decretada se tendrán que adoptar las correspondientes medidas adecuadas a su nivel de gravedad."
+    },
+    {
+      "id": "sec-8",
+      "type": "seccion",
+      "title": "8. Procedimiento básico",
+      "content": "La persona o personas del equipo directivo nombradas para la gestión de avisos y alertas, será la que, ante situaciones de alerta, esté encargada de consultar las posibles situaciones de emergencia o preermergencia en la web del 112:\n\nhttps://www.112cv.gva.es/es/1-1-2-on-line\n\nSe deberá tener en cuenta una o varias personas sustitutas a fin de asegurar la consulta efectiva.\n\nEn casos de avisos o alertas es importante mantener los canales de comunicación abiertos y, en caso de riesgo, consultar la información de manera frecuente."
+    },
+    {
+      "id": "sec-9",
+      "type": "seccion",
+      "title": "9. Actuaciones específicas según nivel de riesgo",
+      "children": [
+        {
+          "id": "sec-9-amarillo",
+          "type": "seccion",
+          "title": "Instrucciones nivel amarillo",
+          "content": "– Estar atento a la evolución de la situación meteorológica.\n– Permanecer en comunicación con la dirección del centro o con la persona designada para la gestión de avisos y alertas.\n– La dirección del centro o con la persona designada para la gestión de avisos y alertas, tendrá que realizar un seguimiento de la evolución de la alerta para la adopción de las medidas que, en su caso, corresponda, de conformidad con lo previsto en el plan de autoprotección, emergencia y evacuación del centro.\n– El personal docente tendrá que mantenerse atento a la información que se traslade de la dirección del centro."
+        },
+        {
+          "id": "sec-9-naranja",
+          "type": "seccion",
+          "title": "Instrucciones nivel naranja",
+          "content": "– En atención a las circunstancias existentes en cada caso, y de acuerdo con las recomendaciones o instrucciones dictadas por las autoridades responsables de protección civil, los Ayuntamientos valorarán, y en su caso, podrán acordar un posible cierre preventivo de los centros educativos.\n– la dirección del centro o con la persona designada para la gestión de avisos y alertas, permanecerá en contacto permanente con la autoridad competente en materia de protección civil, del responsable del Ayuntamiento en la materia, así como los servicios municipales de emergencias (bomberos, policía local, etc.).\n– En el supuesto de que por circunstancias extraordinarias el centro educativo permanezca cerrado por un periodo superior a 24 horas, el personal docente actuará de acuerdo con las instrucciones que se dicten al respecto.\n– El personal docente tiene que mantenerse informado de la evolución de la alerta mediante la consulta de las instrucciones de la persona que ostente la dirección del centro educativo o persona en quien delegue y consultar las recomendaciones e instrucciones de las autoridades de protección civil en los medios de comunicación, diarios oficiales, correo electrónico o teléfono.\n– Durante el periodo de suspensión de la actividad lectiva que imposibilite la permanencia del personal docente en su puesto de trabajo, en el supuesto de que la emergencia comporte imposibilidad de comunicación y conexión por falta de electricidad, red o cualquier incidencia informática, habrá que estar atento a las instrucciones de la dirección del centro educativo o persona en quien delegue, en el momento en que se restablezca la normalidad.\n– Atender los consejos del Centro de Coordinación de Emergencias de la Generalitat y de los Centros de coordinación operativa municipales (CECOPAL)."
+        },
+        {
+          "id": "sec-9-rojo",
+          "type": "seccion",
+          "title": "Instrucciones nivel rojo",
+          "content": "En atención a las circunstancias existentes en cada caso, y de acuerdo con las recomendaciones o instrucciones dictadas por las autoridades responsables de protección civil, se aplicarán las siguientes medidas:\n\n– En caso de alerta roja se actuará siguiendo las instrucciones de la autoridad competente en materia de protección civil y del responsable del Ayuntamiento en la materia.\n– Si se hubiera dispuesto el cierre del centro o la suspensión de actividades, o emitido la alerta fuera del horario de prestación de servicios por haber finalizado o no haberse iniciado la jornada de trabajo, el personal no acudirá a su puesto de trabajo y tendrá que continuar la actividad lectiva de acuerdo con las instrucciones que se dicten al respecto.\n\nEn caso de que el centro no permanezca cerrado, pero haya un impedimento objetivo para desplazarse (carreteras cortadas, movilidad restringida por las autoridades competentes en la localidad de residencia o en el trayecto hasta el centro), o riesgo grave o inminente en el desplazamiento para ir al centro de trabajo, la persona trabajadora podrá no asistir en el centro hasta que se restablezca la normalidad.\n\nSi la emisión de la alerta se conoce durante la jornada laboral:\n\n– Si se está trabajando en el centro educativo y las condiciones permiten el desplazamiento al domicilio, abandonar el centro; si no, permanecer en el centro. No obstante, en el supuesto de que en el centro haya alumnado, el personal docente se considera imprescindible y debe permanecer en su puesto de trabajo hasta que el alumnado haya sido evacuado.\n– En caso de ola de frío suspender actividades al aire libre salvo las imprescindibles.\n– En caso de ola de calor suspender actividades al aire libre en horas de temperaturas extremas.\n– Permanecer atento a la información meteorológica.\n– Permanecer en comunicación con la persona responsable del centro educativo.\n– Atender los consejos del Centro de Coordinación de Emergencias de la Generalitat y de los Centros de coordinación operativa municipales (CECOPAL).\n\nCuando las condiciones de riesgo lo aconsejen, el plan de autoprotección o documento de medidas de emergencia, incluirán medidas de confinamiento dentro del centro educativo, consistentes en:\n\n– Permanecer en las aulas o en espacios seguros.\n– Cerrar puertas y ventanas.\n– Evitar zonas bajas o sótanos susceptibles de inundación. Subir a las plantas o lugares elevados en caso de inundación inminente.\n– Mantener la comunicación permanente con las autoridades competentes."
+        }
+      ]
+    },
+    {
+      "id": "sec-10",
+      "type": "seccion",
+      "title": "10. Obligaciones del personal de los centros públicos no universitarios",
+      "content": "El personal tendrá que cumplir las instrucciones y recomendaciones que se dictan tanto por las autoridades competentes en materia de protección civil y emergencias, como por los Ayuntamientos y el director o la directora del centro docente.\n\nEn el supuesto de que se considere más seguro esperar en el centro educativo y hasta nueva orden, el personal seguirá las instrucciones del responsable del centro, y permanecerá en su puesto de trabajo, para garantizar la protección y el bienestar del alumnado ante una situación de riesgo.\n\nAsí mismo, deberá tener el teléfono móvil disponible y mantenerse activamente informado sobre la situación y evolución de la alerta, así como de cualquiera de las medidas adoptades, a través de medios de comunicación y canales oficiales (correo electrónico, web, teléfono, etc.)."
+    },
+    {
+      "id": "sec-11",
+      "type": "seccion",
+      "title": "11. Responsabilidades de la administración",
+      "content": "Las personas que ostentan la dirección de los centros educativos velarán por la aplicación de las medidas contempladas.\n\nLa administración local informará de las instrucciones y recomendaciones emitidas por la autoridad competente en materia de emergencias y protección civil a la dirección del centro educativo, así como de la adopción de cualquiera otra medida, a través de los medios disponibles (web, correo electrónico, teléfono, etc.). Aun así, en caso de inoperancia de los medios mencionados, será la administración local quien determinará mediante el órgano competente el protocolo de comunicación a seguir."
+    },
+    {
+      "id": "sec-12",
+      "type": "seccion",
+      "title": "12. Cadena de comunicaciones",
+      "content": "La comunicación de las actuaciones a seguir ante emergencias exteriores se realizará conforme al siguiente orden escalonado:\n\n1. La autoridad responsable en materia de protección civil difunde la existencia de una situación de preemergencia o emergencia.\n\n2. La administración local avisa a los centros educativos afectados, a través de la persona que ostente la dirección del centro.\n\n3. Las personas responsables de cada centro informarán al personal mediante correo electrónico, mensajería o teléfono y monitorizarán las alertas a través de las plataformas oficiales (AEMET, 112) manteniendo los canales de comunicación abiertos siempre que sea posible."
+    },
+    {
+      "id": "sec-13",
+      "type": "seccion",
+      "title": "13. Implantación, actualización y difusión",
+      "content": "El presente protocolo se mantendrá permanentemente actualizado y se dará a conocer a través del portal web institucional de la Conselleria con competencias en educación, así como mediante comunicación electrónica individual dirigida al personal funcionario docente no universitario que presta servicio en los centros docentes públicos no universitarios de la Generalitat Valenciana. También, se dará a conocer al resto de personal que presta servicio en los mismos, de forma que con su implantación se garantice un conocimiento previo por parte de todo el personal que permita su aplicación inmediata y automática llegado el caso.\n\nPor otra parte, conforme al artículo 14 de la Orden 27/2012, todos los centros educativos deberán realizar en cada curso escolar, al menos una vez, un simulacro de emergencia.\n\nEl servicio de prevención de riesgos laborales de la Conselleria de Educación, Cultura, Universidades y Empleo prestará a los centros docentes, asesoramiento y apoyo técnico necesarios en relación con las medidas de emergencias."
+    },
+    {
+      "id": "anexo-1",
+      "type": "anexo",
+      "title": "Cuadros resumen de instrucciones",
+      "children": [
+        {
+          "id": "anexo-1-amarilla",
+          "type": "seccion",
+          "title": "En caso de alerta amarilla",
+          "content": "– Se tiene que acudir o permanecer en el centro docente de la forma habitual.\n– La dirección del centro o la persona designada para la gestión de avisos y alertas, tendrá que realizar un seguimiento de la evolución de la alerta para la adopción de las medidas que correspondan de conformidad con lo previsto en sus planes de autoprotección, emergencia y evacuación.\n– El personal docente tendrá que mantenerse atento a la información y las comunicaciones que emiten los órganos competentes y seguir las instrucciones de la dirección del centro.\n– El personal docente tendrá que estar atento a la evolución de la situación meteorológica.\n– En cualquier caso, se ha de tener en cuenta lo que establece el documento de Medidas de Emergencia y Plan de Autoprotección de cada centro docente.\n\nSi no sube el nivel de alerta, se mantendrán estas instrucciones hasta la desaparición de esta."
+        },
+        {
+          "id": "anexo-1-naranja",
+          "type": "seccion",
+          "title": "En caso de alerta naranja",
+          "content": "Además de las instrucciones correspondientes al nivel amarillo:\n\n– En el caso de cierre del centro o suspensión de la actividad lectiva en un periodo previsto superior a 24 horas, continuar con la actividad lectiva de acuerdo con las instrucciones que se emitan.\n– El personal docente se mantendrá informado en todo momento."
+        },
+        {
+          "id": "anexo-1-roja",
+          "type": "seccion",
+          "title": "En caso de alerta roja",
+          "content": "– Fuera de la jornada laboral no se acude al centro educativo.\n– En caso del cierre del centro o suspensión de la actividad lectiva en un periodo previsto superior a 24 horas, continuar con la actividad lectiva de acuerdo con las instrucciones que se emitan.\n– Si se está en el centro educativo y las condiciones permiten el desplazamiento a su domicilio, abandonar el centro. En caso contrario, se permanecerá en el centro.\n– Mantenerse informado de la evolución de la alerta.\n– Mantenerse en comunicación con la dirección del centro o con la persona designada para la gestión de avisos y alertas.\n– Atender las recomendaciones del 112 según el tipo de alerta y las instrucciones del órgano competente de protección civil.\n– En cualquier caso, se ha de tener en cuenta lo que establece el documento de Medidas de Emergencia y Plan de Autoprotección de cada centro docente."
+        },
+        {
+          "id": "anexo-1-desplazamientos",
+          "type": "seccion",
+          "title": "Atención sobre los desplazamientos",
+          "content": "– Seguir las instrucciones que dictan las autoridades responsables de la emergencia o de protección civil exterior del centro educativo y en los desplazamientos que se tengan que realizar.\n– Si está en el centro y dado que con alumnado es esencial su servicio: deberá permanecer en el centro.\n– Si no está en el centro: se queda en su domicilio."
+        }
+      ]
+    },
+    {
+      "id": "anexo-2",
+      "type": "anexo",
+      "title": "Recomendaciones",
+      "children": [
+        {
+          "id": "anexo-2-generales",
+          "type": "seccion",
+          "title": "Recomendaciones de carácter general: todos",
+          "content": "– Disponer en el centro al menos de una radio y una linterna y pilas en buen estado y cargadas.\n– Ubicar los productos tóxicos en lugares fuera del alcance del agua.\n– Resguardar los objetos de valor, documentación, y equipos con información importante.\n– Disponer de botiquín de primeros auxilios que contenga como mínimo desinfectantes y antisépticos autorizados, gasas estériles, algodón hidrófilo, venda, esparadrapo, apósitos adhesivos, tijeras, pinzas y guantes desechables.\n– Antes de salir para realizar cualquier actividad al exterior, informarse de la evolución de la situación (previsión meteorológica) y, en su caso, del estado de las carreteras.\n– Ante avisos/alertas por FMA:\n◦ Evitar las actividades en el exterior.\n◦ Evitar las salidas y desplazamientos, procurar mantenerse en el interior de los edificios.\n◦ Seguir las instrucciones que den las autoridades competentes.\n◦ Informar a las autoridades competentes o ayudas externas ante cualquier problema que pudiera requerir intervención externa.\n◦ Utilizar el teléfono solo para las llamadas imprescindibles para no colapsar las líneas telefónicas.\n◦ Mantenerse informado (radio, TV, etc.) de la evolución de la situación."
+        },
+        {
+          "id": "anexo-2-precipitaciones",
+          "type": "seccion",
+          "title": "Recomendaciones: precipitaciones",
+          "content": "**ANTE LA EMERGENCIA**\n\n– Cuando se notifique una preemergencia, mantenerse informado de la evolución de la situación. Sintonizar las emisoras de radio y televisión que den noticias de ello.\n– Evitar los desplazamientos. Usar el vehículo solo si es absolutamente imprescindible.\n– Reducir al máximo la actividad en el exterior, y procurar que tanto el personal trabajador como el personal ajeno se halle en el interior de los edificios. Evitar la presencia de personal en sótanos y zonas bajas de edificios y construcciones.\n– Retirar los vehículos de las zonas que pueden inundarse, siempre que pueda hacerse sin poner en riesgo la integridad de las personas.\n– Mantenerse alejado de las riberas de los ríos y barrancos. No permanecer en los puentes, pueden desmoronarse y arrastrar en la caída todo lo que esté sobre ellos.\n– Estar preparados para la evacuación en caso necesario, siguiendo las instrucciones de las autoridades competentes.\n– En el caso anterior, puede ser aconsejable desconectar la electricidad, el gas y otros suministros energéticos, y el agua, y asegurar todas las puertas y accesos.\n– Usar de manera razonable el teléfono. No colapsar las líneas.\n– No propagar rumores o noticias exageradas de daños.\n\n**EN EL EXTERIOR**\n\n– Si es necesario efectuar desplazamientos, informarse de la situación antes de iniciarlo, y circular preferentemente por carreteras principales y autopistas, moderando la velocidad.\n– No detenerse sobre ningún puente, ya que el agua puede arrastrarlo.\n– No atravesar vados ni tramos de carreteras inundados, ni a pie ni en coche.\n– Mantenerse alejado de cauces, barrancos, torrentes, o zonas que se puedan inundar. No estacionar en cauces secos, barrancos, torrentes, ni en las orillas de los ríos.\n– Si es necesario, abandonar el vehículo.\n– Dirigirse a los puntos más altos de la zona."
+        },
+        {
+          "id": "anexo-2-nevadas",
+          "type": "seccion",
+          "title": "Recomendaciones: nevadas",
+          "content": "– En caso de ventisca (viento, frío y nieve simultáneamente), evitar salir a la calle ya que, además, la visibilidad se reduce notablemente.\n\n**FUERA DEL CENTRO**\n\n– Abrigarse si se va a pasar tiempo en el exterior, es mejor llevar varias prendas ligeras y cálidas superpuestas que una sola prenda de tejido grueso.\n– Hacer uso preferente de manoplas (proporciona más calor que los guantes).\n– Protegerse sobre todo cara y cabeza.\n– Evitar la entrada de aire frío a los pulmones.\n\n**SI SE HA DE UTILIZAR UN VEHÍCULO**\n\n– Viajar únicamente si es imprescindible y procurar no hacerlo solo. Utilizar, a ser posible, transporte público.\n– Llenar el depósito de combustible, disponer de teléfono móvil, radio, pala, cuerda, una linterna, bayeta.\n– Consultar el Servicio Informático e incidencias de tráfico de la DGT, e informarse sobre el estado de las carreteras por las que se va a circular, así como sobre posibles itinerarios alternativos.\n– Utilizar el antivaho y disponer de rasqueta para el hielo, cadenas y guantes para su colocación, y ropa de abrigo o manta.\n– Disponer de alimentos ricos en calorías (chocolate, frutos secos, etc.) y agua y, si es el caso, la medicación habitual.\n– Durante la circulación, moderar la velocidad y aumentar la distancia de seguridad en caso de nieve o hielo en la calzada.\n– Procurar no agotar el combustible.\n– Mantenerse informado por radio de la situación meteorológica y sobre el estado de la red viaria.\n– Seguir los consejos para conducción con nieve y hielo de la DGT."
+        },
+        {
+          "id": "anexo-2-vendavales",
+          "type": "seccion",
+          "title": "Recomendaciones: vendavales",
+          "content": "**EN LA CARRETERA**\n\n– Evitar circular en la medida de lo posible. Usar preferentemente el transporte público y en caso de tener que salir, informarse de la predicción meteorológica.\n– Reducir la velocidad a límites de seguridad. Un golpe de viento puede desviar bruscamente la trayectoria.\n– Las motos y los vehículos de grandes dimensiones (camiones, furgonetas, vehículos con remolque), que ofrecen una gran superficie de contacto con el viento, corren el peligro de volcar ante vientos transversales.\n– En caso de necesidad, detenerse en una zona segura y esperar a que amaine el viento.\n– Si se está conduciendo, el coche cerrado es un buen lugar para permanecer. Disminuir la velocidad, extremar las precauciones y no detenerse en zonas donde pueda discurrir gran cantidad de agua.\n\n**EN CASO DE TORNADO**\n\n**DENTRO DE UN EDIFICIO**\n\n– Evitar los lugares con techos amplios, como auditorios, cafeterías, pasillos largos.\n– Alejarse de las ventanas.\n– Dirigirse enseguida a un cuarto interior, sin ventanas; sótano o al nivel más bajo del edificio.\n– Si no hay sótano, ir a un pasillo interior o cuarto pequeño interior sin ventanas, como un baño.\n– Situarse bajo un mueble resistente (banco de trabajo, mesa o escritorio pesado, etc.) y sujetarse a éste.\n– Usar los brazos y manos para proteger la cabeza y el cuello\n\n**EN EL EXTERIOR**\n\n– Si es posible, entrar en un edificio.\n– Si no hay un refugio cerca o no hay tiempo de refugiarse en interiores, tumbarse en una zanja o área que esté en un nivel bajo o acuclillarse cerca de un edificio\n– Estar atento a la posibilidad de que se produzca una inundación.\n– En el interior de un vehículo:\n◦ No tratar de ganarle a un tornado conduciendo\n◦ Bajar del vehículo inmediatamente y buscar refugio en un edificio cercano"
+        }
+      ]
+    },
+    {
+      "id": "anexo-3",
+      "type": "anexo",
+      "title": "Esquema básico de actuación en caso de emergencia por FMA",
+      "content": "![Esquema básico de actuación en caso de emergencia por FMA](/legis_cpmdem/images/laws/protocolo-emergencias-fma-esquema.jpg)"
+    }
+  ],
+  "legalAnalysis": {
+    "enactedPursuantTo": [
+      {
+        "title": "Ley 31/1995, de 8 de noviembre, de prevención de riesgos laborales (arts. 20 y 21)",
+        "articles": [],
+        "relationship": "habilitante"
+      },
+      {
+        "title": "Orden 27/2012, de 18 de junio, de la Conselleria de Educación, Formación y Empleo, sobre planes de autoprotección o medidas de emergencia de los centros educativos no universitarios de la Comunitat Valenciana (arts. 10, 12 y 14)",
+        "articles": [],
+        "relationship": "desarrollo"
+      }
+    ],
+    "priorAffectations": [],
+    "posteriorAffectations": [],
+    "derogations": [],
+    "concordances": [
+      {
+        "lawId": "resolucion-inicio-curso-2026-2027",
+        "title": "Instrucciones de inicio del curso 2026-2027",
+        "description": "El apartado 3.2 («Medidas de emergencia y planes de autoprotección del centro») declara de aplicación este protocolo y enlaza su PDF."
+      },
+      {
+        "lawId": "instrucciones-altas-temperaturas-2026",
+        "title": "Instrucciones de 3 de junio de 2026 sobre altas temperaturas en centros educativos",
+        "description": "Este protocolo excluye expresamente las temperaturas extremas, que se rigen por esas instrucciones."
+      }
+    ]
+  },
+  "scope": "general",
+  "territory": "autonomico",
+  "temporality": {
+    "type": "permanente"
+  },
+  "docType": "documentos"
+}

@@ -1,0 +1,224 @@
+{
+  "id": "protocolo-emergencias-fma",
+  "slug": "protocolo-emergencias-fma",
+  "type": "documento",
+  "number": "",
+  "date": "2025-10-22",
+  "publishedIn": {
+    "source": "CEICE",
+    "number": "",
+    "date": "2025-10-22",
+    "url": "https://ceice.gva.es/documents/162909733/397868725/PROTOCOLO+EMERGENCIAS+FMA_VAL.pdf/50ad332b-807d-9e5e-fd69-f36d73e23152",
+    "pdfUrl": "https://ceice.gva.es/documents/162909733/397868725/PROTOCOLO+EMERGENCIAS+FMA_VAL.pdf/50ad332b-807d-9e5e-fd69-f36d73e23152"
+  },
+  "title": "Protocol d’actuació en cas d’emergències exteriors (fenòmens meteorològics adversos) per al personal funcionari de centres docents públics no universitaris dependents de la conselleria competent en matèria d’educació",
+  "titleShort": "Protocol d’emergències exteriors per fenòmens meteorològics adversos (FMA)",
+  "category": "organizacion",
+  "vigpiracy": {
+    "status": "vigente",
+    "statusLabel": "Vigent",
+    "effectiveDate": "2025-10-22"
+  },
+  "structure": [
+    {
+      "id": "sec-1",
+      "type": "seccion",
+      "title": "1. Objecte",
+      "content": "L’objectiu d’este protocol és establir un marc d’actuació que permeta contrarestar els possibles efectes negatius de les situacions d’emergència causades per fenòmens meteorològics adversos (FMA) i garantir d’esta manera la seguretat i salut tant de les persones treballadores dels centres docents com de l’alumnat present en estos, d’acord amb la Llei 31/1995, de prevenció de riscos laborals, i les instruccions de les autoritats competents en matèria d’emergències i protecció civil.\n\nA més, amb este document, es facilita a les persones responsables dels centres docents públics no universitaris de la Generalitat Valenciana un model de protocol que servisca de base per a l’elaboració dels protocols que han d’incloure necessàriament dins dels seus plans d’autoprotecció o document de mesures d’actuació en cas d’emergència que han de tindre els centres, segons l’article 20 de la Llei 31/1995, de prevenció de riscos laborals, i la resta de normativa vigent que li és aplicable.\n\nNo obstant això, com a model que és, a l’hora d’elaborar els protocols en els centres docents, estos han de ser adaptats i concretats tenint en compte tant l’estructura de l’organització del centre de què es tracte, les característiques particulars dels usuaris del centre, com les característiques i l’entorn de l’edifici, o edificis, en els quals es desenrotlla l’activitat.\n\nEste protocol d’actuació es referix exclusivament a fenòmens meteorològics adversos (excepte les temperatures extremes).\n\nD’altra banda, cal indicar que este model està basat en el Protocol d’actuació en cas d’emergències exteriors per al personal de l’Administració de la Generalitat que la Direcció General de Funció Pública va elaborar, així com en la publicació dels models de protocols d’actuació davant d’emergències exteriors en centres de treball elaborat pel servici de prevenció de riscos laborals del personal propi de la Generalitat Valenciana."
+    },
+    {
+      "id": "sec-2",
+      "type": "seccion",
+      "title": "2. Àmbit d’aplicació",
+      "content": "El protocol s’aplica a tot el personal que preste servicis en els centres docents públics no universitaris de la Generalitat Valenciana, independentment de l’organisme, entitat o empresa privada a la qual pertanga, per a la seua activació en situacions d’emergència exterior deguda a fenòmens meteorològics adversos susceptibles d’avís per part d’AEMET, o altres riscos comunicats per les autoritats competents en matèria de protecció civil.\n\nDeclarada l’alerta, la seua efectivitat s’estendrà tant al personal el centre de treball o domicili del qual radique en una zona afectada per l’alerta, com al personal del centre docent que no es trobe en estos supòsits, però haja de travessar una zona afectada per l’alerta per a desplaçar-se des del seu domicili al seu centre docent, o viceversa."
+    },
+    {
+      "id": "sec-3",
+      "type": "seccion",
+      "title": "3. Drets i observança del protocol",
+      "content": "Segons la Llei 13/2010, de 23 de novembre, de protecció civil i gestió d’emergències, en els seus articles 14.1.b i 23, es concreta que els plans territorials d’àmbit inferior al de la comunitat seran d’àmbit municipal i supramunicipal, i que l’estructura i contingut d’estos plans s’acomodaran a les directrius disposades en esta llei i als que fixe el Pla territorial d’emergència de la Comunitat Valenciana, i també el Pla especial davant d’inundacions.\n\nTotes les actuacions s’encaminaran a complir el Pla territorial municipal davant d’emergències i aquells plans d’actuació municipal per a fer front a riscos concrets, per a la qual cosa es col·laborarà en l’obtenció i transmissió d’informació amb el centre de coordinació d’emergències a través de la seua CECOPAL, centre de coordinació operativa municipal.\n\nL’article 20 de la Llei 31/1995, de prevenció de riscos laborals, establix que tenint en compte la grandària i l’activitat del centre, així com la possible presència de persones alienes a esta, hauran d’analitzar les possibles situacions d’emergència i adoptar les mesures necessàries en matèria de primers auxilis, lluita contra incendis i evacuació dels treballadors, per a la qual cosa designarà el personal encarregat de posar en pràctica estes mesures i comprovarà periòdicament, si és el cas, el seu correcte funcionament. El personal mencionat haurà de tindre la formació necessària, ser suficient en nombre i disposar del material adequat, en funció de les circumstàncies assenyalades abans.\n\nD’altra banda, l’article 21 de la Llei 31/1995, de 8 de novembre, de prevenció de riscos laborals, establix les garanties del personal que estiga o puga estar exposat a un risc greu i imminent en ocasió del seu treball, que seran aplicables al personal de l’Administració de la Generalitat.\n\nDe conformitat amb el que s’ha mencionat en este article, totes les mesures que s’adopten han de garantir que el personal siga informat al més prompte possible sobre l’existència d’estos riscos i de les actuacions que cal realitzar amb les instruccions necessàries en cada cas.\n\nD’acord amb les instruccions per a l’organització i el funcionament dels centres docents per a cada curs escolar, en l’apartat referent a “Mesures d’emergència i plans d’autoprotecció del centre”, i amb el que establix l’article 77 i l’article 92, respectivament, del Decret 253/2019 i del Decret 252/2019, pels quals s’establix la regulació de l’organització i el funcionament dels centres públics que impartixen ensenyances tant d’Educació Infantil o Educació Primària com d’Educació Secundària Obligatòria, Batxillerat i Formació Professional, els centres establiran mesures d’emergència i, si és el cas, un pla d’autoprotecció, d’acord amb el que establisca la normativa sobre la matèria, i la seua implantació serà responsabilitat de l’equip directiu.\n\nAtesos els articles 10 i 12 de l’Orde 27/2012, de 18 de juny, de la Conselleria d’Educació, Formació i Ocupació, sobre plans d’autoprotecció o mesures d’emergència dels centres educatius no universitaris de la Comunitat Valenciana, la direcció de cada centre educatiu establirà el procediment per a informar sobre el pla d’autoprotecció o les mesures d’emergència a fi que siga conegut per tots els sectors de la comunitat educativa, i el director del centre coordinarà i es responsabilitzarà de l’elaboració, la implantació, el manteniment, la revisió i, si és el cas, l’actualització del pla d’autoprotecció o de les mesures d’emergència.\n\nLa inobservança d’estes disposicions per part de qualsevol responsable podria comportar les sancions corresponents.\n\nD’acord amb els articles 33, 34 i 38 de la Llei 31/1995, de prevenció de riscos laborals, sobre la consulta i participació de les persones treballadores, el present document serà objecte de consulta i participació del personal docent en els respectius comités de seguretat i salut de la Conselleria d’Educació, Cultura, Universitats i Ocupació."
+    },
+    {
+      "id": "sec-4",
+      "type": "seccion",
+      "title": "4. Actuacions prèvies",
+      "content": "La direcció del centre designarà a una o diverses persones de l’equip directiu per a la gestió d’avisos i alertes amb les funcions següents:\n\n– Establir els canals de comunicació (web, correu electrònic, grup de difusió, etc.) amb el personal treballador del centre docent i considerar els més adequats en funció de l’horari laboral i extralaboral.\n– Disposar de directori actualitzat dels responsables dels servicis municipals d’emergències i protecció civil de l’ajuntament.\n– Sol·licitar de les persones responsables en matèria de protecció civil de l’ajuntament informació sobre les actuacions establides en cas de precipitacions intenses, inundacions, nevades, vendavals, etc.\n– Comunicar al personal treballador del centre les instruccions establides segons el nivell d’avís.\n– Identificar els llocs de treball que hagen de tindre consideració d’imprescindibles, quant a la seua permanència física en el centre de treball.\n\nLa direcció del centre docent haurà de designar també una persona o diverses persones substitutes per a assegurar la comunicació efectiva."
+    },
+    {
+      "id": "sec-5",
+      "type": "seccion",
+      "title": "5. Funcions i responsabilitats",
+      "content": "Direcció de centre docent en el supòsit de centres docents d’Infantil, Primària, educació especial, adults:\n\n1. Sol·licitar a l’ajuntament la realització de les activitats de manteniment de manera prèvia a l’inici del curs:\n\n– Neteja de cobertes, baixants i canalitzacions; revisió de l’estat de cornises, balcons i façanes; assegurar tendals, persianes, antenes i altres elements; retirada d’arbres morts o branques que sobreïsquen de les estructures, i objectes que es troben en patis (com porteries o cistelles), terrasses (com plaques solars, antenes), sostres o balcons i que puguen volar-se.\n– Comprovació i manteniment de punts d’edifici per a on hi puga haver contacte amb l’exterior (tancaments de finestres, portes, etc.).\n– Revisió i manteniment d’instal·lacions, equips i sistemes de calefacció.\n– Revisió i manteniment de llums d’emergència i senyalització fotoluminescent de vies i eixides d’evacuació.\n– Revisió i manteniment de les portes d’emergència: accessos lliures i obertura operativa.\n– Revisió i manteniment d’equips o instal·lacions com parallamps, presa de terra, grups electrògens i bombes de buidatge.\n\nDirecció dels centres docents en el supòsit de centres docents d’ESO, Batxillerat, Formació Professional, EOI, conservatoris, etc.\n\n1. Ordenar la realització de les activitats de manteniment de manera prèvia a l’inici del curs:\n\n– Neteja de cobertes, baixants i canalitzacions; revisió de l’estat de cornises, balcons i façanes; assegurament de tendals, persianes, antenes i altres elements; retirada d’arbres morts o branques que sobreïsquen de les estructures, i objectes que es troben en patis (com porteries o cistelles), en terrasses (com plaques solars, antenes), sostres o balcons i que puguen volar-se.\n– Comprovació i manteniment de punts d’edifici per a on hi puga haver contacte amb l’exterior (tancaments de finestres, portes, etc.).\n– Revisió i manteniment d’instal·lacions, equips i sistemes de calefacció.\n– Revisió i manteniment de llums d’emergència i senyalització fotoluminescent de vies i eixides d’evacuació.\n– Revisió i manteniment de les portes d’emergència: accessos lliures i obertura operativa.\n– Revisió i manteniment d’equips i instal·lacions com parallamps, presa de terra, grups electrògens i bombes de buidatge.\n\nPersona/ones de l’equip directiu designada/ades per a la gestió d’avisos i alertes:\n\n– Vigilància dels avisos des d’AEMET i de l’organisme competent en matèria de protecció civil o de la persona responsable jeràrquica superior.\n– Vigilar la situació i evolució d’avisos i alertes meteorològiques segons els avisos emesos pels diferents organismes competents.\n– Comunicar a tot el personal al seu càrrec els avisos i alertes rebudes, perquè seguisquen les instruccions previstes en el document de mesures d’emergències o, si és el cas, en el seu pla d’autoprotecció.\n\nTot el personal:\n\n– Complir amb les instruccions d’actuació, segons el nivell d’avís, rebudes per la direcció del centre o de la persona designada de l’equip directiu.\n– Estar atents per si hi ha posteriors comunicats de la persona designada.\n– Romandre atents a la informació meteorològica."
+    },
+    {
+      "id": "sec-6",
+      "type": "seccion",
+      "title": "6. Enllaços de consulta",
+      "content": "Informació AEMET:\n\nhttps://www.aemet.es/ca/eltiempo/prediccion/avisos\nhttp://meteoruta.aemet.es/p_index.html\nZones de predicció meteorològica. Detall de municipis per zones\n\nInformació emergències 112:\n\nhttps://www.112cv.gva.es/va/emergencias-meteorologicas\nhttps://www.112cv.gva.es/va/preemergencias-meteorologicas\nhttps://www.112cv.gva.es/va/\n\nInformació carreteres:\n\nDGT - Informació i incidències de trànsit\nhttps://infocar.dgt.es/etraffic/\n\nEn cas d’avisos o alertes, és important mantindre els canals de comunicació oberts i, en cas de risc, consultar la informació de manera freqüent."
+    },
+    {
+      "id": "sec-7",
+      "type": "seccion",
+      "title": "7. Alertes",
+      "content": "Hi ha tres categories d’alerta en funció de la gravetat de les conseqüències previstes:\n\n| Alerta | Risc |\n|---|---|\n| Groga | Risc baix |\n| Taronja | Risc important |\n| Roja | Risc extrem |\n\n**ALERTES METEOROLÒGIQUES PER PRECIPITACIONS INTENSES**\n\n(Nivells de risc meteorològic definits per AEMET)\n\n| Nivell | Significat |\n|---|---|\n| Verd | No hi ha cap risc meteorològic. |\n| Groc | Hi ha algun risc meteorològic per a alguna activitat concreta, però no per a la població en general. |\n| Taronja | Hi ha un risc meteorològic important amb un cert grau de perill per a les activitats usuals. |\n| Roig | El risc meteorològic és extrem amb risc per a la població molt alt. |\n\nEn funció del tipus d’alerta decretada, s’hauran d’adoptar les corresponents mesures adequades al seu nivell de gravetat."
+    },
+    {
+      "id": "sec-8",
+      "type": "seccion",
+      "title": "8. Procediment bàsic",
+      "content": "La persona o les persones de l’equip directiu nomenades per a la gestió d’avisos i alertes, serà la que, davant de situacions d’alerta, estiga encarregada de consultar les possibles situacions d’emergència o preermergència en la web de l’112:\n\nhttps://www.112cv.gva.es/va/1-1-2-on-line\n\nS’haurà de tindre en compte una o diverses persones substitutes per a assegurar la consulta efectiva.\n\nEn casos d’avisos o alertes, és important mantindre els canals de comunicació oberts i, en cas de risc, consultar la informació de manera freqüent."
+    },
+    {
+      "id": "sec-9",
+      "type": "seccion",
+      "title": "9. Actuacions específiques segons nivell de risc",
+      "children": [
+        {
+          "id": "sec-9-amarillo",
+          "type": "seccion",
+          "title": "Instruccions nivell groc",
+          "content": "– Estar atent a l’evolució de la situació meteorològica.\n– Romandre en comunicació amb la direcció del centre o amb la persona designada per a la gestió d’avisos i alertes.\n– La direcció del centre, o la persona designada per a la gestió d’avisos i alertes, haurà de fer un seguiment de l’evolució de l’alerta per a l’adopció de les mesures que, si és el cas, corresponga, de conformitat amb el que preveu el pla d’autoprotecció, emergència i evacuació del centre.\n– El personal docent haurà de mantindre’s atent a la informació que es trasllade de la direcció del centre."
+        },
+        {
+          "id": "sec-9-naranja",
+          "type": "seccion",
+          "title": "Instruccions nivell taronja",
+          "content": "– En atenció a les circumstàncies existents en cada cas, i d’acord amb les recomanacions o instruccions dictades per les autoritats responsables de protecció civil, els Ajuntaments valoraran i, si és el cas, podran acordar un possible tancament preventiu dels centres educatius.\n– La direcció del centre, o la persona designada per a la gestió d’avisos i alertes, estarà en contacte permanent amb l’autoritat competent en matèria de protecció civil, el responsable de l’ajuntament en la matèria, així com els servicis municipals d’emergències (bombers, policia local, etc.).\n– En el cas que per circumstàncies extraordinàries el centre educatiu romanga tancat per un període superior a 24 hores, el personal docent actuarà d’acord amb les instruccions que es dicten al respecte.\n– El personal docent ha de mantindre’s informat de l’evolució de l’alerta mitjançant la consulta de les instruccions de la persona que exercisca la direcció del centre educatiu o la persona en qui delegue, i consultar les recomanacions i instruccions de les autoritats de protecció civil en els mitjans de comunicació, diaris oficials, correu electrònic o telèfon.\n– Durant el període de suspensió de l’activitat lectiva que impossibilite la permanència del personal docent en el seu lloc de treball, en el cas que l’emergència comporte impossibilitat de comunicació i connexió per falta d’electricitat, xarxa o qualsevol incidència informàtica, caldrà estar atent a les instruccions de la direcció del centre educatiu o persona en qui delegue, en el moment en què es restablisca la normalitat.\n– Atendre els consells del Centre de Coordinació d’Emergències de la Generalitat i dels centres de coordinació operativa municipals (CECOPAL)."
+        },
+        {
+          "id": "sec-9-rojo",
+          "type": "seccion",
+          "title": "Instruccions nivell roig",
+          "content": "En atenció a les circumstàncies existents en cada cas, i d’acord amb les recomanacions o instruccions dictades per les autoritats responsables de protecció civil, s’aplicaran les mesures següents:\n\n– En cas d’alerta roja, s’actuarà seguint les instruccions de l’autoritat competent en matèria de protecció civil i del responsable de l’ajuntament en la matèria.\n– Si s’haguera disposat el tancament del centre o la suspensió d’activitats, o emés l’alerta fora de l’horari de prestació de servicis per haver finalitzat o no haver-se iniciat la jornada de treball, el personal no acudirà al seu lloc de treball i haurà de continuar l’activitat lectiva d’acord amb les instruccions que es dicten al respecte.\n\nEn cas que el centre no romanga tancat, però hi haja un impediment objectiu per a desplaçar-se (carreteres tallades, mobilitat restringida per les autoritats competents en la localitat de residència o en el trajecte fins al centre), o risc greu o imminent en el desplaçament per a anar al centre de treball, la persona treballadora podrà no assistir al centre fins que es restablisca la normalitat.\n\nSi l’emissió de l’alerta es coneix durant la jornada laboral:\n\n– Si s’està treballant en el centre educatiu i les condicions permeten el desplaçament al domicili, abandonar el centre; si no, romandre en el centre. No obstant això, en el cas que en el centre hi haja alumnat, el personal docent es considera imprescindible i ha de romandre en el seu lloc de treball fins que l’alumnat haja sigut evacuat.\n– En cas d’onada de fred, cal suspendre activitats a l’aire lliure excepte les imprescindibles.\n– En cas d’onada de calor, cal suspendre activitats a l’aire lliure en hores de temperatures extremes.\n– Romandre atents a la informació meteorològica.\n– Romandre en comunicació amb la persona responsable del centre educatiu.\n– Atendre els consells del Centre de Coordinació d’Emergències de la Generalitat i dels centres de coordinació operativa municipals (CECOPAL).\n\nQuan les condicions de risc ho aconsellen, el pla d’autoprotecció o el document de mesures d’emergència, inclouran mesures de confinament dins del centre educatiu, consistents en:\n\n– Romandre en les aules o en espais segurs.\n– Tancar portes i finestres.\n– Evitar zones baixes o soterranis susceptibles d’inundació. Pujar a les plantes o llocs elevats en cas d’inundació imminent.\n– Mantindre la comunicació permanent amb les autoritats competents."
+        }
+      ]
+    },
+    {
+      "id": "sec-10",
+      "type": "seccion",
+      "title": "10. Obligacions del personal dels centres públics no universitaris",
+      "content": "El personal haurà de complir les instruccions i recomanacions que dicten tant les autoritats competents en matèria de protecció civil i emergències com els ajuntaments i el director o la directora del centre docent.\n\nEn el cas que es considere més segur esperar en el centre educatiu i fins a una altra orde, el personal seguirà les instruccions del responsable del centre i romandrà en el seu lloc de treball, per a garantir la protecció i el benestar de l’alumnat davant d’una situació de risc.\n\nAixí mateix, haurà de tindre el telèfon mòbil disponible i mantindre’s activament informat sobre la situació i evolució de l’alerta, així com de qualsevol de les mesures adoptades, a través de mitjans de comunicació i canals oficials (correu electrònic, web, telèfon, etc.)."
+    },
+    {
+      "id": "sec-11",
+      "type": "seccion",
+      "title": "11. Responsabilitats de l’administració",
+      "content": "Les persones que exercisquen la direcció dels centres educatius vetlaran per l’aplicació de les mesures previstes.\n\nL’administració local informarà de les instruccions i recomanacions emeses per l’autoritat competent en matèria d’emergències i protecció civil a la direcció del centre educatiu, així com de l’adopció de qualsevol altra mesura, a través dels mitjans disponibles (web, correu electrònic, telèfon, etc.). Així i tot, en cas d’inoperància dels mitjans mencionats, serà l’administració local qui determinarà mitjançant l’òrgan competent el protocol de comunicació que cal seguir."
+    },
+    {
+      "id": "sec-12",
+      "type": "seccion",
+      "title": "12. Cadena de comunicacions",
+      "content": "La comunicació de les actuacions que cal seguir davant d’emergències exteriors es realitzarà conforme al següent orde escalonat:\n\n1. L’autoritat responsable en matèria de protecció civil difon l’existència d’una situació de preemergència o emergència.\n\n2. L’administració local avisa els centres educatius afectats, a través de la persona que exercisca la direcció del centre.\n\n3. Les persones responsables de cada centre informaran el personal mitjançant un correu electrònic, missatgeria o telèfon, i monitoraran les alertes a través de les plataformes oficials (AEMET, 112) mantenint els canals de comunicació oberts sempre que siga possible."
+    },
+    {
+      "id": "sec-13",
+      "type": "seccion",
+      "title": "13. Implantació, actualització i difusió",
+      "content": "El present protocol es mantindrà permanentment actualitzat i es donarà a conéixer a través del portal web institucional de la conselleria amb competències en educació, així com mitjançant comunicació electrònica individual dirigida al personal funcionari docent no universitari que presta servici en els centres docents públics no universitaris de la Generalitat Valenciana. També es donarà a conéixer a la resta de personal que presta servici en estos, de manera que amb la seua implantació es garantisca un coneixement previ per part de tot el personal que permeta la seua aplicació immediata i automàtica arribat el cas.\n\nD’altra banda, d’acord amb l’article 14 de l’Orde 27/2012, tots els centres educatius hauran de realitzar en cada curs escolar, almenys una vegada, un simulacre d’emergència.\n\nEl Servici de Prevenció de Riscos Laborals de la Conselleria d’Educació, Cultura, Universitats i Ocupació prestarà als centres docents assessorament i suport tècnic necessaris en relació amb les mesures d’emergències."
+    },
+    {
+      "id": "anexo-1",
+      "type": "anexo",
+      "title": "Quadros resum d’instruccions",
+      "children": [
+        {
+          "id": "anexo-1-amarilla",
+          "type": "seccion",
+          "title": "En cas d’alerta groga",
+          "content": "– S’ha d’acudir al centre docent o romandre en este de la forma habitual.\n– La direcció del centre o la persona designada per a la gestió d’avisos i alertes haurà de fer un seguiment de l’evolució de l’alerta per a l’adopció de les mesures que corresponguen de conformitat amb el que preveuen els seus plans d’autoprotecció, emergència i evacuació.\n– El personal docent haurà de mantindre’s atent a la informació i les comunicacions que emeten els òrgans competents i seguir les instruccions de la direcció del centre.\n– El personal docent haurà d’estar atent a l’evolució de la situació meteorològica.\n– En qualsevol cas, s’ha de tindre en compte el que establix el document de mesures d’emergència i pla d’autoprotecció de cada centre docent.\n\nSi no puja el nivell d’alerta, es mantindran estes instruccions fins a la desaparició d’esta."
+        },
+        {
+          "id": "anexo-1-naranja",
+          "type": "seccion",
+          "title": "En cas d’alerta taronja",
+          "content": "A més de les instruccions corresponents al nivell groc:\n\n– En el cas de tancament del centre o suspensió de l’activitat lectiva en un període previst superior a 24 hores, continuar amb l’activitat lectiva d’acord amb les instruccions que s’emeten.\n– El personal docent es mantindrà informat en tot moment."
+        },
+        {
+          "id": "anexo-1-roja",
+          "type": "seccion",
+          "title": "En cas d’alerta roja",
+          "content": "– Fora de la jornada laboral, no s’acudix al centre educatiu.\n– En cas del tancament del centre o suspensió de l’activitat lectiva en un període previst superior a 24 hores, cal continuar amb l’activitat lectiva d’acord amb les instruccions que s’emeten.\n– Si s’està en el centre educatiu i les condicions permeten el desplaçament al seu domicili, cal abandonar el centre. En cas contrari, es romandrà en el centre.\n– Cal mantindre’s informat de l’evolució de l’alerta.\n– Cal mantindre’s en comunicació amb la direcció del centre o amb la persona designada per a la gestió d’avisos i alertes.\n– Cal atendre les recomanacions del 112 segons el tipus d’alerta i les instruccions de l’òrgan competent de protecció civil.\n– En qualsevol cas, s’ha de tindre en compte el que establix el document de mesures d’emergència i pla d’autoprotecció de cada centre docent."
+        },
+        {
+          "id": "anexo-1-desplazamientos",
+          "type": "seccion",
+          "title": "Atenció sobre els desplaçaments",
+          "content": "– Cal seguir les instruccions que dicten les autoritats responsables de l’emergència o de protecció civil en l’exterior del centre educatiu i en els desplaçaments que s’hagen de realitzar.\n– Si està en el centre i atés que amb alumnat és essencial el seu servici, haurà de romandre en el centre.\n– Si no està en el centre, es queda en el seu domicili."
+        }
+      ]
+    },
+    {
+      "id": "anexo-2",
+      "type": "anexo",
+      "title": "Recomanacions",
+      "children": [
+        {
+          "id": "anexo-2-generales",
+          "type": "seccion",
+          "title": "Recomanacions de caràcter general: tots",
+          "content": "– Disposar en el centre almenys d’una ràdio i una llanterna i piles en bon estat i carregades.\n– Situar els productes tòxics en llocs fora de l’abast de l’aigua.\n– Resguardar els objectes de valor, la documentació i els equips amb informació important.\n– Disposar de farmaciola de primers auxilis que continga, com a mínim, desinfectants i antisèptics autoritzats, gases estèrils, cotó hidròfil, bena, esparadrap, apòsits adhesius, tisores, pinces i guants d’un sol ús.\n– Abans d’eixir per a fer qualsevol activitat en l’exterior, cal informar-se de l’evolució de la situació (previsió meteorològica) i, si és el cas, de l’estat de les carreteres.\n– Davant d’avisos/alertes per FMA:\n◦ Evitar les activitats en l’exterior.\n◦ Evitar les eixides i els desplaçaments, i procurar mantindre’s a l’interior dels edificis.\n◦ Seguir les instruccions que donen les autoritats competents.\n◦ Informar les autoritats competents o ajudes externes davant de qualsevol problema que puga requerir intervenció externa.\n◦ Utilitzar el telèfon només per a les telefonades imprescindibles per a no col·lapsar les línies telefòniques.\n◦ Mantindre’s informat (ràdio, TV, etc.) de l’evolució de la situació."
+        },
+        {
+          "id": "anexo-2-precipitaciones",
+          "type": "seccion",
+          "title": "Recomanacions: precipitacions",
+          "content": "**DAVANT DE L’EMERGÈNCIA**\n\n– Quan es notifique una preemergència, mantindre’s informat de l’evolució de la situació. Sintonitzar les emissores de ràdio i televisió que en donen notícies.\n– Evitar els desplaçaments. Usar el vehicle només si és absolutament imprescindible.\n– Reduir al màxim l’activitat en l’exterior i procurar que tant el personal treballador com el personal alié es trobe en l’interior dels edificis. Evitar la presència de personal en soterranis i zones baixes d’edificis i construccions.\n– Retirar els vehicles de les zones que poden inundar-se, sempre que puga fer-se sense posar en risc la integritat de les persones.\n– Mantindre’s allunyat de les riberes dels rius i barrancs. No romandre en els ponts, poden afonar-se i arrossegar en la caiguda tot el que es trobe sobre estos.\n– Estar preparats per a l’evacuació en cas necessari, seguint les instruccions de les autoritats competents.\n– En el cas anterior, pot ser aconsellable desconnectar l’electricitat, el gas i altres subministraments energètics, i l’aigua, i assegurar totes les portes i els accessos.\n– Usar de manera raonable el telèfon. No col·lapsar les línies.\n– No propagar rumors o notícies exagerades de danys.\n\n**EN L’EXTERIOR**\n\n– Si és necessari efectuar desplaçaments, cal informar-se de la situació abans d’iniciar-los, i cal circular preferentment per carreteres principals i autopistes, moderant la velocitat.\n– No detindre’s sobre cap pont, ja que l’aigua pot arrossegar-lo.\n– No travessar guals ni trams de carreteres inundats, ni a peu ni amb cotxe.\n– Mantindre’s allunyat de llits, barrancs, torrents o zones que es puguen inundar. No estacionar en llits secs, barrancs, torrents ni en les ribes dels rius.\n– Si és necessari, abandonar el vehicle.\n– Dirigir-se als punts més alts de la zona."
+        },
+        {
+          "id": "anexo-2-nevadas",
+          "type": "seccion",
+          "title": "Recomanacions: nevades",
+          "content": "– En cas de torb (vent, fred i neu simultàniament), evitar eixir al carrer, ja que, a més, la visibilitat es reduïx notablement.\n\n**FORA DEL CENTRE**\n\n– Abrigar-se. Si es passarà temps en l’exterior, és millor portar diverses peces lleugeres i càlides superposades que una sola peça de teixit gruixut.\n– Fer ús preferent de manyoples (proporcionen més calor que els guants).\n– Protegir-se sobretot cara i cap.\n– Cal evitar l’entrada d’aire fred als pulmons.\n\n**SI S’HA D’UTILITZAR UN VEHICLE**\n\n– Viatjar únicament si és imprescindible i procurar no fer-ho sol. Utilitzar, si pot ser, el transport públic.\n– Omplir el depòsit de combustible, disposar de telèfon mòbil, ràdio, pala, corda, una llanterna, baieta.\n– Consultar el Servici Informàtic i les incidències de trànsit de la DGT, i informar-se sobre l’estat de les carreteres per les quals se circularà, així com sobre possibles itineraris alternatius.\n– Utilitzar l’antibaf i disposar de rasqueta per al gel, cadenes i guants per a la seua col·locació, i roba d’abrigar o manta.\n– Disposar d’aliments rics en calories (xocolate, fruita seca, etc.) i aigua i, si és el cas, de la medicació habitual.\n– Durant la circulació, moderar la velocitat i augmentar la distància de seguretat en cas de neu o gel en la calçada.\n– Procurar no esgotar el combustible.\n– Mantindre’s informat per ràdio de la situació meteorològica i sobre l’estat de la xarxa viària.\n– Cal seguir els consells per a conducció amb neu i gel de la DGT."
+        },
+        {
+          "id": "anexo-2-vendavales",
+          "type": "seccion",
+          "title": "Recomanacions: vendavals",
+          "content": "**EN LA CARRETERA**\n\n– Evitar circular en la mesura que siga possible. Usar preferentment el transport públic i, en cas d’haver d’eixir, informar-se de la predicció meteorològica.\n– Reduir la velocitat a límits de seguretat. Un colp de vent pot desviar bruscament la trajectòria.\n– Les motos i els vehicles de grans dimensions (camions, furgonetes, vehicles amb remolc), que oferixen una gran superfície de contacte amb el vent, corren el perill de bolcar davant de vents transversals.\n– En cas de necessitat, detindre’s en una zona segura i esperar que amaine el vent.\n– Si s’està conduint, el cotxe tancat és un bon lloc per a romandre. Disminuir la velocitat, extremar les precaucions i no detindre’s en zones en què puga discórrer una gran quantitat d’aigua.\n\n**EN CAS DE TORNADO**\n\n**DINS D’UN EDIFICI**\n\n– Evitar els llocs amb sostres amplis, com ara auditoris, cafeteries i passadissos llargs.\n– Allunyar-se de les finestres.\n– Dirigir-se de seguida a una cambra interior, sense finestres, soterrani o al nivell més profund de l’edifici.\n– Si no hi ha soterrani, anar a un passadís interior o habitació xicoteta interior sense finestres, com un bany.\n– Situar-se davall d’un moble resistent (banc de treball, taula o escriptori pesat, etc.) i subjectar-se a este.\n– Usar els braços i les mans per a protegir el cap i el coll.\n\n**EN L’EXTERIOR**\n\n– Si és possible, entrar en un edifici.\n– Si no hi ha un refugi a prop o no hi ha temps de refugiar-se en interiors, tombar-se en una rasa o àrea que estiga en un nivell baix o acatxar-se prop d’un edifici.\n– Estar atent a la possibilitat que es produïsca una inundació.\n– A l’interior d’un vehicle:\n◦ No tractar de guanyar un tornado conduint.\n◦ Baixar del vehicle immediatament i buscar refugi en un edifici pròxim."
+        }
+      ]
+    },
+    {
+      "id": "anexo-3",
+      "type": "anexo",
+      "title": "Esquema bàsic d’actuació en cas d’emergència per FMA",
+      "content": "[L’esquema només es publica en castellà, també en la versió valenciana del protocol.]\n\n![Esquema bàsic d’actuació en cas d’emergència per FMA](/legis_cpmdem/images/laws/protocolo-emergencias-fma-esquema.jpg)"
+    }
+  ],
+  "legalAnalysis": {
+    "enactedPursuantTo": [
+      {
+        "title": "Llei 31/1995, de 8 de novembre, de prevenció de riscos laborals (arts. 20 i 21)",
+        "articles": [],
+        "relationship": "habilitante"
+      },
+      {
+        "title": "Orde 27/2012, de 18 de juny, de la Conselleria d’Educació, Formació i Ocupació, sobre plans d’autoprotecció o mesures d’emergència dels centres educatius no universitaris de la Comunitat Valenciana (arts. 10, 12 i 14)",
+        "articles": [],
+        "relationship": "desarrollo"
+      }
+    ],
+    "priorAffectations": [],
+    "posteriorAffectations": [],
+    "derogations": [],
+    "concordances": [
+      {
+        "lawId": "resolucion-inicio-curso-2026-2027",
+        "title": "Instruccions d’inici del curs 2026-2027",
+        "description": "L’apartat 3.2 («Mesures d’emergència i plans d’autoprotecció del centre») declara aplicable este protocol i n’enllaça el PDF."
+      },
+      {
+        "lawId": "instrucciones-altas-temperaturas-2026",
+        "title": "Instruccions de 3 de juny de 2026 sobre altes temperatures en centres educatius",
+        "description": "Este protocol exclou expressament les temperatures extremes, que es regixen per eixes instruccions."
+      }
+    ]
+  },
+  "scope": "general",
+  "territory": "autonomico",
+  "temporality": {
+    "type": "permanente"
+  },
+  "docType": "documentos"
+}

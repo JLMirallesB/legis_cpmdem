@@ -567,6 +567,13 @@
       "status": "ingested",
       "category": "leyes_modificadoras",
       "notes": "Ley de la Generalitat (DOGV 10396, 02/07/2026), tramitación como proyecto de ley del Decreto ley 14/2025, al que deroga. PDF separado por idioma (2026/22611). Ingesta parcial con el modelo de ley-5-2026: texto íntegro del art. 25 (start-ups de estudiantes, abierto a las enseñanzas artísticas de régimen especial), del art. 98 (apartados 7 y 8 del art. 10 del D. 2/2022), de la derogatoria y de las 4 DF; del resto (9 títulos, 133 arts.) se conserva la estructura con la nota de no relativo. Preámbulo podado: I, II y IV enteros y, de III, solo los párrafos de start-ups y del D. 2/2022. Modifica el D. 2/2022 (art. 10, versiones v1 original, v2 DL 14/2025 y v3 esta ley, con el mismo texto) y la Ley 20/2017 de tasas (art. 84: arts. 1.3-1, 17.1-2, 20.1-4 y 26.2-5, fuera del título XIV, sin versiones). El DL 14/2025 no está ingestado: decreto-ley-14-2025 queda como enlace pendiente. Vigente desde 03/07/2026."
+    },
+    {
+      "slug": "protocolo-emergencias-fma",
+      "title": "Protocolo de emergencias exteriores por fenómenos meteorológicos adversos (FMA)",
+      "status": "ingested",
+      "category": "organizacion",
+      "notes": "Documento (no normativa) de la Conselleria, «Octubre 2025», sin firma ni número; PDFs separados ES/VA en ceice.gva.es (no publicado en DOGV). Como fecha se usa 2025-10-22, la de creación de los PDF. Modelo de protocolo que los centros deben adaptar e incluir en su plan de autoprotección o documento de medidas de emergencia; excluye las temperaturas extremas. Las instrucciones de inicio de curso 2026-2027 (anexo 3.2) lo declaran de aplicación. Estructura: 13 secciones (sec-1 a sec-13) + anexo-1 (cuadros resumen por alerta amarilla/naranja/roja + desplazamientos) + anexo-2 (recomendaciones generales, precipitaciones, nevadas, vendavales) + anexo-3 (esquema de actuación como imagen, public/images/laws/protocolo-emergencias-fma-esquema.jpg). El esquema es la misma imagen en castellano en los dos PDF; la versión VA lo advierte. Los cuadros de alertas del apartado 7 se reconstruyen como tablas markdown. Erratas del original transcritas tal cual («importando», «sancionas», «adoptades»). Tres enlaces del apartado 6 dan 404 en origen (112cv …/emergencias-meteorologicas y …/preemergencias-meteorologicas), igual en ES y VA: no se corrigen. «Zonas de predicción meteorológica» y «DGT - Información e incidencias de tráfico» son rótulos sin URL en el PDF."
     }
   ]
 }

@@ -1,5 +1,31 @@
 [
   {
+    "version": "2.8.0",
+    "date": "2026-10-18",
+    "entries": {
+      "es": [
+        {
+          "type": "nuevo",
+          "description": "Protocolo de actuación en caso de emergencias exteriores por fenómenos meteorológicos adversos (Conselleria, octubre de 2025), que las instrucciones de inicio del curso 2026-2027 declaran de aplicación. Recoge quién vigila los avisos de AEMET y del 112, qué hace el personal en alerta amarilla, naranja y roja, cuándo no hay que acudir al centro y cuándo hay que quedarse con el alumnado. Incluye los cuadros resumen por nivel de alerta, las recomendaciones para lluvias, nevadas y vendavales, y el esquema de actuación."
+        },
+        {
+          "type": "actualizado",
+          "description": "Órganos y cargos: Dirección y Equipo directivo incorporan los apartados del protocolo que les atribuyen funciones (designar a quien gestiona los avisos, seguir la evolución de la alerta, ordenar el mantenimiento previo del edificio)."
+        }
+      ],
+      "va": [
+        {
+          "type": "nou",
+          "description": "Protocol d’actuació en cas d’emergències exteriors per fenòmens meteorològics adversos (Conselleria, octubre de 2025), que les instruccions d’inici del curs 2026-2027 declaren aplicable. Arreplega qui vigila els avisos d’AEMET i del 112, què fa el personal en alerta groga, taronja i roja, quan no cal acudir al centre i quan cal quedar-se amb l’alumnat. Inclou els quadros resum per nivell d’alerta, les recomanacions per a pluges, nevades i vendavals, i l’esquema d’actuació."
+        },
+        {
+          "type": "actualitzat",
+          "description": "Òrgans i càrrecs: Direcció i Equip directiu incorporen els apartats del protocol que els atribuïxen funcions (designar qui gestiona els avisos, seguir l’evolució de l’alerta, ordenar el manteniment previ de l’edifici)."
+        }
+      ]
+    }
+  },
+  {
     "version": "2.7.1",
     "date": "2026-10-18",
     "entries": {

@@ -1023,6 +1023,21 @@
       "article": "anexo-5-2",
       "apartado": "2~2",
       "reason": "Fragmento de la lista de figuras que solo el texto castellano separa como apartado; el bloque completo ya está referenciado"
+    },
+    {
+      "law": "protocolo-emergencias-fma",
+      "article": "sec-3",
+      "reason": "«Centro de coordinación de emergencias» (CECOPAL): organismo de protección civil, no las coordinaciones del centro"
+    },
+    {
+      "law": "protocolo-emergencias-fma",
+      "article": "sec-9-naranja",
+      "reason": "«Centro de Coordinación de Emergencias de la Generalitat»: organismo de protección civil, no las coordinaciones del centro"
+    },
+    {
+      "law": "protocolo-emergencias-fma",
+      "article": "sec-9-rojo",
+      "reason": "«Centro de Coordinación de Emergencias de la Generalitat»: organismo de protección civil, no las coordinaciones del centro"
     }
   ],
   "titleTerms": [

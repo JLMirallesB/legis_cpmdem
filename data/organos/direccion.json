@@ -1019,6 +1019,60 @@
       },
       "checkedAt": "2026-09-02",
       "note": "Atribuye a la dirección resolver las solicitudes de permiso por asuntos particulares del personal del centro"
+    },
+    {
+      "law": "protocolo-emergencias-fma",
+      "article": "sec-3",
+      "hash": {
+        "es": "82511356",
+        "va": "b2b8e2b0"
+      },
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "law": "protocolo-emergencias-fma",
+      "article": "sec-4",
+      "hash": {
+        "es": "c2fd873c",
+        "va": "48b971e1"
+      },
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "law": "protocolo-emergencias-fma",
+      "article": "sec-5",
+      "hash": {
+        "es": "f9341eef",
+        "va": "29853af4"
+      },
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "law": "protocolo-emergencias-fma",
+      "article": "sec-9-amarillo",
+      "hash": {
+        "es": "5381c77a",
+        "va": "913fe0e8"
+      },
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "law": "protocolo-emergencias-fma",
+      "article": "sec-9-naranja",
+      "hash": {
+        "es": "9b4a4549",
+        "va": "fb4989da"
+      },
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "law": "protocolo-emergencias-fma",
+      "article": "sec-11",
+      "hash": {
+        "es": "acfbc166",
+        "va": "eb718dc2"
+      },
+      "checkedAt": "2026-10-18"
     }
   ],
   "discarded": [
@@ -1518,6 +1572,27 @@
       "law": "instrucciones-convalidaciones-eso-danza-2024",
       "article": "organo-competente",
       "reason": "Quien resuelve es la dirección del centro de ESO, no la del conservatorio"
+    },
+    {
+      "law": "protocolo-emergencias-fma",
+      "article": "sec-10",
+      "reason": "Obligaciones del personal: la dirección solo aparece como quien dicta instrucciones, sin atribuirle nada nuevo"
+    },
+    {
+      "law": "protocolo-emergencias-fma",
+      "article": "sec-12",
+      "apartado": "2",
+      "reason": "Atribuye el aviso a la administración local; la dirección es solo el destinatario"
+    },
+    {
+      "law": "protocolo-emergencias-fma",
+      "article": "anexo-1-amarilla",
+      "reason": "Cuadro resumen que repite el nivel amarillo del apartado 9, ya en la ficha"
+    },
+    {
+      "law": "protocolo-emergencias-fma",
+      "article": "anexo-1-roja",
+      "reason": "Cuadro resumen para el personal: «mantenerse en comunicación con la dirección», mención de pasada"
     }
   ],
   "titleTerms": [
