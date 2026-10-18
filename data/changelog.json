@@ -1,5 +1,31 @@
 [
   {
+    "version": "2.9.0",
+    "date": "2026-10-18",
+    "entries": {
+      "es": [
+        {
+          "type": "nuevo",
+          "description": "Decreto 140/2026, de 1 de octubre, que regula por primera vez las comisiones de servicios del personal funcionario docente, también en conservatorios y escuelas de música. Fija las modalidades (razones personales, familiares o de salud; interés profesional, con puestos de perfil a propuesta de la dirección; dirección de centros; puestos singulares), las de concesión prioritaria en cualquier momento del curso (violencia de género, informe médico-laboral, agresión), el orden de adjudicación y la duración máxima de dos años. Se aplica desde el curso 2026-2027."
+        },
+        {
+          "type": "actualizado",
+          "description": "Órganos y cargos: Dirección incorpora la propuesta motivada de los puestos de perfil y el nombramiento en comisión de servicios de quien gana el concurso de dirección; Consejo escolar, el aval de esa propuesta."
+        }
+      ],
+      "va": [
+        {
+          "type": "nou",
+          "description": "Decret 140/2026, d’1 d’octubre, que regula per primera vegada les comissions de servicis del personal funcionari docent, també en conservatoris i escoles de música. Fixa les modalitats (raons personals, familiars o de salut; interés professional, amb llocs de perfil a proposta de la direcció; direcció de centres; llocs singulars), les de concessió prioritària en qualsevol moment del curs (violència de gènere, informe medicolaboral, agressió), l’orde d’adjudicació i la duració màxima de dos anys. S’aplica des del curs 2026-2027."
+        },
+        {
+          "type": "actualitzat",
+          "description": "Òrgans i càrrecs: Direcció incorpora la proposta motivada dels llocs de perfil i el nomenament en comissió de servicis de qui guanya el concurs de direcció; Consell escolar, l’aval d’eixa proposta."
+        }
+      ]
+    }
+  },
+  {
     "version": "2.8.1",
     "date": "2026-10-18",
     "entries": {

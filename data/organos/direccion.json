@@ -1073,6 +1073,26 @@
         "va": "eb718dc2"
       },
       "checkedAt": "2026-10-18"
+    },
+    {
+      "law": "decreto-140-2026",
+      "article": "art-7",
+      "apartado": "4",
+      "subtree": true,
+      "hash": {
+        "es": "a1509780",
+        "va": "1bb9c481"
+      },
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "law": "decreto-140-2026",
+      "article": "art-8",
+      "hash": {
+        "es": "96ecf834",
+        "va": "bb76c4c9"
+      },
+      "checkedAt": "2026-10-18"
     }
   ],
   "discarded": [
@@ -1593,6 +1613,23 @@
       "law": "protocolo-emergencias-fma",
       "article": "anexo-1-roja",
       "reason": "Cuadro resumen para el personal: «mantenerse en comunicación con la dirección», mención de pasada"
+    },
+    {
+      "law": "decreto-140-2026",
+      "article": "preambulo",
+      "reason": "Preámbulo: describe el decreto, no regula nada"
+    },
+    {
+      "law": "decreto-140-2026",
+      "article": "art-5",
+      "apartado": "4",
+      "reason": "El informe de la dirección es solo uno de los medios con que se puede acreditar la agresión"
+    },
+    {
+      "law": "decreto-140-2026",
+      "article": "art-7",
+      "apartado": "5",
+      "reason": "Repite el informe motivado de la dirección que ya regula el apartado 4, citado en la ficha"
     }
   ],
   "titleTerms": [

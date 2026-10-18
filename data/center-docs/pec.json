@@ -897,6 +897,23 @@
       "article": "art-11",
       "apartado": "m",
       "reason": "La acción tutorial: ficha propia"
+    },
+    {
+      "law": "decreto-140-2026",
+      "article": "preambulo",
+      "reason": "Preámbulo: describe el decreto, no regula nada"
+    },
+    {
+      "law": "decreto-140-2026",
+      "article": "art-7",
+      "apartado": "3",
+      "reason": "Regula los puestos de perfil; el proyecto educativo solo aparece como referencia para definirlos"
+    },
+    {
+      "law": "decreto-140-2026",
+      "article": "art-7",
+      "apartado": "4.b",
+      "reason": "Usa el proyecto educativo como criterio para motivar la propuesta, no regula el PEC"
     }
   ],
   "parts": [

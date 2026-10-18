@@ -776,6 +776,16 @@
         "va": "13c56ed1"
       },
       "checkedAt": "2026-08-19"
+    },
+    {
+      "law": "decreto-140-2026",
+      "article": "art-7",
+      "apartado": "4.c",
+      "hash": {
+        "es": "26443482",
+        "va": "c8d257d8"
+      },
+      "checkedAt": "2026-10-18"
     }
   ],
   "discarded": [
@@ -1095,6 +1105,11 @@
         "apartado-8#3.2.f"
       ],
       "reason": "Menciones incidentales: la norma nombra la figura sin atribuirle nada"
+    },
+    {
+      "law": "decreto-140-2026",
+      "article": "preambulo",
+      "reason": "Preámbulo: describe el decreto, no regula nada"
     }
   ],
   "titleTerms": [
