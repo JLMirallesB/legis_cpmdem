@@ -1,0 +1,127 @@
+{
+  "id": "resolucion-criterios-asuntos-particulares-2026",
+  "slug": "resolucion-criterios-asuntos-particulares-2026",
+  "type": "resolucion",
+  "number": "19/10/2026",
+  "date": "2026-10-19",
+  "publishedIn": {
+    "source": "CEICE",
+    "number": "",
+    "date": "2026-10-21",
+    "url": "",
+    "pdfUrl": "https://ceice.gva.es/webitaca/docs/avisos/Criteris_interpretatius_Instruccio_1-26_211026.pdf"
+  },
+  "title": "Resolució de la Direcció General de Personal Docent per la qual s'establixen criteris per a l'aplicació de la Instrucció 1/2026 de la Direcció General de Personal Docent per la qual es regulen els assumptes particulars retribuïts del personal docent no universitari dependent de la Conselleria d'Educació, Cultura i Universitats",
+  "titleShort": "Criteris d’aplicació de la Instrucció 1/2026 - Assumptes particulars del personal docent",
+  "category": "profesorado",
+  "vigpiracy": {
+    "status": "vigente",
+    "statusLabel": "Vigent",
+    "effectiveDate": "2026-10-21"
+  },
+  "legalAnalysis": {
+    "enactedPursuantTo": [
+      {
+        "lawId": "instruccion-1-2026-asuntos-particulares",
+        "title": "Instrucció 1/2026 - Assumptes particulars retribuïts del personal docent",
+        "articles": [],
+        "relationship": "desarrollo"
+      }
+    ],
+    "priorAffectations": [
+      {
+        "lawId": "instruccion-1-2026-asuntos-particulares",
+        "title": "Instrucció 1/2026 - Assumptes particulars retribuïts del personal docent",
+        "type": "modifica",
+        "articles": [],
+        "date": "2026-10-19",
+        "description": "Instrucció l’aplicació de la qual s’aclarix: gravació en ITACA, termini de resolució, còmput de l’escala de permisos diaris, criteris de prelació, personal interí, llocs itinerants, professorat de religió i personal expert/especialista"
+      }
+    ],
+    "posteriorAffectations": [],
+    "derogations": [],
+    "concordances": [
+      {
+        "lawId": "decreto-234-2022",
+        "title": "Decret 234/2022 - Permisos i llicències del personal docent",
+        "description": "Norma base de permisos i llicències del personal docent"
+      },
+      {
+        "title": "Resolució d’1 d’abril de 2026, de la Direcció General de Treball, Cooperativisme i Seguretat Laboral, per la qual es disposen el registre i la publicació del conveni col·lectiu del personal laboral professor de religió",
+        "description": "El seu article 24 estén al professorat de religió el règim de permisos del personal funcionari docent (apartat 7)"
+      }
+    ]
+  },
+  "promulgation": {
+    "place": "València",
+    "date": "2026-10-19",
+    "signatories": [
+      {
+        "name": "Francisco Pablo Ortega Gil",
+        "role": "Direcció General de Personal Docent"
+      }
+    ]
+  },
+  "scope": "general",
+  "territory": "autonomico",
+  "temporality": {
+    "type": "permanente"
+  },
+  "docType": "documentos",
+  "structure": [
+    {
+      "id": "preambulo",
+      "type": "preambulo",
+      "title": "Preàmbul",
+      "content": "En data 1 de setembre de 2026 es va dictar la Instrucció 1/2026 de la Direcció General de Personal Docent per la qual es regulen els assumptes particulars retribuïts del personal docent no universitari dependent de la Conselleria d'Educació, Cultura i Universitats.\n\nDesprés de la implantació d'este nou permís per al personal funcionari docent no universitari, han sorgit alguns dubtes interpretatius en relació amb determinats aspectes d'aplicació d'este permís. La present resolució té per objecte aclarir tals qüestions i establir criteris que faciliten la seua adequada gestió."
+    },
+    {
+      "id": "apartado-1",
+      "type": "articulo",
+      "title": "Apartat 1",
+      "content": "La sol·licitud de permisos d'assumptes particulars ha de gravar-se en l'aplicació ITACA. Els centres educatius poden seleccionar-la per a justificar faltes de docents, motiu: assumptes particulars."
+    },
+    {
+      "id": "apartado-2",
+      "type": "articulo",
+      "title": "Apartat 2",
+      "content": "La sol·licitud del permís haurà de resoldre's mitjançant la corresponent resolució d'autorització o denegació. En el cas de resolució denegatòria esta haurà de ser motivada. En el cas de ser positiva, esta resolució haurà de produir-se en els 6 dies naturals anteriors al gaudi del permís per a garantir el dret al gaudi del mateix de qualsevol altra persona del claustre. En els supòsits de no rebre contestació a la sol·licitud, el silenci administratiu serà negatiu."
+    },
+    {
+      "id": "apartado-3",
+      "type": "articulo",
+      "title": "Apartat 3",
+      "content": "En l'escala prevista en la Instrucció 1/2026 respecte als docents que ho sol·liciten per a un mateix dia lectiu, cal tindre en compte que l'escala per a determinar el nombre de possibles persones que poden gaudir del permís s'ajusta tenint en compte els llocs docents, a data 1 de setembre de cada curs escolar, del centre."
+    },
+    {
+      "id": "apartado-4",
+      "type": "articulo",
+      "title": "Apartat 4. Criteris de preferència aplicables quan el nombre de sol·licituds del personal docent supere el nombre màxim d'autoritzacions diàries del centre",
+      "content": "El centre aplicarà els següents criteris de prelació per a la concessió d'estos permisos, començant pel primer criteri:\n– Menor nombre de dies gaudits d'este permís en el present curs escolar.\n– Major antiguitat en el centre, sumant-se les franges de temps en el cas d'haver-hi alguna interrupció.\n– Major antiguitat en el cos, sumant-se les franges de temps en el cas d'haver-hi alguna interrupció.\n– Personal major de 55 anys o amb discapacitat reconeguda.\n\nEn cas de persistir l'empat entre diverses sol·licituds i que no fora possible concedir-les totes, el centre establirà a través dels seus òrgans col·legiats els criteris de desempat."
+    },
+    {
+      "id": "apartado-5",
+      "type": "articulo",
+      "title": "Apartat 5. Personal docent interí",
+      "content": "Al personal docent interí, li correspondrà un nombre de dies d'assumptes propis, en cada una de les seues modalitats, proporcional al temps treballat en eixe curs escolar. Per a això, s’arrodonirà el resultat de l'operació 3·X/365, sent X el nombre de dies treballats en eixe curs escolar:\n\n• Personal funcionari interí amb vacant anterior a l'1 de gener: Tindrà dret a gaudir d'este permís des del mateix inici de la seua vacant, sent el màxim nombre de dies lectius i no lectius que podrà gaudir el resultant d’arrodonir la fórmula anterior prenent com a X el nombre de dies des de l'inici fins al final de la seua vacant. Així:\n– Vacants que comencen abans de l'1 de novembre: 3 dies lectius i 3 dies no lectius.\n– Vacants que comencen a partir de l'1 de novembre: 2 dies lectius i 2 dies no lectius.\n\nEn el cas d'obtindre la vacant després d'haver realitzat ja alguna altra substitució en eixe curs, se li acumularan els dies ja treballats podent arribar a 3 dies de cada tipus sempre que amb la suma de dies ja treballats i dies del contracte de la vacant aconseguisca els 305 dies.\n\n• Resta del personal funcionari interí: Tindrà dret a gaudir d'este permís únicament quan, en utilitzar l'anterior fórmula, l’arrodoniment resultant siga superior al nombre de dies lectius i no lectius gaudits d'este permís. A tall d'exemple, quan tinga els 61 dies treballats, tindrà dret al gaudi d'1 dia lectiu i 1 no lectiu, subjecte a les consideracions anteriors, o quan obtinga els 183 dies tindrà dret al segon de cada tipus. Així:\n– A partir de 61 i fins a 182 dies treballats: 1 dia lectiu i 1 dia no lectiu.\n– A partir de 183 dies treballats: 2 dies lectius i 2 dies no lectius."
+    },
+    {
+      "id": "apartado-6",
+      "type": "articulo",
+      "title": "Apartat 6",
+      "content": "En el supòsit del personal docent amb lloc itinerant, haurà de presentar la seua sol·licitud a la direcció del centre al qual la persona docent està adscrita, que serà qui la resolga. En el cas de ser per a un dia en què afecta totalment o parcialment l'altre centre, haurà de comptar amb el vistiplau de la direcció de l'altre centre."
+    },
+    {
+      "id": "apartado-7",
+      "type": "articulo",
+      "title": "Apartat 7. Personal laboral que presta servicis com a professor de religió",
+      "content": "D'acord amb l'article 24 de la Resolució d'1 d'abril de 2026, de la Direcció General de Treball, Cooperativisme i Seguretat Laboral, per la qual es disposen el registre i la publicació del text del conveni col·lectiu del personal laboral que presta servicis com a professor de religió en centres públics dependents de la Conselleria competent en matèria d'Educació de la Generalitat Valenciana, serà aplicable a este personal el mateix règim de vacacions, excedències, permisos i llicències que l’establert per al personal funcionari docent. Únicament a estos efectes, el personal laboral indefinit s'equiparà al personal funcionari de carrera i el personal laboral temporal al personal funcionari interí."
+    },
+    {
+      "id": "apartado-8",
+      "type": "articulo",
+      "title": "Apartat 8. Personal expert del sector productiu i professorat especialista",
+      "content": "Al personal expert del sector productiu/ professorat especialista li serà aplicable el mateix règim de permisos i llicències establit per al personal funcionari docent. A estos únics efectes, el personal laboral indefinit s'equipararà al personal funcionari de carrera i el personal laboral temporal, al personal funcionari interí."
+    }
+  ]
+}

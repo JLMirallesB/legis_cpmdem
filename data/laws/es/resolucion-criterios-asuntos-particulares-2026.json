@@ -1,0 +1,127 @@
+{
+  "id": "resolucion-criterios-asuntos-particulares-2026",
+  "slug": "resolucion-criterios-asuntos-particulares-2026",
+  "type": "resolucion",
+  "number": "19/10/2026",
+  "date": "2026-10-19",
+  "publishedIn": {
+    "source": "CEICE",
+    "number": "",
+    "date": "2026-10-21",
+    "url": "",
+    "pdfUrl": "https://ceice.gva.es/webitaca/docs/avisos/Criterios_interpretativos_Instruccion_1-26_211026.pdf"
+  },
+  "title": "Resolución de la Dirección General de Personal Docente por la que se establecen criterios para la aplicación de la Instrucción 1/2026 de la Dirección General de Personal Docente por la que se regulan los asuntos particulares retribuidos del personal docente no universitario dependiente de la Conselleria de Educación, Cultura y Universidades",
+  "titleShort": "Criterios de aplicación de la Instrucción 1/2026 - Asuntos particulares del personal docente",
+  "category": "profesorado",
+  "vigpiracy": {
+    "status": "vigente",
+    "statusLabel": "Vigente",
+    "effectiveDate": "2026-10-21"
+  },
+  "legalAnalysis": {
+    "enactedPursuantTo": [
+      {
+        "lawId": "instruccion-1-2026-asuntos-particulares",
+        "title": "Instrucción 1/2026 - Asuntos particulares retribuidos del personal docente",
+        "articles": [],
+        "relationship": "desarrollo"
+      }
+    ],
+    "priorAffectations": [
+      {
+        "lawId": "instruccion-1-2026-asuntos-particulares",
+        "title": "Instrucción 1/2026 - Asuntos particulares retribuidos del personal docente",
+        "type": "modifica",
+        "articles": [],
+        "date": "2026-10-19",
+        "description": "Instrucción cuya aplicación se aclara: grabación en ITACA, plazo de resolución, cómputo de la escala de permisos diarios, criterios de prelación, personal interino, puestos itinerantes, profesorado de religión y personal experto/especialista"
+      }
+    ],
+    "posteriorAffectations": [],
+    "derogations": [],
+    "concordances": [
+      {
+        "lawId": "decreto-234-2022",
+        "title": "Decreto 234/2022 - Permisos y licencias del personal docente",
+        "description": "Norma base de permisos y licencias del personal docente"
+      },
+      {
+        "title": "Resolución de 1 de abril de 2026, de la Dirección General de Trabajo, Cooperativismo y Seguridad Laboral, por la que se dispone el registro y publicación del convenio colectivo del personal laboral profesor de religión",
+        "description": "Su artículo 24 extiende al profesorado de religión el régimen de permisos del personal funcionario docente (apartado 7)"
+      }
+    ]
+  },
+  "promulgation": {
+    "place": "València",
+    "date": "2026-10-19",
+    "signatories": [
+      {
+        "name": "Francisco Pablo Ortega Gil",
+        "role": "Dirección General de Personal Docente"
+      }
+    ]
+  },
+  "scope": "general",
+  "territory": "autonomico",
+  "temporality": {
+    "type": "permanente"
+  },
+  "docType": "documentos",
+  "structure": [
+    {
+      "id": "preambulo",
+      "type": "preambulo",
+      "title": "Preámbulo",
+      "content": "En fecha 1 de septiembre de 2026 se dictó la Instrucción 1/2026 de la Dirección General de Personal Docente por la que se regulan los asuntos particulares retribuidos del personal docente no universitario dependiente de la Conselleria de Educación, Cultura y Universidades.\n\nTras la implantación de este nuevo permiso para el personal funcionario docente no universitario, han surgido algunas dudas interpretativas en relación con determinados aspectos de aplicación de este permiso. La presente resolución tiene por objeto clarificar tales cuestiones y establecer criterios que faciliten su adecuada gestión."
+    },
+    {
+      "id": "apartado-1",
+      "type": "articulo",
+      "title": "Apartado 1",
+      "content": "La solicitud de permisos de asuntos particulares debe grabarse en la aplicación ITACA. Los centros educativos pueden seleccionarla para justificar faltas de docentes, motivo: asuntos particulares."
+    },
+    {
+      "id": "apartado-2",
+      "type": "articulo",
+      "title": "Apartado 2",
+      "content": "La solicitud del permiso deberá resolverse mediante la correspondiente resolución de autorización o denegación. En el caso de resolución denegatoria esta deberá ser motivada. En el caso de ser positiva, esta resolución deberá producirse en los 6 días naturales anteriores al disfrute del permiso para garantizar el derecho al disfrute del mismo de cualquier otra persona del claustro. En los supuestos de no recibir contestación a la solicitud, el silencio administrativo será negativo."
+    },
+    {
+      "id": "apartado-3",
+      "type": "articulo",
+      "title": "Apartado 3",
+      "content": "En la escala prevista en la Instrucción 1/2026 respecto a los docentes que lo solicitan para un mismo día lectivo, hay que tener en cuenta que la escala para determinar el número de posibles personas que pueden disfrutar del permiso se ajusta teniendo en cuenta los puestos docentes, a fecha 1 de septiembre de cada curso escolar, del centro."
+    },
+    {
+      "id": "apartado-4",
+      "type": "articulo",
+      "title": "Apartado 4. Criterios de preferencia aplicables cuando el número de solicitudes del personal docente supere el número máximo de autorizaciones diarias del centro",
+      "content": "El centro aplicará los siguientes criterios de prelación para la concesión de estos permisos, comenzando por el primer criterio:\n– Menor número de días disfrutados de este permiso en el presente curso escolar.\n– Mayor antigüedad en el centro, sumándose las franjas de tiempo en el caso de haber alguna interrupción.\n– Mayor antigüedad en el cuerpo, sumándose las franjas de tiempo en el caso de haber alguna interrupción.\n– Personal mayor de 55 años o con discapacidad reconocido.\n\nEn caso de persistir el empate entre varias solicitudes y que no fuera posible conceder todas ellas, el centro establecerá a través de sus órganos colegiados los criterios de desempate."
+    },
+    {
+      "id": "apartado-5",
+      "type": "articulo",
+      "title": "Apartado 5. Personal docente interino",
+      "content": "Al personal docente interino, le corresponderá un número de días de asuntos propios, en cada una de sus modalidades, proporcional al tiempo trabajado en ese curso escolar. Para ello, se redondeará el resultado de la operación 3·X/365, siendo X el número de días trabajados en ese curso escolar:\n\n• Personal funcionario interino con vacante anterior al 1 de enero: Tendrá derecho a disfrutar de este permiso desde el mismo inicio de su vacante, siendo el máximo número de días lectivos y no lectivos que podrá disfrutar el resultante de redondear la fórmula anterior tomando como X el número de días desde el inicio hasta el final de su vacante. Así:\n– Vacantes que comienzan antes del 1 de noviembre: 3 días lectivos y 3 días no lectivos.\n– Vacantes que comienzan a partir del 1 de noviembre: 2 días lectivos y 2 días no lectivos.\n\nEn el caso de obtener la vacante tras haber realizado ya alguna otra sustitución en ese curso, se le acumularán los días ya trabajados pudiendo llegar a 3 días de cada tipo siempre que la suma de días ya trabajados y días del contrato de la vacante alcance los 305 días.\n\n• Resto del personal funcionario interino: Tendrá derecho a disfrutar de este permiso únicamente cuando, al utilizar la anterior fórmula, el redondeo resultante sea superior al número de días lectivos y no lectivos disfrutados de este permiso. A modo de ejemplo, cuando alcance los 61 días trabajados, tendrá derecho al disfrute de 1 día lectivo y 1 no lectivo, sujeto a las consideraciones anteriores, o cuando alcance los 183 días tendrá derecho al segundo de cada tipo. Así:\n– A partir de 61 y hasta 182 días trabajados: 1 día lectivo y 1 día no lectivo.\n– A partir de 183 días trabajados: 2 días lectivos y 2 días no lectivos."
+    },
+    {
+      "id": "apartado-6",
+      "type": "articulo",
+      "title": "Apartado 6",
+      "content": "En el supuesto del personal docente con puesto itinerante, deberá presentar su solicitud a la dirección del centro al que la persona docente está adscrita, que será quien la resuelva. En el caso de ser para un día en el que afecta total o parcialmente al otro centro, deberá contar con el visto bueno de la dirección del otro centro."
+    },
+    {
+      "id": "apartado-7",
+      "type": "articulo",
+      "title": "Apartado 7. Personal laboral que presta servicios como profesor de religión",
+      "content": "De acuerdo con el artículo 24 de la Resolución de 1 de abril de 2026, de la Dirección General de Trabajo, Cooperativismo y Seguridad Laboral, por la que se disponen el registro y la publicación del texto del convenio colectivo del personal laboral que presta servicios como profesor de religión en centros públicos dependientes de la Conselleria competente en materia de Educación de la Generalitat Valenciana, será de aplicación a este personal el mismo régimen de vacaciones, excedencias, permisos y licencias que el establecido para el personal funcionario docente. Únicamente a estos efectos, el personal laboral indefinido se equipará al personal funcionario de carrera y el personal laboral temporal al personal funcionario interino."
+    },
+    {
+      "id": "apartado-8",
+      "type": "articulo",
+      "title": "Apartado 8. Personal experto del sector productivo y profesorado especialista",
+      "content": "Al personal experto del sector productivo/ profesorado especialista le será aplicable el mismo régimen de permisos y licencias establecido para el personal funcionario docente. A estos únicos efectos, el personal laboral indefinido se equiparará al personal funcionario de carrera y el personal laboral temporal, al personal funcionario interino."
+    }
+  ]
+}

@@ -87,7 +87,16 @@
       }
     ],
     "priorAffectations": [],
-    "posteriorAffectations": [],
+    "posteriorAffectations": [
+      {
+        "lawId": "resolucion-criterios-asuntos-particulares-2026",
+        "title": "Resolució de 19/10/2026 (DG Personal Docent) - Criteris d’aplicació de la Instrucció 1/2026",
+        "type": "modifica",
+        "articles": [],
+        "date": "2026-10-19",
+        "description": "Establix criteris interpretatius sense modificar-ne el text: gravació en ITACA, resolució amb 6 dies naturals d’antelació, escala referida als llocs docents a 1 de setembre, criteris de prelació entre sol·licituds, dies proporcionals del personal interí (3·X/365), llocs itinerants, professorat de religió i personal expert/especialista"
+      }
+    ],
     "derogations": [],
     "concordances": [
       {

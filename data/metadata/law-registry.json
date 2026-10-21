@@ -555,6 +555,13 @@
       "notes": "Instrucción de la DG de Personal Docente firmada el 01/09/2026 y publicada en el portal CEICE el 02/09/2026. Regula por primera vez el permiso por asuntos particulares del personal docente no universitario: hasta 6 días por curso escolar (3 lectivos y 3 no lectivos), del 1 de septiembre al 31 de julio, no acumulables. Preámbulo + 7 epígrafes (Objeto, Persona que lo disfruta, Duración, Órgano competente, Efectos retributivos, Solicitud, Observaciones) con la escala de máximo de permisos por día lectivo según plantilla. No modifica ninguna norma ingestada: el Decreto 234/2022 y la Circular 1/2025 no contemplaban este permiso, y el Decreto …/2026 de horario que le dará cobertura (art. 24 bis) sigue en tramitación. Ámbito general, autonómico, permanente. Nota: el número 1/2026 coincide con instruccion-1-2026-confort-termico, de otra dirección general."
     },
     {
+      "slug": "resolucion-criterios-asuntos-particulares-2026",
+      "title": "Resolución de 19/10/2026 (DG Personal Docente) - Criterios de aplicación de la Instrucción 1/2026 de asuntos particulares",
+      "status": "ingested",
+      "category": "profesorado",
+      "notes": "Resolución de la DG de Personal Docente firmada el 19/10/2026 y publicada como aviso en la web de ITACA el 21/10/2026 (PDF es y va). Aclara la aplicación de la Instrucción 1/2026 de asuntos particulares sin modificar su texto: grabación en ITACA, resolución positiva en los 6 días naturales anteriores al disfrute, escala calculada sobre los puestos docentes a 1 de septiembre, criterios de prelación (menos días disfrutados, antigüedad en el centro, en el cuerpo, mayores de 55 o discapacidad; desempate por órganos colegiados), días proporcionales del interino (3·X/365, 305 días para los 3), puestos itinerantes, profesorado de religión y personal experto/especialista. Preámbulo + 8 apartados. Registrada como desarrollo (posteriorAffectations con articles vacío) en la instrucción. Ámbito general, autonómico, permanente."
+    },
+    {
       "slug": "circular-2-2026",
       "title": "Circular 2/2026 - Permiso por cuidado de hijo o hija menor afectado por cáncer u otra enfermedad grave",
       "status": "ingested",

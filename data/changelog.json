@@ -1,5 +1,23 @@
 [
   {
+    "version": "2.11.0",
+    "date": "2026-10-21",
+    "entries": {
+      "es": [
+        {
+          "type": "nuevo",
+          "description": "Resolución de 19 de octubre de 2026 de la Dirección General de Personal Docente con los criterios para aplicar la Instrucción 1/2026 de asuntos particulares («moscosos»): el permiso se graba en ITACA; la concesión debe resolverse en los 6 días naturales anteriores al disfrute; la escala de permisos por día se calcula con los puestos docentes del centro a 1 de septiembre; si hay más solicitudes que plazas se ordenan por menos días disfrutados, antigüedad en el centro, antigüedad en el cuerpo y mayores de 55 años o con discapacidad, y el desempate final lo fijan los órganos colegiados del centro. Concreta además los días del personal interino (3·X/365), el procedimiento para puestos itinerantes y la aplicación al profesorado de religión y al personal experto o especialista. Enlazada desde la instrucción."
+        }
+      ],
+      "va": [
+        {
+          "type": "nou",
+          "description": "Resolució de 19 d’octubre de 2026 de la Direcció General de Personal Docent amb els criteris per a aplicar la Instrucció 1/2026 d’assumptes particulars («moscosos»): el permís es grava en ITACA; la concessió s’ha de resoldre en els 6 dies naturals anteriors al gaudi; l’escala de permisos per dia es calcula amb els llocs docents del centre a 1 de setembre; si hi ha més sol·licituds que places s’ordenen per menys dies gaudits, antiguitat en el centre, antiguitat en el cos i majors de 55 anys o amb discapacitat, i el desempat final el fixen els òrgans col·legiats del centre. Concreta a més els dies del personal interí (3·X/365), el procediment per a llocs itinerants i l’aplicació al professorat de religió i al personal expert o especialista. Enllaçada des de la instrucció."
+        }
+      ]
+    }
+  },
+  {
     "version": "2.10.0",
     "date": "2026-10-18",
     "entries": {
