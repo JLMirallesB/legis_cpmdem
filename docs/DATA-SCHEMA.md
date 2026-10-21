@@ -454,3 +454,19 @@ node scripts/refs-triage.mjs pec --all              # incluye los ya decididos
 
 `★` marca lo que parece regular el documento; `◆`, en fichas de documentos, lo
 que puede ser un efecto. Son pistas para leer primero, no veredictos.
+
+## Aclaraciones de aplicación (`data/aclaraciones/{slug}.md`)
+
+Material complementario, **no normativo**, sobre cómo se aplica una ley en los
+puntos en que el texto no es concluyente. Va en Markdown aparte, nunca dentro
+del JSON de la ley, para que no se confunda con el texto publicado. La ficha de
+la ley lo muestra en un bloque plegable gris («Aclaraciones de aplicación»),
+debajo de los enlaces citados (`src/lib/clarifications.ts`,
+`ClarificationsBlock.astro`).
+
+- Solo en castellano; la página en valenciano lo muestra con un aviso.
+- **Sin fuente**: ni remitentes, ni organismo, ni fechas, ni firmas. Redactado
+  como aclaración, no como cita literal de la comunicación de origen.
+- Cada nota se marca como **Aclaración** (hay respaldo escrito) o como
+  **Criterio interpretativo** (lectura adoptada aquí, sin respaldo escrito).
+- Formato admitido: `## ` por precepto, párrafos, listas con `- ` y `**negrita**`.

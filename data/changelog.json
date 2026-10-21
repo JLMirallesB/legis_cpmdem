@@ -1,5 +1,23 @@
 [
   {
+    "version": "2.12.0",
+    "date": "2026-10-21",
+    "entries": {
+      "es": [
+        {
+          "type": "nuevo",
+          "description": "Aclaraciones de aplicación de la Orden 8/2026 de admisión en Música y Danza, en un bloque plegable de la ficha de la ley, marcado como material no normativo. Recoge cuándo se propone la reorientación de la persona aspirante y si puede llevar de enseñanzas profesionales a elementales; los requisitos de la exención de la parte teórico-práctica (simultaneidad efectiva de especialidades); que el cambio de especialidad en elementales se resuelve después del acto público de 1.º; cómo se trata a los aspirantes de 12 años a 1.º de elementales; y que, durante el curso, el orden a), b), c) del art. 22.3 prevalece sobre el nivel de prioridad, con el límite del 15 de diciembre referido a la fecha de adjudicación. Cada nota distingue entre aclaración escrita y criterio interpretativo."
+        }
+      ],
+      "va": [
+        {
+          "type": "nou",
+          "description": "Aclariments d'aplicació de l'Orde 8/2026 d'admissió en Música i Dansa, en un bloc plegable de la fitxa de la llei, marcat com a material no normatiu (només en castellà). Recull quan es proposa la reorientació de la persona aspirant i si pot portar d'ensenyaments professionals a elementals; els requisits de l'exempció de la part teoricopràctica (simultaneïtat efectiva d'especialitats); que el canvi d'especialitat en elementals es resol després de l'acte públic de 1r; com es tracta els aspirants de 12 anys a 1r d'elementals; i que, durant el curs, l'orde a), b), c) de l'art. 22.3 preval sobre el nivell de prioritat, amb el límit del 15 de desembre referit a la data d'adjudicació. Cada nota distingeix entre aclariment escrit i criteri interpretatiu."
+        }
+      ]
+    }
+  },
+  {
     "version": "2.11.0",
     "date": "2026-10-21",
     "entries": {

@@ -1,0 +1,103 @@
+---
+import type { Lang } from '../lib/types';
+import { t } from '../i18n/utils';
+
+interface Props {
+  html: string | null;
+  lang: Lang;
+}
+
+const { html, lang } = Astro.props;
+---
+
+{html && (
+  <details class="clarifications">
+    <summary>
+      <span aria-hidden="true">&#128221;</span>
+      {t('clarifications.title', lang)}
+      <span class="clarifications-tag">{t('clarifications.not_normative', lang)}</span>
+    </summary>
+    <div class="clarifications-body">
+      {lang === 'va' && <p class="clarifications-lang">{t('clarifications.only_es', lang)}</p>}
+      <Fragment set:html={html} />
+    </div>
+  </details>
+)}
+
+<style>
+  /* Plegado como CitedLinksBlock, pero en gris: no es texto de la norma y no
+     debe confundirse con ella. */
+  .clarifications {
+    margin-top: var(--space-md);
+    background: #f8fafc;
+    border: 1px solid #cbd5e1;
+    border-radius: var(--radius-md);
+  }
+
+  .clarifications summary {
+    display: flex;
+    align-items: center;
+    gap: var(--space-xs);
+    padding: var(--space-sm) var(--space-md);
+    font-size: 0.8rem;
+    font-weight: 600;
+    color: #334155;
+    cursor: pointer;
+    list-style: none;
+    user-select: none;
+  }
+
+  .clarifications summary::-webkit-details-marker {
+    display: none;
+  }
+
+  .clarifications summary::after {
+    content: '\25be';
+    margin-left: auto;
+    transition: transform 0.15s;
+  }
+
+  .clarifications[open] summary::after {
+    transform: rotate(180deg);
+  }
+
+  .clarifications summary:focus-visible {
+    outline: 2px solid #64748b;
+    outline-offset: -2px;
+  }
+
+  .clarifications-tag {
+    padding: 0 6px;
+    border-radius: 999px;
+    background: #e2e8f0;
+    color: #475569;
+    font-size: 0.68rem;
+    font-weight: 700;
+    white-space: nowrap;
+  }
+
+  .clarifications-body {
+    padding: 0 var(--space-md) var(--space-sm);
+    font-size: 0.85rem;
+    line-height: 1.55;
+    color: var(--color-text);
+  }
+
+  .clarifications-body :global(h3) {
+    margin: var(--space-md) 0 var(--space-xs);
+    padding-top: var(--space-xs);
+    border-top: 1px solid #e2e8f0;
+    font-size: 0.85rem;
+    color: #1e293b;
+  }
+
+  .clarifications-body :global(p),
+  .clarifications-body :global(ul) {
+    margin: 0 0 var(--space-xs);
+  }
+
+  .clarifications-lang {
+    font-style: italic;
+    color: var(--color-text-muted);
+  }
+</style>
