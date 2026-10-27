@@ -1,5 +1,23 @@
 [
   {
+    "version": "2.12.1",
+    "date": "2026-10-27",
+    "entries": {
+      "es": [
+        {
+          "type": "mejora",
+          "description": "El servidor MCP del repositorio devuelve ahora las aclaraciones de aplicación: get_law las incluye enteras cuando la ley las tiene y search_articles busca también en ellas, marcadas siempre como material no normativo. Así, quien consulta la normativa a través del MCP ya no pasa por alto, por ejemplo, la aclaración de la Orden 8/2026 sobre la exención de la parte teórico-práctica."
+        }
+      ],
+      "va": [
+        {
+          "type": "millora",
+          "description": "El servidor MCP del repositori retorna ara els aclariments d'aplicació: get_law els inclou sencers quan la llei en té i search_articles hi busca també, marcats sempre com a material no normatiu. Així, qui consulta la normativa a través del MCP ja no passa per alt, per exemple, l'aclariment de l'Orde 8/2026 sobre l'exempció de la part teoricopràctica."
+        }
+      ]
+    }
+  },
+  {
     "version": "2.12.0",
     "date": "2026-10-21",
     "entries": {

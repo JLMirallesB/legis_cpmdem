@@ -1,4 +1,4 @@
-import { readFileSync, readdirSync } from 'fs';
+import { readFileSync, readdirSync, existsSync } from 'fs';
 import { join, dirname } from 'path';
 import { fileURLToPath } from 'url';
 
@@ -151,6 +151,45 @@ export function searchArticles(query: string, lang: 'es' | 'va', maxResults = 20
     if (results.length >= maxResults) break;
     const law = pair[lang];
     searchNodes(law.structure, slug, law.title);
+  }
+
+  return results;
+}
+
+/**
+ * Aclaraciones de aplicación: material complementario, no normativo, en
+ * `data/aclaraciones/{slug}.md`. Solo en castellano. Se exponen aparte del
+ * articulado para que nunca se confundan con el texto publicado.
+ */
+export const CLARIFICATIONS_NOTICE =
+  'Material complementario, NO normativo. «Aclaración» = criterio comunicado por escrito; «Criterio interpretativo» = lectura del repositorio sin respaldo escrito. Ante discrepancia prevalece la norma. Solo en castellano.';
+
+export function getClarifications(slug: string): string | null {
+  const file = join(REPO_ROOT, 'data', 'aclaraciones', `${slug}.md`);
+  return existsSync(file) ? readFileSync(file, 'utf-8') : null;
+}
+
+export function searchClarifications(query: string): { source: 'aclaracion'; lawSlug: string; section: string; snippet: string }[] {
+  const dir = join(REPO_ROOT, 'data', 'aclaraciones');
+  if (!existsSync(dir)) return [];
+  const q = query.toLowerCase();
+  const results: ReturnType<typeof searchClarifications> = [];
+
+  for (const file of readdirSync(dir)) {
+    if (!file.endsWith('.md')) continue;
+    const lawSlug = file.replace('.md', '');
+    const md = readFileSync(join(dir, file), 'utf-8');
+    // Una entrada por precepto (`## `); lo anterior es la cabecera del fichero
+    for (const part of md.split(/\n(?=## )/)) {
+      if (!part.startsWith('## ')) continue;
+      const idx = part.toLowerCase().indexOf(q);
+      if (idx < 0) continue;
+      const section = part.split('\n', 1)[0].slice(3).trim();
+      const start = Math.max(0, idx - 80);
+      const end = Math.min(part.length, idx + query.length + 80);
+      const snippet = (start > 0 ? '...' : '') + part.slice(start, end) + (end < part.length ? '...' : '');
+      results.push({ source: 'aclaracion', lawSlug, section, snippet });
+    }
   }
 
   return results;

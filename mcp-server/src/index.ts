@@ -2,7 +2,7 @@
 import { McpServer } from '@modelcontextprotocol/sdk/server/mcp.js';
 import { StdioServerTransport } from '@modelcontextprotocol/sdk/server/stdio.js';
 import { z } from 'zod';
-import { listLaws, getLaw, getArticle, searchArticles, getChangelog, getArticleVersions } from './data-loader.js';
+import { listLaws, getLaw, getArticle, searchArticles, getChangelog, getArticleVersions, getClarifications, searchClarifications, CLARIFICATIONS_NOTICE } from './data-loader.js';
 
 const server = new McpServer({
   name: 'legis-cpmdem',
@@ -36,7 +36,7 @@ server.tool(
 // Tool: get_law
 server.tool(
   'get_law',
-  'Get full metadata and structure of a specific law by its slug. Returns title, date, publication info, vigency, promulgation, and structure tree (without article content for brevity).',
+  'Get full metadata and structure of a specific law by its slug. Returns title, date, publication info, vigency, promulgation, structure tree (without article content for brevity) and, if the law has them, its application clarifications (non-normative, Spanish only) in full.',
   {
     slug: z.string().describe('Law slug (e.g., decreto-158-2007, orden-28-2011)'),
     lang: z.enum(['es', 'va']).default('es').describe('Language'),
@@ -44,6 +44,8 @@ server.tool(
   async (args) => {
     const law = getLaw(args.slug, args.lang);
     if (!law) return { content: [{ type: 'text' as const, text: `Law not found: ${args.slug}` }] };
+
+    const clarifications = getClarifications(args.slug);
 
     // Return metadata + structure outline (without content)
     function outlineNodes(nodes: typeof law.structure): object[] {
@@ -73,6 +75,7 @@ server.tool(
       publishedIn: law.publishedIn,
       promulgation: law.promulgation,
       structure: outlineNodes(law.structure),
+      clarifications: clarifications ? { notice: CLARIFICATIONS_NOTICE, markdown: clarifications } : null,
     };
 
     return { content: [{ type: 'text' as const, text: JSON.stringify(result, null, 2) }] };
@@ -102,6 +105,7 @@ server.tool(
           title: result.node.title,
           content: result.node.content,
           hasVersions: !!(result.node.versions && result.node.versions.length > 0),
+          hasClarifications: !!getClarifications(args.slug),
           children: result.node.children?.map((c) => ({ type: c.type, id: c.id, title: c.title })),
         }, null, 2),
       }],
@@ -112,15 +116,17 @@ server.tool(
 // Tool: search_articles
 server.tool(
   'search_articles',
-  'Search across all laws for articles matching a text query. Returns matching articles with context snippets.',
+  'Search across all laws for articles matching a text query, and across application clarifications (data/aclaraciones/, non-normative, Spanish only). Returns { clarifications, articles } with context snippets; clarification matches are never truncated by max_results.',
   {
     query: z.string().describe('Search text (searches in article titles and content)'),
     lang: z.enum(['es', 'va']).default('es').describe('Language'),
     max_results: z.number().default(20).describe('Maximum number of results'),
   },
   async (args) => {
-    const results = searchArticles(args.query, args.lang, args.max_results);
-    return { content: [{ type: 'text' as const, text: JSON.stringify(results, null, 2) }] };
+    const articles = searchArticles(args.query, args.lang, args.max_results);
+    const matches = searchClarifications(args.query);
+    const clarifications = matches.length ? { notice: CLARIFICATIONS_NOTICE, matches } : null;
+    return { content: [{ type: 'text' as const, text: JSON.stringify({ clarifications, articles }, null, 2) }] };
   }
 );
 

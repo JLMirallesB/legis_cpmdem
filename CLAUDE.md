@@ -5,6 +5,16 @@ Lector de legislación de Conservatorios Profesionales de Música y Danza **y de
 
 ## Documentación
 Leer antes de hacer cambios: `docs/CONTENT-GUIDE.md` (proceso de ingesta), `docs/DATA-SCHEMA.md` (esquema JSON), `src/lib/types.ts` (tipos TypeScript).
+Aclaraciones de aplicación (material no normativo): `data/aclaraciones/{slug}.md`, descritas en `docs/DATA-SCHEMA.md` §«Aclaraciones de aplicación».
+
+## Consultas sobre la normativa
+Al responder una duda sobre cómo se aplica una norma, buscar en **todo `data/`**, no solo en `data/laws/`. Las fichas de `data/notebooks/`, `data/center-docs/` y `data/organos/` también tienen notas:
+```bash
+grep -ril "<término>" data/
+```
+- Para cada norma citada en la respuesta, comprobar si existe `data/aclaraciones/<slug>.md` y **leerlo entero** antes de responder. El MCP `legis-cpmdem` ya lo devuelve en `get_law` y `search_articles`.
+- Distinguir **Aclaración** (criterio comunicado por escrito) de **Criterio interpretativo** (lectura del repositorio, sin respaldo escrito). Si una aclaración matiza la lectura literal del articulado, citarla y advertir que es material no normativo: prevalece la norma.
+- No afirmar que algo «no existe en el repositorio» sin haber buscado en todo `data/`; si no aparece, decir dónde se ha buscado.
 
 ## Ingesta de leyes desde PDF del DOGV
 
