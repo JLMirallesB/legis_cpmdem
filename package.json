@@ -15,7 +15,7 @@
     "fix:apartados": "node scripts/fix-apartados.mjs"
   },
   "dependencies": {
-    "@astrojs/rss": "^4.0.18",
-    "astro": "^6.0.4"
+    "@astrojs/rss": "^4.0.19",
+    "astro": "^7.4.4"
   }
 }

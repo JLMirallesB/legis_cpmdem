@@ -1,7 +1,7 @@
 # Instrucciones para Claude Code - Legis CPM
 
 ## Qué es este proyecto
-Lector de legislación de Conservatorios Profesionales de Música y Danza **y de Escuelas de enseñanza artística no formal (Música y Artes Escénicas)** de la Generalitat Valenciana. Sitio estático con Astro 6.x desplegado en GitHub Pages. Datos en JSON bilingüe (es/va). El proyecto se llama **Legis CPMDEM** (los textos de marca ya incluyen las Escuelas de Música).
+Lector de legislación de Conservatorios Profesionales de Música y Danza **y de Escuelas de enseñanza artística no formal (Música y Artes Escénicas)** de la Generalitat Valenciana. Sitio estático con Astro 7.x desplegado en GitHub Pages (`compressHTML: true` en `astro.config.mjs`: el modo `'jsx'` por defecto de Astro 7 borra los espacios entre texto y expresiones en líneas distintas). Datos en JSON bilingüe (es/va). El proyecto se llama **Legis CPMDEM** (los textos de marca ya incluyen las Escuelas de Música).
 
 ## Documentación
 Leer antes de hacer cambios: `docs/CONTENT-GUIDE.md` (proceso de ingesta), `docs/DATA-SCHEMA.md` (esquema JSON), `src/lib/types.ts` (tipos TypeScript).
