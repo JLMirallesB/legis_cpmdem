@@ -1,0 +1,264 @@
+{
+  "id": "profesorado-itinerante",
+  "slug": "profesorado-itinerante",
+  "title": {
+    "es": "Profesorado itinerante y con puesto compartido",
+    "va": "Professorat itinerant i amb lloc compartit"
+  },
+  "description": {
+    "es": "Todo lo que la normativa dice sobre el profesorado que trabaja en más de un centro: puestos itinerantes (centros de distinta localidad), compartidos (misma localidad) y de horario completado. El núcleo es la Orden 44/2012: definiciones, reducción del horario complementario por kilómetros, máximo de centros, elaboración y aprobación del horario, calendario e indemnizaciones. Las cuantías salen del Decreto 80/2025, y las instrucciones anuales de conservatorios añaden reglas propias, como no dar clase en los dos centros el mismo día.",
+    "va": "Tot el que la normativa diu sobre el professorat que treballa en més d'un centre: llocs itinerants (centres de distinta localitat), compartits (mateixa localitat) i d'horari completat. El nucli és l'Orde 44/2012: definicions, reducció de l'horari complementari per quilòmetres, màxim de centres, elaboració i aprovació de l'horari, calendari i indemnitzacions. Les quanties ixen del Decret 80/2025, i les instruccions anuals de conservatoris hi afigen regles pròpies, com no fer classe en els dos centres el mateix dia."
+  },
+  "terms": [
+    "itinerante",
+    "itinerancia",
+    "puesto compartido",
+    "plaza compartida",
+    "horario completado",
+    "itinerant",
+    "itinerancia",
+    "lloc compartit",
+    "placa compartida",
+    "horari completat"
+  ],
+  "updatedAt": "2026-11-02",
+  "refs": [
+    {
+      "law": "orden-44-2012",
+      "article": "art-1",
+      "note": "Objeto: planificación de puestos compartidos e itinerantes, régimen del profesorado que los ocupa y organización de los centros afectados.",
+      "hash": {
+        "es": "b0838773",
+        "va": "10061f1d"
+      },
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "law": "orden-44-2012",
+      "article": "art-2",
+      "note": "Definiciones: puesto de horario completado, itinerante (distinta localidad) y compartido (misma localidad); todos con un único centro de adscripción.",
+      "hash": {
+        "es": "19aaf210",
+        "va": "a50fe150"
+      },
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "law": "orden-44-2012",
+      "article": "art-3",
+      "note": "Catalogación de los puestos y criterios de planificación: alumnado, número de centros, distancias y desplazamientos.",
+      "hash": {
+        "es": "185f149d",
+        "va": "71134119"
+      },
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "law": "orden-44-2012",
+      "article": "art-4",
+      "note": "Régimen: comisión de servicios, reparto del horario complementario entre centros, preferencia por días distintos, sin tutoría salvo necesidad y calendario laboral del centro de adscripción (4.9).",
+      "hash": {
+        "es": "9a144ab5",
+        "va": "f65d5a5e"
+      },
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "law": "orden-44-2012",
+      "article": "art-5",
+      "note": "Reducción del horario complementario por km semanales (2 a 5 h), una hora lectiva más por encima de 200 km, máximo de tres centros, horario elaborado por las jefaturas de estudios y aprobado por la dirección territorial.",
+      "hash": {
+        "es": "29584131",
+        "va": "3322bac5"
+      },
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "law": "orden-44-2012",
+      "article": "art-6",
+      "note": "Cálculo y cobro de las indemnizaciones: qué recorrido computa, certificación de la dirección, pago con cargo a los gastos de funcionamiento del centro de adscripción.",
+      "hash": {
+        "es": "a030aaa9",
+        "va": "757ea831"
+      },
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "law": "orden-44-2012",
+      "article": "art-7",
+      "note": "Indemnización por accidente de circulación.",
+      "hash": {
+        "es": "2acd23c1",
+        "va": "687a920c"
+      },
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "law": "orden-44-2012",
+      "article": "art-8",
+      "note": "Organización de los centros afectados y pertenencia a los claustros de todos los centros.",
+      "hash": {
+        "es": "b1025c41",
+        "va": "c45f02a2"
+      },
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "law": "orden-44-2012",
+      "article": "da-1",
+      "note": "Profesorado de Religión: excepción al límite de tres centros.",
+      "hash": {
+        "es": "30e62281",
+        "va": "22c2846f"
+      },
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "law": "decreto-80-2025",
+      "article": "art-1",
+      "apartado": "1.b",
+      "note": "El decreto de indemnizaciones se aplica al personal docente.",
+      "hash": {
+        "es": "4cd7d530",
+        "va": "93fdbd10"
+      },
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "law": "decreto-80-2025",
+      "article": "art-3",
+      "apartado": "2",
+      "note": "El desplazamiento habitual de casa al centro de trabajo nunca es comisión de servicios.",
+      "hash": {
+        "es": "4c5e275b",
+        "va": "a6a57996"
+      },
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "law": "decreto-80-2025",
+      "article": "art-8",
+      "note": "Gastos de transporte: kilometraje del vehículo particular según el itinerario autorizado; un solo pago si se comparte coche.",
+      "hash": {
+        "es": "a78615e2",
+        "va": "9126dc4a"
+      },
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "law": "decreto-80-2025",
+      "article": "art-10",
+      "note": "Desplazamientos dentro del mismo término municipal (caso del puesto compartido).",
+      "hash": {
+        "es": "e430c647",
+        "va": "15bf0afc"
+      },
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "law": "decreto-80-2025",
+      "article": "anexo-1",
+      "note": "Cuantías vigentes; el apartado B fija el kilometraje (0,26 €/km en turismo).",
+      "hash": {
+        "es": "659d368a",
+        "va": "457b688f"
+      },
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "law": "resolucion-inicio-curso-2026-2027",
+      "article": "anexo-6-1",
+      "apartado": "6.1.2.3",
+      "note": "En conservatorios: las direcciones acuerdan los días de cada centro, no se da clase en los dos centros el mismo día y rige el calendario del centro de adscripción.",
+      "hash": {
+        "es": "efd2c158",
+        "va": "411220fc"
+      },
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "law": "resolucion-inicio-curso-2026-2027",
+      "article": "anexo-3-2",
+      "apartado": "3.2.4.4",
+      "note": "Programa de coordinación horaria: el desplazamiento del profesorado debe constar en su horario y en la PGA.",
+      "hash": {
+        "es": "9f346c35",
+        "va": "b6ec1b82"
+      },
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "law": "instrucciones-plantillas-conservatorios-2026-2027",
+      "article": "sec-12",
+      "note": "Creación de plazas compartidas: los centros indican sus preferencias de itinerancia con conocimiento de la Inspección.",
+      "hash": {
+        "es": "d072fa2a",
+        "va": "05c6a91b"
+      },
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "law": "decreto-57-2020",
+      "article": "art-21",
+      "apartado": "3",
+      "note": "En conservatorios, claustro del centro donde imparte más horas, con opción de integrarse en los demás (la Orden 44/2012, art. 8.2, dice todos).",
+      "hash": {
+        "es": "bfe320da",
+        "va": "06449c75"
+      },
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "law": "resolucion-criterios-asuntos-particulares-2026",
+      "article": "apartado-6",
+      "note": "Días de asuntos particulares: los resuelve la dirección del centro de adscripción, con el visto bueno del otro centro si le afecta.",
+      "hash": {
+        "es": "be95ab3f",
+        "va": "c01545ce"
+      },
+      "checkedAt": "2026-11-02"
+    }
+  ],
+  "discarded": [
+    {
+      "law": "orden-44-2012",
+      "article": "preambulo",
+      "reason": "Preámbulo: motivación, sin contenido normativo propio"
+    },
+    {
+      "law": "orden-44-2012",
+      "article": "dd-unica",
+      "reason": "Solo deroga la Orden de 2002; consta en el análisis jurídico de la ley"
+    },
+    {
+      "law": "decreto-104-2018",
+      "article": "art-18",
+      "apartado": "5",
+      "reason": "Personal especializado de apoyo a la inclusión, no profesorado de conservatorio"
+    },
+    {
+      "law": "orden-20-2019",
+      "article": "art-52",
+      "apartado": "2.f",
+      "reason": "Itinerancia familiar del alumnado, no del profesorado"
+    },
+    {
+      "law": "orden-20-2019",
+      "article": "art-54",
+      "apartado": "6",
+      "reason": "Itinerancia familiar del alumnado, no del profesorado"
+    },
+    {
+      "law": "orden-20-2019",
+      "article": "da-6",
+      "apartado": "1",
+      "reason": "Personal especializado de apoyo a la inclusión, no profesorado de conservatorio"
+    },
+    {
+      "law": "resolucion-inicio-curso-2025-2026",
+      "article": "anexo-6-1",
+      "apartado": "3",
+      "reason": "Instrucciones del curso 25-26, sustituidas por las de 26-27, que ya están en el cuaderno"
+    }
+  ]
+}

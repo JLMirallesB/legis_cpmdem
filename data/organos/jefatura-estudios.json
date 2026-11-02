@@ -370,6 +370,28 @@
         "va": "91c68c06"
       },
       "checkedAt": "2026-08-19"
+    },
+    {
+      "law": "orden-44-2012",
+      "article": "art-4",
+      "apartado": "6",
+      "note": "Reparte entre los centros el horario complementario del profesorado itinerante o con puesto compartido",
+      "hash": {
+        "es": "dd0fc428",
+        "va": "729bd510"
+      },
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "law": "orden-44-2012",
+      "article": "art-5",
+      "apartado": "5",
+      "note": "Elabora de forma coordinada el horario del profesorado que trabaja en varios centros; coordina la del centro de adscripción",
+      "hash": {
+        "es": "1be2eb5c",
+        "va": "7daade2a"
+      },
+      "checkedAt": "2026-11-02"
     }
   ],
   "discarded": [

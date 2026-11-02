@@ -325,6 +325,17 @@
         "va": "17f65390"
       },
       "checkedAt": "2026-08-19"
+    },
+    {
+      "law": "orden-44-2012",
+      "article": "art-4",
+      "apartado": "8",
+      "note": "No se asigna tutoría al profesorado itinerante o con puesto compartido mientras el resto no la tenga, salvo necesidad estricta",
+      "hash": {
+        "es": "6284c986",
+        "va": "8540f435"
+      },
+      "checkedAt": "2026-11-02"
     }
   ],
   "discarded": [

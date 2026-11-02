@@ -1103,6 +1103,28 @@
         "va": "c01545ce"
       },
       "checkedAt": "2026-10-21"
+    },
+    {
+      "law": "orden-44-2012",
+      "article": "art-4",
+      "apartado": "5",
+      "note": "La dirección del centro de adscripción extiende la comisión de servicios del profesorado itinerante o con puesto compartido",
+      "hash": {
+        "es": "bf441bac",
+        "va": "e032bc4a"
+      },
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "law": "orden-44-2012",
+      "article": "art-6",
+      "apartado": "2",
+      "note": "Certifica el horario y la comisión de servicios para el cobro de las indemnizaciones por desplazamiento",
+      "hash": {
+        "es": "324ff9ee",
+        "va": "4da5580f"
+      },
+      "checkedAt": "2026-11-02"
     }
   ],
   "discarded": [

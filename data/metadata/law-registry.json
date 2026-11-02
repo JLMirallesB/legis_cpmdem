@@ -588,6 +588,20 @@
       "status": "ingested",
       "category": "profesorado",
       "notes": "Decreto del Consell de 1/10/2026 (DOGV 10468, 08/10/2026, signatura 2026/30785), en vigor el 09/10/2026 y aplicable desde el curso 2026/2027 (DT única). Primera regulación valenciana de las comisiones de servicios docentes en desarrollo del art. 117 de la Ley 4/2021; vale para todos los cuerpos docentes no universitarios, también los de música y artes escénicas. Texto tomado del HTML del API del DOGV (dogv-portal/disposicion/492112), un div por párrafo; contrastado palabra a palabra con los PDF _es/_va: idéntico salvo cabeceras de página. Estructura: preámbulo + 20 artículos + DA 1-2 + DT única + DD única (derogación genérica) + DF 1-2. Modalidades: concesión prioritaria (art. 5: violencia de género, informe médico-laboral, agresión), razones personales/familiares/salud (art. 6), interés profesional con puestos de perfil a propuesta de la dirección y aval del consejo escolar (art. 7), dirección de centros (art. 8), puestos de naturaleza singular (art. 9), docentes de otras administraciones (art. 10). Sin análisis jurídico activo/pasivo en el DOGV en la fecha de ingesta: no modifica ninguna ley ingestada. Ley 4/2021 y RD 1364/2010 no ingestados (citados sin lawId). Errata tipográfica del DOGV en valenciano (HTML y PDF): falta el espacio tras el número en los apartados 4, 5 y 6 del art. 16 y 3 y 4 del art. 18 («4.L'adjudicació»); se añade para que los apartados se reconozcan igual que en castellano."
+    },
+    {
+      "slug": "orden-44-2012",
+      "title": "Orden 44/2012 - Profesorado en más de un centro (itinerancias)",
+      "status": "ingested",
+      "category": "profesorado",
+      "notes": "DOGV 6820 (17/07/2012), PDF bilingüe a dos columnas. Preámbulo + 8 arts + 3 DA + DD + DF. Régimen del profesorado itinerante, de puesto compartido y de horario completado: comisión de servicios, reducción del horario complementario por km semanales (tabla del art. 5), máximo de 3 centros, calendario del centro de adscripción (art. 4.9) e indemnizaciones (art. 6, que remite al D. 24/1997, hoy Decreto 80/2025). Vigente sin modificaciones según el análisis jurídico del DOGV (consultado el 02/11/2026). Choca con el D. 57/2020, art. 21.3, sobre el claustro."
+    },
+    {
+      "slug": "decreto-80-2025",
+      "title": "Decreto 80/2025 - Indemnizaciones por razón del servicio",
+      "status": "ingested",
+      "category": "profesorado",
+      "notes": "DOGV 10126 (09/06/2025), PDF separado por idioma. Preámbulo + 20 arts (3 títulos; el II con 2 capítulos) + 3 DA + DT + DD + 2 DF + anexo de cuantías (tablas en markdown; 0,26 €/km en turismo). Norma general del personal de la Generalitat, ingestada entera; aplica al personal docente (art. 1.1.b). Deroga el D. 24/1997, al que remite la Orden 44/2012. En octubre de 2025 Hacienda abrió una consulta previa para modificarlo; sin publicar a 02/11/2026."
     }
   ]
 }

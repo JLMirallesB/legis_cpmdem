@@ -1,0 +1,171 @@
+{
+  "id": "orden-44-2012",
+  "slug": "orden-44-2012",
+  "type": "orden",
+  "number": "44/2012",
+  "date": "2012-07-11",
+  "publishedIn": {
+    "source": "DOGV",
+    "number": "6820",
+    "date": "2012-07-17",
+    "url": "https://dogv.gva.es/es/resultat-dogv?signatura=2012/7056",
+    "pdfUrl": "https://dogv.gva.es/datos/2012/07/17/pdf/2012_7056.pdf"
+  },
+  "title": "Orden 44/2012, de 11 de julio, de la Conselleria de Educación, Formación y Empleo, por la que se regula el régimen aplicable al profesorado que presta servicios en más de un centro docente público de enseñanza no universitaria de titularidad de la Generalitat",
+  "titleShort": "O 44/2012 - Profesorado en más de un centro (itinerancias)",
+  "category": "profesorado",
+  "vigpiracy": {
+    "status": "vigente",
+    "statusLabel": "Vigente",
+    "effectiveDate": "2012-07-18"
+  },
+  "structure": [
+    {
+      "type": "preambulo",
+      "id": "preambulo",
+      "title": "Preámbulo",
+      "content": "Con el fin de dotar de los recursos docentes necesarios para que el alumnado de la Comunitat Valenciana pueda alcanzar el máximo desarrollo posible de sus capacidades personales, sean atendidas sus necesidades específicas y garantizada la igualdad de oportunidades en el medio urbano y rural, los centros han de disponer del profesorado de las especialidades correspondientes y de profesionales cualificados en las distintas etapas educativas aun cuando ello suponga para el docente la impartición de docencia en más de un centro educativo de la misma o de distinta localidad, bajo determinadas circunstancias.\n\nEl Decreto 64/2011, de 27 de mayo, del Consell, por el que se modifica el Decreto 24/1997, de 11 de febrero, sobre indemnizaciones por razón del servicio y gratificaciones por servicios extraordinarios, y la Orden de 23 de julio de 1998, de la Conselleria de Economía, Hacienda y Administración Pública, que lo desarrolla (DOGV de 15.09.1998), regulan las indemnizaciones y gratificaciones que, por razones de servicio, puedan corresponder al personal de la Generalitat y al adscrito funcionalmente al servicio de la misma.\n\nLa posibilidad de completar horario a instancia del interesado en diferentes centros, de la misma o de diferente localidad, así como la posibilidad de desempeñar puestos de trabajo que comportan la prestación de servicios en diferentes centros de la misma o de diferente localidad cuya existencia se deriva de la planificación de la propia Administración educativa, requieren sustituir la Orden de 26 de septiembre de 2002, de la Conselleria de Cultura y Educación, por la que se regula el régimen de itinerancia del profesorado adscrito a centros docentes públicos de enseñanza no universitaria de titularidad de la Generalitat Valenciana, por cuanto solo preveía el supuesto de prestación de servicios en puestos cuyo horario se encontraba repartido en diferentes centros previa planificación y diseño por la Administración educativa.\n\nLa casuística actual es más compleja y requiere una regulación que contemple todos los supuestos existentes, así como una racionalización del gasto y la mejora de los procedimientos de gestión aplicables.\n\nEn la tramitación de esta orden se ha cumplido lo previsto en el artículo 37 de la Ley 7/2007, de 12 de abril, del Estatuto Básico del Empleado Público, y los artículos 153 y siguientes de la Ley 10/2010, de 9 de julio, de la Generalitat, de Ordenación y Gestión de la Función Pública Valenciana.\n\nEn uso de las atribuciones que me confiere el artículo 28 de la Ley 5/1983, de 30 de diciembre, del Consell,"
+    },
+    {
+      "type": "articulo",
+      "id": "art-1",
+      "number": "1",
+      "title": "Artículo 1. Objeto y ámbito de aplicación",
+      "content": "La presente orden tiene por objeto regular determinados aspectos referidos:\n\na) a la planificación educativa de puestos compartidos e itinerantes;\n\nb) al régimen en el que el funcionariado que preste servicios en puestos compartidos e itinerantes y el de horario completado en diferentes centros ha de prestar sus servicios, así como, en determinados aspectos, al profesorado de horario completado en un mismo centro; y\n\nc) a la organización y al funcionamiento de aquellos centros docentes públicos de enseñanzas no universitarias de titularidad de la Generalitat en los que desarrollen sus funciones dichos docentes."
+    },
+    {
+      "type": "articulo",
+      "id": "art-2",
+      "number": "2",
+      "title": "Artículo 2. Puesto de trabajo de horario completado, puesto de trabajo itinerante y puesto de trabajo compartido",
+      "content": "1. Tendrá la consideración de puesto de trabajo de horario completado aquel cuyo horario sea incompleto y, como consecuencia de ello, el funcionario de carrera con destino definitivo en el mismo que lo desempeñe haya de completarlo con carácter regular y periódico con el horario disponible de otro u otros puestos en el mismo centro o en otros de la misma localidad o de localidades limítrofes. El desempeño de puestos de horario completado se regulará por normativa específica y por lo dispuesto en la presente orden en lo que le sea de aplicación. En todo caso, el centro al que pertenezca el puesto del que es titular cuyo horario es incompleto será denominado centro de adscripción si hubiera de prestar servicios en diferentes centros.\n\n2. Tendrá la consideración de puesto de trabajo itinerante aquel que, con carácter regular y periódico, comporte la prestación de servicios en más de un centro de distinta localidad, sin perjuicio de lo cual el puesto será objeto de adscripción a efectos administrativos a un único centro, denominado centro de adscripción.\n\n3. Tendrá la consideración de puesto de trabajo compartido aquel que, con carácter regular y periódico, comporte la prestación de servicios en más de un centro de la misma localidad, sin perjuicio de lo cual el puesto será objeto de adscripción a efectos administrativos a un único centro, denominado centro de adscripción.\n\n4. Los puestos de trabajo itinerantes y compartidos tienen carácter singular y serán de provisión voluntaria para el funcionariado con carácter absoluto."
+    },
+    {
+      "type": "articulo",
+      "id": "art-3",
+      "number": "3",
+      "title": "Artículo 3. Criterios de planificación educativa",
+      "content": "1. Los puestos docentes itinerantes y compartidos, previa negociación con las organizaciones sindicales más representativas, podrán ser catalogados como tales por la conselleria competente en materia de Educación. Dicha catalogación especificará el nivel, la especialidad, el centro de adscripción y los centros donde, complementariamente, han de prestarse los servicios.\n\n2. Para la correcta dotación y distribución de los puestos itinerantes y compartidos, la planificación educativa velará por la adecuada atención al alumnado y el eficiente aprovechamiento de los recursos humanos en condiciones de seguridad.\n\nA tal efecto, se considerará el volumen de alumnado que haya que atender, las etapas y los niveles educativos a los que pertenezca, el número de centros afectados y la distancia entre ellos, la constitución de grupos, los horarios por grupo de alumnado y especialidad, los horarios del profesorado docente itinerante o que comparta centros y los desplazamientos que se tengan que realizar."
+    },
+    {
+      "type": "articulo",
+      "id": "art-4",
+      "number": "4",
+      "title": "Artículo 4. Régimen del profesorado con horario completado, itinerante y del profesorado con puesto compartido",
+      "content": "1. Tendrá la consideración de profesorado con horario completado el funcionariado docente de carrera con destino definitivo que, además de prestar servicios en su propio puesto, complete su horario con el disponible de otro u otros puestos en el mismo centro, en otros centros de la misma localidad o localidades limítrofes como consecuencia de la insuficiencia horaria del puesto del que es titular.\n\n2. Tendrá la consideración de profesorado itinerante aquel que desempeñe sus funciones en más de un centro de distinta localidad.\n\n3. Tendrá la consideración de profesorado con puesto compartido aquel que desempeñe funciones en más de un centro de la misma localidad.\n\n4. Al profesorado de horario completado, itinerante y al de puesto compartido le será de aplicación las disposiciones legales y reglamentarias que, con carácter general, corresponden al profesorado del cuerpo que imparte las mismas enseñanzas, sin perjuicio de lo que se establece en la presente norma.\n\n5. Los servicios prestados por el profesorado de horario completado en otro centro distinto al de su adscripción, el itinerante y el de puesto compartido en otro centro distinto al de su adscripción, lo serán en régimen de comisión de servicios extendida por el director o la directora del centro de adscripción, de conformidad con lo establecido en el apartado quinto de la Resolución de 20 de abril de 2012, de la Subsecretaría de la Conselleria de Educación, Formación y Empleo, por la que se delega el ejercicio de determinadas competencias en los directores y directoras de los centros docentes no universitarios de titularidad de la Generalitat valenciana, o, en defecto de dicha delegación, por el órgano que ostente la jefatura del personal docente. Dicha comisión de servicios deberá justificarse documentalmente.\n\n6. El profesorado de horario completado en otro centro distinto al de su adscripción, el itinerante y el de puesto compartido en otro centro distinto al de su adscripción cumplirá, en cada uno de los centros, la parte proporcional del horario complementario semanal de obligada permanencia y complementario mensual en el centro, de acuerdo con los criterios que la jefatura de estudios o, en caso de desacuerdo, la Inspección Educativa determine, excepto las horas complementarias correspondientes a los desplazamientos, que serán computadas para realización de los mismos. Dicho horario complementario se destinará, entre otros, a efectos de participar en las sesiones de evaluación, en la celebración de claustros de profesores y en las sesiones de coordinación relacionadas con sus funciones.\n\n7. El horario del docente se configurará, preferentemente, atendiendo a cada centro en días y/o en jornadas distintas. Asimismo, no existirá obligación de comenzar y finalizar la jornada en el centro de adscripción.\n\n8. Al profesorado de horario completado en otro centro distinto al de su adscripción, al itinerante y al de puesto compartido no le podrá ser asignada tutoría en tanto que el resto de profesorado no la tenga adjudicada, y salvo que sea estrictamente necesario.\n\n9. El calendario laboral del profesorado de horario completado en otro centro de distinta localidad, así como el del itinerante, será el que corresponde al profesorado de su centro de adscripción."
+    },
+    {
+      "type": "articulo",
+      "id": "art-5",
+      "number": "5",
+      "title": "Artículo 5. Horario del profesorado",
+      "content": "1. Por lo que respecta al profesorado de horario completado en otro centro distinto al de su adscripción, al itinerante y al de puesto compartido en otro centro distinto al de su adscripción, el cómputo del horario semanal será el establecido con carácter general para el resto de profesorado de su mismo nivel y tipo de enseñanza, salvo la reducción horaria del horario complementario que le corresponda por causa de los desplazamientos con arreglo a la siguiente escala:\n\n| km de desplazamiento semanal | Reducción horaria complementaria semanal |\n|---|---|\n| Hasta 60 km | 2h |\n| De 60 a 120 km | 3h |\n| De 120 a 160 km | 4h |\n| De 160 a 200 km | 5h |\n| De 200 a 240 km | 5h |\n\n2. Cuando el desplazamiento semanal supere los 200 kilómetros semanales, el profesorado tendrá derecho a la reducción de una hora lectiva, además de las complementarias establecidas anteriormente.\n\n3. El número máximo de centros para atender es tres, salvo en el caso de centros rurales agrupados, en que el número máximo es cinco.\n\n4. El horario de los docentes correspondiente a los centros en los que imparte docencia estará disponible en la aplicación informática de gestión de centros para cada uno de los centros que lo configure.\n\n5. Los horarios serán elaborados, coordinadamente, por las jefaturas de estudios de los centros en los que imparta sus enseñanzas. La responsabilidad de dicha coordinación recaerá sobre la jefatura de estudios del centro de adscripción. En caso de desacuerdo, los fijará la Inspección Educativa.\n\n6. Los horarios del profesorado de horario completado en otro centro distinto al de su adscripción, del itinerante y del de puesto compartido en otro centro distinto al de su adscripción, previo informe razonado de la Inspección Educativa, deberán ser aprobados por la dirección territorial que corresponda."
+    },
+    {
+      "type": "articulo",
+      "id": "art-6",
+      "number": "6",
+      "title": "Artículo 6. Procedimiento para el cálculo y el cobro de las indemnizaciones correspondientes del profesorado itinerante y del profesorado de horario completado en otro centro en distinta localidad",
+      "content": "1. El profesorado itinerante y el profesorado de horario completado en otro centro de distinta localidad al que se refiere esta orden percibirá las indemnizaciones que se derivan por la aplicación de lo establecido en el Decreto 24/1997, de 11 de febrero, del Consell, sobre indemnizaciones por razón del servicio y gratificaciones por servicios extraordinarios, en la redacción hecha por el Decreto 64/2011, de 27 de mayo, del Consell, y en la Orden de 23 de julio de 1998, de la Conselleria de Economía, Hacienda y Administración Pública, que lo desarrolla, o en la normativa que los sustituya.\n\n2. La dirección del centro de adscripción, a instancia del profesorado, certificará el horario así como la documentación de la comisión de servicios autorizada, con expresión del vehículo utilizado para los desplazamientos y la distancia en kilómetros entre el centro de adscripción y los restantes, sin perjuicio de cualquier otro aspecto que deba indicarse de acuerdo con las instrucciones que se dicten.\n\n3. La indemnización correspondiente por razón del servicio efectivamente realizado se financiará con cargo al capítulo II, gastos de funcionamiento, del centro educativo de adscripción para su abono al docente itinerante.\n\n4. En caso de existir itinerarios alternativos, podrá elegirse el de más largo recorrido en aras a la mayor seguridad.\n\nA su vez, si por causa de fuerza mayor se modificara la ruta habitual, se contabilizarán los kilómetros recorridos.\n\n5. Si un vehículo particular es utilizado por distintas personas, se indemnizará únicamente al titular del mismo.\n\n6. En caso de que para los desplazamientos se utilizara el transporte público colectivo, se indemnizará por el importe del precio del mismo.\n\n7. Para el cálculo de la distancia se utilizará el mapa oficial de carreteras del ministerio competente en la materia.\n\n8. Cuando la jornada laboral diaria del docente se desarrolle en su totalidad en un mismo centro, no se computará el desplazamiento al ser la consecuencia directa del ejercicio propio de la función docente. Cuando, a consecuencia de la función docente, en el mismo día el docente deba desplazarse entre varios centros, se computará el desplazamiento de ida entre el centro de adscripción y el más alejado del mismo, y sólo cuando su horario contemple docencia posterior en el mismo día en su centro de adscripción, podrá computarse el desplazamiento de vuelta al mismo."
+    },
+    {
+      "type": "articulo",
+      "id": "art-7",
+      "number": "7",
+      "title": "Artículo 7. Otras indemnizaciones por razón del servicio",
+      "content": "1. El profesorado, en caso de accidente de circulación, tendrá derecho a las indemnizaciones que puedan corresponder por aplicación del artículo 6 del Decreto 24/1997, de 11 de febrero, del Gobierno Valenciano.\n\n2. Las indemnizaciones por accidente de circulación comprenderán los daños propios no cubiertos por el seguro del profesor."
+    },
+    {
+      "type": "articulo",
+      "id": "art-8",
+      "number": "8",
+      "title": "Artículo 8. Organización y funcionamiento de los centros",
+      "content": "1. Los centros afectados por la dotación de profesorado de horario completado, itinerante y/o profesorado de puesto compartido adaptarán su organización y funcionamiento de conformidad con el régimen de dicho profesorado, al que se refieren los artículos 4 y 5 de esta orden.\n\n2. Dicho profesorado formará parte de los claustros de profesores de todos los centros en los que imparta sus enseñanzas. En caso de coincidencia horaria, preferentemente asistirá a la sesión del claustro de su centro de adscripción."
+    },
+    {
+      "type": "disposicion_adicional",
+      "id": "da-1",
+      "number": "primera",
+      "title": "Disposición adicional primera. Profesorado de Religión",
+      "content": "Al profesorado de Religión le será aplicable lo dispuesto en la presente orden en los mismos términos que se establecen para el resto de profesorado respecto del puesto compartido e itinerante.\n\nNo obstante lo anterior, la limitación de tres centros señalada en el artículo 5.3 no se aplicará cuando en alguno de los destinos en que se presta servicios las horas lectivas sean de cinco horas o menos."
+    },
+    {
+      "type": "disposicion_adicional",
+      "id": "da-2",
+      "number": "segunda",
+      "title": "Disposición adicional segunda. Instrucciones",
+      "content": "Los distintos órganos de la conselleria competente en materia de Educación, así como las direcciones territoriales correspondientes, quedan autorizadas para que, en el ámbito de sus respectivas competencias, dicten cuantas instrucciones sean necesarias para la mejor ejecución de lo dispuesto en esta orden."
+    },
+    {
+      "type": "disposicion_adicional",
+      "id": "da-3",
+      "number": "tercera",
+      "title": "Disposición adicional tercera. No incremento del gasto público",
+      "content": "La aplicación y el posterior desarrollo de esta orden no podrán tener incidencia en el incremento de la dotación de todos y cada uno de los capítulos de gasto asignado a la conselleria competente en materia de Educación, y, en todo caso, deberá ser atendido con los medios personales y materiales de la citada Conselleria."
+    },
+    {
+      "type": "disposicion_derogatoria",
+      "id": "dd-unica",
+      "number": "única",
+      "title": "Disposición derogatoria única. Derogación",
+      "content": "Queda derogada la Orden de 26 de septiembre de 2002, de la Conselleria de Cultura y Educación, por la que se regula el régimen de itinerancia del profesorado adscrito a centros docentes públicos de enseñanza no universitaria, de titularidad de la Generalitat Valenciana.\n\nAsimismo, quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en la presente orden."
+    },
+    {
+      "type": "disposicion_final",
+      "id": "df-unica",
+      "number": "única",
+      "title": "Disposición final única. Entrada en vigor",
+      "content": "La presente orden entrará en vigor el día siguiente al de su publicación en el Diari Oficial de la Comunitat Valenciana."
+    }
+  ],
+  "legalAnalysis": {
+    "enactedPursuantTo": [
+      {
+        "title": "Ley 5/1983, de 30 de diciembre, del Consell (art. 28)",
+        "relationship": "habilitante"
+      }
+    ],
+    "priorAffectations": [],
+    "posteriorAffectations": [],
+    "derogations": [
+      {
+        "lawId": "orden-26-09-2002-itinerancia",
+        "title": "Orden de 26 de septiembre de 2002, de la Conselleria de Cultura y Educación, por la que se regula el régimen de itinerancia del profesorado adscrito a centros docentes públicos de enseñanza no universitaria, de titularidad de la Generalitat Valenciana",
+        "type": "deroga"
+      }
+    ],
+    "concordances": [
+      {
+        "lawId": "decreto-80-2025",
+        "title": "Decreto 80/2025",
+        "description": "El art. 6.1 remite al Decreto 24/1997 de indemnizaciones «o a la normativa que los sustituya»: hoy es el Decreto 80/2025, que derogó el 24/1997."
+      },
+      {
+        "lawId": "decreto-57-2020",
+        "title": "Decreto 57/2020 (art. 21.3)",
+        "description": "Para los conservatorios, el reglamento orgánico integra al profesorado que trabaja en varios centros en el claustro del centro donde imparte más horas (art. 8.2 de esta orden: claustros de todos los centros)."
+      },
+      {
+        "lawId": "resolucion-inicio-curso-2026-2027",
+        "title": "Instrucciones de inicio de curso 2026-2027 (apartado 6.1.3)",
+        "description": "Remite al art. 4.9 para el calendario laboral del profesorado itinerante."
+      }
+    ]
+  },
+  "promulgation": {
+    "place": "Valencia",
+    "date": "2012-07-11",
+    "signatories": [
+      {
+        "name": "María José Catalá Verdet",
+        "role": "Conselleria de Educación"
+      }
+    ]
+  },
+  "scope": "general",
+  "territory": "autonomico",
+  "temporality": {
+    "type": "permanente"
+  },
+  "docType": "normativa"
+}

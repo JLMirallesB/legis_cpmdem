@@ -1,5 +1,47 @@
 [
   {
+    "version": "2.13.0",
+    "date": "2026-11-02",
+    "entries": {
+      "es": [
+        {
+          "type": "nuevo",
+          "description": "Orden 44/2012, sobre el profesorado que trabaja en más de un centro: puestos itinerantes, compartidos y de horario completado. Recoge la reducción del horario complementario según los kilómetros semanales, el máximo de tres centros, quién elabora y aprueba el horario, el calendario del centro de adscripción y cómo se cobran los desplazamientos."
+        },
+        {
+          "type": "nuevo",
+          "description": "Decreto 80/2025, de indemnizaciones por razón del servicio, completo y con su anexo de cuantías (0,26 €/km en turismo). Sustituye al Decreto 24/1997, al que remite la Orden 44/2012 para pagar los desplazamientos del profesorado itinerante."
+        },
+        {
+          "type": "actualizado",
+          "description": "Las fichas de claustro, dirección, jefatura de estudios y tutoría incorporan lo que la Orden 44/2012 atribuye a cada órgano en relación con el profesorado que trabaja en varios centros."
+        },
+        {
+          "type": "nuevo",
+          "description": "Cuaderno «Profesorado itinerante y con puesto compartido»: reúne en una sola página lo que regulan la Orden 44/2012, el Decreto 80/2025, las instrucciones de inicio de curso y de plantillas de 2026-2027, el Decreto 57/2020 y los criterios de asuntos particulares."
+        }
+      ],
+      "va": [
+        {
+          "type": "nou",
+          "description": "Orde 44/2012, sobre el professorat que treballa en més d'un centre: llocs itinerants, compartits i d'horari completat. Arreplega la reducció de l'horari complementari segons els quilòmetres setmanals, el màxim de tres centres, qui elabora i aprova l'horari, el calendari del centre d'adscripció i com es cobren els desplaçaments."
+        },
+        {
+          "type": "nou",
+          "description": "Decret 80/2025, d'indemnitzacions per raó del servici, complet i amb el seu annex de quanties (0,26 €/km en turisme). Substituïx el Decret 24/1997, al qual remet l'Orde 44/2012 per a pagar els desplaçaments del professorat itinerant."
+        },
+        {
+          "type": "actualitzat",
+          "description": "Les fitxes de claustre, direcció, prefectura d'estudis i tutoria incorporen el que l'Orde 44/2012 atribuïx a cada òrgan en relació amb el professorat que treballa en diversos centres."
+        },
+        {
+          "type": "nou",
+          "description": "Quadern «Professorat itinerant i amb lloc compartit»: reunix en una sola pàgina el que regulen l'Orde 44/2012, el Decret 80/2025, les instruccions d'inici de curs i de plantilles de 2026-2027, el Decret 57/2020 i els criteris d'assumptes particulars."
+        }
+      ]
+    }
+  },
+  {
     "version": "2.12.1",
     "date": "2026-10-27",
     "entries": {

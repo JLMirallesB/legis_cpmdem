@@ -1,0 +1,308 @@
+{
+  "id": "decreto-80-2025",
+  "slug": "decreto-80-2025",
+  "type": "decreto",
+  "number": "80/2025",
+  "date": "2025-06-03",
+  "publishedIn": {
+    "source": "DOGV",
+    "number": "10126",
+    "date": "2025-06-09",
+    "url": "https://dogv.gva.es/es/resultat-dogv?signatura=2025/19882",
+    "pdfUrl": "https://dogv.gva.es/datos/2025/06/09/pdf/2025_19882_es.pdf"
+  },
+  "title": "Decreto 80/2025, de 3 de junio, del Consell, sobre indemnizaciones por razón del servicio y gratificaciones por servicios extraordinarios",
+  "titleShort": "D 80/2025 - Indemnizaciones por razón del servicio",
+  "category": "profesorado",
+  "vigpiracy": {
+    "status": "vigente",
+    "statusLabel": "Vigente",
+    "effectiveDate": "2025-06-10"
+  },
+  "structure": [
+    {
+      "type": "preambulo",
+      "id": "preambulo",
+      "title": "Preámbulo",
+      "content": "La Ley 4/2021, de 16 de abril, de la función pública valenciana regula en su artículo 87.2.d), en calidad de concepto retributivo complementario, las gratificaciones por servicios extraordinarios y en el artículo 89 las indemnizaciones por razón de servicio que puede percibir el personal funcionario en el desarrollo de sus funciones.\n\nEn la Comunitat Valenciana esta materia se regula mediante el Decreto 24/1997, de 11 de febrero, del Gobierno Valenciano, sobre indemnizaciones por razón del servicio y gratificaciones por servicios extraordinarios. Tras más de 25 años de vigencia, y una vez aprobada la Ley 4/2021, de 16 de abril, de la función pública valenciana, e implementada una nueva aplicación informática para la gestión de este tipo de compensaciones económicas, se ha considerado oportuno proceder a su revisión y actualización.\n\nLas principales novedades que incorpora la nueva regulación son:\n\nEn primer lugar, una mejora en el régimen y sistema de compensaciones por asistencias, tanto a los órganos técnicos de selección, como a los cursos de formación y otras colaboraciones formativas, en la medida en que hasta la fecha se venían calificando como gratificaciones por servicios extraordinarios, cuando, conforme a su naturaleza jurídica, deben quedar incluidas entre los supuestos de indemnización por razón de servicio. De esta forma, la normativa autonómica se alinea con la normativa estatal y con la del resto de comunidades autónomas.\n\nEn segundo lugar, el presente Decreto contiene una mejora del régimen jurídico de las gratificaciones por servicios extraordinarios, con el fin de adecuarlo tanto a los requisitos que anualmente establece la ley de presupuestos, como a lo establecido en el Decreto 42/2019, de 22 de marzo, del Consell, de regulación de las condiciones de trabajo del personal funcionario de la Administración de la Generalitat.\n\nFinalmente, en cuanto a la gestión, se avanza en la simplificación de la tramitación y justificación de los gastos originados por las comisiones de servicio, manteniendo, no obstante, el necesario control de legalidad del correspondiente gasto.\n\nEste decreto se adecúa a los principios de buena regulación establecidos en el artículo 129 de la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas. La presente disposición se concibe en virtud del principio de necesidad para armonizar términos con lo dispuesto en la normativa estatal. Asimismo, el avance en la simplificación administrativa y la implantación de nuevas herramientas informáticas de gestión precisa de una actualización de la regulación de las comisiones de servicio y sus autorizaciones.\n\nEn lo que refiere al principio de eficacia, la presente disposición supone un instrumento adecuado para unificar el régimen jurídico de todas las compensaciones que tienen carácter indemnizatorio y de todas las gratificaciones extraordinarias. El decreto responde al principio de proporcionalidad, puesto que comprende la regulación precisa para el desarrollo de los fundamentos recogidos en la normativa vigente en relación con las gratificaciones por servicios extraordinarios e indemnizaciones por razón de servicio. En su redacción se ha seguido, además, el principio de seguridad jurídica, estableciendo una regulación acorde tanto con la normativa básica, como con la de rango autonómico para crear un instrumento jurídico de carácter estable y clarificador que responda, igualmente, al principio de eficiencia, evitando cargas administrativas innecesarias o accesorias y racionalizando con ello la gestión de los recursos públicos.\n\nEs coherente con el marco jurídico vigente, siendo una iniciativa normativa que contiene la regulación imprescindible para desarrollar los artículos 87.2 d) y 89 de la citada Ley 4/2021, de 16 abril, de manera que se complete y concrete su contenido. En virtud del principio de transparencia, en el presente preámbulo se exponen los principales objetivos que persigue esta disposición.\n\nAdemás, en la tramitación del proyecto de decreto se ha contado con la participación de agentes sociales implicados a través de la Mesa general de negociación I (MGN I) y de los correspondientes trámites de consulta pública y de información pública mediante la publicación en el Diari Oficial de la Generalitat Valenciana, observando todos los trámites que regulan, tanto la normativa en materia de procedimiento administrativo común, como el Decreto 24/2009, de 13 de febrero, del Consell sobre la forma, estructura y procedimiento de elaboración de los proyectos normativos de la Generalitat, y, en particular, la normativa en materia de transparencia, acceso a la información pública y buen gobierno, y también la Ley 4/2023, de 13 de abril, de participación ciudadana y fomento del asociacionismo de la Comunitat Valenciana, respetando en igual medida la normativa propia sobre protección de datos de carácter personal.\n\nEn virtud de cuanto antecede, cumplidos los trámites procedimentales previstos en el artículo 43 de la Ley 5/1983, de 30 de diciembre, del Consell y con lo dispuesto en el Decreto 24/2009, de 13 de febrero, del Consell, por el que se regula la forma, estructura y procedimiento de elaboración de los proyectos normativos de la Generalitat, y de acuerdo con lo dispuesto en los artículos 87.2.d) y 89 de la Ley 4/2021, de 16 de abril, de la función pública valenciana, a propuesta conjunta de las personas titulares de las consellerias de Hacienda y Economía y de Justicia y Administración Pública, conforme con el Consell Jurídic Consultiu de la Comunitat Valenciana, y previa deliberación del Consell, en la reunión del día 3 de junio de 2025,"
+    },
+    {
+      "type": "titulo",
+      "id": "titulo-1",
+      "title": "Título I. Ámbito de aplicación y normas generales",
+      "children": [
+        {
+          "type": "articulo",
+          "id": "art-1",
+          "number": "1",
+          "title": "Artículo 1. Objeto y ámbito de aplicación",
+          "content": "1. El presente decreto tiene por objeto regular las indemnizaciones por razón del servicio y las gratificaciones por servicios extraordinarios que le corresponde percibir:\n\na) Al personal funcionario al servicio de la Administración de la Generalitat y de los organismos públicos dependientes de esta.\n\nb) Al personal estatutario y docente al servicio de la administración sanitaria y educativa.\n\nc) Al personal directivo público profesional.\n\nd) A las personas que ocupen puestos de altos cargos del Consell y de la Administración de la Generalitat, así como al personal directivo de su sector público instrumental.\n\ne) Al personal eventual.\n\nf) Al personal al servicio de otras administraciones públicas y de las universidades públicas por las asistencias a órganos técnicos de selección, comisiones de valoración, seminarios, cursos, conferencias u otros supuestos similares y también, por la realización de actividades de investigación y divulgación del conocimiento, así como de publicaciones cuya propiedad intelectual corresponda a la Generalitat, cuando den origen a las indemnizaciones o compensaciones que se regulan en el presente decreto.\n\ng) A las personas ajenas a la Administración de la Generalitat, por su participación en órganos arbitrales y de consumo, colegiados y unipersonales de la misma.\n\n2. Se excluyen de su ámbito de aplicación a la persona titular de la Presidencia de la Generalitat, a las personas titulares de las consellerias y al personal funcionario al servicio de las Instituciones de la Generalitat.\n\n3. Al personal laboral al servicio de la Administración de la Generalitat y de su sector público instrumental se le aplicará lo previsto en el respectivo convenio colectivo, en la normativa específica y, en su caso, en los Acuerdos que se adopten.\n\n4. Las personas físicas que no teniendo la condición de empresarios, ni vinculación jurídica con la Administración de la Generalitat o su sector público instrumental, cuando presten actividades docentes en centros del sector público desarrolladas en forma de cursos de formación o perfeccionamiento del personal al servicio de la Administración de la Generalitat y su sector público instrumental, y por la participación en seminarios, coloquios, mesas redondas, conferencias, colaboraciones o cualquier otro tipo similar de actividad, mediante el régimen de contratación previsto en el artículo 310 de la Ley 9/2017, de 8 de noviembre, de contratos del sector público, les resultará de aplicación lo dispuesto en el presente decreto y percibirán los importes que en concepto de indemnización o compensación se regulan en el mismo.\n\n5. El presente decreto será de aplicación al personal al que se refieren las letras a) y b) del apartado 1 del presente artículo, con independencia de que su relación jurídica con la Generalitat sea temporal o permanente.\n\n6. Al personal dependiente de otras administraciones públicas, que, en virtud de convenio, acuerdo con la administración de origen, o norma que lo prevea, participen en procedimientos de selección de personal o en actividades de formación para la administración del Consell o su sector público instrumental devengará las indemnizaciones por dietas y asistencias reguladas en este decreto."
+        },
+        {
+          "type": "articulo",
+          "id": "art-2",
+          "number": "2",
+          "title": "Artículo 2. Normas generales",
+          "content": "1. Procederá la indemnización en los supuestos siguientes, de acuerdo con las circunstancias, condiciones y límites contenidos en este decreto:\n\na) Comisiones de servicio con derecho a indemnización.\n\nb) Desplazamientos dentro del término municipal por razón de servicio.\n\nc) Traslados por residencia eventual o traslados forzosos de residencia.\n\nd) Asistencia a las sesiones de los órganos técnicos de selección encargados de la ejecución de los procedimientos selectivos, y a la evaluación de los procesos para la selección del personal al servicio de la Administración de la Generalitat, así como a las comisiones de valoración de provisión de puestos de trabajo.\n\ne) Colaboraciones no permanentes ni habituales para actuar en procesos de aprendizaje como moderadores, ponentes, profesores, coordinadores, tutores, miembros de comisiones de evaluación, y también por la participación en todo tipo de jornadas, conferencias, cursos o supuestos similares, ya sean de forma presencial o en línea y siempre que sean organizados por la Generalitat.\n\nf) La realización de actividades de investigación y divulgación de conocimiento en publicaciones, siempre que su propiedad intelectual corresponda a la Generalitat.\n\n2. Procederá la concesión de gratificaciones por servicios extraordinarios, en su condición de conceptos retributivos complementarios, cuando con carácter excepcional, se reconozcan compensaciones económicas como consecuencia de la realización de trabajos extraordinarios, durante el horario y en los supuestos y en las condiciones que se determinan en este decreto.\n\n3. Las cuantías relativas a los conceptos que a continuación se relacionan se fijan en el anexo de este decreto y podrán actualizarse mediante la resolución conjunta de las direcciones generales competentes en materia de función pública y de presupuestos, que se publicará en el Diari Oficial de la Generalitat Valenciana:\n\na) Hospedaje, restauración y otros gastos.\n\nb) Indemnización por kilometraje.\n\nc) Asistencias a órganos técnicos de selección, comisiones de valoración, seminarios, cursos, o supuestos similares.\n\nd) Realización de actividades de investigación y divulgación de conocimiento, así como de publicaciones, cuya propiedad intelectual corresponda a la Generalitat.\n\ne) Localización.\n\nf) Vigilancia y protección.\n\n4. Toda concesión de indemnizaciones o gratificaciones por servicios extraordinarios que no se ajuste, en su cuantía o en sus requisitos, a los preceptos de este decreto se considerará nula, y en ningún caso procederá su pago."
+        }
+      ]
+    },
+    {
+      "type": "titulo",
+      "id": "titulo-2",
+      "title": "Título II. Indemnizaciones por razón de servicio",
+      "children": [
+        {
+          "type": "capitulo",
+          "id": "titulo-2-cap-1",
+          "title": "Capítulo I. Comisiones de servicios con derecho a indemnización y desplazamientos dentro del término municipal",
+          "children": [
+            {
+              "type": "articulo",
+              "id": "art-3",
+              "number": "3",
+              "title": "Artículo 3. Concepto",
+              "content": "1. Son comisiones de servicio con derecho a indemnización los cometidos especiales que, circunstancialmente, se ordenen al personal comprendido en el artículo 1.1 y que deba desempeñar fuera del término municipal correspondiente a la oficina o dependencia en que se desarrollen las actividades del puesto de trabajo habitual.\n\n2. En ningún caso, podrá tener la consideración de comisión de servicio el desplazamiento habitual desde el lugar donde se resida hasta el centro de trabajo donde desempeñe sus funciones, aunque éstos se encuentren en términos municipales distintos.\n\n3. No se considerarán comisiones de servicio con derecho a indemnización aquellos servicios que estén retribuidos o indemnizados por un importe igual o superior a la cuantía de la indemnización que resultaría por aplicación del presente decreto."
+            },
+            {
+              "type": "articulo",
+              "id": "art-4",
+              "number": "4",
+              "title": "Artículo 4. Tipología",
+              "content": "Al objeto de resarcir al personal de los gastos en que incurra con motivo del servicio de acuerdo con los supuestos recogidos en el artículo 2, se podrán percibir las siguientes indemnizaciones:\n\na) Dieta: es la cantidad que se devenga diariamente como consecuencia de los gastos que se originen por la estancia fuera del término municipal en que radique su puesto de trabajo.\n\nb) Gastos de transporte: es la cantidad que se abona por los gastos derivados de la utilización del medio de transporte que se determine en la autorización.\n\nc) Indemnización especial: es la compensación que se otorga por los gastos extraordinarios que impliquen determinadas comisiones o por los daños que sufran los comisionados en sus bienes.\n\nd) Indemnización por residencia eventual: es la cantidad que devengan quienes, por orden superior, tengan que residir en municipio distinto del que constituya su residencia habitual, durante un plazo superior a un mes.\n\ne) Indemnización por traslado forzoso de residencia: es la cantidad que procede percibir para el resarcimiento de los gastos derivados de un cambio de residencia habitual de carácter forzoso."
+            },
+            {
+              "type": "articulo",
+              "id": "art-5",
+              "number": "5",
+              "title": "Artículo 5. Registro, confirmación y justificación de las comisiones de servicio",
+              "content": "1. Las comisiones de servicio con derecho a indemnización se podrán transmitir y ordenar por cualquier vía de comunicación, ya sea esta telemática, por escrito, telefónica u oralmente, sin perjuicio de que deban registrarse y confirmarse obligatoriamente en la aplicación informática desarrollada para la tramitación de las indemnizaciones que se deriven de las mismas.\n\n2. La confirmación de las comisiones de servicio con derecho a indemnización, así como la verificación de los servicios realizados e indemnizaciones asociadas corresponde a las personas titulares de las subsecretarías, de las direcciones generales, de las secretarias generales administrativas, de las direcciones territoriales o de las secretarias territoriales o a las personas responsables de los centros directivos, en función de la dependencia de la persona comisionada, dentro de la organización de la Generalitat.\n\n3. La justificación de las indemnizaciones y su importe se realizará mediante la presentación, por medios electrónicos, de las facturas o justificantes acreditativos de los gastos realizados.\n\n4. En cualquier momento, los órganos responsables podrán solicitar, motivadamente, a las personas interesadas que aporten la documentación justificativa original de los gastos realizados durante la comisión de servicios."
+            },
+            {
+              "type": "articulo",
+              "id": "art-6",
+              "number": "6",
+              "title": "Artículo 6. Anticipo de fondos",
+              "content": "El personal que haya sido comisionado para la realización de un servicio podrá solicitar el adelanto del 80 % del importe estimado de las indemnizaciones que pudieran corresponderle por los conceptos de dietas y gastos de transporte, que se regulan en los artículos 7 y 8 del presente decreto."
+            },
+            {
+              "type": "articulo",
+              "id": "art-7",
+              "number": "7",
+              "title": "Artículo 7. Dietas",
+              "content": "1. Las estancias que originen el devengo de dietas pueden comprender los siguientes subconceptos:\n\na) Hospedaje\n\nb) Restauración\n\nc) Otros gastos\n\n2. La dieta por hospedaje se devengará cuando la estancia fuera del término municipal en que radique su puesto de trabajo conlleve pernocta. Estos gastos se justificarán con las facturas de los establecimientos hoteleros. El importe que se abonará será el efectivamente justificado, con el límite máximo de las cuantías fijadas en el anexo de este decreto.\n\n3. La dieta por restauración sólo se devengará cuando la realización del trabajo exija rebasar el horario de la jornada laboral.\n\nSe devengará por los importes fijados en el anexo de este decreto y en función del día y la hora en que comenzó y finalizó la comisión de servicio:\n\na) Cuando la hora de salida sea anterior a las 15.30 horas y la hora de regreso sea igual o posterior a dicha hora y anterior a las 21.00 horas inclusive, se devengará el 50 % de los gastos de restauración.\n\nb) Cuando la hora de salida sea posterior a las 15.30 horas y la hora de regreso sea posterior a las 21.00 horas, se devengará el 50 % de los gastos de restauración.\n\nc) Cuando la hora de salida sea anterior a las 15.30 horas y la hora de regreso sea posterior a las 21.00, se percibirá el 100 % de los gastos de restauración.\n\nExcepcionalmente, cuando la persona comisionada tenga asignada una jornada laboral ordinaria superior a 9 horas continuadas de trabajo en un mismo día, podrá autorizársele la percepción de dieta por restauración, en el caso de que para realizar las funciones que tenga encomendadas tenga que realizar un desplazamiento fuera del término municipal en el que radique su puesto de trabajo.\n\nPara autorizar la percepción de dietas por restauración al personal de la Administración de la Generalitat que tuviera asignado un horario especial por razón de la actividad o por prestar servicio a turnos, se atenderá a la hora de inicio o finalización de la comisión de servicios en relación con el horario que tenga asignado.\n\n4. El subconcepto otros gastos se devengará por la cuantía que consta en el anexo de este decreto, sin necesidad de justificantes, y comprenderá el conjunto de los gastos que se entienden comúnmente como de difícil justificación.\n\n5. La percepción de dietas no será compatible con el devengo de la indemnización por residencia eventual, sin perjuicio de las producidas por las comisiones de servicio autorizadas desde la misma.\n\n6. Cuando las respectivas Administraciones de las que dependa el personal incluido en el ámbito del presente decreto, tengan suscritos contratos que incluyan en su objeto la prestación del servicio de hospedaje, en los términos previstos en la Ley 9/2017, de 8 de noviembre, de contratos del sector público y se utilice el servicio prestado en virtud de dichos contratos, no se devengará la dieta de hospedaje, que se sustituirá por el pago al contratista del precio de servicio fijado en el contrato."
+            },
+            {
+              "type": "articulo",
+              "id": "art-8",
+              "number": "8",
+              "title": "Artículo 8. Gastos de transporte",
+              "content": "1. Las comisiones de servicios que precisen utilizar un medio de transporte darán derecho a viajar por cuenta de la Generalitat, en el medio de transporte que se determine en la autorización.\n\n2. En los casos en los que la persona comisionada utilice su vehículo particular, la indemnización a percibir será la cantidad que resulte a aplicar a los kilómetros recorridos los precios que se fijan en el anexo.\n\nLa autorización de la comisión de servicios especificará el itinerario más adecuado para la realización del servicio no pudiéndose percibir indemnización alguna por el recorrido que exceda el número de kilómetros determinado en la autorización.\n\nNo serán indemnizables el uso de garaje de aparcamientos, excepto cuando conste expresamente en la autorización correspondiente. Los gastos de peaje en autopista serán indemnizables, previa justificación documental, en el caso de que, por las características del recorrido, lo considere necesario el órgano que designa la comisión y lo hubiera así previsto en la autorización correspondiente.\n\nIndependientemente del número de personas en comisión de servicios, cuando utilicen conjuntamente un vehículo particular, solamente se tendrá derecho a devengar una indemnización por kilometraje."
+            },
+            {
+              "type": "articulo",
+              "id": "art-9",
+              "number": "9",
+              "title": "Artículo 9. Indemnización especial",
+              "content": "1. La cuantía de la indemnización especial será el importe de los gastos extraordinarios que efectivamente se hayan tenido o de los daños realmente sufridos en los bienes de la persona comisionada.\n\n2. El importe a percibir deberá justificarse con las facturas o justificantes acreditativos de los gastos realizados o de los daños sufridos."
+            },
+            {
+              "type": "articulo",
+              "id": "art-10",
+              "number": "10",
+              "title": "Artículo 10. Desplazamientos dentro del término municipal por razón del servicio",
+              "content": "1. El personal al que se refieren las letras a), b), c) d) y e) del artículo 1.1 del presente decreto tiene derecho a ser resarcido de los gastos por los desplazamientos que, según conformidad expresa del órgano directivo competente o similar, se vea obligado a efectuar por razón del servicio dentro del término municipal en el que se desarrollen las actividades del puesto de trabajo.\n\n2. Los desplazamientos, preferentemente, se realizarán en los servicios públicos de transporte regular de viajeros, salvo que el órgano directivo autorice otro medio de transporte.\n\nEn el caso de autorizarse el uso de vehículos particulares u otros medios especiales de transporte en los casos previstos en la normativa en cada momento vigente, la cuantía de las indemnizaciones será para el primero de los supuestos la indemnización por kilometraje, y para el segundo el importe a percibir por gastos de viaje será el realmente gastado y justificado.\n\n3. Excepcionalmente, podrá autorizarse la percepción de dieta por restauración, previa tramitación de la correspondiente comisión de servicios, cuando el tiempo del servicio que se vea obligado a realizar la persona comisionada supere la jornada habitual, de acuerdo con lo previsto en el artículo 7.3 de este decreto."
+            },
+            {
+              "type": "articulo",
+              "id": "art-11",
+              "number": "11",
+              "title": "Artículo 11. Indemnización por residencia eventual",
+              "content": "1. Se entenderán comprendidas en este supuesto las autorizaciones para la asistencia a cursos de capacitación, especialización, ampliación de estudios o perfeccionamiento, cuya duración sea superior a un mes.\n\n2. La percepción de esta indemnización será incompatible con la de los conceptos expresados en el artículo 7 del presente decreto.\n\n3. El importe de esta indemnización será del 80 % del máximo que correspondería percibir por los conceptos de hospedaje y restauración del artículo 7 del presente decreto.\n\n4. La indemnización por residencia eventual será justificada mediante la resolución del órgano competente para autorizar la comisión.\n\n5. El plazo máximo de duración de la residencia eventual será de 6 meses, salvo que la misma vaya vinculada a un curso concreto de capacitación, especialización, ampliación de estudios o perfeccionamiento, en cuyo caso su duración será la del curso al que este asociada la indemnización.\n\n6. Cuando las respectivas Administraciones de las que dependa el personal incluido en el ámbito del presente decreto, tengan suscritos contratos que incluyan en su objeto la prestación del servicio de hospedaje o restauración, en los términos previstos en la Ley 9/2017, de 8 de noviembre, de contratos del sector público y se utilice el servicio prestado en virtud de dichos contratos, no se devengará la dieta de hospedaje/restauración, que se sustituirá por el pago al contratista del precio de servicio fijado en el contrato."
+            },
+            {
+              "type": "articulo",
+              "id": "art-12",
+              "number": "12",
+              "title": "Artículo 12. Indemnización por traslado forzoso de residencia",
+              "content": "1. La indemnización por traslado forzoso de residencia comprenderá los siguientes conceptos, aplicables únicamente al titular y cada miembro de su familia que efectivamente se traslade:\n\na) Gastos de viaje de la persona funcionaria, así como los correspondientes a su cónyuge o pareja de hecho, descendientes y ascendientes que convivan en el domicilio familiar.\n\nb) Tres dietas correspondientes a los subconceptos de hospedaje y restauración a los que se refiere el artículo 7 del presente decreto, para cada una de las personas comprendidas en la letra anterior, sin perjuicio de la indemnización establecida en el apartado 6 del artículo 127 de la Ley 4/2021, de 16 de abril, para los supuestos de cambio de residencia por reasignación de efectivos.\n\nc) El importe de los gastos de transporte de mobiliario y enseres, según el presupuesto previamente aprobado, de acuerdo con lo dispuesto en el artículo 5.2 de este decreto.\n\n2. Los traslados que obedezcan a sanción impuesta al personal funcionario no darán derecho a indemnización."
+            },
+            {
+              "type": "articulo",
+              "id": "art-13",
+              "number": "13",
+              "title": "Artículo 13. Comisiones de servicio en el extranjero",
+              "content": "Los importes de las indemnizaciones por hospedaje, restauración y otros gastos en las comisiones de servicio en el extranjero, serán los establecidos con carácter general por la Administración General del Estado, en función del país correspondiente.\n\nEn todo caso el importe del hospedaje se ajustará a los gastos efectivamente justificados."
+            },
+            {
+              "type": "articulo",
+              "id": "art-14",
+              "number": "14",
+              "title": "Artículo 14. Indemnizaciones de altos cargos del Consell y de la Administración de la Generalitat, así como del personal directivo del sector público instrumental de la Generalitat",
+              "content": "1. Las personas a que se refiere el artículo 1.1.d) de este decreto devengarán las indemnizaciones por hospedaje y restauración por los importes efectivamente realizados y justificados documentalmente, sin que resulten de aplicación las cuantías del anexo a las que se refiere el apartado 3 del artículo 2 de este decreto.\n\n2. Igual criterio se aplicará al personal que, por su cualificación técnica o por la naturaleza de la comisión de servicio, deba acompañarlos."
+            }
+          ]
+        },
+        {
+          "type": "capitulo",
+          "id": "titulo-2-cap-2",
+          "title": "Capítulo II. Asistencias con derecho a indemnización",
+          "children": [
+            {
+              "type": "articulo",
+              "id": "art-15",
+              "number": "15",
+              "title": "Artículo 15. Concepto",
+              "content": "1. Procederá la asistencia con derecho a indemnización en los siguientes supuestos:\n\na) Por la participación en las sesiones de órganos técnicos de selección encargados de la ejecución de los procedimientos selectivos y de la evaluación de las pruebas para la selección del personal incluido en el ámbito subjetivo del presente decreto, así como a las comisiones de valoración de provisión de puestos de trabajo, por el carácter irrenunciable de su nombramiento.\n\nb) Por haber sido nombrado para actuar con carácter no habitual ni permanente en procesos de aprendizaje como moderadores, ponentes, profesores, coordinadores, tutores, miembros de comisiones de evaluación, y también en todo tipo de jornadas, conferencias, cursos o supuestos similares, ya sean de forma presencial o en línea y siempre que sean organizados por la Generalitat.\n\nc) Por la realización con carácter no habitual ni permanente de actividades de investigación y divulgación de conocimiento de publicaciones cuya propiedad intelectual corresponda a la Generalitat.\n\n2. Las indemnizaciones por asistencia, a percibir por las personas a las que se refiere la letra a) del apartado anterior, solo se abonarán cuando las sesiones tengan lugar fuera del horario de la jornada laboral.\n\n3. En ningún caso se podrán percibir, dentro del año natural, en concepto de las asistencias reguladas en el presente artículo, una cantidad superior al 30 % de las retribuciones anuales que correspondan al puesto de trabajo que se desempeña, excluidas las de carácter personal derivadas de la antigüedad.\n\n4. Las indemnizaciones por asistencias son compatibles con el devengo de las dietas y los gastos de transporte establecidos en Capítulo I de este título.\n\n5. Las indemnizaciones por asistencias que tengan lugar en sábado, o en día festivo, se incrementarán en el 50 % de su importe.\n\n6. En todo caso, en la aplicación de este artículo deberán respetarse los criterios y límites establecidos en el artículo 19.b) de la Ley 53/1984, de 26 de diciembre, de Incompatibilidades del personal al servicio de las Administraciones Públicas.\n\n7. Las cantidades devengadas que superen los límites fijados en este capítulo para la percepción de asistencias con derecho de indemnización serán ingresadas directamente en la Tesorería por los centros pagadores."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "titulo",
+      "id": "titulo-3",
+      "title": "Título III. Gratificaciones por servicios extraordinarios",
+      "children": [
+        {
+          "type": "articulo",
+          "id": "art-16",
+          "number": "16",
+          "title": "Artículo 16. Gratificaciones por servicios extraordinarios",
+          "content": "1. Sin perjuicio de lo establecido en los artículos 4.3 y 5.2. del Decreto 42/2019, de 22 de marzo, del Consell, de regulación de las condiciones de trabajo del personal funcionario de la Administración de la Generalitat, las gratificaciones por servicios extraordinarios a las que se refiere el artículo 2.2 de este decreto se podrán reconocer:\n\na) Por la realización de servicios específicos\n\nb) Por la realización de servicios vinculados a horarios relevantes\n\nc) Por la realización de horarios extraordinarios en el desempeño de puestos de trabajo de «conductor/a del president/a», de «conductor/a al servicio directo de miembros del Consell» o de «conductor/a de altos cargos».\n\nd) Por la realización de horarios extraordinarios de puestos de trabajo adscritos a la Presidencia de la Generalitat como consecuencia de la actividad representativa e institucional del president/a de la Generalitat.\n\n2. En todos los casos, la concesión de gratificaciones por servicios extraordinarios será competencia del Consell, a propuesta de la conselleria que resulte afectada, previo informe favorable de la conselleria que tenga asignadas las competencias en materia de hacienda.\n\n3. Salvo en el supuesto previsto en la letra c) del apartado 1, no podrán ser objeto de gratificación los servicios prestados entre las 8 horas y las 21 horas de lunes a viernes. Dichos servicios se sujetarán al régimen de compensación horaria previsto en el artículo 4.3 del Decreto 42/2019, de 22 de marzo, del Consell, de regulación de las condiciones de trabajo del personal funcionario de la Administración de la Generalitat.\n\nExcepcional y motivadamente, previo informe de las consellerias competentes en materia de función pública y hacienda, podrá elevarse al Consell el pago de gratificaciones por los servicios extraordinarios prestados durante dichos horarios."
+        },
+        {
+          "type": "articulo",
+          "id": "art-17",
+          "number": "17",
+          "title": "Artículo 17. Realización de servicios de carácter específico",
+          "content": "1. La realización de servicios de carácter específico podrá compensarse con la concesión de una gratificación por servicios extraordinarios en los siguientes casos:\n\na) Por la localización y, en su caso, realización excepcional del trabajo por determinado personal, fuera de su jornada ordinaria de trabajo, por razones de atención y prevención de emergencias, siniestros y otros acontecimientos de carácter extraordinario e imprevisible.\n\nb) Por la prestación de servicios de especial vigilancia y protección de autoridades y edificios públicos, fuera del horario establecido con carácter general para todo el personal al servicio de la Generalitat.\n\n2. Durante la realización de la jornada en que se exija la localización, el personal no podrá desplazarse a distancias superiores a 50 kilómetros de la localidad en que radique el centro de trabajo correspondiente.\n\nCuando como consecuencia de la localización del personal este tuviera que desplazarse para la realización de servicios de carácter específico, el tiempo empleado en el mismo le será compensado con el correspondiente a su horario habitual, preferentemente en la inmediata jornada laboral ordinaria siguiente a la que sea objeto de localización.\n\n3. Las cuantías de la gratificación por servicios de carácter específico, tanto en los casos de localización excepcional como por la prestación de servicios de especial vigilancia y protección de autoridades y edificios públicos, serán las establecidas en el anexo."
+        },
+        {
+          "type": "articulo",
+          "id": "art-18",
+          "number": "18",
+          "title": "Artículo 18. Gratificaciones por servicios extraordinarios vinculados a horarios relevantes",
+          "content": "1. Se podrán fijar gratificaciones por servicios extraordinarios para aquellos supuestos en que las actividades y servicios a desarrollar para el correcto ejercicio de la competencia asignada exija, por su complejidad cuantitativa o cualitativa, de manera necesaria, una dedicación de carácter extraordinario, que afecte de manera relevante a la jornada de trabajo asignada.\n\nEstas gratificaciones solo podrán concederse cuando deriven de servicios que estén vinculados a una competencia o función atribuida expresamente por norma con rango de ley, y cuyo cumplimiento esté sujeto a plazo legal.\n\nA los solos efectos de determinar que la incidencia en el horario tiene carácter relevante, requisito que debe quedar previamente justificado para su remuneración, el total de las horas realizadas en un mes deberá superar el 20% del cómputo mensual de horas que el personal venga obligado a realizar por su jornada laboral. Superado el citado límite, el total de exceso horario realizado sobre la jornada laboral ordinaria será susceptible de ser remunerado mediante gratificación por servicios extraordinarios o mediante compensación horaria de acuerdo con lo previsto en este artículo.\n\n2. Estas gratificaciones se remunerarán por horas, siendo el precio hora base aquel que resulte de dividir las retribuciones brutas anuales por el número de horas, en cómputo anual, que el personal venga obligado a realizar por su jornada laboral.\n\nDicho precio hora base, incrementado en un ciento por ciento, servirá para el cálculo del abono correspondiente a todas las horas que se realicen entre las 21 y las 8 horas de lunes a viernes, y las horas realizadas en sábado, domingo o festivo.\n\n3. El resto de las horas realizadas, entre lunes y viernes, que excedan de la jornada laboral ordinaria, de acuerdo con lo establecido en el apartado 3 del artículo 16, se sujetarán al régimen de compensación horaria previsto en el Decreto 42/2019, de 22 de marzo, del Consell, de regulación de las condiciones de trabajo del personal funcionario de la Administración de la Generalitat.\n\n4. El expediente deberá incorporar un informe firmado por la persona responsable del centro directivo al que esté adscrito el personal que preste estos servicios extraordinarios, que incluya el visto bueno de la subsecretaria u órgano equivalente, donde deberá quedar debidamente justificado tanto el horario efectivamente realizado por el personal que va a percibir las gratificaciones, como que la actividad de la que traen causa cumple todos y cada uno de los requisitos expresado en este artículo.\n\n5. El derecho a percibir estas gratificaciones se sujetará, en todo caso, a las siguientes limitaciones adicionales:\n\na) Serán incompatibles con el derecho a percibir los componentes del complemento específico de festividad y nocturnidad regulados en el artículo 6 del Decreto 99/1995, de 16 de mayo, del Consell, por el que se reordena el sistema retributivo correspondiente al personal al servicio de la administración del Consell de la Generalitat Valenciana y de las entidades autónomas de ella dependientes.\n\nb) En ningún caso se podrán percibir en concepto de dichas gratificaciones, y dentro del año natural, una cantidad superior al 15 % de las retribuciones anuales que correspondan al puesto de trabajo que se desempeña."
+        },
+        {
+          "type": "articulo",
+          "id": "art-19",
+          "number": "19",
+          "title": "Artículo 19. Gratificación por servicios extraordinarios en el desempeño de determinados puestos de trabajo de «conductor/a»",
+          "content": "1. Se fijan gratificaciones por servicios extraordinarios para aquellos supuestos en que las actividades y servicios a desarrollar para el correcto ejercicio de las competencias asignadas al president/a, a los miembros del Consell y a los altos cargos de la Generalitat, requieran de manera necesaria del personal al servicio de la Generalitat que ocupe puestos de trabajo clasificados como «conductor/a del president/a», «conductor/a al servicio directo de los miembros del Consell» o «conductor/a de altos cargos», una dedicación de carácter extraordinario que afecte a la jornada de trabajo, siempre que esa dedicación extraordinaria no haya podido compensarse por tiempos de descanso y así quede acreditado en el expediente de concesión de la gratificación.\n\n2. Estas gratificaciones se remunerarán por horas, siendo el precio hora base aquel que resulte de dividir las retribuciones brutas anuales por el número de horas, en cómputo anual, que el personal venga obligado a realizar por su jornada laboral.\n\nDicho precio hora base, incrementado, en un ciento por ciento, servirá para el cálculo del abono correspondiente a todas las horas realizadas que supongan exceso de la jornada ordinaria que no hayan podido ser objeto de compensación por tiempos de descanso.\n\n3. El expediente deberá incorporar un informe firmado por la persona responsable del centro directivo al que esté adscrito el personal que preste estos servicios extraordinarios, que incluya el visto bueno de la subsecretaría a la que estén adscritos, donde deberá quedar debidamente justificado tanto el horario efectivamente realizado por el personal que va a percibir las gratificaciones por servicios extraordinarios, como que la actividad de la que traen causa cumple todos y cada uno de los requisitos expresados en este artículo.\n\n4. El derecho a percibir estas gratificaciones se sujetará, en todo caso, a las siguientes limitaciones adicionales:\n\na) Serán incompatibles con el derecho a percibir los componentes del complemento específico de festividad y nocturnidad regulados en el artículo 6 del Decreto 99/1995, de 16 de mayo, del Gobierno Valenciano, por el que se reordena el sistema retributivo correspondiente al personal al servicio de la administración del Consell de la Generalitat Valenciana y de las entidades autónomas de ella dependientes.\n\nb) En ningún caso se podrán percibir en concepto de dichas gratificaciones, y dentro del año natural, una cantidad superior al 25 % de las retribuciones anuales que correspondan al puesto de trabajo que se desempeña."
+        },
+        {
+          "type": "articulo",
+          "id": "art-20",
+          "number": "20",
+          "title": "Artículo 20. Gratificación por servicios extraordinarios por la realización de horarios extraordinarios de puestos de trabajo adscritos a la Presidencia de la Generalitat",
+          "content": "1. Se fijan gratificaciones por servicios extraordinarios para aquellos supuestos en que las actividades y servicios a desarrollar como consecuencia de la actividad representativa e institucional del president/a de la Generalitat, requieran de manera necesaria del personal al servicio de la Generalitat que ocupe puestos adscritos a la Presidencia de la Generalitat una dedicación extraordinaria, siempre que la misma no haya podido compensarse por tiempos de descanso y así quede acreditado el expediente de concesión de la gratificación.\n\n2. Estas gratificaciones se remunerarán por horas, siendo el precio hora base aquel que resulte de dividir las retribuciones brutas anuales por el número de horas, en cómputo anual, que el personal venga obligado a realizar por su jornada laboral.\n\nDicho precio hora base, incrementado en un ciento por ciento, servirá para el cálculo del abono correspondiente a todas las horas que se realicen entre las 21 y las 8 horas de lunes a viernes, y las horas realizadas en sábado, domingo o festivo.\n\n3. El resto de las horas realizadas, entre lunes y viernes, que excedan de la jornada laboral ordinaria, de acuerdo con lo establecido en el apartado 3 del artículo 16, se sujetarán al régimen de compensación horaria previsto en el Decreto 42/2019, de 22 de marzo, del Consell, de regulación de las condiciones de trabajo del personal funcionario de la Administración de la Generalitat.\n\n4. El expediente deberá incorporar un informe firmado por la persona responsable del centro directivo al que esté adscrito el personal que preste estos servicios extraordinarios, que incluya el visto bueno de la subsecretaria u órgano equivalente, donde deberá quedar debidamente justificado tanto el horario efectivamente realizado por el personal que va a percibir las gratificaciones, como que la actividad de la que traen causa cumple todos y cada uno de los requisitos expresado en este artículo.\n\n5. El derecho a percibir estas gratificaciones se sujetará, en todo caso, a las siguientes limitaciones adicionales:\n\na) Serán incompatibles con el derecho a percibir los componentes del complemento específico de festividad y nocturnidad regulados en el artículo 6 del Decreto 99/1995, de 16 de mayo, del Gobierno Valenciano, por el que se reordena el sistema retributivo correspondiente al personal al servicio de la administración del Consell de la Generalitat Valenciana y de las entidades autónomas de ella dependientes.\n\nb) En ningún caso se podrán percibir en concepto de dichas gratificaciones, y dentro del año natural, una cantidad superior al 15 % de las retribuciones anuales que correspondan al puesto de trabajo que se desempeña."
+        }
+      ]
+    },
+    {
+      "type": "disposicion_adicional",
+      "id": "da-1",
+      "number": "primera",
+      "title": "Disposición adicional primera. Del personal laboral",
+      "content": "Las horas extraordinarias del personal laboral que, conforme dispone el II Convenio Colectivo del Personal Laboral al servicio de la Administración de la Generalitat, no puedan ser compensadas mediante descanso dentro de los cuatro meses siguientes a su realización, se abonarán por el importe que resulte de dividir las retribuciones brutas anuales por el número de horas en cómputo anual que el personal venga obligado por su jornada laboral, incrementado en un cien por ciento."
+    },
+    {
+      "type": "disposicion_adicional",
+      "id": "da-2",
+      "number": "segunda",
+      "title": "Disposición adicional segunda. Protección de datos de carácter personal",
+      "content": "1. El tratamiento de datos personales que se realice en cumplimiento de esta norma se ajustará al que se dispone en el régimen jurídico europeo y estatal en materia de protección de datos de carácter personal.\n\n2. Los datos personales que las personas proporcionan a la administración en el ejercicio de los derechos garantizados en la presente norma serán utilizados con las finalidades y los límites previstos en esta."
+    },
+    {
+      "type": "disposicion_adicional",
+      "id": "da-3",
+      "number": "tercera",
+      "title": "Disposición adicional tercera. Carácter supletorio",
+      "content": "El presente Decreto tiene carácter supletorio para todo el personal al servicio de la Generalitat no incluido en su ámbito de aplicación."
+    },
+    {
+      "type": "disposicion_transitoria",
+      "id": "dt-unica",
+      "number": "única",
+      "title": "Disposición transitoria única. Régimen transitorio de los procedimientos",
+      "content": "Los procedimientos ya iniciados antes de la entrada en vigor de este decreto, no les será de aplicación el mismo, rigiéndose por la normativa anterior."
+    },
+    {
+      "type": "disposicion_derogatoria",
+      "id": "dd-unica",
+      "number": "única",
+      "title": "Disposición derogatoria única. Derogación normativa",
+      "content": "Queda derogado el Decreto 24/1997, de 11 de febrero, del Gobierno Valenciano, sobre indemnizaciones por razón del servicio y gratificaciones por servicios extraordinarios, y la normativa dictada en su desarrollo, así como cuantas otras normas reglamentarias contradigan lo establecido en el presente decreto."
+    },
+    {
+      "type": "disposicion_final",
+      "id": "df-1",
+      "number": "primera",
+      "title": "Disposición final primera. Desarrollo normativo",
+      "content": "Se autoriza a los titulares de las consellerias con competencias en materia de hacienda y de función pública para dictar cuantas disposiciones consideren oportunas en orden al desarrollo de este decreto."
+    },
+    {
+      "type": "disposicion_final",
+      "id": "df-2",
+      "number": "segunda",
+      "title": "Disposición final segunda. Entrada en vigor",
+      "content": "El presente decreto entrará en vigor el día siguiente al de su publicación en el Diari Oficial de la Generalitat Valenciana."
+    },
+    {
+      "type": "anexo",
+      "id": "anexo-1",
+      "title": "Anexo",
+      "content": "**A) Hospedaje, restauración y otros gastos.**\n\n– Hospedaje: 65,97 euros/día.\n– Restauración: 37,40 euros/día.\n– Otros gastos: 8,34 euros/día.\n\n**B) Indemnización por kilometraje.**\n\n| Categoría | Importe |\n|---|---|\n| Turismos | 0,26 euros/km |\n| Motocicletas | 0,106 euros/km |\n\n**C) Asistencias**\n\na) A tribunales y comisiones de valoración:\n\n| Puesto | Importe máximo |\n|---|---|\n| Presidente/a y secretario/a | 90 euros /día |\n| Vocales | 78,50 euros /día |\n| Personal colaborador de soporte técnico | 75,00 euros /día |\n| Personal colaborador de soporte administrativo |  |\n| Responsable del centro | 70,00 euros /día |\n| Responsable de aula | 60,00 euros /día |\n| Colaborador/a auxiliar de centro | 55,00 euros /día |\n| Colaborador/a de aula | 50,00 euros /día |\n\nb) Conferencias, ponencias y seminarios:\n\n| Participación | Importe máximo |\n|---|---|\n| Moderador/a | 200 euros/jornada |\n| Conferenciante | 400 euros/conferencia |\n| Ponente | de 250 a 380 euros/ponencia |\n| Participante en mesa redonda | de 100 a 300 euros/ sesión |\n| Personal colaborador | 50 euros/día |\n\nc) Participación en procesos de aprendizaje\n\n– Docencia presencial o en línea: de 90 a 120 euros/hora.\n– Coordinación de actividades formativa (incluidas las masivas en línea): de 300 a 500 euros, en función del número de horas.\n– Tutorización de actividades en línea (3 horas/semana): 300 euros.\n– Participación en Comisión de valoración/evaluación de una actividad formativa: 135 euros/sesión.\n– Elaboración de casos/actividades prácticas, incluyendo propuesta de resolución con criterios de evaluación: de 100 a 300 euros.\n– Elaboración de videos o píldoras audiovisuales por docentes; de 100 a 300 euros.\n– Tutorización de trabajos: 300 euros (5 horas).\n– Tutorización de cursos selectivos derivados de los procesos de acceso a la función pública, 50 euros por colaboración y materia.\n\nd) Actividades de investigación y divulgación del conocimiento\n\n– Dirección Consejo redacción: 400 euros/número\n– Secretaría de Redacción: 800 euros/número\n– Evaluación de artículos y de publicaciones: 150 euros/artículo.\n– Integrantes de órganos colegiados de evaluación de premios/trabajos de investigación: 300 euros/sesión.\n– Participación en grupo de Expertos y de Trabajo: 300 euros/sesión.\n\n**D) Localización**\n\n| Módulo diario | Importe máximo | Importe máximo festivos |\n|---|---|---|\n| Personal del subgrupo A1 | 38,88 euros/día | 46,66 €/día |\n| Personal del subgrupo A2 | 29,15 euros/día | 34,98 €/día |\n| Personal del subgrupo C1 | 25,68 euros/día | 30,82 €/día |\n| Personal del subgrupo C2 y de las agrupaciones profesionales funcionariales | 22,21 euros/día | 26,65 €/día |\n\n**E) Vigilancia y protección**\n\n| Módulo diario | Importe máximo |\n|---|---|\n| Personal de los subgrupos A1 y A2 | 14,58 euros/día |\n| Personal de los subgrupos C1 y C2 y de las agrupaciones profesionales funcionariales | 13,19 euros/día |"
+    }
+  ],
+  "legalAnalysis": {
+    "enactedPursuantTo": [
+      {
+        "title": "Ley 4/2021, de 16 de abril, de la función pública valenciana (arts. 87.2.d y 89)",
+        "relationship": "desarrollo"
+      }
+    ],
+    "priorAffectations": [],
+    "posteriorAffectations": [],
+    "derogations": [
+      {
+        "lawId": "decreto-24-1997",
+        "title": "Decreto 24/1997, de 11 de febrero, del Gobierno Valenciano, sobre indemnizaciones por razón del servicio y gratificaciones por servicios extraordinarios",
+        "type": "deroga"
+      }
+    ],
+    "concordances": [
+      {
+        "lawId": "orden-44-2012",
+        "title": "Orden 44/2012",
+        "description": "Las indemnizaciones del profesorado itinerante y de horario completado en otra localidad (art. 6 de la orden) se rigen por este decreto, que sustituye al Decreto 24/1997 al que remite la orden."
+      }
+    ]
+  },
+  "promulgation": {
+    "place": "València",
+    "date": "2025-06-03",
+    "signatories": [
+      {
+        "name": "Carlos Mazón Guixot",
+        "role": "President de la Generalitat"
+      },
+      {
+        "name": "Ruth María Merino Peña",
+        "role": "Conselleria de Hacienda y Economía"
+      },
+      {
+        "name": "Nuria Martínez Sanchis",
+        "role": "Conselleria de Justicia y Administración Pública"
+      }
+    ]
+  },
+  "scope": "general",
+  "territory": "autonomico",
+  "temporality": {
+    "type": "permanente"
+  },
+  "docType": "normativa"
+}
