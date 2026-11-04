@@ -1,5 +1,39 @@
 [
   {
+    "version": "2.14.0",
+    "date": "2026-11-04",
+    "entries": {
+      "es": [
+        {
+          "type": "nuevo",
+          "description": "Resolución de 20 de noviembre de 2017, con los criterios para clasificar los centros a efectos del complemento de los cargos directivos. En los conservatorios cuenta el alumnado matriculado: categoría A a partir de 1000, B de 500 a 999 y C por debajo de 500. Se reproduce solo lo que afecta a los conservatorios profesionales; el resto del anexo queda señalado como no relativo."
+        },
+        {
+          "type": "nuevo",
+          "description": "Aclaraciones de aplicación de esa resolución: el Acuerdo del Consell de 2008 en que se basa no está publicado, la fecha de referencia de la matrícula no está fijada y un error en la cifra de alumnado solo tiene efectos si cambia la categoría."
+        },
+        {
+          "type": "actualizado",
+          "description": "La ficha del equipo directivo incorpora la retribución de los cargos directivos: el artículo 139.1 de la LOE y los criterios de clasificación de la resolución de 2017."
+        }
+      ],
+      "va": [
+        {
+          "type": "nou",
+          "description": "Resolució de 20 de novembre de 2017, amb els criteris per a classificar els centres a l’efecte del complement dels càrrecs directius. En els conservatoris compta l’alumnat matriculat: categoria A a partir de 1000, B de 500 a 999 i C per davall de 500. Es reprodueix només el que afecta els conservatoris professionals; la resta de l’annex queda assenyalada com a no relativa."
+        },
+        {
+          "type": "nou",
+          "description": "Aclariments d’aplicació d’aquesta resolució: l’Acord del Consell de 2008 en què es basa no està publicat, la data de referència de la matrícula no està fixada i un error en la xifra d’alumnat només té efectes si canvia la categoria."
+        },
+        {
+          "type": "actualitzat",
+          "description": "La fitxa de l’equip directiu incorpora la retribució dels càrrecs directius: l’article 139.1 de la LOE i els criteris de classificació de la resolució de 2017."
+        }
+      ]
+    }
+  },
+  {
     "version": "2.13.0",
     "date": "2026-11-02",
     "entries": {

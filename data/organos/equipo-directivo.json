@@ -18,7 +18,7 @@
     "equipo directivo",
     "equip directiu"
   ],
-  "updatedAt": "2026-08-19",
+  "updatedAt": "2026-11-04",
   "refs": [
     {
       "law": "decreto-104-2018",
@@ -502,6 +502,35 @@
         "va": "5f76cc96"
       },
       "checkedAt": "2026-10-18"
+    },
+    {
+      "law": "ley-organica-2-2006",
+      "article": "art-139",
+      "apartado": "1",
+      "hash": {
+        "es": "1d11900d",
+        "va": "abbc4122"
+      },
+      "checkedAt": "2026-11-04"
+    },
+    {
+      "law": "resolucion-20-11-2017-clasificacion-centros",
+      "article": "anexo-1-sec-1",
+      "apartado": "e",
+      "hash": {
+        "es": "b34a111b",
+        "va": "33228793"
+      },
+      "checkedAt": "2026-11-04"
+    },
+    {
+      "law": "resolucion-20-11-2017-clasificacion-centros",
+      "article": "anexo-1-sec-2",
+      "hash": {
+        "es": "b2a179ab",
+        "va": "b396e9e7"
+      },
+      "checkedAt": "2026-11-04"
     }
   ],
   "discarded": [

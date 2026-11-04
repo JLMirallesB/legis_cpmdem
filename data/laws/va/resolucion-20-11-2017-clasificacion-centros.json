@@ -1,0 +1,117 @@
+{
+  "id": "resolucion-20-11-2017-clasificacion-centros",
+  "slug": "resolucion-20-11-2017-clasificacion-centros",
+  "type": "resolucion",
+  "number": "20/11/2017",
+  "date": "2017-11-20",
+  "publishedIn": {
+    "source": "DOGV",
+    "number": "8178",
+    "date": "2017-11-27",
+    "url": "https://dogv.gva.es/va/resultat-dogv?signatura=2017/10574",
+    "pdfUrl": "https://dogv.gva.es/datos/2017/11/27/pdf/2017_10574.pdf"
+  },
+  "title": "Resolució de 20 de novembre de 2017, del conseller d’Educació, Investigació, Cultura i Esport, per la qual s’especifiquen els criteris d’aplicació de l’Acord del Consell de 12 de desembre de 2008 per a elaborar la classificació, a efectes retributius, dels centres públics docents dependents de la Conselleria d’Educació, Investigació, Cultura i Esport a partir del curs 2016-2017",
+  "titleShort": "Res 20/11/2017 - Classificació de centres a efectes retributius (càrrecs directius)",
+  "category": "profesorado",
+  "vigpiracy": {
+    "status": "vigente",
+    "statusLabel": "Vigent",
+    "effectiveDate": "2017-11-27"
+  },
+  "legalAnalysis": {
+    "enactedPursuantTo": [
+      {
+        "title": "Acord del Consell de 12 de desembre de 2008, pel qual s’incrementa el complement retributiu dels càrrecs directius i s’estableix la classificació dels centres públics docents (no publicat en el DOGV)",
+        "relationship": "desarrollo"
+      },
+      {
+        "title": "Llei 8/1995, de 29 de desembre, de la Generalitat Valenciana, de mesures fiscals, administratives i d’organització de la Generalitat Valenciana",
+        "articles": [
+          "art-1"
+        ],
+        "relationship": "habilitante"
+      },
+      {
+        "title": "Llei 5/1983, de 30 de desembre, del Consell",
+        "articles": [
+          "art-28"
+        ],
+        "relationship": "habilitante"
+      }
+    ],
+    "priorAffectations": [],
+    "posteriorAffectations": [],
+    "derogations": [],
+    "concordances": [
+      {
+        "lawId": "ley-organica-2-2006",
+        "title": "Llei Orgànica 2/2006, de 3 de maig, d’Educació",
+        "description": "Art. 139.1: l’exercici de càrrecs directius es retribueix de manera diferenciada, amb les quanties que fixen les administracions educatives"
+      },
+      {
+        "title": "Resolució de 28 de novembre de 2022, de la consellera d’Educació, Cultura i Esport, per la qual es modifica la Resolució de 15 de maig de 2014 (classificació del curs 2013-2014)",
+        "description": "Executa la Sentència 90/2016 del TSJCV, que va anul·lar la classificació del curs 2012-2013 per no haver-se negociat en Mesa Sectorial; arreplega que la present resolució incorpora els elements d’aquella sentència que continuen vigents"
+      },
+      {
+        "title": "Resolució de 29 d’octubre de 2026, per la qual s’aprova la classificació, a efectes retributius, dels centres públics docents per al curs 2025/2026 (DOGV 10486, 04.11.2026)",
+        "description": "Classificació anual que aplica aquests criteris; el seu annex II arreplega els conservatoris professionals amb la seua categoria i el nombre d’alumnes matriculats"
+      }
+    ]
+  },
+  "promulgation": {
+    "place": "València",
+    "date": "2017-11-20",
+    "signatories": [
+      {
+        "name": "Vicent Marzà Ibáñez",
+        "role": "Conselleria d’Educació"
+      }
+    ]
+  },
+  "scope": "general",
+  "territory": "autonomico",
+  "temporality": {
+    "type": "permanente"
+  },
+  "docType": "normativa",
+  "structure": [
+    {
+      "id": "preambulo",
+      "type": "preambulo",
+      "title": "Preàmbul",
+      "content": "L’Acord del Consell de 12 de desembre de 2008 va aprovar l’increment del complement retributiu del personal docent relacionat amb els càrrecs directius que exerceixen les seues funcions en centres públics dependents de la Conselleria d’Educació, Investigació, Cultura i Esport i va establir una nova classificació dels centres públics docents.\n\nPer tal d’aplicar allò regulat pel dit acord és necessari i oportú establir especificacions que permeten ajustar el contingut de l’acord als centres docents actuals i a la seua distribució d’ensenyaments.\n\nPer tot això, de conformitat amb el que preveu l’article primer de la Llei 8/1995, de 29 de desembre, de la Generalitat Valenciana, de mesures fiscals, administratives i d’organització de la Generalitat Valenciana (DOGV 2657; 31.12.1995), a proposta de la Direcció General de Política Educativa, i en virtut de les facultats conferides per l’article 28 de la Llei 5/1983, de 30 de desembre, del Consell, resolc:"
+    },
+    {
+      "id": "apartado-1",
+      "type": "articulo",
+      "title": "Primer",
+      "content": "Aprovar els criteris per tal d’establir la classificació, a l’efecte d’establir el complement retributiu dels càrrecs directius, dels centres públics docents dependents de la Conselleria d’Educació, Investigació, Cultura i Esport que queden reflectits en l’annex."
+    },
+    {
+      "id": "apartado-2",
+      "type": "articulo",
+      "title": "Segon",
+      "content": "La present resolució produirà efectes des de la classificació corresponent al curs 2016-2017.\n\nDe conformitat amb el que estableixen els articles 112, 123 i 124 de la Llei 39/2015, d’1 d’octubre, del procediment administratiu comú de les administracions públiques i els articles 10, 14 i 46 de la Llei 29/1998, de 13 de juliol, reguladora de la jurisdicció contenciosa administrativa, la present resolució posa fi a la via administrativa, i podrà ser recorreguda potestativament en reposició o bé es podrà interposar de forma directa el recurs contenciós administratiu en els terminis i davant dels òrgans que s’indiquen a continuació:\n\na) El recurs de reposició haurà d’interposar-se davant del conseller d’Educació, Investigació, Cultura i Esport en el termini d’un mes a comptar des de l’endemà de la seua notificació.\n\nb) El recurs contenciós administratiu haurà de plantejar-se davant del Tribunal Superior de Justícia de la Comunitat Valenciana en el termini de dos mesos a comptar des de l’endemà de la seua notificació."
+    },
+    {
+      "id": "anexo-1",
+      "type": "anexo",
+      "title": "Annex. Criteris per tal d’establir la classificació, als efectes del complement retributiu dels càrrecs directius, dels centres públics docents dependents de la Conselleria d’Educació, Investigació, Cultura i Esport",
+      "children": [
+        {
+          "id": "anexo-1-sec-1",
+          "type": "seccion",
+          "title": "1) Determinació de les unitats computables als efectes de classificació dels centres",
+          "content": "[No relatiu a conservatoris professionals de música i dansa - vegeu PDF original]\n\ne) Per als ensenyaments artístics i d’idiomes la catalogació es realitza d’acord amb el nombre d’alumnes matriculats.\n\nf) [No relatiu a conservatoris professionals de música i dansa - vegeu PDF original]\n\ng) D’acord amb la situació normativa establida tant per la Llei 8/2007, de 2 de març, de creació de l’Institut Superior d’Ensenyances Artístiques de la Comunitat Valenciana (DOCV 5466, 08.03.2007), com pel decret pel qual s’aproven els estatuts de l’Institut Superior d’Ensenyances Artístiques de la Comunitat Valenciana (DOGV 6037, 17.06.2009), no correspon establir classificació per als centres que depenen de l’ISEACV."
+        },
+        {
+          "id": "anexo-1-sec-2",
+          "type": "seccion",
+          "title": "2) Recompte de les unitats computables i criteris de classificació",
+          "content": "Determinades les unitats computables, els criteris de classificació són els establits en l’Acord del Consell, de 12 de desembre de 2008:\n\n[No relatiu a conservatoris professionals de música i dansa - vegeu PDF original]\n\n– Centres que imparteixen ensenyaments artístics, ensenyaments d’Idiomes i el segon nivell del Cicle II d’ensenyaments d’Educació de Persones Adultes:\n\n| Alumnes matriculats | Classificació |\n|---|---|\n| A partir de 1000 | A |\n| De 500 a 999 | B |\n| Menys de 500 | C |\n\nLa retribució dels càrrecs directius d’aquests centres vindrà donada pel que s’estableix en el quadre de retribucions mensuals de càrrecs directius de centres públics d’Educació Secundària."
+        }
+      ]
+    }
+  ]
+}

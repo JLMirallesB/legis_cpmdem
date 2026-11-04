@@ -1,0 +1,117 @@
+{
+  "id": "resolucion-20-11-2017-clasificacion-centros",
+  "slug": "resolucion-20-11-2017-clasificacion-centros",
+  "type": "resolucion",
+  "number": "20/11/2017",
+  "date": "2017-11-20",
+  "publishedIn": {
+    "source": "DOGV",
+    "number": "8178",
+    "date": "2017-11-27",
+    "url": "https://dogv.gva.es/es/resultat-dogv?signatura=2017/10574",
+    "pdfUrl": "https://dogv.gva.es/datos/2017/11/27/pdf/2017_10574.pdf"
+  },
+  "title": "Resolución de 20 de noviembre de 2017, del conseller de Educación, Investigación, Cultura y Deporte, por la que se especifican los criterios de aplicación del Acuerdo del Consell de 12 de diciembre de 2008 para elaborar la clasificación, a efectos retributivos, de los centros públicos docentes dependientes de la Conselleria de Educación, Investigación, Cultura y Deporte a partir del curso 2016-2017",
+  "titleShort": "Res 20/11/2017 - Clasificación de centros a efectos retributivos (cargos directivos)",
+  "category": "profesorado",
+  "vigpiracy": {
+    "status": "vigente",
+    "statusLabel": "Vigente",
+    "effectiveDate": "2017-11-27"
+  },
+  "legalAnalysis": {
+    "enactedPursuantTo": [
+      {
+        "title": "Acuerdo del Consell de 12 de diciembre de 2008, por el que se incrementa el complemento retributivo de los cargos directivos y se establece la clasificación de los centros públicos docentes (no publicado en el DOGV)",
+        "relationship": "desarrollo"
+      },
+      {
+        "title": "Ley 8/1995, de 29 de diciembre, de la Generalitat Valenciana, de medidas fiscales, administrativas y de organización de la Generalitat Valenciana",
+        "articles": [
+          "art-1"
+        ],
+        "relationship": "habilitante"
+      },
+      {
+        "title": "Ley 5/1983, de 30 de diciembre, del Consell",
+        "articles": [
+          "art-28"
+        ],
+        "relationship": "habilitante"
+      }
+    ],
+    "priorAffectations": [],
+    "posteriorAffectations": [],
+    "derogations": [],
+    "concordances": [
+      {
+        "lawId": "ley-organica-2-2006",
+        "title": "Ley Orgánica 2/2006, de 3 de mayo, de Educación",
+        "description": "Art. 139.1: el ejercicio de cargos directivos se retribuye de forma diferenciada, con las cuantías que fijen las Administraciones educativas"
+      },
+      {
+        "title": "Resolución de 28 de noviembre de 2022, de la consellera de Educación, Cultura y Deporte, por la cual se modifica la Resolución de 15 de mayo de 2014 (clasificación del curso 2013-2014)",
+        "description": "Ejecuta la Sentencia 90/2016 del TSJCV, que anuló la clasificación del curso 2012-2013 por no haberse negociado en Mesa Sectorial; recoge que la presente resolución incorpora los elementos de esa sentencia que siguen vigentes"
+      },
+      {
+        "title": "Resolución de 29 de octubre de 2026, por la que se aprueba la clasificación, a efectos retributivos, de los centros públicos docentes para el curso 2025/2026 (DOGV 10486, 04.11.2026)",
+        "description": "Clasificación anual que aplica estos criterios; su anexo II recoge los conservatorios profesionales con su categoría y el número de alumnos matriculados"
+      }
+    ]
+  },
+  "promulgation": {
+    "place": "València",
+    "date": "2017-11-20",
+    "signatories": [
+      {
+        "name": "Vicent Marzà Ibáñez",
+        "role": "Conselleria de Educación"
+      }
+    ]
+  },
+  "scope": "general",
+  "territory": "autonomico",
+  "temporality": {
+    "type": "permanente"
+  },
+  "docType": "normativa",
+  "structure": [
+    {
+      "id": "preambulo",
+      "type": "preambulo",
+      "title": "Preámbulo",
+      "content": "El Acuerdo del Consell de 12 de diciembre de 2008 aprobó el incremento del complemento retributivo del personal docente relacionado con los cargos directivos que ejercen sus funciones en centros públicos dependientes de la Conselleria de Educación, Investigación, Cultura y Deporte y estableció una nueva clasificación de los centros públicos docentes.\n\nPara aplicar lo regulado por dicho acuerdo es necesario y oportuno establecer especificaciones que permitan ajustar el contenido del acuerdo a los centros docentes actuales y a su distribución de enseñanzas.\n\nPor todo ello, de conformidad con lo previsto el artículo primero de la Ley 8/1995, de 29 de diciembre, de la Generalitat Valenciana, de medidas fiscales, administrativas y de organización de la Generalitat Valenciana (DOGV 2657; 31.12.1995), a propuesta de la Dirección General de Política Educativa, y en virtud de las facultades conferidas por el artículo 28 de la Ley 5/1983, de 30 de diciembre, del Consell, resuelvo:"
+    },
+    {
+      "id": "apartado-1",
+      "type": "articulo",
+      "title": "Primero",
+      "content": "Aprobar los criterios para establecer la clasificación, al efecto de establecer el complemento retributivo de los cargos directivos, de los centros públicos docentes dependientes de la Conselleria de Educación, Investigación, Cultura y Deporte que quedan reflejados en el anexo."
+    },
+    {
+      "id": "apartado-2",
+      "type": "articulo",
+      "title": "Segundo",
+      "content": "La presente resolución producirá efectos desde la clasificación correspondiente al curso 2016-2017.\n\nDe conformidad con lo que establecen los artículos 112, 123 y 124 de la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas y en los artículos 10, 14 y 46 de la Ley 29/1998, de 13 de julio, reguladora de la jurisdicción contencioso-administrativa, la presente resolución pone fin a la vía administrativa, pudiendo ser recurrida potestativamente en reposición o bien se podrá interponer de forma directa el recurso contencioso-administrativo en los plazos y ante los órganos que se indican a continuación:\n\na) El recurso de reposición deberá interponerse ante el conseller de Educación, Investigación, Cultura y Deporte en el plazo de un mes a contar desde el día siguiente al de su notificación.\n\nb) El recurso contencioso-administrativo deberá plantearse ante el Tribunal Superior de Justícia de la Comunitat Valenciana en el plazo de dos meses a contar desde el día siguiente al de su notificación."
+    },
+    {
+      "id": "anexo-1",
+      "type": "anexo",
+      "title": "Anexo. Criterios para establecer la clasificación, a los efectos del complemento retributivo de los cargos directivos, de los centros públicos docentes dependientes de la Conselleria de Educación, Investigación, Cultura y Deporte",
+      "children": [
+        {
+          "id": "anexo-1-sec-1",
+          "type": "seccion",
+          "title": "1) Determinación de las unidades computables a los efectos de clasificación de los centros",
+          "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]\n\ne) Para las enseñanzas artísticas y de idiomas la catalogación se realiza de acuerdo con el número de alumnos matriculados.\n\nf) [No relativo a conservatorios profesionales de música y danza - ver PDF original]\n\ng) De acuerdo con la situación normativa establecida tanto por la Ley 8/2007, de 2 de marzo, de creación del Instituto Superior de Enseñanzas Artísticas de la Comunitat Valenciana (DOCV 5466, 08.03.2007), como por el Decreto por el que se aprueban los estatutos del Instituto Superior de Enseñanzas Artísticas de la Comunitat Valenciana (DOCV 6037, 17.06.2009), no corresponde establecer clasificación para los centros que dependen del ISEACV."
+        },
+        {
+          "id": "anexo-1-sec-2",
+          "type": "seccion",
+          "title": "2) Recuento de las unidades computables y criterios de clasificación",
+          "content": "Determinadas las unidades computables, los criterios de clasificación son los establecidos en el Acuerdo del Consell, de 12 de diciembre de 2008:\n\n[No relativo a conservatorios profesionales de música y danza - ver PDF original]\n\n– Centros que imparten enseñanzas artísticas, enseñanzas de Idiomas y el segundo nivel del Ciclo II de enseñanzas de Educación de Personas Adultas:\n\n| Alumnos matriculados | Clasificación |\n|---|---|\n| A partir de 1000 | A |\n| De 500 a 999 | B |\n| Menos de 500 | C |\n\nLa retribución de los cargos directivos de estos centros vendrá dada por lo que se establece en el cuadro de retribuciones mensuales de cargos directivos de centros públicos de Educación Secundaria."
+        }
+      ]
+    }
+  ]
+}

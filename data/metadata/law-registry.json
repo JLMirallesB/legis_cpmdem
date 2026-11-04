@@ -602,6 +602,13 @@
       "status": "ingested",
       "category": "profesorado",
       "notes": "DOGV 10126 (09/06/2025), PDF separado por idioma. Preámbulo + 20 arts (3 títulos; el II con 2 capítulos) + 3 DA + DT + DD + 2 DF + anexo de cuantías (tablas en markdown; 0,26 €/km en turismo). Norma general del personal de la Generalitat, ingestada entera; aplica al personal docente (art. 1.1.b). Deroga el D. 24/1997, al que remite la Orden 44/2012. En octubre de 2025 Hacienda abrió una consulta previa para modificarlo; sin publicar a 02/11/2026."
+    },
+    {
+      "slug": "resolucion-20-11-2017-clasificacion-centros",
+      "title": "Resolución 20/11/2017 - Criterios de clasificación de centros a efectos retributivos (cargos directivos)",
+      "status": "ingested",
+      "category": "profesorado",
+      "notes": "DOGV 8178 (27/11/2017), 2017/10574, PDF bilingüe a dos columnas. Fija los criterios de aplicación del Acuerdo del Consell de 12/12/2008 (no publicado). Ingesta parcial: preámbulo, primero, segundo y del anexo solo 1.e (enseñanzas artísticas por alumnos matriculados), 1.g (ISEACV sin clasificación) y la tabla de 2) para enseñanzas artísticas (A ≥1000, B 500-999, C <500); el resto con la nota de no relativo. Sin modificaciones conocidas a 04/11/2026 (sección II: el DOGV no registra análisis jurídico). Las clasificaciones anuales (p. ej. la de 29/10/2026 para 2025-2026) no se ingestan."
     }
   ]
 }
