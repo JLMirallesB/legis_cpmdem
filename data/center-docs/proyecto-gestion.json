@@ -1,0 +1,328 @@
+{
+  "id": "proyecto-gestion",
+  "slug": "proyecto-gestion",
+  "order": 10,
+  "short": {
+    "es": "Proyecto de gestión",
+    "va": "Projecte de gestió"
+  },
+  "title": {
+    "es": "Proyecto de gestión",
+    "va": "Projecte de gestió"
+  },
+  "description": {
+    "es": "Cómo ordena el conservatorio sus recursos materiales y humanos: presupuesto, ingresos, inventario, cuenta de gestión, conservación de las instalaciones y plan de sostenibilidad.",
+    "va": "Com ordena el conservatori els seus recursos materials i humans: pressupost, ingressos, inventari, compte de gestió, conservació de les instal·lacions i pla de sostenibilitat."
+  },
+  "terms": [
+    "proyecto de gestión",
+    "projecte de gestió",
+    "plan de sostenibilidad",
+    "pla de sostenibilitat"
+  ],
+  "updatedAt": "2026-11-05",
+  "refs": [
+    {
+      "law": "ley-organica-2-2006",
+      "article": "art-120",
+      "apartado": "2",
+      "note": "Autonomía para elaborarlo, aprobarlo y ejecutarlo",
+      "hash": {
+        "es": "b83b89ca",
+        "va": "b83b89ca"
+      },
+      "checkedAt": "2026-11-05"
+    },
+    {
+      "law": "ley-organica-2-2006",
+      "article": "art-123",
+      "apartado": "4",
+      "note": "Qué expresa: la ordenación y utilización de los recursos",
+      "hash": {
+        "es": "a6b621dd",
+        "va": "a6b621dd"
+      },
+      "checkedAt": "2026-11-05"
+    },
+    {
+      "law": "decreto-57-2020",
+      "article": "art-51",
+      "apartado": "1",
+      "note": "Qué recoge: los recursos materiales y humanos del conservatorio",
+      "hash": {
+        "es": "1b122ec6",
+        "va": "d4c36c11"
+      },
+      "checkedAt": "2026-11-05"
+    },
+    {
+      "law": "decreto-57-2020",
+      "article": "art-51",
+      "apartado": "3",
+      "note": "Contenido mínimo",
+      "hash": {
+        "es": "b5b75b8a",
+        "va": "f357a29b"
+      },
+      "checkedAt": "2026-11-05"
+    },
+    {
+      "law": "decreto-57-2020",
+      "article": "art-51",
+      "apartado": "9",
+      "note": "Presupuestos y cuentas de gestión forman parte de él",
+      "hash": {
+        "es": "d8a3ddcb",
+        "va": "8724a7ae"
+      },
+      "checkedAt": "2026-11-05"
+    },
+    {
+      "law": "decreto-57-2020",
+      "article": "art-51",
+      "apartado": "2",
+      "note": "Autonomía de gestión económica y coherencia con el PEC y la PGA",
+      "hash": {
+        "es": "e9ea46eb",
+        "va": "8f562ffc"
+      },
+      "checkedAt": "2026-11-05"
+    },
+    {
+      "law": "decreto-57-2020",
+      "article": "art-51",
+      "apartado": "8",
+      "note": "El consejo escolar aprueba el presupuesto y justifica la cuenta de gestión",
+      "hash": {
+        "es": "4bf99a7c",
+        "va": "81fefda9"
+      },
+      "checkedAt": "2026-11-05"
+    },
+    {
+      "law": "decreto-57-2020",
+      "article": "art-49",
+      "apartado": "1",
+      "note": "Forma parte del plan de centro",
+      "hash": {
+        "es": "0ac99c41",
+        "va": "3e006bba"
+      },
+      "checkedAt": "2026-11-05"
+    },
+    {
+      "law": "decreto-57-2020",
+      "article": "art-49",
+      "apartado": "2",
+      "note": "Aprobación: la dirección, con informe del consejo escolar, como parte del plan de centro",
+      "hash": {
+        "es": "023879a5",
+        "va": "a1819e91"
+      },
+      "checkedAt": "2026-11-05"
+    },
+    {
+      "law": "decreto-57-2020",
+      "article": "art-48",
+      "apartado": "2",
+      "note": "Autonomía para definirlo",
+      "hash": {
+        "es": "738b0c25",
+        "va": "6845209f"
+      },
+      "checkedAt": "2026-11-05"
+    },
+    {
+      "law": "decreto-252-2019",
+      "article": "art-82",
+      "note": "Plan de sostenibilidad: forma parte del proyecto de gestión. Supletorio en conservatorios (DT 2.ª del mismo decreto)",
+      "hash": {
+        "es": "153b8f39",
+        "va": "7e27abcf"
+      },
+      "checkedAt": "2026-11-05"
+    },
+    {
+      "law": "guia-plan-sostenibilidad",
+      "article": "sec-2",
+      "note": "Plan de sostenibilidad: diagnóstico inicial y quién lo prepara",
+      "hash": {
+        "es": "b4244842",
+        "va": "04e9d8a8"
+      },
+      "checkedAt": "2026-11-05"
+    },
+    {
+      "law": "guia-plan-sostenibilidad",
+      "article": "sec-3",
+      "note": "Plan de sostenibilidad: plan de acción, ejes y ficha de cada acción",
+      "hash": {
+        "es": "74055b6d",
+        "va": "fa3a04c9"
+      },
+      "checkedAt": "2026-11-05"
+    },
+    {
+      "law": "guia-plan-sostenibilidad",
+      "article": "sec-4",
+      "note": "Plan de sostenibilidad: aprobación y difusión",
+      "hash": {
+        "es": "27f0c762",
+        "va": "1634c48b"
+      },
+      "checkedAt": "2026-11-05"
+    },
+    {
+      "law": "guia-plan-sostenibilidad",
+      "article": "sec-5",
+      "note": "Plan de sostenibilidad: seguimiento con indicadores",
+      "hash": {
+        "es": "c3bdf28e",
+        "va": "bc5f09dd"
+      },
+      "checkedAt": "2026-11-05"
+    },
+    {
+      "law": "resolucion-inicio-curso-2026-2027",
+      "article": "anexo-2-1",
+      "apartado": "1",
+      "hash": {
+        "es": "1b122ec6",
+        "va": "9a294e6e"
+      },
+      "checkedAt": "2026-11-05"
+    },
+    {
+      "law": "resolucion-inicio-curso-2026-2027",
+      "article": "anexo-2-1",
+      "apartado": "2",
+      "note": "Autonomía de gestión económica y coherencia con el PEC y la PGA",
+      "hash": {
+        "es": "7d44b134",
+        "va": "68af8c35"
+      },
+      "checkedAt": "2026-11-05"
+    },
+    {
+      "law": "resolucion-inicio-curso-2026-2027",
+      "article": "anexo-2-1",
+      "apartado": "4",
+      "note": "Contenido mínimo este curso",
+      "hash": {
+        "es": "bd4a4cac",
+        "va": "37650bf6"
+      },
+      "checkedAt": "2026-11-05"
+    },
+    {
+      "law": "resolucion-inicio-curso-2026-2027",
+      "article": "anexo-2-2",
+      "apartado": "2.2.2",
+      "note": "Plazo para adaptarlo: final del curso 2026-2027",
+      "hash": {
+        "es": "5967ba3d",
+        "va": "c0ceab15"
+      },
+      "checkedAt": "2026-11-05"
+    },
+    {
+      "law": "resolucion-inicio-curso-2026-2027",
+      "article": "anexo-2-2",
+      "apartado": "2.2.4",
+      "note": "Presupuesto: aprobación por el consejo escolar antes del 30 de enero",
+      "hash": {
+        "es": "9c57fc5d",
+        "va": "2deb0f0a"
+      },
+      "checkedAt": "2026-11-05"
+    },
+    {
+      "law": "resolucion-inicio-curso-2026-2027",
+      "article": "anexo-2-2",
+      "apartado": "2.2.7",
+      "note": "Plan de sostenibilidad: incluido en el proyecto de gestión, revisable este curso",
+      "hash": {
+        "es": "f092b24c",
+        "va": "6efe6474"
+      },
+      "checkedAt": "2026-11-05"
+    },
+    {
+      "law": "resolucion-inicio-curso-2025-2026",
+      "article": "anexo-2-1",
+      "apartado": "1",
+      "hash": {
+        "es": "1b122ec6",
+        "va": "9a294e6e"
+      },
+      "checkedAt": "2026-11-05"
+    },
+    {
+      "law": "resolucion-inicio-curso-2025-2026",
+      "article": "anexo-2-1",
+      "apartado": "2",
+      "hash": {
+        "es": "7d44b134",
+        "va": "c59ce441"
+      },
+      "checkedAt": "2026-11-05"
+    },
+    {
+      "law": "resolucion-inicio-curso-2025-2026",
+      "article": "anexo-2-1",
+      "apartado": "4",
+      "hash": {
+        "es": "f8904d6c",
+        "va": "c9b3a441"
+      },
+      "checkedAt": "2026-11-05"
+    },
+    {
+      "law": "resolucion-inicio-curso-2025-2026",
+      "article": "anexo-2-2",
+      "apartado": "2.2.2",
+      "hash": {
+        "es": "dfe134f9",
+        "va": "b2d82c51"
+      },
+      "checkedAt": "2026-11-05"
+    },
+    {
+      "law": "resolucion-inicio-curso-2025-2026",
+      "article": "anexo-2-2",
+      "apartado": "2.2.4",
+      "hash": {
+        "es": "5c660301",
+        "va": "540e830d"
+      },
+      "checkedAt": "2026-11-05"
+    },
+    {
+      "law": "resolucion-inicio-curso-2025-2026",
+      "article": "anexo-2-2",
+      "apartado": "2.2.7",
+      "hash": {
+        "es": "af6c7494",
+        "va": "2bfd94dd"
+      },
+      "checkedAt": "2026-11-05"
+    }
+  ],
+  "discarded": [
+    {
+      "law": "ley-1-2024",
+      "article": "*",
+      "reason": "Enseñanzas artísticas superiores: fuera del ámbito de la v1"
+    },
+    {
+      "law": "guia-plan-sostenibilidad",
+      "article": "sec-1",
+      "reason": "Introducción: encuadre (ODS, LOE, decretos de CEIP e IES) sin contenido propio sobre el documento"
+    },
+    {
+      "law": "guia-plan-sostenibilidad",
+      "article": "sec-2-2-1",
+      "reason": "Diagnóstico energético: detalle técnico (certificación energética, Pacto de las Alcaldías); ya cubierto por la ref a la sección 2"
+    }
+  ]
+}

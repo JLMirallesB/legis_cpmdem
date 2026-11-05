@@ -481,7 +481,16 @@
         "relationship": "habilitante"
       }
     ],
-    "priorAffectations": [],
+    "priorAffectations": [
+      {
+        "lawId": "decreto-252-2019",
+        "title": "Decreto 252/2019, de 29 de noviembre, del Consell, de regulación de la organización y el funcionamiento de los centros públicos que imparten enseñanzas de Educación Secundaria Obligatoria, Bachillerato y Formación Profesional",
+        "type": "modifica",
+        "articles": [],
+        "date": "2026-01-07",
+        "description": "La disposición final segunda renombra la coordinación de igualdad y convivencia como coordinación de bienestar y protección"
+      }
+    ],
     "posteriorAffectations": [
       {
         "lawId": "ley-5-2026",

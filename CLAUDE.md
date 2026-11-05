@@ -332,6 +332,25 @@ JSON y comprobarlas** (`curl -o /dev/null -w '%{http_code}' -L`). Las que den
   legal es el que es; no se «arregla» apuntando a otra página. Si la misma
   dirección está mal en ES y en VA, es errata del DOGV, no de la extracción.
 
+**Hipervínculos ocultos.** A veces el PDF muestra un texto y guarda la URL
+detrás: el nombre de un proyecto, el título de un documento o, en el DOGV, solo
+el UUID del fichero («…Universidades: f00905e8-e689-…»). Transcribir solo lo
+visible deja un código suelto o un nombre sin enlace. Se transcribe como
+**enlace markdown**, con el texto visible intacto y la URL del hipervínculo:
+`[f00905e8-e689-3beb-533f-ea76f8b12788](https://ceice.gva.es/…?t=…)`. El
+renderizador lo pinta como enlace (`content-renderer.ts`), el bloque de enlaces
+citados usa el texto visible como nombre salvo que sea un UUID o una URL
+(`cited-links.ts`), y `npm run validate` da error si la URL no es absoluta o
+está partida por un espacio. Si el texto visible ya es una URL, se deja como
+texto plano aunque el hipervínculo apunte a otra parte.
+
+Para sacarlos: `python3 scripts/pdf-hidden-links.py norma.pdf --json
+data/laws/es/{slug}.json` lista los hipervínculos del PDF cuya URL aún no está
+en el JSON, con el texto visible que los lleva (pypdf + `pdftotext -bbox`).
+Las resoluciones de inicio de curso **anteriores a 2026-2027 no se han
+auditado**: la de 2025-2026 tiene al menos media docena de enlaces ocultos
+pendientes (convalidaciones, SPRL-IOPRL-04, delegación de protección de datos…).
+
 No hay que rellenar nada en el JSON para que estos enlaces aparezcan en la
 cabecera de la ley: el bloque plegable «Enlaces citados en el texto» se genera
 en tiempo de compilación (`src/lib/cited-links.ts`). `externalResources` es solo
@@ -366,7 +385,7 @@ corrige a ojo**: se deja como está.
 - Detectar por patrones: bloques de texto corto con nombres de niveles educativos, siglas MECES/EQF mezclados
 - Sustituir por imagen: guardar en `public/images/laws/{slug}-{nombre}.png` y usar markdown `![alt](/legis_cpmdem/images/laws/archivo.png)`
 - `ArticleContent.astro` renderiza `![alt](url)` como `<figure>` con `<img>` y `<figcaption>`
-- `content-renderer.ts` convierte URLs (`https://...`), dominios `www.` y correos en enlaces clicables automáticamente (auto-linking). No hace falta usar markdown de enlaces — ver «URLs escritas dentro del articulado».
+- `content-renderer.ts` convierte URLs (`https://...`), dominios `www.` y correos en enlaces clicables automáticamente (auto-linking). Para URLs escritas no hace falta markdown de enlaces; solo para hipervínculos ocultos — ver «URLs escritas dentro del articulado».
 
 #### Leyes con contenido no relevante para conservatorios
 - Muchas leyes estatales regulan múltiples enseñanzas (ESO, bachillerato, FP, deportivas...)

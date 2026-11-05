@@ -55,6 +55,19 @@ const CORRECTIONS = new Map<string, LinkCorrection>(
 const URL_RE = /(https?:\/\/[^\s<)]+[^\s<).,;:])|(\bwww\.[^\s<)]+[^\s<).,;:])/g;
 
 /**
+ * Hipervínculo oculto transcrito como `[texto visible](url)`. La URL ya la
+ * recoge URL_RE (el paréntesis de cierre la corta); de aquí solo se aprovecha
+ * el texto visible como nombre, que dice más que cualquier segmento de ruta.
+ */
+const MD_LINK_RE = /\[([^\]\n]+)\]\((https?:\/\/[^\s)]+)\)/g;
+
+/** Texto visible que no sirve de nombre: un UUID suelto o la propia dirección */
+function isOpaqueText(text: string): boolean {
+  const t = text.trim();
+  return /^[0-9a-f]{6,}(-[0-9a-f]+)*$/i.test(t) || /^(https?:\/\/|www\.)/i.test(t);
+}
+
+/**
  * Segmentos de ruta que no dicen nada: si la URL acaba en uno de ellos hay que
  * seguir subiendo para encontrar la parte que nombra el recurso.
  */
@@ -176,6 +189,10 @@ export function collectCitedLinks(law: Law, lang: Lang): CitedLink[] {
   for (const node of walk(law.structure ?? [])) {
     const content = node.content ?? node.versions?.[0]?.content;
     if (!content) continue;
+    const visibleText = new Map<string, string>();
+    for (const m of content.matchAll(MD_LINK_RE)) {
+      if (!isOpaqueText(m[1]) && !visibleText.has(m[2])) visibleText.set(m[2], m[1].trim());
+    }
     for (const match of content.matchAll(URL_RE)) {
       const url = match[1] ?? match[2];
       if (seen.has(url)) continue;
@@ -183,7 +200,7 @@ export function collectCitedLinks(law: Law, lang: Lang): CitedLink[] {
       seen.set(url, {
         url,
         href: toHref(url),
-        label: deriveLabel(url),
+        label: visibleText.get(url) ?? deriveLabel(url),
         nodeId: node.id,
         nodeTitle: node.title,
         ...(correction && {

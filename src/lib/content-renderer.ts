@@ -39,9 +39,14 @@ export function mdTableToHtml(block: string): string {
  * Los textos del DOGV escriben las direcciones tal cual, sin marcado, así que
  * lo que no reconozca este regex se queda en texto plano: es el único punto del
  * proyecto donde una dirección se convierte en enlace.
+ *
+ * La excepción es el hipervínculo oculto: el PDF muestra un texto (un nombre de
+ * proyecto, a veces solo el UUID del documento) y guarda la URL detrás. Eso se
+ * transcribe como `[texto visible](https://url)`, y va como primera alternativa
+ * del mismo regex para que el autoenlazado no muerda la URL entre paréntesis.
  */
 const LINKIFY_RE =
-  /(https?:\/\/[^\s<)]+[^\s<).,;:])|(\bwww\.[^\s<)]+[^\s<).,;:])|([^\s<>()[\]{}«»,;:"']+@[a-zA-Z0-9-]+(?:\.[a-zA-Z0-9-]+)+)/g;
+  /\[([^\]\n]+)\]\((https?:\/\/[^\s)]+)\)|(https?:\/\/[^\s<)]+[^\s<).,;:])|(\bwww\.[^\s<)]+[^\s<).,;:])|([^\s<>()[\]{}«»,;:"']+@[a-zA-Z0-9-]+(?:\.[a-zA-Z0-9-]+)+)/g;
 
 function anchor(href: string, label: string): string {
   return `<a href="${href}" target="_blank" rel="noopener noreferrer">${label}</a>`;
@@ -51,7 +56,8 @@ function anchor(href: string, label: string): string {
 export function renderInline(text: string): string {
   return text
     .replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')
-    .replace(LINKIFY_RE, (match, url, bare, mail) => {
+    .replace(LINKIFY_RE, (match, mdText, mdUrl, url, bare, mail) => {
+      if (mdUrl) return anchor(mdUrl, mdText);
       if (url) return anchor(url, url);
       if (bare) return anchor(`https://${bare}`, bare);
       return anchor(`mailto:${mail}`, mail);

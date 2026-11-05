@@ -131,8 +131,23 @@ const BARE_URL_RE = /\bwww\.[^\s<)]+[^\s<).,;:]/g;
 /** Todas las direcciones que aparecen en el articulado, para cotejar erratas */
 const urlsEnElTexto = new Set();
 
+// Hipervínculo oculto transcrito como `[texto visible](url)`: la URL tiene que
+// ser absoluta y cerrar en `)` sin espacios por medio, o el renderizador no lo
+// reconoce y el lector ve el marcado en crudo.
+const MD_LINK_OPEN_RE = /\]\(/g;
+const MD_LINK_OK_RE = /^\]\(https?:\/\/[^\s)]+\)/;
+
 function checkUrls(text, file, where) {
   if (!text) return;
+  for (const match of text.matchAll(MD_LINK_OPEN_RE)) {
+    const rest = text.slice(match.index);
+    // `![alt](/ruta)` es una imagen, no un enlace: va con ruta relativa al sitio
+    const open = text.lastIndexOf('[', match.index);
+    if (open > 0 && text[open - 1] === '!') continue;
+    if (!MD_LINK_OK_RE.test(rest)) {
+      error(file, `${where}: enlace markdown mal formado (URL no absoluta o partida por un espacio): "${text.slice(Math.max(0, match.index - 30), match.index + 60)}…"`);
+    }
+  }
   for (const match of text.matchAll(BARE_URL_RE)) {
     urlsEnElTexto.add(match[0]);
   }

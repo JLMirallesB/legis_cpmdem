@@ -1,0 +1,210 @@
+{
+  "id": "guia-plan-sostenibilidad",
+  "slug": "guia-plan-sostenibilidad",
+  "type": "documento",
+  "number": "",
+  "date": "2024-06-04",
+  "publishedIn": {
+    "source": "CEICE",
+    "number": "",
+    "date": "2024-06-04",
+    "url": "https://ceice.gva.es/documents/161634279/380507814/Plan+Sostenibilidad_CAS..pdf/f00905e8-e689-3beb-533f-ea76f8b12788",
+    "pdfUrl": "https://ceice.gva.es/documents/161634279/380507814/Plan+Sostenibilidad_CAS..pdf/f00905e8-e689-3beb-533f-ea76f8b12788"
+  },
+  "title": "Guía para elaborar el Plan de sostenibilidad de recursos, eficiencia energética y residuos de los centros educativos de la Comunidad Valenciana",
+  "titleShort": "Guía Plan de Sostenibilidad",
+  "category": "organizacion",
+  "vigpiracy": {
+    "status": "vigente",
+    "statusLabel": "Vigente",
+    "effectiveDate": "2024-06-04"
+  },
+  "legalAnalysis": {
+    "enactedPursuantTo": [
+      {
+        "title": "Decreto 252/2019, de 29 de noviembre, del Consell, de regulación de la organización y el funcionamiento de los centros públicos que imparten enseñanzas de Educación Secundaria Obligatoria, Bachillerato y Formación Profesional",
+        "articles": [
+          "art-82"
+        ],
+        "relationship": "desarrollo",
+        "lawId": "decreto-252-2019"
+      },
+      {
+        "title": "Decreto 253/2019, de 29 de noviembre, del Consell, de regulación de la organización y el funcionamiento de los centros públicos que imparten enseñanzas de Educación Infantil o de Educación Primaria",
+        "relationship": "desarrollo"
+      }
+    ],
+    "priorAffectations": [],
+    "posteriorAffectations": [],
+    "derogations": [],
+    "concordances": [
+      {
+        "lawId": "resolucion-inicio-curso-2026-2027",
+        "title": "Instrucciones de inicio de curso 2026-2027 de los conservatorios de Música y Danza",
+        "description": "El apartado 2.2.7 incluye el plan en el proyecto de gestión y enlaza esta guía."
+      },
+      {
+        "lawId": "resolucion-inicio-curso-2025-2026",
+        "title": "Instrucciones de inicio de curso 2025-2026 de los conservatorios de Música y Danza",
+        "description": "El apartado 2.2.7 incluye el plan en el proyecto de gestión y enlaza esta guía."
+      },
+      {
+        "lawId": "decreto-57-2020",
+        "title": "Decreto 57/2020, de 8 de mayo, del Consell, de regulación de la organización y el funcionamiento de los conservatorios profesionales de Música y de Danza",
+        "description": "El artículo 51 regula el proyecto de gestión de los conservatorios, del que forma parte el plan; no lo menciona."
+      }
+    ]
+  },
+  "structure": [
+    {
+      "type": "seccion",
+      "id": "sec-1",
+      "number": "1",
+      "title": "1. Introducción",
+      "content": "Este documento pretende ser una guía para elaborar el plan de sostenibilidad de recursos, eficiencia energética y residuos de los centros educativos de la Comunidad Valenciana, presentando esta iniciativa en la línea de actuaciones que desde la Conselleria de Educación, Universidades y Empleo se están llevando a cabo para afrontar la emergencia climática y ambiental en la que vive nuestra sociedad actualmente.\n\nEl siglo XXI se está enfrentando a grandes retos, fruto de cambios sociales, económicos y medioambientales, los cuales, marcados por las políticas europeas, deben ser afrontados por todas las esferas sociales y públicas, siendo una de ellas la escuela.\n\nLos Objetivos de Desarrollo Sostenible (ODS), fueron creados el 25 de septiembre de 2015 por la Asamblea General de las Naciones Unidas (ONU) para abordar los grandes retos globales a los que se enfrenta nuestra sociedad.\n\nLa Agenda 2030 de Desarrollo Sostenible es una hoja de ruta elaborada para conseguir un objetivo social común: el desarrollo global y humano sostenible. Propone la acción global no solo para el sector gubernamental, sino que también implica y compromete a organizaciones sociales y otros actores que operen a nivel internacional, nacional, regional y local. Como agente socializador que es la escuela, tenemos que formar a los futuros ciudadanos hacia un desarrollo holístico y sostenible.\n\nEn esta línea, la Ley Orgánica 2/2006, de 3 de mayo, de Educación, modificada por la Ley Orgánica 3/2020, de 29 de diciembre, dispone en su artículo 2 que el sistema educativo español se orientará a la consecución de una serie de fines entre los cuales destaca la formación en el desarrollo sostenible. De igual manera, la educación para el desarrollo sostenible se ve reflejada en contenidos sobre las áreas, materias, módulos, y ámbitos de las diferentes enseñanzas desde la educación infantil a la enseñanza de adultos. En este sentido, el Proyecto Educativo de Centro incluirá un tratamiento transversal del desarrollo sostenible en su concreción curricular.\n\nEn la regulación de la organización y el funcionamiento de los centros públicos de Educación Infantil y Primaria (artículo 67 Decreto 253/2019) como en los centros públicos de Educación Secundaria Obligatoria, Bachillerato y Formación Profesional (artículo 82 Decreto 252/2019) dedican un artículo al Plan de Sostenibilidad de recursos, eficacia energética y tratamiento de residuos, en donde se establece que los centros colaborarán con los técnicos de la Administración municipal para su elaboración y que deberá tener el informe favorable del Claustro del profesorado y del Consejo Escolar. De la misma manera, en las instrucciones de inicio de curso de las enseñanzas comentadas para el curso 2023-2024 establecen que los centros dispondrán hasta la finalización del curso 2024-2025, para elaborar, con la colaboración de personal técnico de la Administración municipal, un Plan de Sostenibilidad de recursos, eficacia energética y tratamiento de residuos, que incluirán en su Proyecto de gestión.\n\nPor todo lo anterior, se hace indispensable la elaboración de un plan de sostenibilidad por parte de nuestro centro educativo. El plan debe tener el informe favorable del Claustro y del Consejo Escolar."
+    },
+    {
+      "type": "seccion",
+      "id": "sec-2",
+      "number": "2",
+      "title": "2. Diagnóstico inicial",
+      "content": "Para la elaboración del plan de sostenibilidad de recursos, eficacia energética y residuos debemos partir de un análisis y diagnóstico inicial, que nos permita identificar las fortalezas, las debilidades y los aspectos susceptibles de mejora que presenta nuestro centro educativo en este ámbito.\n\nCon ese fin es conveniente analizar todo aquello que pueda tener importancia: las infraestructuras, los usos, los recursos, las acciones previas realizadas en materia de sostenibilidad, etc.; así como considerar las líneas de acción a nivel municipal/comarcal y recibir el asesoramiento de un técnico municipal.\n\nEsta tarea puede ser realizada por el equipo directivo, los docentes, o bien una comisión de trabajo creada a tal efecto, siendo recomendable también la implicación del alumnado y las familias, ampliando así la participación a toda la comunidad educativa. Esta comisión será responsable de coordinar y supervisar la implementación del plan, así como de fomentar la participación activa de todos los actores involucrados.\n\nEntre las herramientas que pueden resultar útiles para llevar a cabo este diagnóstico inicial se puede hacer uso de cuestionarios (dirigidos al alumnado, a los docentes, a las familias...), análisis DAFO, etc.; así como posibles informes de evaluación energética, ecoauditorías, etc., que se hayan realizado en un plazo reciente.\n\nEntre los aspectos a tener en cuenta para realizar un buen diagnóstico se encuentran:\n\n• Las características del centro educativo y del entorno.\n\n• El análisis de las infraestructuras, los recursos y las acciones realizadas en diferentes ámbitos.\n\n• La búsqueda de sinergias.",
+      "children": [
+        {
+          "type": "seccion",
+          "id": "sec-2-1",
+          "number": "2.1",
+          "title": "2.1 Características del centro educativo y del entorno",
+          "content": "Conocer las características del centro educativo y su situación dentro del contexto físico y sociocultural son elementos claves.\n\nEs importante identificar nuestro centro, si es de régimen público o privado, su titularidad, los niveles educativos que se imparten, el número de alumnado, profesorado...; así como incluir una descripción de las instalaciones. Además, conviene situar el centro educativo en el contexto municipal y/o comarcal."
+        },
+        {
+          "type": "seccion",
+          "id": "sec-2-2",
+          "number": "2.2",
+          "title": "2.2 Análisis de las infraestructuras, los recursos y las acciones realizadas en diferentes ámbitos",
+          "children": [
+            {
+              "type": "seccion",
+              "id": "sec-2-2-1",
+              "number": "2.2.1",
+              "title": "2.2.1 Energía",
+              "content": "El Real Decreto 390/2021, de 1 de junio, por el que se aprueba el procedimiento básico para la certificación de la eficiencia energética de los edificios, incorpora al derecho español la regulación de la certificación de eficiencia energética de edificios prevista en la Directiva (UE) 2018/844 del Parlamento Europeo y del Consejo, de 30 de mayo de 2018.\n\nLa aplicación de este real decreto afecta, entre otros, a los edificios o partes de edificios de los centros educativos de titularidad pública, ya sea municipal o de la Generalitat Valenciana, con una superficie útil superior a 250 m², que deben exhibir en un lugar destacado y bien visible su etiqueta de eficiencia energética tal y como se establece en su artículo 16.\n\nEn esta línea, la Dirección General de Infraestructuras Educativas coordina las actuaciones para realizar el informe de evaluación para la certificación de la eficiencia energética de los centros educativos, titularidad de la Generalitat Valenciana, que está previsto realizarse a lo largo de 2024. Para realizar las auditorías las empresas se han puesto en contacto con las direcciones territoriales para recabar la documentación correspondiente.\n\nEn lo que respecta a los centros educativos de titularidad municipal, corresponde a la administración local la evaluación para la certificación de la eficiencia energética, por lo que se recomienda contactar con un técnico municipal. En este sentido, es conveniente saber si nuestro municipio está adherido a la iniciativa europea [Pacto de las Alcaldías por el Clima y la Energía](https://eu-mayors.ec.europa.eu/es/home),¹ mediante el cual se compromete voluntariamente a implantar los objetivos en materia de clima y energía de la UE, y conocer las actuaciones locales relacionadas que se están llevando a cabo y puedan afectar a nuestro centro.\n\nEl certificado de eficiencia energética asigna a cada edificio una clase energética de eficiencia, que varía desde la clase A (más eficientes) hasta la clase G (menos eficientes). Además, el informe de evaluación para la certificación de la eficiencia energética recoge entre otras cosas, especificaciones y/o recomendaciones técnicas que es recomendable tener en cuenta para diseñar el plan de acción del plan de sostenibilidad, con el ánimo de mejorar la eficiencia energética de nuestro centro educativo.\n\nSi por motivos diversos no disponemos de este informe, para realizar el diagnóstico inicial a nivel energético, es conveniente realizar un inventario detallado de las infraestructuras energéticas del centro educativo (instalación eléctrica, envolvente térmica del edificio, sistema de calefacción y/o refrigeración, grupos de bombeo, sistema de producción de agua caliente sanitaria, etc.) y las condiciones en las que se encuentran, definiendo sus usos actuales mediante mediciones; así como identificar áreas de mejora, a partir de una evaluación energética, en términos de aislamiento, iluminación, climatización y uso de energías renovables. Este inventario se podrá elaborar con la ayuda de los técnicos municipales en el caso de los centros de su titularidad y de las empresas que tengan asignada la contratación de distintas revisiones periódicas obligatorias como por ejemplo de Baja Tensión, Alta Tensión, Climatización, etc., suscritas por la Conselleria de Educación, Universidades y Empleo.\n\n¹ En el siguiente enlace se pueden consultar los municipios adheridos al Pacto de las Alcaldías de la UE por el Clima y la Energía: [Covenant of Mayors - Europe (europa.eu)](https://eu-mayors.ec.europa.eu/es/signatories)"
+            },
+            {
+              "type": "seccion",
+              "id": "sec-2-2-2",
+              "number": "2.2.2",
+              "title": "2.2.2 Residuos",
+              "content": "La producción de residuos es uno de los principales problemas ambientales que afectan a nivel local y global actualmente. Es importante identificar de forma adecuada los tipos de residuos que se generan en nuestro centro educativo, las instalaciones y la gestión que se realiza de los mismos, así como las posibles limitaciones que pueda tener nuestro centro en este ámbito. Asimismo, cabe tener en cuenta si se realizan iniciativas orientadas a la reducción y a potenciar el reciclaje y la reutilización, y a la sensibilización.\n\nEntre los residuos que se generan en un centro educativo se encuentran fundamentalmente restos de materia orgánica, papel y cartón, envases ligeros y vidrio.\n\nSiendo así, en virtud del contrato de limpieza de centros docentes públicos, vigente desde septiembre de 2022, se ha previsto la instalación y la gestión eficiente de contenedores de recogida selectiva. Cada centro cuenta con, al menos, dos contenedores de color azul y dos de color amarillo para la recogida selectiva, además de al menos un contenedor destinado a la recogida de pilas. La retirada de los residuos se realiza de manera diferenciada, asegurando una gestión adecuada y respetuosa con el medio ambiente. Además, la empresa adjudicataria del contrato tiene la obligación de gestionar de manera responsable la recogida selectiva de los residuos generados por sus propias actividades durante la ejecución del contrato. Esto incluye la retirada de embalajes y envases vacíos, que deben ser depositados en los contenedores adecuados o, en su caso, trasladados a un punto limpio u otro sistema autorizado de gestión de residuos.\n\nAdemás, pueden generarse residuos peligrosos, entre los cuáles se encuentran los restos de tóner, fluorescentes, aparatos eléctricos, etc., y dependiendo de las características de nuestro centro, también los generados en laboratorios y talleres. Este tipo de residuos se han de gestionar de forma adecuada para la seguridad de los trabajadores y el alumnado del centro y del medio ambiente. También es importante tener en cuenta los productos que, por su especial peligrosidad (tóxicos, cancerígenos, mutágenos y tóxicos para la reproducción), no se deben utilizar, y que, en caso de existir, deben ser eliminados.\n\nPara la gestión correcta de los residuos con características de peligrosidad generados en los centros educativos se recomienda consultar la [SPRL-IOPRL-14 Instrucción operativa de gestión de residuos peligrosos en centros educativos, del Instituto Valenciano de Seguridad y Salud en el Trabajo](https://prevencio.gva.es/documents/161660390/162707426/SPRL_IOPRL_12+Eliminaci%C3%B3n+de+residuos+peligrosos+en+centros+educativos.pdf/ae8d3800-ebd2-4d08-a2c0-558c2c09e5ee?t=1683527012329)."
+            },
+            {
+              "type": "seccion",
+              "id": "sec-2-2-3",
+              "number": "2.2.3",
+              "title": "2.2.3 Agua",
+              "content": "El agua es un recurso necesario para el desarrollo de la actividad diaria en nuestro centro educativo. Se recomienda realizar una descripción de la instalación de agua existente (servicios y vestuarios, cocina, jardín, laboratorios, etc.) y los usos de consumo, identificando las posibles medidas de gestión sostenible de agua que se estén aplicando y/o distintas iniciativas de sensibilización.\n\nEn este ámbito corresponde no tener en cuenta los aspectos relacionados con el sistema de producción de agua caliente sanitaria, al haber sido incluido en el apartado de energía."
+            },
+            {
+              "type": "seccion",
+              "id": "sec-2-2-4",
+              "number": "2.2.4",
+              "title": "2.2.4 Otros",
+              "content": "Adicionalmente se recomienda incorporar otros aspectos relacionados con el ámbito de la sostenibilidad que pueden resultar de interés.\n\nAsí, es conveniente tener en cuenta aspectos relacionados con la movilidad de la comunidad educativa (medios de transporte utilizados habitualmente por el alumnado, los docentes y las familias; proyectos de caminos escolares seguros, saludables y sostenibles; etc.).\n\nDe igual manera sería recomendable contemplar referencias a la accesibilidad básica dentro del propio centro: si tiene disponibilidad de ascensor, posibles barreras arquitectónicas o de recorridos accesibles dentro del edificio.\n\nAsimismo, resulta fundamental considerar las acciones e iniciativas existentes en nuestro centro educativo en relación con el desarrollo sostenible y el cuidado del medio ambiente (campañas de sensibilización ambiental, celebraciones de días mundiales concretos, huerto escolar, campañas de recogida selectiva de residuos y reciclaje, proyectos de investigación e innovación educativa y/o programas Erasmus+ en el ámbito de la sostenibilidad, pertenencia a colectivos u asociaciones en este ámbito)."
+            }
+          ]
+        },
+        {
+          "type": "seccion",
+          "id": "sec-2-3",
+          "number": "2.3",
+          "title": "2.3 Búsqueda de posibles sinergias",
+          "content": "Es importante tener en cuenta posibles iniciativas y/o colaboraciones a nivel institucional y/o a nivel local/comarcal, vía el ayuntamiento, asociaciones, empresas o incluso con otros centros educativos de la zona. En este sentido el Aprendizaje-servicio puede ser un catalizador pedagógico en el que el alumnado puede participar de manera activa.\n\nSe recomienda contactar con técnicos que nos puedan ofrecer información y asesoramiento sobre las actuaciones en materia de sostenibilidad en las que podamos participar como centro educativo (campañas de educación ambiental, programas de eficiencia energética, programas de reciclaje, etc.)."
+        }
+      ]
+    },
+    {
+      "type": "seccion",
+      "id": "sec-3",
+      "number": "3",
+      "title": "3. Plan de acción",
+      "content": "Una vez conocemos la situación de partida de nuestro centro educativo, hay que definir los objetivos del plan de sostenibilidad de recursos, eficacia energética y residuos.\n\nA partir del diagnóstico inicial podemos identificar las necesidades específicas de nuestro centro en este ámbito y establecer objetivos claros de mejora que permitan abordar dichas necesidades.\n\nEs recomendable diseñar un programa de mantenimiento de nuestras instalaciones e infraestructuras, de acuerdo con la normativa vigente y las instrucciones que se puedan determinar al respecto por parte de la Conselleria de Educación, Universidades y Empleo, que nos permita realizar un mantenimiento adecuado de las mismas.\n\nEl plan de acción debe contemplar la propuesta de actuaciones a desarrollar en nuestra comunidad educativa para alcanzar los objetivos establecidos, teniendo en cuenta los recursos materiales, económicos y personales de los que se dispone y el plazo para llevarlas a cabo.\n\nPueden plantearse acciones sencillas u otras que impliquen un mayor compromiso por parte de la comunidad educativa, incluso acciones de cierta envergadura que se pueden acometer por fases, adaptadas a varios cursos escolares.\n\nSe pueden establecer objetivos y definir acciones específicas en los siguientes ejes de acción:\n\nEJE 1. ÁMBITO PEDAGÓGICO. Ambientalización del currículo. Integración de la sostenibilidad en el sistema educativo.\n\nEJE 2. ÁMBITO ORGANIZATIVO. Acciones para la gestión sostenible del centro. Programa de Tratamiento de residuos. Movilidad. Energía y agua.\n\nEJE 3. ÁMBITO FORMATIVO Y PROFESIONAL. Formación del profesorado en desarrollo sostenible y en materia de tratamiento de residuos.\n\nEJE 4. ÁMBITO SOCIAL. Acciones de participación comunitaria, ciudadana. Comunicación y divulgación.\n\nPara cada una de las acciones propuestas se recomienda definir los siguientes aspectos:\n\n• Descripción de la acción.\n\n• Responsable/s.\n\n• Recursos materiales, económicos y personales para lograr su consecución.\n\n• Plazo para la consecución de la acción.\n\n• Indicador/es de seguimiento.\n\nEn el anexo se ofrecen ejemplos de posibles acciones que pueden proponerse como parte del plan de acción del plan de sostenibilidad de recursos, eficiencia energética y residuos. De igual manera, se puede proponer incluir un cronograma de actuación."
+    },
+    {
+      "type": "seccion",
+      "id": "sec-4",
+      "number": "4",
+      "title": "4. Difusión y comunicación",
+      "content": "El plan de sostenibilidad de recursos, eficacia energética y residuos tiene que ser objeto de difusión y comunicación en toda la comunidad educativa y fuera de ella.\n\nUna vez aprobado por el Claustro y el Consejo Escolar, se propone realizar campañas de sensibilización dirigidas a la comunidad educativa, con el ánimo de generar un impacto positivo en el entorno y promover la participación activa de todos los miembros.\n\nEstas medidas pueden ser implementadas mediante su publicidad en la web del centro y a través de los canales proporcionados por la Administración educativa para su conocimiento en el municipio correspondiente."
+    },
+    {
+      "type": "seccion",
+      "id": "sec-5",
+      "number": "5",
+      "title": "5. Seguimiento y evaluación",
+      "content": "El seguimiento y la evaluación del grado de consecución de cada una de las acciones propuestas en nuestro plan de acción nos permite medir el logro de los objetivos planteados y realizar los ajustes necesarios, si es preciso, para conseguir alcanzarlos.\n\nCon el ánimo de realizar esta evaluación, se propone establecer un sistema de indicadores. Se recomienda vincular cada acción con un indicador y realizar un seguimiento periódico, recogiendo los datos en un informe, así como una evaluación al final del periodo establecido. De este modo, podremos analizar e interpretar fácilmente los resultados, planteando propuestas de mejora para adaptar nuestro plan.\n\nEjemplo.\n\nObjetivo. Renovar los grifos convencionales por temporizados con aireadores para promover el ahorro de agua.\n\nAcción. Instalación de grifos temporizados con aireadores.\n\nIndicador. Número de grifos cambiados.\n\nEl plan de sostenibilidad de recursos, eficacia energética y residuos debe ser un documento vivo que tendrá que actualizarse conforme se vayan cumpliendo los diferentes objetivos. De igual manera, deberá actualizarse a la nueva normativa que vaya surgiendo e incorporar nuevos planes de acciones para que haya una mejora continua en el tiempo."
+    },
+    {
+      "type": "seccion",
+      "id": "sec-6",
+      "number": "6",
+      "title": "6. Webgrafía y recursos",
+      "content": "• Objetivos de Desarrollo Sostenible: https://www.un.org/sustainabledevelopment/es/\n\n• Ley Orgánica 2/2006, de 3 de mayo, de Educación: https://www.boe.es/buscar/pdf/2006/BOE-A-2006-7899-consolidado.pdf\n\n• DECRETO 253/2019, de 29 de noviembre, del Consell, de regulación de la organización y el funcionamiento de los centros públicos que imparten enseñanzas de Educación Infantil o de Educación Primaria: https://dogv.gva.es/datos/2019/12/02/pdf/2019_11482.pdf\n\n• DECRETO 252/2019, de 29 de noviembre, del Consell, de regulación de la organización y el funcionamiento de los centros públicos que imparten enseñanzas de Educación Secundaria Obligatoria, Bachillerato y Formación Profesional: https://dogv.gva.es/datos/2019/12/09/pdf/2019_11616.pdf\n\n• RESOLUCIÓN de 27 de junio de 2023, del secretario autonómico de Educación y Formación Profesional, por la que se aprueban las instrucciones para la organización y el funcionamiento de los centros que imparten Educación Infantil de segundo ciclo y Educación Primaria durante el curso 2023-2024: https://dogv.gva.es/datos/2023/06/30/pdf/2023_7350.pdf\n\n• RESOLUCIÓN de 27 de junio de 2023, del secretario autonómico de Educación y Formación Profesional, por la que se aprueban las instrucciones para la organización y el funcionamiento de los centros que imparten Educación Secundaria Obligatoria y Bachillerato durante el curso 2023-2024: https://dogv.gva.es/datos/2023/06/30/pdf/2023_7359.pdf\n\n• Normativa e instrucciones sobre la contratación de infraestructuras educativas (Instalaciones solares fotovoltaicas, transformación de patios escolares, etc.): https://ceice.gva.es/es/web/contratacion-educacion/normativa-e-instrucciones\n\n• SPRL_IOPRL_12 Eliminación de residuos peligrosos en centros educativos: https://prevencio.gva.es/documents/161660390/162707426/SPRL_IOPRL_12+Eliminaci%C3%B3n+de+residuos+peligrosos+en+centros+educativos.pdf/ae8d3800-ebd2-4d08-a2c0-558c2c09e5ee?t=1683527012329\n\n• Guía FP Sostenible: https://ceice.gva.es/documents/161863064/357533928/FP+sostenible.pdf\n\n• Guía para la elaboración de planes de acción climática en escuelas. SEOBirdLife. Ministerio para la Transición Ecológica y el Reto Demográfico: https://seo.org/wp-content/uploads/2021/08/Guia_Adaptacion_CC_Escuelas_SEO_BirdLife.pdf"
+    },
+    {
+      "type": "anexo",
+      "id": "anexo-1",
+      "number": "7",
+      "title": "7. Anexo. Ejemplos de propuestas para el plan de acción",
+      "children": [
+        {
+          "type": "seccion",
+          "id": "anexo-1-energia",
+          "title": "Eficiencia energética y energías renovables",
+          "content": "Se recomienda establecer metas para mejorar la eficiencia energética y fomentar prácticas de uso eficiente por parte de toda la comunidad educativa.\n\nEn este ámbito se incluyen también las acciones relacionadas con la producción de agua caliente sanitaria, siendo los principales puntos de consumo el gimnasio, para dar servicio a las duchas, la cocina escolar y los aseos en los centros de educación infantil.\n\nLa mejora de la eficiencia energética puede repercutir en una recalificación energética de nuestro centro educativo.\n\nEjemplos:\n\n• Instalación de equipos de iluminación más eficientes, con tecnología LED, en sustitución de luminarias de descarga y equipos fluorescentes.\n\n• Implantación de sistemas de control de la iluminación, tanto en espacios docentes como administrativos, mediante la instalación de elementos de regulación de flujo luminoso, conectados a las luminarias del local, haciendo que estas proporcionen más o menos luminosidad, en función del aporte de luz natural que entra del exterior.\n\n• Incorporación de elementos detectores de presencia en determinados espacios, como los despachos, aseos y pasillos, para el funcionamiento automático del alumbrado, en función de la ocupación de los mismos.\n\n• Implantación de instalaciones fotovoltaicas de autoconsumo para cubrir las necesidades energéticas y/o ahorrar en la factura eléctrica del centro educativo.\n\n• Implantación de calderas de condensación y combustible gas, que cumplan las exigencias del reglamento de instalaciones térmicas en los edificios y con la normativa ErP relativa al diseño ecológico y etiquetado energético, como equipos generadores para la calefacción.\n\n• Instalación de equipos generadores combinados, de alta eficiencia y de bajo nivel sonoro, que de manera simultánea proporcionan tanto la ventilación como la refrigeración en los distintos recintos del centro escolar.\n\n• Instalación de equipos de tecnología de aerotermia para cubrir las necesidades de generación de agua caliente sanitaria, considerados más eficientes, de sencilla instalación y que requieren un mantenimiento mínimo.\n\n• Realización de campañas de concienciación sobre la importancia de ahorrar energía y apagar los dispositivos electrónicos cuando no se utilicen.\n\n• Optimización del consumo de equipos informáticos, fotocopiadoras y otros dispositivos electrónicos, configurando su desconexión automática fuera de la jornada laboral.\n\n• Renovación paulatina de los electrodomésticos del centro educativo y sustitución por otros, a ser posible, de mayor eficiencia energética.\n\n• Instalación de burletes en los bajos de las puertas como medida de mejora del aislamiento.\n\n• Participación en distintas campañas, concursos y/o proyectos de titularidad municipal o de la diputación de Valencia, Castellón o Alicante como: [Proyecto “Mi Centro en Transición”](https://climaienergia.com/oficina/cultura-de-transicio/) (Fundación València Clima i Energia, desarrollado a través de la Oficina de la Energía del Ayuntamiento de Valencia), [Proyecto 50/50](https://www.valencia.es/val/campanyes-municipals/-/content/projecte-50-50-1) (adaptación del Servicio de Emergencia Climática y Transición Ecológica, para el municipio de Valencia de la metodología del Proyecto Euronet 50/50 MAX), Plan de Mejora de Eficiencia Energética del Ayuntamiento de Alicante, Programa 50/50 de la Estrategia Reacciona (diputación), etc."
+        },
+        {
+          "type": "seccion",
+          "id": "anexo-1-residuos",
+          "title": "Gestión de residuos",
+          "content": "Se propone establecer acciones de sensibilización sobre la generación y gestión de residuos y el consumo sostenible de recursos.\n\nEjemplos:\n\n• Fomento de la reducción de residuos mediante la implementación de prácticas como la reutilización de materiales, el uso de productos duraderos y la minimización del consumo de papel y de plásticos de un solo uso.\n\n• Exploración de opciones de compostaje de residuos orgánicos, tanto en espacios exteriores como a través de sistemas de compostaje doméstico.\n\n• Colaboración con entidades externas para la correcta gestión de residuos peligrosos como productos químicos...\n\n• Realización de una campaña de fomento del uso de envases reutilizables entre el alumnado para los almuerzos y/o comidas (botella reutilizable en sustitución de botellas de plástico de agua, uso de fiambreras en sustitución del papel de aluminio, etc.).\n\n• Participación en iniciativas desarrolladas por distintas asociaciones de la Comunidad Valenciana para la recogida de ropa, calzado o complementos (Cáritas, Reciplana, Asociación Proyecto Lázaro, ...), pilas (Ecopilas) o aceite usado (Reciclaceite o SMV).\n\n• Colaboración en el programa gratuito de reciclaje de la empresa Terracycle “Programa de reciclaje gratuito de instrumentos de escritura”.\n\n• Participación en distintas campañas, concursos y/o proyectos organizados por el Centro de Educación Ambiental de la Comunidad Valenciana, Conselleria de Medio Ambiente, Agua, Infraestructuras y Territorio, como: [Proyecto Recicla con los Cinco Sentidos](https://www.reciclaconloscincosentidos.com/) (Talleres para centros educativos y asociaciones), [Concurso “BertoZampapilas”](https://www.bertozampapilas.com/), [Campaña “Cero Residuos”](https://mediambient.gva.es/es/web/ceacv/zero-residus), etc."
+        },
+        {
+          "type": "seccion",
+          "id": "anexo-1-agua",
+          "title": "Gestión del agua",
+          "content": "Se propone abordar acciones con el fin de optimizar el consumo del agua en los centros educativos, promocionar buenas prácticas de consumo y sensibilizar sobre la importancia del recurso hídrico.\n\nEjemplos:\n\n• Instalación de dispositivos de ahorro, como grifería temporizada dotada de elementos economizadores en los rociadores de las duchas, pulsadores dobles para ajustar las descargas de los inodoros...\n\n• Promoción de buenas prácticas de consumo de agua.\n\n• Sensibilización sobre la importancia del recurso hídrico."
+        },
+        {
+          "type": "seccion",
+          "id": "anexo-1-movilidad",
+          "title": "Movilidad sostenible",
+          "content": "Conocer el tamaño de nuestro núcleo urbano y las distancias que tienen que recorrer el alumnado, los trabajadores y las familias para asistir al centro educativo es importante para proponer acciones relacionadas con la movilidad sostenible.\n\nEjemplos:\n\n• Promoción del uso de la bicicleta y/o el patinete y/o acudir andando y/o en transporte público al centro escolar.\n\n• Instalación de aparca bicis en la entrada del centro escolar.\n\n• Creación de rutas escolares seguras.\n\n• Celebración del “Día de la bicicleta” y/o del “Día sin coche”."
+        },
+        {
+          "type": "seccion",
+          "id": "anexo-1-accesibilidad",
+          "title": "Accesibilidad",
+          "content": "Es de relevancia establecer mejoras que favorezcan la accesibilidad eliminando o minimizando las posibles barreras arquitectónicas dentro del centro educativo. Para ello se deben adaptar espacios para mejorar la accesibilidad física, cognitiva y sensorial de cualquier persona de la comunidad educativa.\n\nEjemplos:\n\n• Eliminación de barreras arquitectónicas para garantizar la movilidad de cualquier persona tanto dentro de las aulas del centro como en el resto de sus instalaciones (rampas, ascensores, plataformas salvaescaleras, etc.).\n\n• Adaptación de los materiales y metodologías educativas de modo que sean más comprensibles para todo el alumnado.\n\n• Utilización de vídeos o material gráfico por medio de descripción auditiva o subtítulos para la elaboración de materiales educativos para alumnado con algún tipo de diversidad funcional sensorial que afecten al oído o a la vista."
+        },
+        {
+          "type": "seccion",
+          "id": "anexo-1-consumo",
+          "title": "Consumo de materiales",
+          "content": "Se propone promover acciones con el ánimo de fomentar un consumo racional los distintos recursos que se consumen en nuestro centro educativo (material escolar, alimentos...).\n\nEjemplos:\n\n• Reutilización del material escolar en buenas condiciones.\n\n• Promoción de la compra de materiales con etiqueta ecológica.\n\n• Promover la adquisición de productos del entorno local, siempre respetando los principios de libre comercio establecidos en la normativa europea."
+        },
+        {
+          "type": "seccion",
+          "id": "anexo-1-otros",
+          "title": "Otros",
+          "content": "El plan de acción también puede contemplar actuaciones relacionadas con otros aspectos relacionados con la sensibilización y formación en el ámbito de la protección y el cuidado del medio ambiente, actuaciones en el ámbito pedagógico, participación en redes de centros educativos en el ámbito de la sostenibilidad, etc.\n\nEjemplos:\n\n• Integración de actividades extraescolares y complementarias relacionadas con la sostenibilidad. Estas actividades pueden incluir salidas a entornos naturales, visitas a plantas de reciclaje u otras experiencias educativas que refuercen los conceptos de sostenibilidad y promuevan la conciencia ambiental.\n\n• Desarrollo de recursos didácticos, como libros, material audiovisual y herramientas interactivas, que aborden temáticas relacionadas con la sostenibilidad y el medio ambiente.\n\n• Desarrollo de actividades y eventos que promuevan la conciencia ambiental y la responsabilidad social, como charlas, talleres, exposiciones, ferias educativas...\n\n• Integración de la educación para la sostenibilidad en el currículum.\n\n• Establecimiento de vínculos entre las situaciones de aprendizaje planificadas y las acciones sostenibles relacionadas con la sostenibilidad.\n\n• Implementación de acciones formativas para los miembros de la comunidad educativa en el ámbito de la sostenibilidad (alumnado, docentes, familias, PAS, etc.).\n\n• Creación de espacios verdes en el centro educativo, con jardines o huertos escolares, para promover la conexión con la naturaleza y la educación ambiental.\n\n• Implementación de campañas de alimentación saludable: día de la fruta, etc.\n\n• Creación en la página web del centro educativo de un espacio destinado a la difusión de acciones realizadas relacionadas con la sostenibilidad.\n\n• Participación en distintas campañas, concursos y/o proyectos organizados por la Conselleria de Educación, Universidades y Empleo:\n– Proyectos de Investigación e Innovación Educativa, en el ámbito de la sostenibilidad\n– Programa Guardabosc\n– Programa EduSalut\n– etc.\n\n• Participación en distintas campañas, concursos y/o proyectos organizados por el Centro de Educación Ambiental de la Comunidad Valenciana, Conselleria de Medio Ambiente, Agua, Infraestructuras y Territorio:\n– [Programa CompromesO2](https://mediambient.gva.es/es/web/ceacv/compromes02)\n– Actividades para centros educativos en distintos ámbitos: cambio climático y energías renovables, residuos, agua, patrimonio natural y cultural, huerto, consumo responsable, estrategias escolares de sostenibilidad...\n– Exposiciones en el CEACV y en préstamo.\n– [Educación Ambiental en Ruta (EAR)](https://mediambient.gva.es/es/web/ceacv/educacion-ambiental-en-ruta).\n– [Jornadas de Educación Ambiental](https://mediambient.gva.es/es/web/ceacv/jornadesceacv)\n\n• Participación en distintas campañas, concursos y/o proyectos de titularidad municipal como, por ejemplo:\n– Ayuntamiento de Valencia:\n ▪ [Proyecto “Valencia, que te quiero verde”](https://educacio-valencia.es/iniciem-el-programa-valencia-que-et-vull-verda-als-centres-educatius-de-la-ciutat/), de la Sección de Proyectos Educativos del Servicio de Educación.\n ▪ [Red de Huertos Escolares](https://educacio-valencia.es/es/proyectos/red-de-huertos-escolares-de-la-ciudad-de-valencia/).\n– Ayuntamiento de Alicante:\n ▪ [Programa Escolar de Educación Ambiental](https://www.alicante.es/es/tramites/programa-escolar-educacion-ambiental), organizado por la Concejalía de Medio Ambiente.\n ▪ [Proyecto “La Escuela Sostenible”](https://www.alicante.es/es/contenidos/escuela-sostenible), de la Concejalía de Educación."
+        }
+      ]
+    }
+  ],
+  "scope": "general",
+  "territory": "autonomico",
+  "temporality": {
+    "type": "permanente"
+  },
+  "docType": "documentos"
+}

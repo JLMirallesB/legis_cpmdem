@@ -1,5 +1,55 @@
 [
   {
+    "version": "2.15.0",
+    "date": "2026-11-05",
+    "entries": {
+      "es": [
+        {
+          "type": "nuevo",
+          "description": "Guía para elaborar el Plan de sostenibilidad de recursos, eficiencia energética y residuos (Conselleria, 2024), completa y en las dos lenguas, con los enlaces de su anexo a cada programa y campaña. Es una guía general para todos los centros; las instrucciones de inicio de curso de los conservatorios remiten a ella."
+        },
+        {
+          "type": "nuevo",
+          "description": "Decreto 252/2019, de organización de los institutos de secundaria, solo con lo que alcanza a los conservatorios: el artículo 82 (el plan de sostenibilidad forma parte del proyecto de gestión y necesita informe favorable del claustro y del consejo escolar), el 89 (uso social de los centros, que las instrucciones 2026-2027 declaran supletorio) y la disposición transitoria segunda, que lo hace supletorio para los centros de enseñanzas artísticas en lo que su regulación propia no contemple."
+        },
+        {
+          "type": "nuevo",
+          "description": "Ficha del proyecto de gestión en Documentos de centro: contenido mínimo, aprobación, presupuesto y cuenta de gestión, plazo de adaptación y plan de sostenibilidad, con 27 referencias de 6 normas y la guía."
+        },
+        {
+          "type": "corregido",
+          "description": "Instrucciones de inicio de curso 2026-2027: el enlace a la guía del plan de sostenibilidad, que en el DOGV solo muestra el código del documento, ya lleva a la guía. También enlazan los decretos 252/2019 y 40/2023 y las instrucciones operativas de prevención, como en el PDF."
+        },
+        {
+          "type": "corregido",
+          "description": "Instrucciones de inicio de curso 2025-2026: títulos de apartado que se habían comido el primer párrafo (2.2.2, 2.2.3, 2.2.6, 2.2.7, 7.1.1 y otros, sobre todo en valenciano) y frases partidas en dos por los saltos de página."
+        }
+      ],
+      "va": [
+        {
+          "type": "nou",
+          "description": "Guia per a elaborar el Pla de sostenibilitat de recursos, eficiència energètica i residus (Conselleria, 2024), completa i en les dues llengües, amb els enllaços del seu annex a cada programa i campanya. És una guia general per a tots els centres; les instruccions d’inici de curs dels conservatoris hi remeten."
+        },
+        {
+          "type": "nou",
+          "description": "Decret 252/2019, d’organització dels instituts de secundària, només amb el que arriba als conservatoris: l’article 82 (el pla de sostenibilitat forma part del projecte de gestió i necessita l’informe del claustre i del consell escolar), el 89 (ús social dels centres, que les instruccions 2026-2027 declaren supletori) i la disposició transitòria segona, que el fa supletori per als centres d’ensenyaments artístics en allò que la seua regulació pròpia no preveja."
+        },
+        {
+          "type": "nou",
+          "description": "Fitxa del projecte de gestió en Documents de centre: contingut mínim, aprovació, pressupost i compte de gestió, termini d’adaptació i pla de sostenibilitat, amb 27 referències de 6 normes i la guia."
+        },
+        {
+          "type": "corregit",
+          "description": "Instruccions d’inici de curs 2026-2027: l’enllaç a la guia del pla de sostenibilitat, que en el DOGV només mostra el codi del document, ja porta a la guia. També enllacen els decrets 252/2019 i 40/2023 i les instruccions operatives de prevenció, com en el PDF."
+        },
+        {
+          "type": "corregit",
+          "description": "Instruccions d’inici de curs 2025-2026: títols d’apartat que s’havien menjat el primer paràgraf (2.2.2, 2.2.3, 2.2.6, 2.2.7, 7.1.1 i altres, sobretot en valencià) i frases partides en dues pels salts de pàgina."
+        }
+      ]
+    }
+  },
+  {
     "version": "2.14.0",
     "date": "2026-11-04",
     "entries": {

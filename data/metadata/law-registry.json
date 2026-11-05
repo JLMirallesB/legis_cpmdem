@@ -296,6 +296,20 @@
       "notes": "Primer documento (no normativa). 4 secciones + 3 anexos. Secciones 4.4, Anexo I y Anexo III como PDFs descargables (formModels). Anexo II (indicadores) ingestado como texto. Bilingüe CEICE."
     },
     {
+      "slug": "guia-plan-sostenibilidad",
+      "title": "Guía para elaborar el Plan de sostenibilidad de recursos, eficiencia energética y residuos de los centros educativos",
+      "status": "ingested",
+      "category": "organizacion",
+      "notes": "Documento (no normativa) de la Conselleria, junio de 2024 (fecha del PDF y del ?t= del enlace). Genérica para todos los centros, no específica de Música y Danza: scope general. La enlazan las instrucciones de inicio de curso de conservatorios 2025-26 y 2026-27 (apartado 2.2.7). 6 secciones + anexo con 7 ámbitos como subsecciones. Hipervínculos ocultos del PDF transcritos como [texto](url). Nota al pie 1 (Pacto de las Alcaldías) al final de 2.2.1. Bilingüe CEICE."
+    },
+    {
+      "slug": "decreto-252-2019",
+      "title": "Decreto 252/2019 - Organización y funcionamiento de los centros de ESO, Bachillerato y FP (ROF de secundaria)",
+      "status": "ingested",
+      "category": "organizacion",
+      "notes": "DOGV 8693 (09/12/2019), PDF bilingüe a dos columnas; texto tomado de la API del DOGV y cotejado con el PDF (tres tildes de la versión VA corregidas al PDF). Ingesta parcial con esqueleto completo: íntegros solo art. 82 (plan de sostenibilidad), art. 89 (uso social, declarado supletorio por las instrucciones 2026-27, 3.2.7) y DT 2.ª (aplicación supletoria a los centros de enseñanzas artísticas mientras no tengan regulación específica). El resto con la nota de no relativo. Otros artículos citados en el corpus y pendientes por si se amplía: 31.4 (D.193/2025), 77 y 92 (protocolo de emergencias FMA), 99-100 (PAF). Afectaciones: cap. V derogado por D.72/2021; DF 2.ª del D.193/2025 renombra la coordinación de igualdad y convivencia. Ninguna toca lo reproducido. Ojo: el art. 82.2 ES exige «informe favorable»; el VA solo «l’informe». Scope general, autonómica."
+    },
+    {
       "slug": "decreto-193-2025",
       "title": "Decreto 193/2025 - Convivencia en el sistema educativo de la Comunitat Valenciana",
       "status": "ingested",

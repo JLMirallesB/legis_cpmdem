@@ -481,7 +481,16 @@
         "relationship": "habilitante"
       }
     ],
-    "priorAffectations": [],
+    "priorAffectations": [
+      {
+        "lawId": "decreto-252-2019",
+        "title": "Decret 252/2019, de 29 de novembre, del Consell, de regulació de l’organització i el funcionament dels centres públics que imparteixen ensenyaments d’Educació Secundària Obligatòria, Batxillerat i Formació Professional",
+        "type": "modifica",
+        "articles": [],
+        "date": "2026-01-07",
+        "description": "La disposició final segona canvia el nom de la coordinació d’igualtat i convivència per coordinació de benestar i protecció"
+      }
+    ],
     "posteriorAffectations": [
       {
         "lawId": "ley-5-2026",

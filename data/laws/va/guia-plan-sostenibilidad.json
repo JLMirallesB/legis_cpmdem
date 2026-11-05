@@ -1,0 +1,210 @@
+{
+  "id": "guia-plan-sostenibilidad",
+  "slug": "guia-plan-sostenibilidad",
+  "type": "documento",
+  "number": "",
+  "date": "2024-06-04",
+  "publishedIn": {
+    "source": "CEICE",
+    "number": "",
+    "date": "2024-06-04",
+    "url": "https://ceice.gva.es/documents/161634279/380507814/Plan+Sostenibilidad_VAL.pdf/935b998e-a8fb-51d8-812b-2a855d656c42",
+    "pdfUrl": "https://ceice.gva.es/documents/161634279/380507814/Plan+Sostenibilidad_VAL.pdf/935b998e-a8fb-51d8-812b-2a855d656c42"
+  },
+  "title": "Guia per a elaborar el Pla de sostenibilitat de recursos, eficiència energètica i residus dels centres educatius de la Comunitat Valenciana",
+  "titleShort": "Guia Pla de Sostenibilitat",
+  "category": "organizacion",
+  "vigpiracy": {
+    "status": "vigente",
+    "statusLabel": "Vigent",
+    "effectiveDate": "2024-06-04"
+  },
+  "legalAnalysis": {
+    "enactedPursuantTo": [
+      {
+        "title": "Decret 252/2019, de 29 de novembre, del Consell, de regulació de l’organització i el funcionament dels centres públics que imparteixen ensenyaments d’Educació Secundària Obligatòria, Batxillerat i Formació Professional",
+        "articles": [
+          "art-82"
+        ],
+        "relationship": "desarrollo",
+        "lawId": "decreto-252-2019"
+      },
+      {
+        "title": "Decret 253/2019, de 29 de novembre, del Consell, de regulació de l’organització i el funcionament dels centres públics que imparteixen ensenyaments d’Educació Infantil o d’Educació Primària",
+        "relationship": "desarrollo"
+      }
+    ],
+    "priorAffectations": [],
+    "posteriorAffectations": [],
+    "derogations": [],
+    "concordances": [
+      {
+        "lawId": "resolucion-inicio-curso-2026-2027",
+        "title": "Instruccions d’inici de curs 2026-2027 dels conservatoris de Música i Dansa",
+        "description": "L’apartat 2.2.7 inclou el pla en el projecte de gestió i enllaça aquesta guia."
+      },
+      {
+        "lawId": "resolucion-inicio-curso-2025-2026",
+        "title": "Instruccions d’inici de curs 2025-2026 dels conservatoris de Música i Dansa",
+        "description": "L’apartat 2.2.7 inclou el pla en el projecte de gestió i enllaça aquesta guia."
+      },
+      {
+        "lawId": "decreto-57-2020",
+        "title": "Decret 57/2020, de 8 de maig, del Consell, de regulació de l’organització i el funcionament dels conservatoris professionals de Música i de Dansa",
+        "description": "L’article 51 regula el projecte de gestió dels conservatoris, del qual forma part el pla; no l’esmenta."
+      }
+    ]
+  },
+  "structure": [
+    {
+      "type": "seccion",
+      "id": "sec-1",
+      "number": "1",
+      "title": "1. Introducció",
+      "content": "Este document pretén ser una guia per a elaborar el pla de sostenibilitat de recursos, eficiència energètica i residus dels centres educatius de la Comunitat Valenciana, i presentar esta iniciativa en la línia d’actuacions que des de la Conselleria d’Educació, Universitats i Ocupació s’estan duent a terme per a afrontar l’emergència climàtica i ambiental en la qual viu la nostra societat actualment.\n\nEl segle XXI s’està enfrontant a grans reptes, fruit de canvis socials, econòmics i mediambientals, els quals, marcats per les polítiques europees, han d’afrontar totes les esferes socials i públiques, una d’estes l’escola.\n\nEls Objectius de Desenvolupament Sostenible (ODS) els va crear el 25 de setembre de 2015 l’Assemblea General de les Nacions Unides (ONU) per a abordar els grans reptes globals als quals s’enfronta la nostra societat.\n\nL’Agenda 2030 de Desenvolupament Sostenible és un full de ruta elaborat per a aconseguir un objectiu social comú: el desenvolupament global i humà sostenible. Proposa l’acció global no només per al sector governamental, sinó que també implica i compromet organitzacions socials i altres actors que operen a escala internacional, nacional, regional i local. Com a agent socialitzador que és l’escola, hem de formar els futurs ciutadans cap a un desenvolupament holístic i sostenible.\n\nEn esta línia, la Llei orgànica 2/2006, de 3 de maig, d’educació, modificada per la Llei orgànica 3/2020, de 29 de desembre, disposa en l’article 2 que el Sistema Educatiu Espanyol s’orientarà a la consecució d’una sèrie de fins entre els quals destaca la formació en el desenvolupament sostenible. Igualment, l’educació per al desenvolupament sostenible es reflectix en continguts sobre les àrees, les matèries, els mòduls, i els àmbits de les diferents ensenyances des de l’Educació Infantil a l’ensenyança d’adults. En este sentit, el projecte educatiu de centre inclourà un tractament transversal del desenvolupament sostenible en la seua concreció curricular. En la regulació de l’organització i el funcionament dels centres públics d’Educació Infantil i Primària (article 67 del Decret 253/2019) com en els centres públics d’Educació Secundària Obligatòria, Batxillerat i Formació Professional (article 82 del Decret 252/2019) dediquen un article al Pla de sostenibilitat de recursos, eficàcia energètica i tractament de residus, que establix que els centres col·laboraran amb els tècnics de l’Administració municipal per a elaborar-lo i que haurà de tindre l’informe favorable del claustre del professorat i del consell escolar.\n\nDe la mateixa manera, en les instruccions d’inici de curs dels ensenyaments comentats per al curs 2023-2024 establixen que els centres disposaran fins a la finalització del curs 2024-2025, per a elaborar, amb la col·laboració de personal tècnic de l’Administració municipal, un pla de sostenibilitat de recursos, eficàcia energètica i tractament de residus, que inclouran en el seu projecte de gestió.\n\nPer tot això, es fa indispensable elaborar un pla de sostenibilitat per part del nostre centre educatiu. El pla ha de tindre l’informe favorable del claustre i del consell escolar."
+    },
+    {
+      "type": "seccion",
+      "id": "sec-2",
+      "number": "2",
+      "title": "2. Diagnòstic inicial",
+      "content": "Per a elaborar el pla de sostenibilitat de recursos, eficàcia energètica i residus hem de partir d’una anàlisi i un diagnòstic inicials, que ens permeten identificar les fortaleses, les debilitats i els aspectes susceptibles de millora que presenta el nostre centre educatiu en este àmbit.\n\nAmb eixe fi és convenient analitzar tot allò que puga tindre importància: les infraestructures, els usos, els recursos, les accions prèvies realitzades en matèria de sostenibilitat, etc., així com considerar les línies d’acció a escala municipal/comarcal i rebre l’assessorament d’un tècnic municipal.\n\nEsta tasca la pot realitzar l’equip directiu, els docents o bé una comissió de treball creada a este efecte, i és recomanable també la implicació de l’alumnat i les famílies, i ampliar així la participació a tota la comunitat educativa. Esta comissió serà responsable de coordinar i supervisar la implementació del pla, així com de fomentar la participació activa de tots els actors involucrats.\n\nEntre les ferramentes que poden resultar útils per a dur a terme este diagnòstic inicial es pot fer ús de qüestionaris (dirigits a l’alumnat, als docents, a les famílies...), anàlisi DAFO, etc., així com possibles informes d’avaluació energètica, ecoauditories, etc., que s’hagen realitzat en un termini recent.\n\nEntre els aspectes que cal tindre en compte per a realitzar un bon diagnòstic, hi ha:\n\n• Les característiques del centre educatiu i de l’entorn.\n\n• L’anàlisi de les infraestructures, els recursos i les accions realitzades en diferents àmbits.\n\n• La busca de sinergies.",
+      "children": [
+        {
+          "type": "seccion",
+          "id": "sec-2-1",
+          "number": "2.1",
+          "title": "2.1 Característiques del centre educatiu i de l’entorn",
+          "content": "Conéixer les característiques del centre educatiu i la seua situació dins del context físic i sociocultural són elements clau.\n\nÉs important identificar el nostre centre, si és de règim públic o privat, la seua titularitat, els nivells educatius que s’impartixen, el nombre d’alumnes professors..., així com incloure una descripció de les instal·lacions. A més, convé situar el centre educatiu en el context municipal i/o comarcal."
+        },
+        {
+          "type": "seccion",
+          "id": "sec-2-2",
+          "number": "2.2",
+          "title": "2.2 Anàlisi de les infraestructures, els recursos i les accions realitzades en diferents àmbits",
+          "children": [
+            {
+              "type": "seccion",
+              "id": "sec-2-2-1",
+              "number": "2.2.1",
+              "title": "2.2.1 Energia",
+              "content": "El Reial decret 390/2021, d’1 de juny, pel qual s’aprova el procediment bàsic per a la certificació de l’eficiència energètica dels edificis, incorpora al dret espanyol la regulació de la certificació d’eficiència energètica d’edificis prevista en la Directiva (UE) 2018/844, del Parlament Europeu i del Consell, de 30 de maig de 2018.\n\nL’aplicació d’este reial decret afecta, entre altres, els edificis o les parts d’edificis dels centres educatius de titularitat pública, siga municipal o de la Generalitat Valenciana, amb una superfície útil superior a 250 m², que han d’exhibir en un lloc destacat i ben visible l’etiqueta d’eficiència energètica tal com establix l’article 16.\n\nEn esta línia, la Direcció General d’Infraestructures Educatives coordina les actuacions per a elaborar l’informe d’avaluació per a la certificació de l’eficiència energètica dels centres educatius, titularitat de la Generalitat Valenciana, que està previst que es realitze al llarg de 2024. Per a realitzar les auditories, les empreses s’han posat en contacte amb les direccions territorials per a recaptar la documentació corresponent.\n\nPel que fa als centres educatius de titularitat municipal, correspon a l’Administració local l’avaluació per a la certificació de l’eficiència energètica, per la qual cosa es recomana contactar amb un tècnic municipal. En este sentit, és convenient saber si el nostre municipi està adherit a la iniciativa europea [Pacte de les Alcaldies pel Clima i l’Energia](https://eu-mayors.ec.europa.eu/es/home),¹ mitjançant el qual es compromet voluntàriament a implantar els objectius en matèria de clima i energia de la UE, i conéixer les actuacions locals relacionades que s’estan duent a terme i puguen afectar el nostre centre.\n\nEl certificat d’eficiència energètica assigna a cada edifici una classe energètica d’eficiència, que varia des de la classe A (més eficients) fins a la classe G (menys eficients). A més, l’informe d’avaluació per a la certificació de l’eficiència energètica arreplega, entre altres coses, especificacions i/o recomanacions tècniques que és recomanable tindre en compte per a dissenyar el pla d’acció del pla de sostenibilitat, amb l’ànim de millorar l’eficiència energètica del nostre centre educatiu.\n\nSi per motius diversos no disposem d’este informe, per a realitzar el diagnòstic energètic inicial és convenient realitzar un inventari detallat de les infraestructures energètiques del centre educatiu (instal·lació elèctrica, envolupant tèrmica de l’edifici, sistema de calefacció i/o refrigeració, grups de bombament, sistema de producció d’aigua calenta sanitària, etc.) i les condicions en què es troben, definint els seus usos actuals mitjançant mesuraments, així com identificar àrees de millora, a partir d’una avaluació energètica, en termes d’aïllament, il·luminació, climatització i ús d’energies renovables. Este inventari es podrà elaborar amb l’ajuda dels tècnics municipals en el cas dels centres de la seua titularitat i de les empreses que tinguen assignada la contractació de diferents revisions periòdiques obligatòries com ara baixa tensió, alta tensió, climatització, etc., subscrites per la Conselleria d’Educació, Universitats i Ocupació.\n\n¹ En l’enllaç següent es poden consultar els municipis adherits al Pacte de les Alcaldies de la UE pel Clima i l’Energia: [Covenant of Mayors - Europe (europa.eu)](https://eu-mayors.ec.europa.eu/es/signatories)."
+            },
+            {
+              "type": "seccion",
+              "id": "sec-2-2-2",
+              "number": "2.2.2",
+              "title": "2.2.2 Residus",
+              "content": "La producció de residus és un dels principals problemes ambientals que afecten a escala local i global actualment. És important identificar de manera adequada els tipus de residus que es generen en el nostre centre educatiu, les instal·lacions i la gestió que se’n realitza, així com les possibles limitacions que puga tindre el nostre centre en este àmbit. Així mateix, cal tindre en compte si es duen a terme iniciatives orientades a la reducció i a potenciar el reciclatge i la reutilització, i a la sensibilització.\n\nEntre els residus que es generen en un centre educatiu hi ha fonamentalment restes de matèria orgànica, paper i cartó, envasos lleugers i vidre.\n\nSent així, en virtut del contracte de neteja de centres docents públics, vigent des de setembre de 2022, s’ha previst la instal·lació i la gestió eficient de contenidors d’arreplega selectiva. Cada centre compta amb, almenys, dos contenidors de color blau i dos de color groc per a l’arreplega selectiva, a més d’almenys un contenidor destinat a l’arreplega de piles. La retirada dels residus es realitza de manera diferenciada, per a assegurar així una gestió adequada i respectuosa amb el medi ambient. A més, l’empresa adjudicatària del contracte té l’obligació de gestionar de manera responsable l’arreplega selectiva dels residus generats per les seues pròpies activitats durant l’execució del contracte. Això inclou la retirada d’embalatges i envasos buits, que cal depositar en els contenidors adequats o, si és el cas, traslladats a un punt net o un altre sistema autoritzat de gestió de residus.\n\nA més, poden generar-se residus perillosos, entre els quals hi ha les restes de tòner, fluorescents, aparells elèctrics, etc., i depenent de les característiques del nostre centre, també els generats en laboratoris i tallers. Este tipus de residus s’han de gestionar de manera adequada per a la seguretat dels treballadors i l’alumnat del centre i del medi ambient. També és important tindre en compte els productes que, per la seua perillositat especial (tòxics, cancerígens, mutàgens i tòxics per a la reproducció), no s’han d’utilitzar, i que, en cas que n’hi haja, s’han d’eliminar.\n\nPer a la gestió correcta dels residus amb característiques de perillositat generats en els centres educatius, es recomana consultar l’SPRL-IOPRL-14 [Instrucció operativa de gestió de residus perillosos en centres educatius, de l’Institut Valencià de Seguretat i Salut en el Treball](https://prevencio.gva.es/documents/161660390/162707426/SPRL_IOPRL_12+Eliminaci%C3%B3n+de+residuos+peligrosos+en+centros+educativos.pdf/ae8d3800-ebd2-4d08-a2c0-558c2c09e5ee?t=1683527012329)."
+            },
+            {
+              "type": "seccion",
+              "id": "sec-2-2-3",
+              "number": "2.2.3",
+              "title": "2.2.3 Aigua",
+              "content": "L’aigua és un recurs necessari per a desenvolupar l’activitat diària en el nostre centre educatiu. Es recomana realitzar una descripció de la instal·lació d’aigua existent (servicis i vestuaris, cuina, jardí, laboratoris, etc.) i els usos de consum, i identificar les possibles mesures de gestió sostenible d’aigua que s’estiguen aplicant i/o diferents iniciatives de sensibilització.\n\nEn este àmbit correspon no tindre en compte els aspectes relacionats amb el sistema de producció d’aigua calenta sanitària, ja que s’ha inclòs en l’apartat d’energia."
+            },
+            {
+              "type": "seccion",
+              "id": "sec-2-2-4",
+              "number": "2.2.4",
+              "title": "2.2.4 Altres",
+              "content": "Addicionalment, es recomana incorporar altres aspectes relacionats amb l’àmbit de la sostenibilitat que poden resultar d’interés.\n\nAixí, és convenient tindre en compte aspectes relacionats amb la mobilitat de la comunitat educativa (mitjans de transport utilitzats habitualment per l’alumnat, els docents i les famílies; projectes de camins escolars segurs, saludables i sostenibles; etc.).\n\nIgualment, seria recomanable preveure referències a l’accessibilitat bàsica dins del mateix centre: si té disponibilitat d’ascensor, possibles barreres arquitectòniques o de recorreguts accessibles dins de l’edifici.\n\nAixí mateix, resulta fonamental considerar les accions i iniciatives existents en el nostre centre educatiu en relació amb el desenvolupament sostenible i la cura del medi ambient (campanyes de sensibilització ambiental, celebracions de dies mundials concrets, hort escolar, campanyes d’arreplega selectiva de residus i reciclatge, projectes d’investigació i innovació educativa i/o programes Erasmus+ en l’àmbit de la sostenibilitat, la pertinença a col·lectius o associacions en este àmbit)."
+            }
+          ]
+        },
+        {
+          "type": "seccion",
+          "id": "sec-2-3",
+          "number": "2.3",
+          "title": "2.3 Busca de possibles sinergies",
+          "content": "És important tindre en compte possibles iniciatives i/o col·laboracions en l’àmbit institucional i/o local/comarcal, via l’ajuntament, associacions, empreses o fins i tot amb altres centres educatius de la zona. En este sentit, l’aprenentatge-servici pot ser un catalitzador pedagògic en què l’alumnat pot participar de manera activa.\n\nEs recomana contactar amb tècnics que ens puguen oferir informació i assessorament sobre les actuacions en matèria de sostenibilitat en les quals puguem participar com a centre educatiu (campanyes d’educació ambiental, programes d’eficiència energètica, programes de reciclatge, etc.)."
+        }
+      ]
+    },
+    {
+      "type": "seccion",
+      "id": "sec-3",
+      "number": "3",
+      "title": "3. Pla d’acció",
+      "content": "Una vegada coneixem la situació de partida del nostre centre educatiu, cal definir els objectius del pla de sostenibilitat de recursos, eficàcia energètica i residus.\n\nA partir del diagnòstic inicial, podem identificar les necessitats específiques del nostre centre en este àmbit i establir objectius clars de millora que permeten abordar estes necessitats.\n\nÉs recomanable dissenyar un programa de manteniment de les nostres instal·lacions i infraestructures, d’acord amb la normativa vigent i les instruccions que puga determinar sobre esta qüestió la Conselleria d’Educació, Universitats i Ocupació, que ens permeta realitzar-ne un manteniment adequat.\n\nEl pla d’acció ha de preveure la proposta d’actuacions a desenvolupar en la nostra comunitat educativa per a aconseguir els objectius establits, tenint en compte els recursos materials, econòmics i personals dels quals es disposa i el termini per a dur-les a terme.\n\nPoden plantejar-se accions senzilles o altres que impliquen un compromís més ferm per part de la comunitat educativa, fins i tot accions d’una certa envergadura que es poden escometre per fases, adaptades a diversos cursos escolars.\n\nEs poden establir objectius i definir accions específiques en els següents eixos d’acció:\n\nEIX 1. ÀMBIT PEDAGÒGIC. Ambientalització del currículum. Integració de la sostenibilitat en el sistema educatiu\n\nEIX 2. ÀMBIT ORGANITZATIU. Accions per a la gestió sostenible del centre. Programa de tractament de residus. Mobilitat Energia i Aigua\n\nEIX 3. ÀMBIT FORMATIU I PROFESSIONAL. Formació del professorat en desenvolupament sostenible i en matèria de tractament de residus\n\nEIX 4. ÀMBIT SOCIAL. Accions de participació comunitària i ciutadana. Comunicació i divulgació\n\nPer a cada una de les accions proposades, es recomana definir els aspectes següents:\n\n• Descripció de l’acció.\n\n• Responsable(s).\n\n• Recursos materials, econòmics i personals per a aconseguir-la.\n\n• Termini per a aconseguir l’acció.\n\n• Indicador(s) de seguiment.\n\nEn l’annex s’oferixen exemples de possibles accions que poden proposar-se com a part del pla d’acció del pla de sostenibilitat de recursos, eficiència energètica i residus. Igualment, es pot proposar incloure un cronograma d’actuació."
+    },
+    {
+      "type": "seccion",
+      "id": "sec-4",
+      "number": "4",
+      "title": "4. Difusió i comunicació",
+      "content": "El pla de sostenibilitat de recursos, eficàcia energètica i residus ha de ser objecte de difusió i comunicació en tota la comunitat educativa i fora d’esta.\n\nUna vegada aprovat pel claustre i el consell escolar, es proposa realitzar campanyes de sensibilització dirigides a la comunitat educativa, amb l’ànim de generar un impacte positiu en l’entorn i promoure la participació activa de tots els membres.\n\nEstes mesures es poden implementar mitjançant la seua publicitat en el web del centre i a través dels canals proporcionats per l’Administració educativa perquè en prenga coneixement en el municipi corresponent."
+    },
+    {
+      "type": "seccion",
+      "id": "sec-5",
+      "number": "5",
+      "title": "5. Seguiment i avaluació",
+      "content": "El seguiment i l’avaluació del grau de consecució de cada una de les accions proposades en el nostre pla d’acció ens permet mesurar l’assoliment dels objectius plantejats i realitzar els ajustos necessaris, si cal, per a assolir-los.\n\nAmb l’ànim de realitzar esta avaluació, es proposa establir un sistema d’indicadors. Es recomana vincular cada acció amb un indicador i realitzar un seguiment periòdic, i arreplegar les dades en un informe, així com una avaluació al final del període establit. D’esta manera, podrem analitzar i interpretar fàcilment els resultats, i plantejar propostes de millora per a adaptar el nostre pla.\n\nExemple.\n\nObjectiu. Renovar les aixetes convencionals per temporitzats amb airejadors per a promoure l’estalvi d’aigua\n\nAcció. Instal·lació d’aixetes temporitzades amb airejadors\n\nIndicador. Nombre d’aixetes canviades\n\nEl pla de sostenibilitat de recursos, eficàcia energètica i residus ha de ser un document viu que haurà d’actualitzar-se a mesura que es complisquen els diferents objectius. Igualment, haurà d’actualitzar-se a la nova normativa que vaja sorgint i incorporar nous plans d’accions perquè hi haja una millora contínua en el temps."
+    },
+    {
+      "type": "seccion",
+      "id": "sec-6",
+      "number": "6",
+      "title": "6. Bibliografia web i recursos",
+      "content": "• Objectius de Desenvolupament Sostenible: https://www.un.org/sustainabledevelopment/es/\n\n• Llei orgànica 2/2006, de 3 de maig, d’educació: https://www.boe.es/buscar/pdf/2006/BOE-A-2006-7899-consolidado.pdf\n\n• Decret 253/2019, de 29 de novembre, del Consell, de regulació de l’organització i el funcionament dels centres públics que impartixen ensenyances d’Educació Infantil o d’Educació Primària: https://dogv.gva.es/datos/2019/12/02/pdf/2019_11482.pdf\n\n• Decret 252/2019, de 29 de novembre, del Consell, de regulació de l’organització i el funcionament dels centres públics que impartixen ensenyances d’Educació Secundària Obligatòria, Batxillerat i Formació Professional: https://dogv.gva.es/datos/2019/12/09/pdf/2019_11616.pdf\n\n• Resolució de 27 de juny de 2023, del secretari autonòmic d’Educació i Formació Professional, per la qual s’aproven les instruccions per a l’organització i el funcionament dels centres que impartixen Educació Infantil de segon cicle i Educació Primària durant el curs 2023-2024: https://dogv.gva.es/datos/2023/06/30/pdf/2023_7350.pdf\n\n• Resolució de 27 de juny de 2023, del secretari autonòmic d’Educació i Formació Professional, per la qual s’aproven les instruccions per a l’organització i el funcionament dels centres que impartixen Educació Secundària Obligatòria i Batxillerat durant el curs 2023-2024: https://dogv.gva.es/datos/2023/06/30/pdf/2023_7359.pdf\n\n• Normativa i instruccions sobre la contractació d’infraestructures educatives (instal·lacions solars fotovoltaiques, transformació de patis escolars, etc.): https://ceice.gva.es/va/web/contratacion-educacion/normativa-e-instrucciones\n\n• SPRL_IOPRL_12 Eliminació de residus perillosos en centres educatius: https://prevencio.gva.es/documents/161660390/162707426/sprl_ioprl_12+Eliminaci%C3%B3n+de+residus+perillosos+en+centres+educatius.pdf/ae8d3800-ebd2-4d08-a2c0-558c2c09e5ee?t=1683527012329\n\n• Guia FP Sostenible: https://ceice.gva.es/documents/161863064/357533928/FP+sostenible.pdf\n\n• Guia per a l’elaboració de plans d’acció climàtica en escoles. SEOBirdLife. Ministeri per a la Transició Ecològica i el Repte Demogràfic: https://seo.org/wp-content/uploads/2021/08/Guia_Adaptacion_CC_Escuelas_SEO_BirdLife.pdf"
+    },
+    {
+      "type": "anexo",
+      "id": "anexo-1",
+      "number": "7",
+      "title": "7. Annex. Exemples de propostes per al pla d’acció",
+      "children": [
+        {
+          "type": "seccion",
+          "id": "anexo-1-energia",
+          "title": "Eficiència energètica i energies renovables",
+          "content": "Es recomana establir metes per a millorar l’eficiència energètica i fomentar pràctiques d’ús eficient per part de tota la comunitat educativa.\n\nEn este àmbit s’inclouen també les accions relacionades amb la producció d’aigua calenta sanitària, i els principals punts de consum són el gimnàs, per a donar servici a les dutxes, la cuina escolar i els lavabos en els centres d’Educació Infantil.\n\nLa millora de l’eficiència energètica pot repercutir en una requalificació energètica del nostre centre educatiu.\n\nExemples:\n\n• Instal·lació d’equips d’il·luminació més eficients, amb tecnologia LED, en substitució de lluminàries de descàrrega i equips fluorescents.\n\n• Implantació de sistemes de control de la il·luminació, tant en espais docents com administratius, mitjançant la instal·lació d’elements de regulació de flux lluminós, connectats a les lluminàries del local, fent que estes proporcionen més o menys lluminositat, en funció de l’aportació de llum natural que entra de l’exterior.\n\n• Incorporació d’elements detectors de presència en determinats espais, com els despatxos, els lavabos i els corredors, per al funcionament automàtic de l’enllumenat, en funció de l’ocupació d’estos.\n\n• Implantació d’instal·lacions fotovoltaiques d’autoconsum per a cobrir les necessitats energètiques i/o estalviar en la factura elèctrica del centre educatiu.\n\n• Implantació de calderes de condensació i combustible gas, que complisquen les exigències del reglament d’instal·lacions tèrmiques en els edificis i la normativa ErP relativa al disseny ecològic i l’etiquetatge energètic, com els equips generadors per a la calefacció.\n\n• Instal·lació d’equips generadors combinats, d’alta eficiència i de baix nivell sonor, que de manera simultània proporcionen tant la ventilació com la refrigeració en els diferents recintes del centre escolar.\n\n• Instal·lació d’equips de tecnologia d’aerotèrmia per a cobrir les necessitats de generació d’aigua calenta sanitària, considerats més eficients, d’instal·lació senzilla i que requerixen un manteniment mínim.\n\n• Realització de campanyes de conscienciació sobre la importància d’estalviar energia i apagar els dispositius electrònics quan no s’utilitzen.\n\n• Optimització del consum d’equips informàtics, fotocopiadores i altres dispositius electrònics, configurant la seua desconnexió automàtica fora de la jornada laboral.\n\n• Renovació gradual dels electrodomèstics del centre educatiu i substitució per uns altres, si pot ser, de més eficiència energètica.\n\n• Instal·lació de borlets en els baixos de les portes com a mesura de millora de l’aïllament.\n\n• Participació en diferents campanyes, concursos i/o projectes de titularitat municipal o de la diputació de València, Castelló o Alacant com ara: [projecte “El meu Centre en Transició”](https://climaienergia.com/oficina/cultura-de-transicio/) (Fundació València Clima i Energia, desenvolupat a través de l’Oficina de l’Energia de l’Ajuntament de València), [Projecte 50/50](https://www.valencia.es/val/campanyes-municipals/-/content/projecte-50-50-1) (adaptació del Servici d’Emergència Climàtica i Transició Ecològica, per al municipi de València de la metodologia del Projecte Euronet 50/50 MAX), Pla de millora d’eficiència energètica de l’Ajuntament d’Alacant, Programa 50/50 de l’estratègia “Reacciona” (Diputació), etc."
+        },
+        {
+          "type": "seccion",
+          "id": "anexo-1-residuos",
+          "title": "Gestió de residus",
+          "content": "Es proposa establir accions de sensibilització sobre la generació i la gestió de residus i el consum sostenible de recursos.\n\nExemples:\n\n• Foment de la reducció de residus mitjançant la implementació de pràctiques com la reutilització de materials, l’ús de productes duradors i la minimització del consum de paper i de plàstics d’un sol ús.\n\n• Exploració d’opcions de compostatge de residus orgànics, tant en espais exteriors com a través de sistemes de compostatge domèstic.\n\n• Col·laboració amb entitats externes per a la gestió correcta de residus perillosos com a productes químics...\n\n• Realització d’una campanya de foment de l’ús d’envasos reutilitzables entre l’alumnat per als esmorzars i/o dinars (botella reutilitzable en substitució de botelles de plàstic d’aigua, ús de carmanyoles en substitució del paper d’alumini, etc.).\n\n• Participació en iniciatives desenvolupades per diferents associacions de la Comunitat Valenciana per a l’arreplega de roba, calçat o complements (Càritas, Reciplana, Associació Projecte Lázaro, ...), piles (Ecopilas) o oli usat (Reciclaceite o SMV).\n\n• Col·laboració en el programa gratuït de reciclatge de l’empresa Terracycle Programa de reciclatge gratuït d’instruments d’escriptura.\n\n• Participació en diferents campanyes, concursos i/o projectes organitzats pel Centre d’Educació Ambiental de la Comunitat Valenciana, Conselleria de Medi Ambient, Aigua, Infraestructures i Territori, com ara: [projecte “Recicla amb els Cinc Sentits”](https://www.reciclaconloscincosentidos.com/) (tallers per a centres educatius i associacions), [concurs BertoZampapilas](https://www.bertozampapilas.com/), [campanya “Zero Residus”](https://mediambient.gva.es/va/web/ceacv/zero-residus), etc."
+        },
+        {
+          "type": "seccion",
+          "id": "anexo-1-agua",
+          "title": "Gestió de l’aigua",
+          "content": "Es proposa abordar accions amb la finalitat d’optimitzar el consum de l’aigua en els centres educatius, promocionar bones pràctiques de consum i sensibilitzar sobre la importància del recurs hídric.\n\nExemples:\n\n• Instal·lació de dispositius d’estalvi, com ara aixeteria temporitzada dotada amb elements economitzadors en els ruixadors de les dutxes, polsadors dobles per a ajustar les descàrregues dels vàters...\n\n• Promoció de bones pràctiques de consum d’aigua.\n\n• Sensibilització sobre la importància del recurs hídric."
+        },
+        {
+          "type": "seccion",
+          "id": "anexo-1-movilidad",
+          "title": "Mobilitat sostenible",
+          "content": "Conéixer la grandària del nostre nucli urbà i les distàncies que han de recórrer l’alumnat, els treballadors i les famílies per a assistir al centre educatiu és important per a proposar accions relacionades amb la mobilitat sostenible.\n\nExemples:\n\n• Promoció de l’ús de la bicicleta i/o el patinet i/o acudir caminant i/o en transport públic al centre escolar.\n\n• Instal·lació d’aparcabicicletes en l’entrada del centre escolar.\n\n• Creació de rutes escolars segures.\n\n• Celebració del Dia de la Bicicleta i/o del Dia Sense Cotxe."
+        },
+        {
+          "type": "seccion",
+          "id": "anexo-1-accesibilidad",
+          "title": "Accessibilitat",
+          "content": "És rellevant establir millores que afavorisquen l’accessibilitat eliminant o minimitzant les possibles barreres arquitectòniques dins del centre educatiu. Per a fer-ho, cal adaptar espais per a millorar l’accessibilitat física, cognitiva i sensorial de qualsevol persona de la comunitat educativa.\n\nExemples:\n\n• Eliminació de barreres arquitectòniques per a garantir la mobilitat de qualsevol persona tant dins de les aules del centre com en la resta de les instal·lacions (rampes, ascensors, plataformes remuntadores d’escales, etc.).\n\n• Adaptació dels materials i les metodologies educatives de manera que siguen més comprensibles per a tot l’alumnat.\n\n• Utilització de vídeos o material gràfic per mitjà de descripció auditiva o subtítols per a l’elaboració de materials educatius per a alumnat amb alguna mena de diversitat funcional sensorial que afecten l’oïda o la vista."
+        },
+        {
+          "type": "seccion",
+          "id": "anexo-1-consumo",
+          "title": "Consum de materials",
+          "content": "Es proposa promoure accions amb l’ànim de fomentar un consum racional els diferents recursos que es consumixen en el nostre centre educatiu (material escolar, aliments...).\n\nExemples:\n\n• Reutilització del material escolar en bones condicions.\n\n• Promoció de la compra de materials amb etiqueta ecològica.\n\n• Promoure l’adquisició de productes de l’entorn local, sempre respectant els principis de lliure comerç establits en la normativa europea."
+        },
+        {
+          "type": "seccion",
+          "id": "anexo-1-otros",
+          "title": "Altres",
+          "content": "El pla d’acció també pot preveure actuacions relacionades amb altres aspectes relacionats amb la sensibilització i la formació en l’àmbit de la protecció i la cura del medi ambient, actuacions en l’àmbit pedagògic, participació en xarxes de centres educatius en l’àmbit de la sostenibilitat, etc.\n\nExemples:\n\n• Integració d’activitats extraescolars i complementàries relacionades amb la sostenibilitat. Estes activitats poden incloure eixides a entorns naturals, visites a plantes de reciclatge o altres experiències educatives que reforcen els conceptes de sostenibilitat i promoguen la consciència ambiental.\n\n• Desenvolupament de recursos didàctics, com ara llibres, material audiovisual i ferramentes interactives, que aborden temàtiques relacionades amb la sostenibilitat i el medi ambient.\n\n• Desenvolupament d’activitats i esdeveniments que promoguen la consciència ambiental i la responsabilitat social, com ara xarrades, tallers, exposicions, fires educatives...\n\n• Integració de l’educació per a la sostenibilitat en el currículum.\n\n• Establiment de vincles entre les situacions d’aprenentatge planificades i les accions sostenibles relacionades amb la sostenibilitat.\n\n• Implementació d’accions formatives per als membres de la comunitat educativa en l’àmbit de la sostenibilitat (alumnat, docents, famílies, PAS, etc.).\n\n• Creació d’espais verds en el centre educatiu, amb jardins o horts escolars, per a promoure la connexió amb la naturalesa i l’educació ambiental.\n\n• Implementació de campanyes d’alimentació saludable: dia de la fruita, etc.\n\n• Creació en la pàgina web del centre educatiu d’un espai destinat a la difusió d’accions realitzades relacionades amb la sostenibilitat.\n\n• Participació en diferents campanyes, concursos i/o projectes organitzats per la Conselleria d’Educació, Universitats i Ocupació:\n– Projectes d’Investigació i Innovació Educativa, en l’àmbit de la sostenibilitat\n– Programa Guardabosc\n– Programa EduSalut\n– Etc.\n\n• Participació en diferents campanyes, concursos i/o projectes organitzats pel Centre d’Educació Ambiental de la Comunitat Valenciana, Conselleria de Medi Ambient, Aigua, Infraestructures i Territori:\n– [Programa CompromesO2](https://mediambient.gva.es/va/web/ceacv/compromes02)\n– Activitats per a centres educatius en diferents àmbits: canvi climàtic i energies renovables, residus, aigua, patrimoni natural i cultural, hort, consum responsable, estratègies escolars de sostenibilitat...\n– Exposicions en el CEACV i en préstec.\n– [Educació ambiental en ruta (EAR)](https://mediambient.gva.es/va/web/ceacv/educacion-ambiental-en-ruta).\n– [Jornades d’Educació Ambiental](https://mediambient.gva.es/va/web/ceacv/jornadesceacv).\n\n• Participació en diferents campanyes, concursos i/o projectes de titularitat municipal, com ara:\n– Ajuntament de València:\n ▪ [Projecte “València, que et vullc verda”](https://educacio-valencia.es/iniciem-el-programa-valencia-que-et-vull-verda-als-centres-educatius-de-la-ciutat/), de la Secció de Projectes Educatius del Servici d’Educació.\n ▪ [Xarxa d’Horts Escolars](https://educacio-valencia.es/projectes/xarxa-dhorts-escolars-de-la-ciutat-de-valencia/).\n– Ajuntament d’Alacant:\n ▪ [Programa escolar d’educació ambiental](https://www.alicante.es/va/tramites/programa-escolar-deducacio-ambiental), organitzat per la Regidoria de Medi Ambient.\n ▪ [Projecte “L’Escola Sostenible”](https://www.alicante.es/va/contenidos/lescola-sostenible), de la Regidoria d’Educació."
+        }
+      ]
+    }
+  ],
+  "scope": "general",
+  "territory": "autonomico",
+  "temporality": {
+    "type": "permanente"
+  },
+  "docType": "documentos"
+}
