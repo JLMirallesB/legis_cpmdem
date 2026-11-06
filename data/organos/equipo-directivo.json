@@ -18,7 +18,7 @@
     "equipo directivo",
     "equip directiu"
   ],
-  "updatedAt": "2026-11-04",
+  "updatedAt": "2026-11-06",
   "refs": [
     {
       "law": "decreto-104-2018",
@@ -531,6 +531,47 @@
         "va": "b396e9e7"
       },
       "checkedAt": "2026-11-04"
+    },
+    {
+      "law": "resolucion-20-12-2024-agresiones",
+      "article": "anexo-1-sec-3",
+      "hash": {
+        "es": "06e6e943",
+        "va": "cb6d1d7b"
+      },
+      "checkedAt": "2026-11-06",
+      "note": {
+        "es": "Recibe la comunicación de una agresión si falta la directora o el director",
+        "va": "Rep la comunicació d'una agressió si falta la directora o el director"
+      }
+    },
+    {
+      "law": "resolucion-20-12-2024-agresiones",
+      "article": "anexo-1-sec-4",
+      "apartado": "1",
+      "hash": {
+        "es": "a2e515fc",
+        "va": "906d4d21"
+      },
+      "checkedAt": "2026-11-06",
+      "note": {
+        "es": "Presta auxilio y avisa a las fuerzas de seguridad ante una agresión",
+        "va": "Presta auxili i avisa les forces de seguretat davant una agressió"
+      }
+    },
+    {
+      "law": "resolucion-20-12-2024-agresiones",
+      "article": "anexo-1-sec-4",
+      "apartado": "2",
+      "hash": {
+        "es": "b0c057bd",
+        "va": "7a6fa50d"
+      },
+      "checkedAt": "2026-11-06",
+      "note": {
+        "es": "Llama a urgencias si la agresión es grave",
+        "va": "Telefona a urgències si l'agressió és greu"
+      }
     }
   ],
   "discarded": [
@@ -684,6 +725,12 @@
         "apartado-5#3"
       ],
       "reason": "Menciones incidentales: la norma nombra la figura sin atribuirle nada"
+    },
+    {
+      "law": "resolucion-20-12-2024-agresiones",
+      "article": "preambulo",
+      "apartado": "0",
+      "reason": "Preámbulo: cita el art. 124 de la LOE sobre la autoridad del equipo directivo"
     }
   ],
   "titleTerms": [

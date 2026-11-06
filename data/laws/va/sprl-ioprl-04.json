@@ -1,0 +1,158 @@
+{
+  "id": "sprl-ioprl-04",
+  "slug": "sprl-ioprl-04",
+  "type": "instrucciones",
+  "number": "SPRL-IOPRL-04",
+  "date": "2025-03-31",
+  "publishedIn": {
+    "source": "INVASSAT",
+    "number": "SPRL-IOPRL-04",
+    "date": "2025-03-31",
+    "url": "https://prevencio.gva.es/va/fp-instrucciones-operativas-de-trabajo/-/documentos/1626000980/folder/396260297",
+    "pdfUrl": "https://prevencio.gva.es/documents/161660390/396260297/SPRL_IOPRL_04+Informaci%C3%B3+d%27inter%C3%A9s+per+a+empleades+en+situaci%C3%B3+d%27embar%C3%A0s%2C+part+recent+o+lact%C3%A0ncia.pdf/55484ba0-a489-4d90-bd95-bb2d38d0c79d"
+  },
+  "title": "Instrucció operativa SPRL-IOPRL-04. Valoració del lloc de treball per situació d'embaràs, part recent o lactància",
+  "titleShort": "SPRL-IOPRL-04 - Embaràs, part recent o lactància",
+  "category": "prevencion_riesgos",
+  "vigpiracy": {
+    "status": "vigente",
+    "statusLabel": "Vigent",
+    "effectiveDate": "2025-03-31"
+  },
+  "legalAnalysis": {
+    "enactedPursuantTo": [
+      {
+        "title": "Llei 31/1995, de 8 de novembre, de prevenció de riscos laborals (art. 26)",
+        "relationship": "habilitante"
+      }
+    ],
+    "priorAffectations": [],
+    "posteriorAffectations": [],
+    "derogations": [],
+    "concordances": [
+      {
+        "lawId": "resolucion-inicio-curso-2026-2027",
+        "title": "Instruccions d'inici de curs 2026-2027 dels conservatoris de Música i Dansa",
+        "description": "L'apartat 3.2.11.3 (valoració de risc durant l'embaràs i la lactància) declara aplicable esta instrucció."
+      },
+      {
+        "lawId": "resolucion-inicio-curso-2025-2026",
+        "title": "Instruccions d'inici de curs 2025-2026 dels conservatoris de Música i Dansa",
+        "description": "L'apartat 3.2.9 remet al procediment d'esta instrucció."
+      },
+      {
+        "lawId": "circular-1-2025-permisos",
+        "title": "Circular 1/2025 de permisos, llicències i reduccions de jornada",
+        "description": "El seu apartat 9 resumix esta instrucció i n'enllaça una edició anterior (la 04.04)."
+      },
+      {
+        "lawId": "sprl-ioprl-13",
+        "title": "Instrucció operativa SPRL-IOPRL-13 (adaptació o canvi de lloc per motius de salut)",
+        "description": "Instrucció general d'adaptació de llocs; deixa fora l'embaràs i la lactància, que es regixen per esta."
+      }
+    ]
+  },
+  "formModels": [
+    {
+      "id": "anexo-1",
+      "title": "Annex 1. Comunicació de situació d'embaràs, part recent o lactància",
+      "pdfUrl": "models/sprl-ioprl-04-anexo-1-va.docx"
+    },
+    {
+      "id": "anexo-2",
+      "title": "Annex 2. Descripció de tasques del lloc de treball",
+      "pdfUrl": "models/sprl-ioprl-04-anexo-2-va.docx"
+    },
+    {
+      "id": "anexo-3",
+      "title": "Annex 3. Declaració d'impossibilitat d'eliminació de riscos i de canvi de lloc",
+      "pdfUrl": "models/sprl-ioprl-04-anexo-3-va.docx"
+    }
+  ],
+  "scope": "general",
+  "territory": "autonomico",
+  "temporality": {
+    "type": "permanente"
+  },
+  "docType": "documentos",
+  "structure": [
+    {
+      "type": "preambulo",
+      "id": "preambulo",
+      "title": "Control del document",
+      "content": "Instrucció operativa del Servei de Prevenció de Riscos Laborals del Personal Propi de la Generalitat (INVASSAT). Codi SPRL-IOPRL-04, revisió 08, de 31/03/2025. Elaborada per l'SPRL; revisada per Adolfo Pino Justo, cap de servei de l'SPRL; aprovada per Juan Carlos Castellanos Alba, subdirector tècnic de l'INVASSAT.\n\n| Data | Modificacions respecte a l’edició anterior |\n|---|---|\n| 19/06/2015 | Modificació punt 4.1 i 4.2 i annex 5.3. |\n| 16/02/2017 | Modificació punto 4 i annexos. |\n| 11/05/2017 | Modificació del llenguatge de gènere. |\n| 22/05/2019 | Modificació de la IO després l’aprovació de l’SPRL-PPRL-11. Gestió dels canvis previsibles. |\n| 04/10/2023 | Nova redacció. |\n| 23/09/2024 | Modificació primer paràgraf del punt 6.2 |\n| 08/10/2024 | Modificació format Annex I |\n| 31/03/2025 | Canvi redacció apartats 6.5 y 6.6 |"
+    },
+    {
+      "type": "seccion",
+      "id": "sec-1",
+      "title": "1. Objecte",
+      "content": "Definir la forma en què es duen a terme la valoració de riscos del lloc de treball ocupat per empleades públiques embarassades, que hagen donat a llum, o en període de lactància, les característiques personals de la qual o estat biològic, una vegada conegut, poden fer-les especialment sensibles a les condicions del lloc ocupat i influir negativament en la seua seguretat o salut, la del fetus o del xiquet durant el període de lactància natural."
+    },
+    {
+      "type": "seccion",
+      "id": "sec-2",
+      "title": "2. Abast",
+      "content": "Totes les sol·licituds de valoració de riscos del lloc de treball de les empleades públiques en situació d'embaràs, part recent o en període de lactància, d'ara en avant, persona interessada, sota l'àmbit d'actuació del Servei de Prevenció de Riscos Laborals del Personal Propi de la Generalitat (SPRL)."
+    },
+    {
+      "type": "seccion",
+      "id": "sec-3",
+      "title": "3. Marc normatiu",
+      "content": "Es considera la següent normativa:\n\n- Llei 31/1995, de 8 de novembre de 1995, de prevenció de riscos laborals.\n\n- Llei 4/2021, de 16 d’abril, de la Funció Pública Valenciana.\n\n- Reial decret 298/2009, de 6 de març, pel qual es modifica el Reial decret 39/1997, de 17 de gener, pel qual s'aprova el reglament dels serveis de prevenció, en relació amb l'aplicació de mesures per a promoure la millora de la seguretat i de la salut en el treball de la treballadora embarassada, que haja donat a llum o en període de lactància.\n\n- Reial decret 295/2009, de 6 de març, pel qual es regulen les prestacions econòmiques del sistema de la Seguretat Social per maternitat, paternitat, risc durant l'embaràs i risc durant la lactància natural.\n\n- [Resolució de 31 de maig de 1995 de la Direcció General de Treball](http://www.dogv.gva.es/datos/1995/06/12/pdf/1995_835040.pdf), por la qual es disposa el registre i publicació del II Conveni col·lectiu del personal laboral al servici de la administració autonòmica.\n\n- Reial decret legislatiu 4/2000, de 23 de juny, pel qual s'aprova el text refós de la Llei sobre seguretat social dels funcionaris civils de l'estat.\n\n- Reial decret 2/2010, de 8 de gener, pel qual es modifica el Reglament general del mutualisme administratiu, aprovat per Reial decret 375/2003, de 28 de març, en matèria d'incapacitat temporal i de risc durant l'embaràs i durant la lactància natural."
+    },
+    {
+      "type": "seccion",
+      "id": "sec-4",
+      "title": "4. Documentació de referència",
+      "content": "S'ha utilitzat com a referència la següent documentació:\n\n- SPRL-PPRL-02.02 Procediment d'avaluació de riscos laborals.\n\n- SPRL-PPRL-11.00 Procediment per a la integració en la gestió dels canvis previsibles.\n\n- SPRL-ITPRL-11.01 Criteri de l’SPRL per a l'avaluació de riscos per a l'embaràs."
+    },
+    {
+      "type": "seccion",
+      "id": "sec-5",
+      "title": "5. Definicions",
+      "content": "Als efectes de la instrucció es defineixen els següents conceptes:\n\n- Òrgan de personal. El servei o unitat de la conselleria u organisme autònom, a la que pertany la persona interessada entre les funcions del qual està la gestió dels assumptes relacionats amb la Seguretat Social o amb el règim del mutualisme administratiu (MUFACE i MUGEJU).\n\nAmb caràcter específic, aquest òrgan serà:\n\n▪ Direcció General de Funció Pública per al personal del sector de funció pública o organismes autònoms.\n\n▪ Direcció Territorial d’Educació per al personal del sector docent.\n\n▪ Direcció General de Justícia per al personal del sector de justícia.\n\n- Responsable del centre de treball. Persona designada per la direcció del centre, amb capacitat per a gestionar el centre de treball i al seu personal, encarregada d'efectuar les tasques indicades en la present instrucció operativa."
+    },
+    {
+      "type": "seccion",
+      "id": "sec-6",
+      "title": "6. Sol·licitud de valoració del lloc de treball",
+      "content": "**6.1. Inici. Presentació de la sol·licitud**\n\nLa persona interessada comunicarà el seu estat d'embaràs, part recent o lactància a la persona responsable del seu centre de treball, mitjançant el document FSPRL-IOPRL-04-01 Comunicació de situació d'embaràs, part recent o lactància.\n\nLa persona responsable del centre de treball haurà de traslladar aquesta comunicació a l’òrgan de personal, acompanyant-la de:\n\n▪ Descripció exhaustiva de les tasques que realitza perquè es procedisca, si escau, a avaluar les condicions del lloc de treball (veure annex 2).\n\n▪ En el cas dels centres educatius, a més, el curs o cursos en els imparteix docència en el moment de la gestació o lactància, indicant si la persona interessada està més del 50% de la jornada setmanal en aules d'educació infantil, 1r o 2n de primària. Si imparteix l'assignatura d'educació física s'indicarà el programa formatiu que s'imparteix en el curs escolar corresponent.\n\n▪ En el cas que la persona interessada ocupe un lloc en el qual en l'avaluació de riscos s'ha identificat el risc d'agressió, informe justificatiu en el qual es descriga l'existència o no d'antecedents d'aquest tipus i/o la problemàtica social o docent que implicaria aquest risc (com a mínim en l'últim any), a fi de poder valorar la situació de risc.\n\nL'òrgan de personal haurà de traslladar la sol·licitud juntament amb la documentació anterior a l’SPRL.\n\n**6.2. Altres informes**\n\nLa persona interessada haurà de disposar dels següents informes:\n\n▪ Informe datat del seu especialista en Obstetrícia i Ginecologia on indique tipus d'embaràs (únic/múltiple), setmanes de gestació, data probable de part i si la gestació és de curs normal o presenta complicacions clíniques que puguen interferir en aquesta.\n\n▪ Si la persona interessada ocupa un lloc de treball en un centre educatiu: analítica amb la determinació d'immunitat enfront de rubèola, varicel·la, citomegalovirus, pallola, parvovirosi B19 i parotiditis\n\n▪ Si la persona interessada ocupa un lloc de treball d'agent mediambiental, peó forestal, de tipus agrícola o veterinari: analítica amb la determinació d'immunitat enfront de toxoplasmosi, brucel·losi i febre Q.\n\nAquestos informes NO s’han d’adjuntar a la sol·licitud, s'han d'entregar al personal mèdic del SPRL quan li siguen requerits.\n\n**6.3. Tramitació de la notificació per l’òrgan de personal corresponent**\n\nL'òrgan de personal remetrà a l’SPRL en el termini màxim de 24 hores la comunicació juntament amb tota la documentació aportada per la persona interessada.\n\n**6.4. Identificació i valoració de riscos per l’SPRL**\n\nEl personal de l’SPRL procedirà a una revisió de l'avaluació de riscos del lloc de treball ocupat per la persona interessada, amb la finalitat de comprovar que les condicions de treball i possibles riscos no s'han modificat des de l'última avaluació, i determinar si continua la situació de no exposició al risc o si per contra és necessari adoptar alguna acció preventiva, en compliment del que es preveu en l'article 26 de la LPRL.\n\nS'estudiaran i valoraran, especialment, la naturalesa, el grau i la duració de l'exposició a agents, procediments o condicions de treball que puguen influir negativament en la salut de la persona interessada i proposarà les mesures preventives adequades a les característiques individuals. El personal mèdic de l’SPRL podrà citar a la persona interessada per a dur a terme els exàmens i proves que considere necessari. Així mateix haurà d'aportar els informes indicats en l’apartat anterior.\n\nL’SPRL emetrà un informe en el qual:\n\n▪ Es recolliran les actuacions tècniques y mèdiques realitzades.\n\n▪ S’establiran les conclusions i propostes d'actuació, sempre preservant el dret a la confidencialitat de les dades de salut.\n\nAquest informe serà remés tant a l'òrgan de personal com a la persona interessada com més prompte millor.\n\nEn el cas que es determine l'existència de risc biològic (immunitat negativa de la treballadora) es comunicarà de manera urgent tal situació tant a la persona interessada com a l'òrgan de personal competent perquè s'adopten de manera immediata les mesures indicades.\n\n**6.5. Implementació de las mesures necessàries**\n\nLes mesures proposades en l’informe de l’SPRL han de ser implementades per l'òrgan responsable corresponent (òrgan de personal, responsable del centre de treball, etc.).\n\nLa implantació de les mesures s'ha d'efectuar en el menor temps possible; en tot cas s'ha de garantir la no exposició al risc de la persona interessada mentre s'implementen les mesures correctores pertinents.\n\nEn cas que no siga possible eliminar els riscos avaluats mitjançant les mesures d'adaptació proposades, procedix efectuar un canvi de lloc de treball.\n\nSi aquest canvi de lloc no resultara tècnica o objectivament possible, o no puga raonablement exigir-se per motius justificats, podrà declarar-se el pas de la persona interessada a la situació de llicència per risc durant l'embaràs, durant el període necessari per a la protecció de la seua seguretat o de la seua salut i mentre persistisca la impossibilitat de reincorporar-se al seu lloc anterior o a un altre lloc compatible amb el seu estat.\n\n**6.6. Sol·licitud de la prestació per risc laboral durant l'embaràs i lactància**\n\nEn el cas que no siga possible el canvi de lloc de treball, l'òrgan competent en matèria de personal emetrà declaració sobre la impossibilitat d'adaptació del lloc de treball al no poder-se eliminar els riscos de totes les tasques realitzades. Esta declaració serà remesa a la persona interessada en el termini de 2 dies hàbils. Vegeu model en l'Annex 3.\n\nAmb aquest certificat i l’informe del Servei de Prevenció, la persona interessada sol·licitarà la prestació per [risc laboral durant l'embaràs o lactància](https://www.seg-social.es/wps/portal/wss/internet/Pensionistas/Servicios/34887/40968/41054?changeLanguage=va) mitjançant el procediment que la seua entitat gestora tinga establert:\n\n▪ En el cas que la treballadora este adscrita al Règim del Mutualisme Administratiu ([MUFACE](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwj98L75t6eMAxXOUKQEHbQZNroQFnoECBcQAQ&url=https%3A%2F%2Fwww.muface.es%2Fdam%2Fjcr%3Ae1ab312f-02df-4922-b165-951af900127d%2FDPS_11008_PARTE_EMBARAZO_LACTANCIA.pdf&usg=AOvVaw0nxrMAE_Zp71J9G8BJcwzJ&opi=89978449) o [MUGEJU](https://www.mugeju.es/sites/default/files/archivos/impresos/asistencia_sanitaria/Partes_de_baja.pdf)):\n\n- Si ha optat per l'assistència sanitària a través d'una de les entitats col·laboradores, serà el metge de la companyia que haja triat el que haurà d'emplenar el comunicat de llicència d'embaràs en el model oficial disponible en les web de de MUFACE y MUGEJU.\n\n- Si ha optat per l'assistència sanitària a través del Sistema Públic de Salut, serà el metge d'atenció primària que tinga assignat el que emplenarà este part en el mateix model del paràgraf anterior.\n\n▪ En el cas de les treballadores adscrites al Règim General de Seguretat Social, és en la mútua corresponent, segons la província a la qual estiga destinada (a Alacant [IBERMUTUA](https://www.ibermutua.es/tramite/riesgo-durante-embarazo/?_gl=1*1pgoly8*_up*MQ..*_ga*MTQ3OTYyMDgyNy4xNzIwMTc2Njk2*_ga_FLJZ3SN95C*MTcyMDE3NjY5Ni4xLjEuMTcyMDE3NjY5OC4wLjAuMA..), a Castelló [UNIÓN DE MUTUAS](https://www.uniondemutuas.es/va/documentacio-per-a-la-prestacio-per-risc-durant-lembaras-o-la-lactancia-natural-2/) i a València [UMIVALE](https://umivaleactiva.es/ca/por-que-elegirnos/prestaciones-economicas-trabajador/licencia-riesgo-embarazo-o-lactancia)), on haurà de fer la sol·licitud.\n\nL'òrgan competent en matèria de personal facilitarà tota la documentació necessària perquè la persona interessada puga realitzar la sol·licitud."
+    },
+    {
+      "type": "seccion",
+      "id": "sec-7",
+      "title": "7. Informació",
+      "content": "La conselleria o organisme autònom al qual estiga adscrit el lloc de treball de la persona interessada ha d'informar el Comité de Seguretat i Salut corresponent de les adaptacions, canvis de lloc de treball, o llicències per risc durant l'embaràs que s'hagen efectuat.\n\nNota: aquesta comunicació s'hauria d'incloure en algun dels procediments del Pla de Prevenció corresponent."
+    },
+    {
+      "type": "seccion",
+      "id": "sec-8",
+      "title": "8. Registre y arxiu de la documentació",
+      "content": "S'ha de conservar la documentació generada en el procés gestió d'adaptació o canvi de lloc de treball. En tot cas, és responsabilitat de cada conselleria o organisme autònom l'establiment d'un mètode de gestió documental.\n\nL’SPRL ha elaborat el procediment [SPRL-PPRL-09](https://prevencio.gva.es/documents/161660390/164793251/SPRL_PPRL_09_2018_VL/8ad5e1b8-6620-4739-89ff-132cb47b68c4) per al control de la documentació del sistema de gestió de prevenció de riscos laborals.\n\nL’SPRL podrà recaptar la documentació relacionada amb la gestió d'adaptació o canvi de lloc de treball al personal responsable dels diferents serveis i/o departaments afectats. Tota la documentació estarà a la disposició de l'Autoritat Laboral, tal com s'estableix en la LPRL."
+    },
+    {
+      "type": "seccion",
+      "id": "sec-9",
+      "title": "9. Annexos",
+      "content": "ANNEX 1. Comunicació de situació de embaràs, part recent o lactància. Model FSPRL-IOPRL-04-01.\n\nANNEX 2. Plantilla Informe per a la descripció de tasques del lloc de treball. Model FSPRL-IOPRL-04-02.\n\nANNEX 3. Declaració d’impossibilitat d’eliminació de riscos i de canvi de lloc de treball. Model FSPRL-IOPRL-04-03."
+    },
+    {
+      "type": "anexo",
+      "id": "anexo-1",
+      "title": "Annex 1. Comunicació de situació d’embaràs, part recent o lactància. Model FSPRL-IOPRL-",
+      "content": "[Document descarregable - veure botó de descàrrega]"
+    },
+    {
+      "type": "anexo",
+      "id": "anexo-2",
+      "title": "Annex 2. Plantilla informe per a la descripció de tasques del lloc de treball. Model FSPRL-",
+      "content": "[Document descarregable - veure botó de descàrrega]"
+    },
+    {
+      "type": "anexo",
+      "id": "anexo-3",
+      "title": "Annex 3. Declaració d’impossibilitat d’eliminació de riscos i de canvi de lloc de treball. Model",
+      "content": "[Document descarregable - veure botó de descàrrega]"
+    }
+  ]
+}

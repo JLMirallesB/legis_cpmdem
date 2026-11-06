@@ -133,10 +133,15 @@ function cribar(rutaDoc) {
             const clave = law.slug + '/' + node.id + '#' + ap.path;
             const nodo = law.slug + '/' + node.id;
             const bajoSubarbol = subarboles.some(sa => clave.startsWith(sa + '.'));
-            const estado = yaPuestos.has(clave) || yaPuestos.has(nodo + '#') ? 'EN LA FICHA'
+            // Una referencia puede anclarse por la última clave de la ruta si no es
+            // ambigua (lo comprueba npm run validate). Es la única forma de citar un
+            // apartado que cuelga de un encabezado en negrita, porque el encabezado
+            // —y con él la ruta completa— cambia de un idioma a otro.
+            const corta = ap.path.includes('.') ? nodo + '#' + ap.path.split('.').pop() : null;
+            const estado = yaPuestos.has(clave) || yaPuestos.has(nodo + '#') || (corta && yaPuestos.has(corta)) ? 'EN LA FICHA'
               : bajoSubarbol ? 'cubierto por el apartado padre'
               : nodosCompletos.has(nodo) ? 'cubierto por el nodo entero'
-                : yaDescartados.has(clave) ? 'descartado'
+                : yaDescartados.has(clave) || (corta && yaDescartados.has(corta)) ? 'descartado'
                   : null;
             if (estado && !TODOS) { decididos++; continue; }
             if (!estado) nuevos++;

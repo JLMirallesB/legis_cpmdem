@@ -22,7 +22,7 @@
     "bienestar y proteccion",
     "benestar i proteccio"
   ],
-  "updatedAt": "2026-10-18",
+  "updatedAt": "2026-11-06",
   "refs": [
     {
       "law": "ley-organica-2-2006",
@@ -228,6 +228,12 @@
       "article": "apartado-4",
       "apartado": "2",
       "reason": "Formación del profesorado"
+    },
+    {
+      "law": "resolucion-20-12-2024-agresiones",
+      "article": "preambulo",
+      "apartado": "0",
+      "reason": "Preámbulo; el protocolo atiende al personal agredido y no regula el plan de convivencia"
     }
   ],
   "related": [

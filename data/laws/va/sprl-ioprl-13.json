@@ -1,0 +1,141 @@
+{
+  "id": "sprl-ioprl-13",
+  "slug": "sprl-ioprl-13",
+  "type": "instrucciones",
+  "number": "SPRL-IOPRL-13",
+  "date": "2026-02-10",
+  "publishedIn": {
+    "source": "INVASSAT",
+    "number": "SPRL-IOPRL-13",
+    "date": "2026-02-10",
+    "url": "https://prevencio.gva.es/va/fp-instrucciones-operativas-de-trabajo/-/documentos/1626000980/folder/396262371",
+    "pdfUrl": "https://prevencio.gva.es/documents/161660390/396262371/SPRL_IOPRL_13+Instrucci%C3%B3+operativa+per+a+l%27adaptaci%C3%B3+o+canvi+de+lloc+per+motius+de+salut+en+l%27Administraci%C3%B3+de+la+Generalitat.pdf/96c8f29c-b6b5-4215-b55c-04fdc4e7b830"
+  },
+  "title": "Instrucció operativa SPRL-IOPRL-13. Adaptació o canvi de lloc de treball per motius de salut en l'Administració de la Generalitat",
+  "titleShort": "SPRL-IOPRL-13 - Adaptació o canvi de lloc per motius de salut",
+  "category": "prevencion_riesgos",
+  "vigpiracy": {
+    "status": "vigente",
+    "statusLabel": "Vigent",
+    "effectiveDate": "2026-02-10"
+  },
+  "legalAnalysis": {
+    "enactedPursuantTo": [
+      {
+        "title": "Llei 31/1995, de 8 de novembre, de prevenció de riscos laborals (art. 25)",
+        "relationship": "habilitante"
+      }
+    ],
+    "priorAffectations": [],
+    "posteriorAffectations": [],
+    "derogations": [],
+    "concordances": [
+      {
+        "lawId": "resolucion-inicio-curso-2026-2027",
+        "title": "Instruccions d'inici de curs 2026-2027 dels conservatoris de Música i Dansa",
+        "description": "L'apartat 3.2.11.2 (adaptació de llocs de treball) declara aplicable esta instrucció."
+      },
+      {
+        "lawId": "resolucion-inicio-curso-2025-2026",
+        "title": "Instruccions d'inici de curs 2025-2026 dels conservatoris de Música i Dansa",
+        "description": "L'apartat 3.2.9.1 remet a esta instrucció."
+      },
+      {
+        "lawId": "circular-1-2025-permisos",
+        "title": "Circular 1/2025 de permisos, llicències i reduccions de jornada",
+        "description": "El seu apartat 10 resumix el procediment de canvi o adaptació del lloc."
+      },
+      {
+        "lawId": "sprl-ioprl-04",
+        "title": "Instrucció operativa SPRL-IOPRL-04 (embaràs, part recent o lactància)",
+        "description": "Exclosa de l'abast d'esta (apartat 2): l'embaràs i la lactància tenen instrucció pròpia."
+      },
+      {
+        "lawId": "resolucion-20-12-2024-agresiones",
+        "title": "Resolució de 20 de desembre de 2024, protocol davant d’agressions al personal dels centres educatius",
+        "description": "El seu annex, apartat VI.6, permet a la persona agredida demanar l'adaptació o el canvi de lloc."
+      }
+    ]
+  },
+  "formModels": [
+    {
+      "id": "anexo-1",
+      "title": "Annex 1. Comunicació a l'òrgan de personal (FSPRL-IOPRL-13.01)",
+      "pdfUrl": "models/sprl-ioprl-13-anexo-1-va.docx"
+    }
+  ],
+  "scope": "general",
+  "territory": "autonomico",
+  "temporality": {
+    "type": "permanente"
+  },
+  "docType": "documentos",
+  "structure": [
+    {
+      "type": "preambulo",
+      "id": "preambulo",
+      "title": "Control del document",
+      "content": "Instrucció operativa del Servei de Prevenció de Riscos Laborals del Personal Propi de la Generalitat (INVASSAT). Codi SPRL-IOPRL-13, revisió 03, de 10/02/2026. Elaborada per l'SPRL; revisada per Adolfo Pino Justo, cap de servei de l'SPRL; aprovada per Juan Carlos Castellanos Alba, subdirector tècnic de l'INVASSAT.\n\n| Data | Modificacions respecte a l’edició anterior |\n|---|---|\n| 09/07/2019 | Primera redacció. |\n| 16/01/2024 | Nova redacció. |\n| 20/01/2026 | Actualització nou tràmit telemàtic. |\n| 10/02/2026 | Nova redacció, actualizació títol, adaptació de l’annex 1. |"
+    },
+    {
+      "type": "seccion",
+      "id": "sec-1",
+      "title": "1. Objecte",
+      "content": "Definir la forma en què es duen a terme les adaptacions o canvis de lloc de treball, regulant les pautes d'actuació perquè es garantisca la protecció eficaç del personal empleat públic, que per les seues característiques personals, o estat biològic conegut, inclosos aquells que tinguen reconeguda situació de discapacitat física, psíquica o sensorial, una vegada conegut, puga fer-ho especialment sensible a les condicions del lloc ocupat (article 25 de la Llei 31/95 de Prevenció de Riscos Laborals)."
+    },
+    {
+      "type": "seccion",
+      "id": "sec-2",
+      "title": "2. Alcance",
+      "content": "Esta instrucció s'aplicarà a totes les sol·licituds referides a mesures d'adaptació o canvi de lloc de treball, realitzades pel personal empleat públic en actiu (d'ara en avant persona interessada) inclòs dins de l'àmbit d'actuació d'aquest Servei de Prevenció de Riscos Laborals del Personal Propi (SPRL).\n\nNo s'aplicarà aquesta instrucció a:\n\n▪ Aquelles situacions no relacionades amb les condicions de treball en l'àmbit de la prevenció de riscos laborals (conciliació vida laboral, violència de gènere, distància al centre de treball, etc.).\n\n▪ Adaptacions o canvis de lloc de les empleades públiques embarassades o que es troben en període de lactància, que són objecte de la instrucció operativa [SPRL-IOPRL-04](https://prevencio.gva.es/documents/161660390/162707426/SPRL_IOPRL_04+Informaci%C3%B3+d%27inter%C3%A9s+per+a+empleades+en+situaci%C3%B3+d%27embar%C3%A0s%2C+part+recent+o+lact%C3%A0ncia.pdf/55484ba0-a489-4d90-bd95-bb2d38d0c79d?t=1730116069044)."
+    },
+    {
+      "type": "seccion",
+      "id": "sec-3",
+      "title": "3. Normativa de refèrencia",
+      "content": "Es considera la normativa següent:\n\n- Llei 31/1995, de 8 de novembre, de Prevenció de riscos laborals.\n\n- Llei 4/2021, de 16 d'abril, de la Funció pública valenciana.\n\n- Decret 3/2017, de 13 de gener, del Consell, pel qual s'aprova el Reglament de selecció, provisió de llocs de treball i mobilitat del personal de la funció pública valenciana.\n\n- Resolució de 31 de maig de 1995 de la Direcció General de Treball, per la qual es disposa el registre i publicació del II Conveni col·lectiu del personal laboral al servei de l'administració autonòmica.\n\nNo obstant, també poden ser aplicables altres normes."
+    },
+    {
+      "type": "seccion",
+      "id": "sec-4",
+      "title": "4. Documentació de referència",
+      "content": "S’ha utilitzat com a referència la següent documentació:\n\n- SPRL-PPRL-02.02 Procediment d’avaluació de riscos laborals.\n\n- SPRL-PPRL-11.00 Procediment per a la integració en la gestió dels canvis previsibles."
+    },
+    {
+      "type": "seccion",
+      "id": "sec-5",
+      "title": "5. Definicions",
+      "content": "A l'efecte del procediment es defineixen els següents conceptes:\n\n- Òrgan de personal. El servei de la conselleria o organisme autònom, a la qual pertany la persona interessada, entre les funcions de la qual està la gestió dels assumptes relacionats amb la Seguretat Social.\n\nAmb caràcter general, aquest òrgan serà la:\n\n▪ Direcció General de Funció Pública per al personal del sector de funció pública o organismes autònoms.\n\n▪ Direcció Territorial d'Educació per al personal del sector docent.\n\n▪ Direcció General de Justícia per al personal del sector de justícia."
+    },
+    {
+      "type": "seccion",
+      "id": "sec-6",
+      "title": "6. Desenvolupament",
+      "content": "**6.1. Inici**\n\nEl procés d'adaptació o canvi de lloc de treball pot iniciar-se:\n\n1. El personal gestionat per la direcció general competent en matèria de funció pública, inclòs el personal amb adscripció als sectors d’educació i justícia la dependència orgànica dels quals siga competència de funció pública, mitjançant [Sol·licitud d'adaptació o canvi de lloc per motius de salut, de discapacitat o diversitat funcional per al personal dependent de la Direcció General de Funció Pública](https://www.gva.es/va/inicio/procedimientos?id_proc=107949&id_caso=sollicitud) (Codi GVA: 107949).\n\nEl personal docent no universitari gestionat per la Conselleria amb competències en matèria d’Educació i el personal al servici de la Administració de Justícia gestionat per la Conselleria que exercisca las competències en matèria de justícia, mitjançant [SOL·LICITUD GENERAL ÚNICA d´iniciació i tramitació TELEMÁTICA de procediments de la Generalitat Valenciana](https://www.gva.es/va/inicio/procedimientos?id_proc=107949&id_caso=sollicitud) dirigit a l'òrgan de personal corresponent (vegeu apartat F). A l'efecte del seu emplenament s'ha de tindre en compte:\n\n- En l'apartat (G), Exposició de motius, haurà d'indicar:\n\n▪ situació administrativa (funcionari/a de carrera, interí/interina, laboral)\n\n▪ centre de treball\n\n▪ lloc de treball ocupat\n\n- En l'apartat (G), Sol·licitud haurà d’indicar únicament “adaptació/canvi de lloc de treball per motius de salut”, i si es troba en situació d'alta o baixa mèdica. La sol·licitud NO haurà d'anar acompanyada d'informes mèdics que, en tot cas, es sol·licitaran directament a la persona interessada des de la unitat mèdica de l’SPRL.\n\n2. D'ofici pel SPRL amb motiu de l'exercici de les seues funcions.\n\n**6.2. Actuació del SPRL**\n\nL'òrgan de personal, una vegada reba de la persona interessada la sol·licitud i comprovades les dades facilitades, donarà trasllat a l’SPRL de la sol·licitud adjuntant:\n\n- Dades administratives de la persona interessada: situació administrativa, centre de treball, i lloc de treball ocupat.\n\n- Descripció de les tasques del lloc de treball ocupat per la persona interessada. En cas d'iniciar-se el procés d'ofici per part de l’SPRL, este comunicarà tal circumstància a l'òrgan de personal, mitjançant el document de l'annex 1.\n\nL’SPRL desestimarà i retornarà, motivant-la, a l'òrgan de personal que l'haja remés aquelles sol·licituds d'adaptació o canvi de lloc de treball que s'incloguen en els següents casos:\n\n▪ Els motius siguen idèntics o anàlegs a una altra sol·licitud anterior de la persona interessada en les mateixes condicions de treball, i que haguera sigut desestimada o no fora necessari modificar el criteri mantingut prèviament.\n\n▪ L'origen siga degut a mancança d’equips o mitjans, manteniment deficient d'equips i llocs de treball, accessibilitat deficient o inadequada a l'edifici o al lloc de treball.\n\nSi és estimada la petició, el SPRL contactarà amb la persona interessada, telefònicament o per correu electrònic per a, després de delimitar el problema, programar les visites, exàmens o proves que considere necessari i sol·licitar-li, si és el cas, l’aportació dels informes mèdics que dispose relacionats amb el cas.\n\nAixí mateix, si es considera, l’SPRL estudiarà i valorarà les condicions de treball, especialment, la naturalesa, el grau i la duració de l'exposició a agents, procediments o condicions de treball que puguen influir negativament en la salut de la persona interessada i proposarà les mesures preventives adequades a les característiques individuals, en compliment del que es preveu en l'article 25 de l’LPRL.\n\nL’SPRL emetrà un informe, en el termini de 20 dies, exceptuant el que està disposat en la Llei 39/2015, d'1 d'octubre, del Procediment administratiu comú de les administracions públiques a l'efecte de paralització de terminis.\n\nEste informe podrà establir que:\n\n1. És procedent una adaptació del lloc de treball, indicant-se el tipus de mesures que s'han d'implementar per a efectuar aquesta adaptació.\n\nSi es requerix un canvi de tasques, s’indicaran de manera detallada tant les tasques pròpies del lloc de treball que no resulten compatibles amb l'estat de salut de la persona interessada, com les tasques que sí que pot exercir i si es requerixen o no adaptacions per a estes.\n\n2. És necessari efectuar un canvi de lloc de treball. En este informe indicarà que no és possible l'adaptació del lloc de treball, i les característiques que haurà de reunir el nou lloc de treball.\n\n3. L’SPRL finalitzarà l'expedient i no emetrà informe si la persona interessada:\n\n▪ No acudix a la citació a l'efecte de l'avaluació i no justifica la incompareixença a esta.\n\n▪ No atén la sol·licitud d'aportar la documentació necessària per a valorar el seu cas. L'informe emés per l’SPRL, o l’escrit motivat de la finalització d’este procés, serà remés a l'òrgan de personal peticionari perquè dicte la resolució que corresponga, i quedarà l’SPRL a disposició de possibles aclariments.\n\n**6.3. Actuació de l’òrgan de personal**\n\nRebut de l’SPLR l'informe, si escau una adaptació del lloc de treball (sense canvi de tasques) i no és possible dur a terme les mesures indicades, se sol·licitarà informe a l’SPRL sobre la idoneïtat de possibles mesures alternatives.\n\n**6.4. Terminis**\n\nL'adaptació o canvi de lloc de treball, es tramitarà amb caràcter preferent, i aplicarà el que es disposa a aquest efecte en la Llei 39/2015, d'1 d'octubre, del Procediment administratiu comú de les administracions públiques.\n\nL'aplicació d'esta instrucció no es veurà impedida per estar tramitant-se un expedient d'incapacitat a la persona interessada. Si recaiguera resolució en què es declare la incapacitat laboral permanent, l'òrgan de personal dictarà resolució en què es donarà per finalitzat el procediment, o es deixarà sense efecte l'adaptació o canvi de lloc de treball que s'haguera dictaminat. Aquesta resolució serà comunicada a l’SPRL."
+    },
+    {
+      "type": "seccion",
+      "id": "sec-7",
+      "title": "7. Informació",
+      "content": "La conselleria o organisme autònom al qual estiga adscrit el lloc de treball de la persona interessada ha d'informar el comité de seguretat i salut corresponent de les adaptacions i canvis de lloc de treball que s'hagen efectuat.\n\nNota: esta comunicació ha d'estar inclosa en els procediments detallats en el document de gestió del pla de prevenció corresponent."
+    },
+    {
+      "type": "seccion",
+      "id": "sec-8",
+      "title": "8. Registre i arxivament de la documentació",
+      "content": "S'ha de conservar la documentació generada en el procés gestió d'adaptació o canvi de lloc de treball. En tot cas, és responsabilitat de cada conselleria o organisme autònom l'establiment d'un mètode de gestió documental.\n\nL’SPRL ha elaborat el procediment [SPRL-PPRL-09](https://prevencio.gva.es/documents/161660390/164793251/SPRL_PPRL_09_2018_VL/8ad5e1b8-6620-4739-89ff-132cb47b68c4) per al control de la documentació del sistema de gestió de prevenció de riscos laborals.\n\nL’SPRL podrà sol·licitar la documentació relacionada amb la gestió d'adaptació o canvi de lloc de treball al personal responsable dels diferents serveis i/o departaments afectats. Tota la documentació estarà a la disposició de l'autoritat laboral, tal com s'establix en l’LPRL."
+    },
+    {
+      "type": "seccion",
+      "id": "sec-9",
+      "title": "9. Annexos",
+      "content": "ANNEX 1. Comunicació a l’òrgan de personal. Format FSPRL-IOPRL-13.01."
+    },
+    {
+      "type": "anexo",
+      "id": "anexo-1",
+      "title": "Annex 1. Comunicació a l’òrgan de personal. Format FSPRL-IOPRL-13.01",
+      "content": "[Document descarregable - veure botó de descàrrega]"
+    }
+  ]
+}

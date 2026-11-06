@@ -21,7 +21,7 @@
     "prefectura d'estudis",
     "cap d'estudis"
   ],
-  "updatedAt": "2026-08-19",
+  "updatedAt": "2026-11-06",
   "refs": [
     {
       "law": "circular-1-2026-ausencias",
@@ -392,6 +392,20 @@
         "va": "7daade2a"
       },
       "checkedAt": "2026-11-02"
+    },
+    {
+      "law": "resolucion-29-07-2022-reglamento-urc",
+      "article": "anexo-1-art-9",
+      "apartado": "2",
+      "hash": {
+        "es": "5584e856",
+        "va": "25e687aa"
+      },
+      "checkedAt": "2026-11-06",
+      "note": {
+        "es": "Al hacer los horarios, reserva a quien forme parte de la URC el día acordado para sus actuaciones",
+        "va": "En fer els horaris, reserva a qui forme part de la URC el dia acordat per a les seues actuacions"
+      }
     }
   ],
   "discarded": [

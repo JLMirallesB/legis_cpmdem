@@ -1,0 +1,141 @@
+{
+  "id": "sprl-ioprl-13",
+  "slug": "sprl-ioprl-13",
+  "type": "instrucciones",
+  "number": "SPRL-IOPRL-13",
+  "date": "2026-02-10",
+  "publishedIn": {
+    "source": "INVASSAT",
+    "number": "SPRL-IOPRL-13",
+    "date": "2026-02-10",
+    "url": "https://prevencio.gva.es/es/fp-instrucciones-operativas-de-trabajo/-/documentos/1626000980/folder/396262371",
+    "pdfUrl": "https://prevencio.gva.es/documents/161660390/396262371/SPRL_IOPRL_13+Instrucci%C3%B3n+operativa+para+la+adaptaci%C3%B3n+o+cambio+de+puesto+por+motivos+de+salud+en+la+Administraci%C3%B3n+de+la+Generalitat.pdf/c16f2f36-ac62-47ca-87d1-967bcd913ffd"
+  },
+  "title": "Instrucción operativa SPRL-IOPRL-13. Adaptación o cambio de puesto de trabajo por motivos de salud en la Administración de la Generalitat",
+  "titleShort": "SPRL-IOPRL-13 - Adaptación o cambio de puesto por motivos de salud",
+  "category": "prevencion_riesgos",
+  "vigpiracy": {
+    "status": "vigente",
+    "statusLabel": "Vigente",
+    "effectiveDate": "2026-02-10"
+  },
+  "legalAnalysis": {
+    "enactedPursuantTo": [
+      {
+        "title": "Ley 31/1995, de 8 de noviembre, de prevención de riesgos laborales (art. 25)",
+        "relationship": "habilitante"
+      }
+    ],
+    "priorAffectations": [],
+    "posteriorAffectations": [],
+    "derogations": [],
+    "concordances": [
+      {
+        "lawId": "resolucion-inicio-curso-2026-2027",
+        "title": "Instrucciones de inicio de curso 2026-2027 de los conservatorios de Música y Danza",
+        "description": "El apartado 3.2.11.2 (adaptación de puestos de trabajo) declara de aplicación esta instrucción."
+      },
+      {
+        "lawId": "resolucion-inicio-curso-2025-2026",
+        "title": "Instrucciones de inicio de curso 2025-2026 de los conservatorios de Música y Danza",
+        "description": "El apartado 3.2.9.1 remite a esta instrucción."
+      },
+      {
+        "lawId": "circular-1-2025-permisos",
+        "title": "Circular 1/2025 de permisos, licencias y reducciones de jornada",
+        "description": "Su apartado 10 resume el procedimiento de cambio o adaptación del puesto."
+      },
+      {
+        "lawId": "sprl-ioprl-04",
+        "title": "Instrucción operativa SPRL-IOPRL-04 (embarazo, parto reciente o lactancia)",
+        "description": "Excluida del alcance de esta (apartado 2): el embarazo y la lactancia tienen instrucción propia."
+      },
+      {
+        "lawId": "resolucion-20-12-2024-agresiones",
+        "title": "Resolución de 20 de diciembre de 2024, protocolo ante agresiones al personal de los centros educativos",
+        "description": "Su anexo, apartado VI.6, permite a la persona agredida pedir la adaptación o el cambio de puesto."
+      }
+    ]
+  },
+  "formModels": [
+    {
+      "id": "anexo-1",
+      "title": "Anexo 1. Comunicación al órgano de personal (FSPRL-IOPRL-13.01)",
+      "pdfUrl": "models/sprl-ioprl-13-anexo-1-es.docx"
+    }
+  ],
+  "scope": "general",
+  "territory": "autonomico",
+  "temporality": {
+    "type": "permanente"
+  },
+  "docType": "documentos",
+  "structure": [
+    {
+      "type": "preambulo",
+      "id": "preambulo",
+      "title": "Control del documento",
+      "content": "Instrucción operativa del Servicio de Prevención de Riesgos Laborales del Personal Propio de la Generalitat (INVASSAT). Código SPRL-IOPRL-13, revisión 03, de 10/02/2026. Elaborada por el SPRL; revisada por Adolfo Pino Justo, jefe de servicio del SPRL; aprobada por Juan Carlos Castellanos Alba, subdirector técnico del INVASSAT.\n\n| Fecha | Modificaciones respecto a la edición anterior |\n|---|---|\n| 09/07/2019 | Primera redacción. |\n| 16/01/2024 | Nueva redacción. |\n| 20/01/2026 | Actualización nuevo trámite telemático. |\n| 10/02/2026 | Nueva redacción, actualización título, adaptación del anexo 1. |"
+    },
+    {
+      "type": "seccion",
+      "id": "sec-1",
+      "title": "1. Objeto",
+      "content": "Definir la forma en que se llevan a cabo las adaptaciones o cambios de puesto de trabajo, regulando las pautas de actuación para que se garantice la protección eficaz del personal empleado público, que por sus características personales, o estado biológico conocido, incluidos aquellos que tengan reconocida situación de discapacidad física, psíquica o sensorial, una vez conocido, pueda hacerlo especialmente sensible a las condiciones del puesto ocupado (artículo 25 de la Ley 31/95 de Prevención de Riesgos Laborales)."
+    },
+    {
+      "type": "seccion",
+      "id": "sec-2",
+      "title": "2. Alcance",
+      "content": "Esta instrucción se aplicará a todas las solicitudes referidas a medidas de adaptación y/o cambio de puesto de trabajo, realizadas por el personal empleado público (en adelante persona interesada) incluido dentro del ámbito de actuación del Servicio de Prevención de Riesgos Laborales del Personal Propio de la Generalitat (SPRL).\n\nNo se aplicará esta instrucción a:\n\n▪ Aquellas situaciones no relacionadas con las condiciones de trabajo en el ámbito de la prevención de riesgos laborales (conciliación vida laboral, violencia de género, distancia al centro de trabajo, etc.).\n\n▪ Adaptaciones o cambios de puesto de las empleadas públicas embarazadas, en situación de parto reciente o que se encuentren en periodo de lactancia, que son objeto de la instrucción operativa específica [SPRL-IOPRL-04](https://prevencio.gva.es/documents/161660390/162707426/SPRL_IOPRL_04+Informaci%C3%B3n+de+inter%C3%A9s+para+empleadas+en+situaci%C3%B3n+de+embarazo%2C+parto+reciente+o+lactancia.pdf/947b4c8f-ad15-4dda-a411-a69fcfceb062?t=1614688362043)."
+    },
+    {
+      "type": "seccion",
+      "id": "sec-3",
+      "title": "3. Normativa de referencia",
+      "content": "Se considera la normativa siguiente:\n\n- Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales.\n\n- Ley 4/2021, de 16 de abril, de la Función Pública Valenciana.\n\n- Decreto 3/2017, de 13 de enero, del Consell, por el que se aprueba el Reglamento de selección, provisión de puestos de trabajo y movilidad del personal de la función pública valenciana.\n\n- [Resolución de 31 de mayo de 1995 de la Dirección General de Trabajo](http://www.dogv.gva.es/datos/1995/06/12/pdf/1995_835040.pdf), por la que se dispone el registro y publicación del II Convenio colectivo del personal laboral al servicio de la administración autonómica.\n\nNo obstante, otras normas pueden ser de aplicación."
+    },
+    {
+      "type": "seccion",
+      "id": "sec-4",
+      "title": "4. Documentación de referencia",
+      "content": "Se ha utilizado como referencia la siguiente documentación:\n\n- SPRL-PPRL-02.02 Procedimiento de evaluación de riesgos laborales.\n\n- SPRL-PPRL-11.00 Procedimiento para la integración en la gestión de los cambios previsibles."
+    },
+    {
+      "type": "seccion",
+      "id": "sec-5",
+      "title": "5. Definiciones",
+      "content": "A los efectos del procedimiento se definen los siguientes conceptos:\n\n- Órgano de personal. El servicio o unidad de la conselleria u organismo autónomo, a la que pertenece la persona interesada, entre cuyas funciones está la gestión de los asuntos relacionados con la Seguridad Social.\n\nCon carácter específico, este órgano será:\n\n▪ Dirección General de Función Pública para el personal del sector de función pública u organismos autónomos.\n\n▪ Dirección Territorial de Educación para el personal del sector docente.\n\n▪ Dirección General de Justicia para el personal del sector de justicia."
+    },
+    {
+      "type": "seccion",
+      "id": "sec-6",
+      "title": "6. Desarrollo",
+      "content": "**6.1. Inicio**\n\nEl proceso de adaptación o cambio de puesto de trabajo puede iniciarse:\n\n1. El personal gestionado por la dirección general competente en materia de función pública, incluido el personal con adscripción a los sectores de educación y justicia cuya dependencia orgánica sea competencia de función pública, mediante [Solicitud de adaptación o cambio de puesto por motivos de salud, de discapacidad o diversidad funcional para el personal dependiente de la Dirección General de Función Pública](https://www.gva.es/es/inicio/procedimientos?id_proc=107949&id_caso=sollicitud#presentacion) (Código GVA: 107949).\n\nEl personal docente no universitario gestionado por la Conselleria con competencias en materia de Educación y el personal al servicio de la Administración de Justicia gestionado por la Conselleria que ostente las competencias en materia de justicia, mediante [SOLICITUD GENERAL ÚNICA de iniciación y tramitación TELEMÁTICA de procedimientos de la Generalitat Valenciana](https://www.gva.es/es/inicio/procedimientos?id_proc=g95565) dirigido al órgano de personal correspondiente (ver apartado F). A efectos de su cumplimentación se debe tener en cuenta:\n\n- En el apartado (G) Exposición de motivos deberá indicar:\n\n▪ Situación administrativa (funcionario/a de carrera, interino/interina, laboral).\n\n▪ Centro de trabajo.\n\n▪ Puesto de trabajo ocupado.\n\n- En el apartado (G) Solicitud indicar únicamente “adaptación/cambio de puesto de trabajo por motivos de salud”, y si se encuentra en situación de alta o baja médica. La solicitud NO deberá ir acompañada de informes médicos que, en todo caso, se solicitarán directamente a la persona interesada desde la unidad médica del SPRL. La solicitud NO deberá ir acompañada de informes médicos que, en todo caso, se solicitarán directamente a la persona interesada desde la unidad médica del SPRL.\n\n2. De oficio por el SPRL con motivo del ejercicio de sus funciones.\n\n**6.2. Actuación del SPRL**\n\nEl órgano de personal, una vez reciba de la persona interesada la solicitud y comprobados los datos facilitados, dará traslado al SPRL de la solicitud adjuntando:\n\n- Datos administrativos de la persona interesada: situación administrativa, centro de trabajo y puesto que ocupa.\n\n- Descripción de las tareas del puesto de trabajo ocupado por esta.\n\nEn caso de iniciarse el proceso de oficio por parte del SPRL, este comunicará tal circunstancia al órgano de personal, mediante el documento del anexo 1.\n\nEl SPRL desestimará y devolverá, motivándola, al órgano de personal que la haya remitido aquellas solicitudes de adaptación o cambio de puesto de trabajo que se incluyan en los siguientes casos:\n\n▪ Los motivos sean idénticos o análogos a otra solicitud anterior de la persona interesada en las mismas condiciones de trabajo, y que hubiera sido desestimada o no fuera necesario modificar el criterio mantenido previamente.\n\n▪ El origen sea debido a falta de equipos y/o medios, mantenimiento deficiente de equipos y lugares de trabajo, accesibilidad deficiente o inadecuada al edificio y/o al puesto de trabajo.\n\nSi es estimada la petición, el SPRL contactará con la persona interesada, telefónicamente o por correo electrónico para, tras delimitar el problema, programar las visitas, exámenes o pruebas que considere necesario y solicitarle, en su caso, que aporte los informes médicos que disponga relacionados con el caso.\n\nAsí mismo, si se considera, el SPRL estudiará y valorará las condiciones de trabajo, especialmente, la naturaleza, el grado y la duración de la exposición a agentes, procedimientos o condiciones de trabajo que puedan influir negativamente en la salud de la persona interesada y propondrá las medidas preventivas adecuadas a las características individuales, en cumplimiento de lo que se prevé en el artículo 25 de la LPRL.\n\nEl SPRL emitirá un informe, en el plazo de 20 días, salvo lo dispuesto en Ley 39/2015, de 1 de octubre, del Procedimiento administrativo común de las administraciones públicas a efectos de paralización de plazos.\n\nDicho informe podrá establecer que:\n\n1. Procede una adaptación del puesto de trabajo, indicándose el tipo de medidas que se deben implementar para efectuar dicha adaptación.\n\nEn caso de que se requiera un cambio de tareas, se indicarán de forma detallada tanto las tareas propias del puesto de trabajo que no resultan compatibles con el estado de salud de la persona interesada, como aquellas que sí puede desempeñar y si se requieren o no adaptaciones para estas.\n\n2. Es necesario efectuar un cambio de puesto de trabajo, se indicará que no es posible la adaptación del puesto y se especificarán las características que deberá reunir el nuevo puesto de trabajo.\n\n3. El SPRL finalizará el expediente y no emitirá informe si la persona interesada:\n\n▪ No acude a la citación a efectos de la evaluación y no justifica la incomparecencia a la misma.\n\n▪ No atiende la solicitud de aportar la documentación necesaria para valorar su caso. El informe emitido por el SPRL, o el escrito motivado de la finalización de este proceso, será remitido al órgano de personal peticionario para que dicte la resolución que corresponda, quedando el SPRL a disposición de posibles aclaraciones.\n\n**6.3. Actuación del órgano de personal**\n\nRecibido del SPLR el informe, si procede una adaptación del puesto de trabajo (sin cambio de tareas) y no fuera posible llevar a cabo las medidas indicadas, se solicitará informe al SPRL sobre la idoneidad de posibles medidas alternativas.\n\n**6.4. Plazos**\n\nLa adaptación o cambio de puesto de trabajo, se tramitará con carácter preferente, y aplicará lo dispuesto al efecto en la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.\n\nLa aplicación de esta instrucción no se verá impedida por estar tramitándose un expediente de incapacidad a la persona interesada. Si recayera resolución declarando la incapacidad laboral permanente, el órgano de personal dictará resolución dando por finalizado el procedimiento, o dejando sin efecto la adaptación o cambio de puesto de trabajo que se hubiera dictaminado. Dicha resolución será comunicada al SPRL."
+    },
+    {
+      "type": "seccion",
+      "id": "sec-7",
+      "title": "7. Información",
+      "content": "La conselleria u organismo autónomo al que esté adscrito el puesto de trabajo de la persona interesada debe informar al Comité de Seguridad y Salud correspondiente de las adaptaciones y cambios de puesto de trabajo que se hayan efectuado.\n\nNota: esta comunicación se debería incluir entre de los procedimientos detallados del documento de gestión del Plan de Prevención correspondiente."
+    },
+    {
+      "type": "seccion",
+      "id": "sec-8",
+      "title": "8. Registro y archivo de la documentación",
+      "content": "Se debe conservar la documentación generada en el proceso gestión de adaptación o cambio de puesto de trabajo. En todo caso, es responsabilidad de cada conselleria u organismo autónomo el establecimiento de un método de gestión documental.\n\nEl SPRL ha elaborado el procedimiento SPRL-PPRL-09 para el control de la documentación del sistema de gestión de prevención de riesgos laborales.\n\nEl SPRL podrá recabar la documentación relacionada con la gestión de adaptación o cambio de puesto de trabajo al personal responsable de los diferentes servicios y/o departamentos afectados. Toda la documentación estará a disposición de la Autoridad Laboral, tal y como se establece en la LPRL."
+    },
+    {
+      "type": "seccion",
+      "id": "sec-9",
+      "title": "9. Anexos",
+      "content": "ANEXO 1. Comunicación de inicio proceso adaptación/cambio de puesto de trabajo. Formato FSPRL-IOPRL-13.01."
+    },
+    {
+      "type": "anexo",
+      "id": "anexo-1",
+      "title": "Anexo 1. Comunicación de inicio proceso adaptación/cambio de puesto de trabajo",
+      "content": "[Documento descargable - ver botón de descarga]"
+    }
+  ]
+}

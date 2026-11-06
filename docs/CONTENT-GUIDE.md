@@ -117,6 +117,7 @@ Ver `data/metadata/categories.json`:
 | `profesorado` | Profesorado |
 | `titulaciones` | Titulaciones |
 | `economica` | Gestión económica |
+| `prevencion_riesgos` | Prevención de riesgos laborales |
 | `convalidaciones` | Convalidaciones |
 | `tic` | TIC |
 | `obtencion_directa` | Obtención directa |

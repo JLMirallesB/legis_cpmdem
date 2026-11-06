@@ -28,7 +28,7 @@
     "director o directora",
     "directora o director"
   ],
-  "updatedAt": "2026-08-19",
+  "updatedAt": "2026-11-06",
   "refs": [
     {
       "law": "circular-1-2025-permisos",
@@ -1125,6 +1125,88 @@
         "va": "4da5580f"
       },
       "checkedAt": "2026-11-02"
+    },
+    {
+      "law": "resolucion-20-12-2024-agresiones",
+      "article": "anexo-1-sec-3",
+      "hash": {
+        "es": "06e6e943",
+        "va": "cb6d1d7b"
+      },
+      "checkedAt": "2026-11-06",
+      "note": {
+        "es": "Recibe la comunicación de cualquier agresión al personal",
+        "va": "Rep la comunicació de qualsevol agressió al personal"
+      }
+    },
+    {
+      "law": "resolucion-20-12-2024-agresiones",
+      "article": "anexo-1-sec-5",
+      "hash": {
+        "es": "2b08ba75",
+        "va": "9cbba68e"
+      },
+      "checkedAt": "2026-11-06",
+      "note": {
+        "es": "Actuaciones ante una agresión: registro PREVI, informe, comunicación a Fiscalía, comunicado de accidente de trabajo",
+        "va": "Actuacions davant d'una agressió: registre PREVI, informe, comunicació a la Fiscalia, comunicat d'accident de treball"
+      }
+    },
+    {
+      "law": "resolucion-20-12-2024-agresiones",
+      "article": "anexo-1-sec-6",
+      "apartado": "4",
+      "hash": {
+        "es": "b9d71d94",
+        "va": "f0e9f8b1"
+      },
+      "checkedAt": "2026-11-06",
+      "note": {
+        "es": "Su informe acompaña la solicitud de asistencia jurídica de la persona agredida",
+        "va": "El seu informe acompanya la sol·licitud d'assistència jurídica de la persona agredida"
+      }
+    },
+    {
+      "law": "protocolo-acoso-laboral-docentes",
+      "article": "sec-7",
+      "apartado": "2",
+      "hash": {
+        "es": "01d2fbb7",
+        "va": "7d576533"
+      },
+      "checkedAt": "2026-11-06",
+      "note": {
+        "es": "Puede pedir la actuación de la URC ante un posible acoso laboral",
+        "va": "Pot demanar l'actuació de la URC davant d'un possible assetjament laboral"
+      }
+    },
+    {
+      "law": "sprl-ioprl-04",
+      "article": "sec-6",
+      "apartado": "6.1",
+      "hash": {
+        "es": "593a9f2b",
+        "va": "417f8a7d"
+      },
+      "checkedAt": "2026-11-06",
+      "note": {
+        "es": "Como responsable del centro, traslada al órgano de personal la comunicación de embarazo o lactancia con la descripción de tareas",
+        "va": "Com a responsable del centre, trasllada a l'òrgan de personal la comunicació d'embaràs o lactància amb la descripció de tasques"
+      }
+    },
+    {
+      "law": "sprl-ioprl-12",
+      "article": "sec-5",
+      "apartado": "0",
+      "hash": {
+        "es": "ac634d2f",
+        "va": "051ced45"
+      },
+      "checkedAt": "2026-11-06",
+      "note": {
+        "es": "Como órgano responsable: medios, contrato con el gestor y designación de quien gestiona los residuos peligrosos",
+        "va": "Com a òrgan responsable: mitjans, contracte amb el gestor i designació de qui gestiona els residus perillosos"
+      }
     }
   ],
   "discarded": [
@@ -1662,6 +1744,42 @@
       "article": "art-7",
       "apartado": "5",
       "reason": "Repite el informe motivado de la dirección que ya regula el apartado 4, citado en la ficha"
+    },
+    {
+      "law": "resolucion-20-12-2024-agresiones",
+      "article": "anexo-1-sec-6",
+      "apartado": "1",
+      "reason": "Facultad de la persona agredida; la recepción por la dirección ya está en el apartado III"
+    },
+    {
+      "law": "resolucion-20-12-2024-agresiones",
+      "article": "anexo-1-sec-7",
+      "apartado": "1",
+      "reason": "Función de la inspección (asesorar a la dirección), no de la dirección"
+    },
+    {
+      "law": "resolucion-20-12-2024-agresiones",
+      "article": "anexo-1-sec-8",
+      "apartado": "0",
+      "reason": "Actuación de la dirección territorial; la de la dirección del centro ya está en V y VI.4"
+    },
+    {
+      "law": "resolucion-20-12-2024-agresiones",
+      "article": "anexo-1-sec-12",
+      "apartado": "1",
+      "reason": "Composición de la comisión de seguimiento (directores generales), no la dirección del centro"
+    },
+    {
+      "law": "resolucion-29-07-2022-reglamento-urc",
+      "article": "anexo-1-art-9",
+      "apartado": "4",
+      "reason": "La convocatoria justifica la ausencia ante la dirección: mención, no le atribuye función"
+    },
+    {
+      "law": "sprl-ioprl-04",
+      "article": "sec-5",
+      "apartado": "0",
+      "reason": "Definiciones; la tarea de la persona responsable del centro se cita en 6.1"
     }
   ],
   "titleTerms": [

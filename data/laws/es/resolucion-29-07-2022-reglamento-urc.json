@@ -1,0 +1,218 @@
+{
+  "id": "resolucion-29-07-2022-reglamento-urc",
+  "slug": "resolucion-29-07-2022-reglamento-urc",
+  "type": "resolucion",
+  "number": "29/07/2022",
+  "date": "2022-07-29",
+  "publishedIn": {
+    "source": "CEICE",
+    "number": "",
+    "date": "2022-07-29",
+    "url": "https://ceice.gva.es/documents/162909733/363674847/Reglamento+URC+CAS.pdf/3ad7101e-af31-adba-ecb5-1b49bfb7d0e2",
+    "pdfUrl": "https://ceice.gva.es/documents/162909733/363674847/Reglamento+URC+CAS.pdf/3ad7101e-af31-adba-ecb5-1b49bfb7d0e2"
+  },
+  "title": "Resolución de 29 de julio de 2022, de la Dirección General de Personal Docente, por la que se aprueba el reglamento de funcionamiento interno de la Unidad de Resolución de Conflictos (URC) constituida en la Dirección Territorial de Educación, Cultura y Deporte",
+  "titleShort": "Reglamento de las Unidades de Resolución de Conflictos (URC)",
+  "category": "prevencion_riesgos",
+  "vigpiracy": {
+    "status": "vigente",
+    "statusLabel": "Vigente",
+    "effectiveDate": "2022-07-29"
+  },
+  "legalAnalysis": {
+    "enactedPursuantTo": [
+      {
+        "lawId": "protocolo-acoso-laboral-docentes",
+        "title": "Protocolo de prevención y actuación ante el acoso laboral en centros docentes (2017), apartado 5.1",
+        "articles": [
+          "sec-5"
+        ],
+        "relationship": "desarrollo"
+      },
+      {
+        "title": "Decreto 173/2020, de 30 de octubre, del Consell, de aprobación del Reglamento orgánico y funcional de la Conselleria de Educación, Cultura y Deporte (art. 8)",
+        "relationship": "habilitante"
+      }
+    ],
+    "priorAffectations": [],
+    "posteriorAffectations": [],
+    "derogations": [],
+    "concordances": [
+      {
+        "lawId": "ley-40-2015",
+        "title": "Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público",
+        "description": "Arts. 18 (actas), 23 y 24 (abstención y recusación), a los que remiten los arts. 5 y 16 del reglamento."
+      }
+    ]
+  },
+  "promulgation": {
+    "place": "València",
+    "date": "2022-07-29",
+    "signatories": [
+      {
+        "name": "María Ángeles Herranz Ábalos",
+        "role": "Directora general de Personal Docente"
+      }
+    ]
+  },
+  "scope": "general",
+  "territory": "autonomico",
+  "temporality": {
+    "type": "permanente"
+  },
+  "docType": "documentos",
+  "structure": [
+    {
+      "type": "preambulo",
+      "id": "preambulo",
+      "title": "Preámbulo",
+      "content": "La Constitución Española reconoce, como derechos fundamentales, entre otros, la dignidad de la persona, la integridad física y moral, el derecho al honor, a la intimidad personal y familiar y a la propia imagen. Además de este reconocimiento constitucional, el personal empleado público tiene reconocidos por normativa, entre otros derechos individuales, el de la protección efectiva frente al acoso laboral de cualquier naturaleza (acoso moral, sexual, por razón del sexo, discriminatorio u otras situaciones de violencia laboral).\n\nEl acoso laboral refleja conductas y comportamientos que, calificados en algún caso por el ordenamiento jurídico como delito, están tipificados en el ámbito administrativo por el Estatuto Básico del Empleado Público y por la normativa autonómica valenciana de función pública, como faltas muy graves.\n\nPara materializar la protección frente a este tipo de acciones, se ha redactado el Protocolo de Prevención y Actuación ante el Acoso Laboral en centros docentes dependientes de la Conselleria de Educación, Investigación, Cultura y Deporte, (de ahora en adelante Protocolo de 2017) aprobado en la Comisión Sectorial de Seguridad y Salud en el Trabajo el 4 de octubre de 2017 y, constituye, el marco general para la prevención y actuación ante el acoso escolar en el contexto educativo valenciano.\n\nEn el apartado 5 del citado Protocolo, se prevé la constitución de una Unidad de Resolución de Conflictos (en adelante URC) en la Dirección Territorial de Educación, Cultura y Deporte de cada provincia y que cada URC, redactará su propio Reglamento de Funcionamiento Interno que será aprobado por el departamento de personal correspondiente.\n\nEn conformidad con el Decreto 173/2020, de 30 de octubre, del Consell, de aprobación del Reglamento Orgánico y Funcional de la Conselleria de Educación, Cultura y Deporte de 7 de mayo, y en uso de las atribuciones conferidas en el artículo 8, esta Dirección General de Personal Docente, resuelvo:"
+    },
+    {
+      "type": "articulo",
+      "id": "apartado-unico",
+      "title": "Único",
+      "content": "Aprobar el Reglamento de funcionamiento interno de la Unidad de Resolución de Conflictos como unidad competente constituida en la Dirección Territorial de Cultura, Educación y Deporte, que figura como anexo."
+    },
+    {
+      "type": "anexo",
+      "id": "anexo-1",
+      "title": "Anexo. Reglamento de funcionamiento interno de la Unidad de Resolución de Conflictos (URC)",
+      "children": [
+        {
+          "type": "articulo",
+          "id": "anexo-1-art-1",
+          "number": "1",
+          "title": "Artículo 1. Objeto",
+          "content": "El presente Reglamento tiene por objeto regular la composición y el funcionamiento interno de la URC, que se constituye en la Dirección Territorial de Educación, Cultura y Deporte, en aplicación del Protocolo de Prevención y Actuación ante el Acoso Laboral aprobado en centros docentes, dependientes de la Conselleria de Educación, Cultura y Deporte, (de ahora en adelante Protocolo 2017), aprobado el 4 de octubre de 2017."
+        },
+        {
+          "type": "articulo",
+          "id": "anexo-1-art-2",
+          "number": "2",
+          "title": "Artículo 2. Ámbito de aplicación",
+          "content": "Este reglamento se aplicará en la URC de la Dirección Territorial de Educación, Cultura y Deporte, con referencia a todo el personal empleado público perteneciente al sector docente no universitario que preste servicios en los centros o servicios educativos dependientes de la Conselleria de Educación, Cultura y Deporte, con independencia de cuál sea su relación jurídica con la Administración de la Generalitat."
+        },
+        {
+          "type": "articulo",
+          "id": "anexo-1-art-3",
+          "number": "3",
+          "title": "Artículo 3. Composición",
+          "content": "1. La composición de la URC se ajustará a lo dispuesto en el apartado 5.1.1 del Protocolo de 2017 y estará formada por cuatro personas titulares y dos suplentes que son:\n\na) Dos representantes de la administración educativa, designadas por la titular de la Dirección Territorial de Educación, Cultura y Deporte, y una persona suplente.\n\nb) Dos personas representantes de los agentes sociales, (personas delegadas de prevención), a propuesta del Comité de Seguridad Laboral y Salud en el Trabajo, y una persona suplente. Esta información se hará pública y se articularán los mecanismos necesarios para la sustitución de las personas componentes.\n\n3. La composición de la URC será paritaria en cuanto a la representación de la administración y de los agentes sociales (sindicatos) y también lo será en cuanto al género y en la titularidad. Las excepciones serán justificadas.\n\n4. Cada persona componente de la URC, tiene que disponer de formación adecuada para detectar o gestionar cualquier tipo de situación de acoso laboral. Esta formación será proporcionada por el departamento de la Consellería de Educación, Cultura y Deporte con competencias en formación del profesorado."
+        },
+        {
+          "type": "articulo",
+          "id": "anexo-1-art-4",
+          "number": "4",
+          "title": "Artículo 4. Acreditaciones",
+          "content": "1. La Dirección Territorial de Educación correspondiente trasladará la propuesta de nombramiento o cese del personal componente de la URC, a la Dirección General de Personal Docente que, mediante resolución, nombrará o cesará a sus componentes.\n\n2. La condición de componente de la URC se acredita con la resolución de nombramiento en la que constará el personal docente representado.\n\n3. No obstante lo anterior, y a efectos de facilitar el ejercicio de las atribuciones recogidas en el artículo 7 de este reglamento, la Dirección Territorial de Educación, Cultura y Deporte expedirá, a cada componente de la URC, el documento acreditativo de esta condición."
+        },
+        {
+          "type": "articulo",
+          "id": "anexo-1-art-5",
+          "number": "5",
+          "title": "Artículo 5. Abstención y recusación",
+          "content": "1. Las personas componentes de la URC estarán sujetas a la normativa general vigente respecto a las obligaciones de abstención y recusación y se regirán por lo establecido en los artículos 23 y 24 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público.\n\n2. Así mismo, para garantizar la independencia en la toma de decisiones, se entenderá que existe causa de abstención o de recusación, cuando:\n\na) Coincida la afiliación sindical de la persona solicitante de la intervención, o la denunciada con la de la organización sindical que le haya correspondido intervenir por la URC.\n\nb) La persona representante de la administración tuviera funciones de supervisión sobre el centro o servicio educativo implicado, o bien hubiera intervenido en relación con los hechos o las personas implicadas en las cuestiones que se aborden en la URC, salvo que hubiera transcurrido un plazo superior a 5 años."
+        },
+        {
+          "type": "articulo",
+          "id": "anexo-1-art-6",
+          "number": "6",
+          "title": "Artículo 6. Organización",
+          "content": "1. La URC elegirá, por votación secreta de sus integrantes, de entre las personas representantes de la administración educativa, a la persona que realizará las funciones de coordinación. La persona coordinadora desempeñará la función de presidencia y secretaría y será la responsable de:\n- Realizar las convocatorias de reunión con 48 horas de antelación, sin que sea imprescindible establecer un orden de día específico.\n- Organizar la documentación de los expedientes administrativos que se encuentren en proceso de tramitación.\n- Redactar y levantar las actas de las sesiones conforme se recoge en el artículo 16 de este reglamento, así como dar traslado de estas a la unidad administrativa que tiene asignada la Dirección Territorial de Educación para su archivo y custodia.\n\n2. La URC es un órgano mancomunado salvo en la formación de la voluntad, que se regirá con carácter general por la legislación de régimen jurídico de las administraciones públicas relativas a órganos colegiados.\n\n3. En las actuaciones presenciales con las personas afectadas, la URC estará representada de forma paritaria por dos componentes de esta, tanto a nivel numérico como de género, salvo excepciones debidamente justificadas.\n\n4. La URC podrá solicitar a través de la Dirección Territorial de Educación, siempre que se considere conveniente y justificando la necesidad, la presencia de personas expertas.\n\n5. En cualquier caso, cuando se trate de hechos que se refieran a un posible acoso sexual, la URC trasladará el caso directamente al Servicio de Prevención de Riesgos Laborales Propio de la Generalitat (INVASSAT)."
+        },
+        {
+          "type": "articulo",
+          "id": "anexo-1-art-7",
+          "number": "7",
+          "title": "Artículo 7. Funciones de la URC",
+          "content": "A la URC le corresponden las funciones establecidas en el punto 5.1.2. del Protocolo de 2017, y son las siguientes:\n\na) Gestionar, informar, atender, mediar u orientar las situaciones conflictivas recibidas que puedan posibilitar cuadros de acoso laboral por medio de estrategias de mediación y proponer actuaciones para su prevención y resolución así como realizar un seguimiento de las medidas propuestas.\n\nb) Evaluar y diagnosticar un informe de la situación y proponer acciones a las diferentes instancias que se requieran."
+        },
+        {
+          "type": "articulo",
+          "id": "anexo-1-art-8",
+          "number": "8",
+          "title": "Artículo 8. Atribuciones del personal componente de la URC",
+          "content": "Para el desarrollo de las funciones anteriores, las personas componentes de la URC se acogerán a las atribuciones descritas en el apartado 5.1.3 del Protocolo de 2017, que son:\n\na) Acceder a los centros y dependencias del ámbito de actuación.\n\nb) Acceder a la información y documentación necesarias en el ejercicio de sus funciones.\n\nc) Realizar entrevistas al personal empleado público que sea pertinente en el transcurso del procedimiento.\n\nd) Solicitar apoyo y asesoramiento de personal experto cuando se estime conveniente."
+        },
+        {
+          "type": "articulo",
+          "id": "anexo-1-art-9",
+          "number": "9",
+          "title": "Artículo 9. Disponibilidad del personal componente de la URC",
+          "content": "En cumplimiento del apartado IV. Permisos sindicales, punto 8, del Pacto de acción sindical subscrito por la Conselleria de Educación, Investigación, Cultura y Deporte y las organizaciones sindicales (DOGV 18.09.2017), se establece que, a los efectos de facilitar las actuaciones del personal representante de los agentes sociales en cuanto a su condición de delegados o delegadas de prevención de riesgos laborales, se disponga de un crédito horario, para cada uno, de cuatro horas semanales, dos de las cuales serán lectivas, para realizar tareas en este ámbito de actuación. Estas horas han de constar en el horario individual de cada delegado elaborado por el centro educativo donde trabaje.\n\nPara facilitar su actuación como componente de la URC se adoptarán las siguientes medidas:\n\n1. La URC acordará un día de la semana para llevar a cabo sus actuaciones (sesiones internas, entrevistas, visitas a centros).\n\n2. Los centros educativos, a la hora de confeccionar los horarios del personal docente componente de la URC, tendrán en cuenta el día que han acordado para las actuaciones de esta, facilitándoles la disponibilidad horaria, para minimizar, así, la repercusión que pueda tener en el centro la ausencia del personal docente que forme parte de la URC.\n\n3.La Dirección Territorial de Educación establecerá las medidas oportunas para la compensación horaria de las personas representantes de la Administración designadas para la URC, siempre que actúen fuera de su horario laboral.\n\n4. Si por causa debidamente justificada, la persona coordinadora de la URC tuviese que convocar para llevar a cabo alguna actuación sobrevenida en un día diferente al acordado, la convocatoria tendrá validez a efectos de justificar su ausencia ante la dirección del centro docente."
+        },
+        {
+          "type": "articulo",
+          "id": "anexo-1-art-10",
+          "number": "10",
+          "title": "Artículo 10. Consideraciones en la actuación de la URC",
+          "content": "1. En todo momento deberá guardar el debido sigilo y confidencialidad en todos los asuntos en que intervenga, observando un estricto respeto con lo que prevé la Ley de Protección de Datos de Carácter Personal.\n\n2. Todo el procedimiento debe estar dotado de rigor y cautela.\n\n3. Ante una denuncia de acoso en el entorno laboral la actuación deberá ser ágil y rápida, protegiendo en todo momento la intimidad, confidencialidad y dignidad de las personas afectadas.\n\n4. En todos los casos se garantizará la seguridad y la salud de la víctima, teniendo en cuenta las consecuencias físicas o psicológicas que pudieran derivarse.\n\n5. Se protegerán también los derechos de las personas acusadas, respetando la presunción de inocencia y evitando que las actuaciones preventivas sean interpretadas como prueba de culpabilidad. Se deben prevenir el daño injusto y el riesgo para la salud de la persona acusada o de terceras personas, derivados de las denuncias por acoso y de las actuaciones como consecuencia de estas."
+        },
+        {
+          "type": "articulo",
+          "id": "anexo-1-art-11",
+          "number": "11",
+          "title": "Artículo 11. Solicitudes de intervención",
+          "content": "Podrán solicitar la actuación de la URC:\n\n1. Las personas implicadas.\n\n2. Las personas delegadas de prevención de riesgos laborales, componentes de juntas de personal y de comités de empresas.\n\n3. El órgano administrativo (Inspección de Educación, Servicio de Prevención de Riesgos Laborales, dirección de centros docentes, o cualquier otro órgano de la administración educativa) que tenga conocimiento de alguna situación conflictiva que pueda posibilitar algún cuadro de acoso laboral, debiendo contar con el consentimiento de la persona docente afectada.\n\nTodas las solicitudes de actuación deberán ser puestas en conocimiento de la persona coordinadora de la URC, la cual:\n\na) Convocará a las personas componentes de la URC o trasladará al órgano pertinente los casos de conductas que no admitan mediación o que, presuntamente, puedan ser considerados comportamientos delictivos.\n\nb) Activará las actuaciones establecidas en la Fase I. Inicio del Procedimiento, del Protocolo de 2017.\n\nLa solicitud de intervención de la URC se remitirá mediante registro de entrada a la Dirección Territorial de Educación, quien, a su vez, lo comunicará a la URC a través del correo electrónico u otro medio de comunicación establecido al efecto que agilice su tramitación."
+        },
+        {
+          "type": "articulo",
+          "id": "anexo-1-art-12",
+          "number": "12",
+          "title": "Artículo 12. Sesiones",
+          "content": "1. Cada sesión se considerará válidamente constituida con la asistencia de tres de sus componentes, entre los que siempre se encontrarán las dos personas representantes de la Administración.\n\n2. En la sesión se decidirá las personas componentes que tratarán directamente con la persona afectada."
+        },
+        {
+          "type": "articulo",
+          "id": "anexo-1-art-13",
+          "number": "13",
+          "title": "Artículo 13. Procedimiento de actuación",
+          "content": "1. En el procedimiento de actuación de la URC, se regirá por lo estipulado en el Protocolo de 2017.\n\n2. Al inicio de un procedimiento se abrirá un expediente con una numeración correlativa dentro de cada curso escolar."
+        },
+        {
+          "type": "articulo",
+          "id": "anexo-1-art-14",
+          "number": "14",
+          "title": "Artículo 14. Coordinación con otros sectores",
+          "content": "1. En el caso que la situación conflictiva implique al personal del centro, tanto del sector docente como del sector no docente, (personal empleado público de la administración de la Generalitat), se constituirá la URC de ambos sectores que actuarán de forma coordinada en la resolución de la situación generada.\n\n2. En este supuesto, se constituirá una URC conjunta que estará integrada por 2 componentes: una persona representante de la Administración y un representante de los agentes sociales por cada sector al que pertenezca la parte afectada.\n\n3. El procedimiento de actuación de la URC conjunta se regirá por lo estipulado en el Protocolo de 2017 y por lo establecido en el presente reglamento."
+        },
+        {
+          "type": "articulo",
+          "id": "anexo-1-art-15",
+          "number": "15",
+          "title": "Artículo 15. Decisiones y acuerdos",
+          "content": "1.Las decisiones y acuerdos se adoptarán por unanimidad y, en caso de no alcanzarse ésta, se regirá por la legislación de Régimen Jurídico de las administraciones públicas relativas a órganos colegiados, ejerciendo la persona coordinadora las funciones de presidencia.\n\n2. Conforme determina el Protocolo de 2017, una vez la URC ha dejado constancia de las medidas adoptadas, se remitirán de inmediato a la Dirección Territorial de Educación, que será la responsable de elaborar una propuesta de resolución a la Dirección General de Personal Docente."
+        },
+        {
+          "type": "articulo",
+          "id": "anexo-1-art-16",
+          "number": "16",
+          "title": "Artículo 16. Actas",
+          "content": "1. La persona coordinadora redactará y levantará acta de cada sesión, con el contenido previsto en el artículo 18 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público.\n\n2. Las actas se leerán en la siguiente sesión que se celebre, en la que se procederá a su aprobación o, en su caso, rectificación y posterior aprobación.\n\n3. La persona coordinadora será responsable de guardar el debido sigilo y confidencialidad de las actas y dará traslado de estas a la unidad administrativa asignada por la Dirección Territorial de Educación competente.\n\n4. Cualquier componente tiene derecho a solicitar la transcripción íntegra de su intervención o propuesta, siempre que aporte, en el transcurso de la sesión, copia escrita de la misma, que se adjuntará al acta como anexo. En la información transcrita se velará por el cumplimiento de la legislación en materia de protección de datos personales y de las garantías de sigilo y confidencialidad."
+        },
+        {
+          "type": "articulo",
+          "id": "anexo-1-art-17",
+          "number": "17",
+          "title": "Artículo 17. Finalización del procedimiento",
+          "content": "1. El procedimiento de intervención de la URC finalizará con la remisión de un informe de propuesta de actuación. De acuerdo con este informe, la Dirección Territorial de Educación, decidirá cuál de las siguientes actuaciones procede:\n- El archivo del expediente.\n- El desarrollo de las actuaciones que están en el ámbito de sus competencias.\n- La Propuesta de Resolución a la Dirección General de Personal Docente, para que se adopten las medidas oportunas.\n\n2. Todas las actuaciones generadas en el procedimiento quedarán reflejadas en las actas que serán archivadas en la Dirección Territorial de Educación y custodiadas por la Unidad Administrativa asignada por esta.\n\n3. La Dirección Territorial de Educación será la encargada de notificar las medidas adoptadas o la resolución de la situación del conflicto, a la URC, a la persona interesada y a los órganos implicados en las medidas adoptadas."
+        },
+        {
+          "type": "articulo",
+          "id": "anexo-1-art-18",
+          "number": "18",
+          "title": "Artículo 18. Régimen Jurídico",
+          "content": "La URC se regirá por el Protocolo de 2017 y por lo dispuesto en este Reglamento. Asimismo, será de aplicación la legislación vigente referida a esta materia."
+        },
+        {
+          "type": "articulo",
+          "id": "anexo-1-art-19",
+          "number": "19",
+          "title": "Artículo 19. Modificación del Reglamento",
+          "content": "1. La modificación de este Reglamento podrá solicitarse por las URC a la Dirección General con competencias en Personal Docente.\n\n2. Este reglamento se publicará en el portal del funcionario de la página web de la Conselleria de Educación, Cultura y Deporte."
+        }
+      ]
+    }
+  ]
+}

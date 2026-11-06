@@ -1,0 +1,158 @@
+{
+  "id": "sprl-ioprl-04",
+  "slug": "sprl-ioprl-04",
+  "type": "instrucciones",
+  "number": "SPRL-IOPRL-04",
+  "date": "2025-03-31",
+  "publishedIn": {
+    "source": "INVASSAT",
+    "number": "SPRL-IOPRL-04",
+    "date": "2025-03-31",
+    "url": "https://prevencio.gva.es/es/fp-instrucciones-operativas-de-trabajo/-/documentos/1626000980/folder/396260297",
+    "pdfUrl": "https://prevencio.gva.es/documents/161660390/396260297/SPRL_IOPRL_04+Informaci%C3%B3n+de+inter%C3%A9s+para+empleadas+en+situaci%C3%B3n+de+embarazo%2C+parto+reciente+o+lactancia.pdf/947b4c8f-ad15-4dda-a411-a69fcfceb062"
+  },
+  "title": "Instrucción operativa SPRL-IOPRL-04. Valoración del puesto de trabajo por situación de embarazo, parto reciente o lactancia",
+  "titleShort": "SPRL-IOPRL-04 - Embarazo, parto reciente o lactancia",
+  "category": "prevencion_riesgos",
+  "vigpiracy": {
+    "status": "vigente",
+    "statusLabel": "Vigente",
+    "effectiveDate": "2025-03-31"
+  },
+  "legalAnalysis": {
+    "enactedPursuantTo": [
+      {
+        "title": "Ley 31/1995, de 8 de noviembre, de prevención de riesgos laborales (art. 26)",
+        "relationship": "habilitante"
+      }
+    ],
+    "priorAffectations": [],
+    "posteriorAffectations": [],
+    "derogations": [],
+    "concordances": [
+      {
+        "lawId": "resolucion-inicio-curso-2026-2027",
+        "title": "Instrucciones de inicio de curso 2026-2027 de los conservatorios de Música y Danza",
+        "description": "El apartado 3.2.11.3 (valoración de riesgo durante el embarazo y la lactancia) declara de aplicación esta instrucción."
+      },
+      {
+        "lawId": "resolucion-inicio-curso-2025-2026",
+        "title": "Instrucciones de inicio de curso 2025-2026 de los conservatorios de Música y Danza",
+        "description": "El apartado 3.2.9 remite al procedimiento de esta instrucción."
+      },
+      {
+        "lawId": "circular-1-2025-permisos",
+        "title": "Circular 1/2025 de permisos, licencias y reducciones de jornada",
+        "description": "Su apartado 9 resume esta instrucción y enlaza una edición anterior (la 04.04)."
+      },
+      {
+        "lawId": "sprl-ioprl-13",
+        "title": "Instrucción operativa SPRL-IOPRL-13 (adaptación o cambio de puesto por motivos de salud)",
+        "description": "Instrucción general de adaptación de puestos; deja fuera el embarazo y la lactancia, que se rigen por esta."
+      }
+    ]
+  },
+  "formModels": [
+    {
+      "id": "anexo-1",
+      "title": "Anexo 1. Comunicación de situación de embarazo, parto reciente o lactancia",
+      "pdfUrl": "models/sprl-ioprl-04-anexo-1-es.docx"
+    },
+    {
+      "id": "anexo-2",
+      "title": "Anexo 2. Descripción de tareas del puesto de trabajo",
+      "pdfUrl": "models/sprl-ioprl-04-anexo-2-es.docx"
+    },
+    {
+      "id": "anexo-3",
+      "title": "Anexo 3. Declaración de imposibilidad de eliminación de riesgos y de cambio de puesto",
+      "pdfUrl": "models/sprl-ioprl-04-anexo-3-es.docx"
+    }
+  ],
+  "scope": "general",
+  "territory": "autonomico",
+  "temporality": {
+    "type": "permanente"
+  },
+  "docType": "documentos",
+  "structure": [
+    {
+      "type": "preambulo",
+      "id": "preambulo",
+      "title": "Control del documento",
+      "content": "Instrucción operativa del Servicio de Prevención de Riesgos Laborales del Personal Propio de la Generalitat (INVASSAT). Código SPRL-IOPRL-04, revisión 08, de 31/03/2025. Elaborada por el SPRL; revisada por Adolfo Pino Justo, jefe de servicio del SPRL; aprobada por Juan Carlos Castellanos Alba, subdirector técnico del INVASSAT.\n\n| Fecha | Modificaciones respecto a la edición anterior |\n|---|---|\n| 19/06/2015 | Modificación punto 4.1 y 4.2 y Anexo 5.3. |\n| 16/02/2017 | Modificación punto 4 y anexos. |\n| 11/05/2017 | Modificación del lenguaje de género. |\n| 22/05/2019 | Modificación de la IO tras la aprobación del SPRL_PPRL_11. Gestión de los cambios previsibles. |\n| 04/10/2023 | Nueva redacción. |\n| 23/09/2024 | Modificación primer párrafo del punto 6.2 |\n| 08/10/2024 | Modificación formato Anexo I |\n| 31/03/2025 | Cambio redacción apartados 6.5 y 6.6 |"
+    },
+    {
+      "type": "seccion",
+      "id": "sec-1",
+      "title": "1. Objeto",
+      "content": "Definir la forma en que se llevan a cabo la valoración de riesgos del puesto de trabajo ocupado por empleadas públicas embarazadas, que hayan dado a luz, o en periodo de lactancia, cuyas características personales o estado biológico, una vez conocido, pueden hacerlas especialmente sensibles a las condiciones del puesto ocupado e influir negativamente en su seguridad o salud, la del feto o del niño durante el período de lactancia natural."
+    },
+    {
+      "type": "seccion",
+      "id": "sec-2",
+      "title": "2. Alcance",
+      "content": "Todas las solicitudes de valoración de riesgos del puesto de trabajo de las empleadas públicas en situación de embarazo, parto reciente o en periodo de lactancia, en adelante, persona interesada, bajo el ámbito de actuación del Servicio de Prevención de Riesgos Laborales del Personal Propio de la Generalitat (SPRL)."
+    },
+    {
+      "type": "seccion",
+      "id": "sec-3",
+      "title": "3. Marco normativo",
+      "content": "Se considera la siguiente normativa:\n\n- Ley 31/1995, de 8 de noviembre de 1995, de Prevención de Riesgos Laborales.\n\n- Ley 4/2021, de 16 de abril, de la Función Pública Valenciana.\n\n- Real decreto 298/2009, de 6 de marzo, por el que se modifica el Real Decreto 39/1997, de 17 de enero, por el que se aprueba el Reglamento de los Servicios de Prevención, en relación con la aplicación de medidas para promover la mejora de la seguridad y de la salud en el trabajo de la trabajadora embarazada, que haya dado a luz o en período de lactancia.\n\n- Real Decreto 295/2009, de 6 de marzo, por el que se regulan las prestaciones económicas del sistema de la Seguridad Social por maternidad, paternidad, riesgo durante el embarazo y riesgo durante la lactancia natural.\n\n- [Resolución de 31 de mayo de 1995 de la Dirección General de Trabajo](http://www.dogv.gva.es/datos/1995/06/12/pdf/1995_835040.pdf), por la que se dispone el registro y publicación del II Convenio colectivo del personal laboral al servicio de la administración autonómica.\n\n- Real Decreto Legislativo 4/2000, de 23 de junio, por el que se aprueba el texto refundido de la Ley sobre Seguridad Social de los Funcionarios Civiles del Estado.\n\n- Real Decreto 2/2010, de 8 de enero, por el que se modifica el Reglamento General del Mutualismo Administrativo, aprobado por Real Decreto 375/2003, de 28 de marzo, en materia de incapacidad temporal y de riesgo durante el embarazo y durante la lactancia natural."
+    },
+    {
+      "type": "seccion",
+      "id": "sec-4",
+      "title": "4. Documentación de referencia",
+      "content": "Se ha utilizado como referencia la siguiente documentación:\n\n- SPRL-PPRL-02.02 Procedimiento de evaluación de riesgos laborales.\n\n- SPRL-PPRL-11.00 Procedimiento para la integración en la gestión de los cambios previsibles.\n\n- SPRL-ITPRL-11.01 Criterio del SPRL para la evaluación de riesgos para el embarazo."
+    },
+    {
+      "type": "seccion",
+      "id": "sec-5",
+      "title": "5. Definiciones",
+      "content": "A los efectos de la instrucción se definen los siguientes conceptos:\n\n- Órgano de personal. El servicio o unidad de la conselleria u organismo autónomo, al que pertenece la persona interesada entre cuyas funciones está la gestión de los asuntos relacionados con la Seguridad Social o con el régimen del mutualismo administrativo (MUFACE y MUGEJU).\n\nCon carácter específico, este órgano será:\n\n▪ Dirección General de Función Pública para el personal del sector de función pública u organismos autónomos.\n\n▪ Dirección Territorial de Educación para el personal del sector docente.\n\n▪ Dirección General de Justicia para el personal del sector de justicia.\n\n- Responsable del centro de trabajo. Persona designada por la dirección del centro, con capacidad para gestionar el centro de trabajo y a su personal, encargada de efectuar las tareas indicadas en la presente instrucción operativa."
+    },
+    {
+      "type": "seccion",
+      "id": "sec-6",
+      "title": "6. Solicitud de valoración del puesto de trabajo",
+      "content": "**6.1. Inicio. Presentación de la solicitud**\n\nLa persona interesada comunicará su estado de embarazo, parto reciente o lactancia a la persona responsable de su centro de trabajo, mediante el documento FSPRL-IOPRL-04-01 Comunicación de situación de embarazo, parto reciente o lactancia.\n\nLa persona responsable del centro de trabajo deberá trasladar dicha comunicación al órgano de personal, acompañándola de:\n\n▪ Descripción exhaustiva de las tareas que realiza para que se proceda, en su caso, a evaluar las condiciones del puesto de trabajo (ver anexo 2).\n\n▪ En el caso de los centros educativos, además, el curso o cursos en los imparte docencia en el momento de la cumplimentación de la solicitud, indicando si la persona interesada está más del 50% de la jornada semanal en aulas de educación infantil, 1º o 2º de primaria. Si imparte la asignatura de educación física se indicará el programa formativo que se imparte en el curso escolar correspondiente.\n\n▪ En el caso que la persona interesada ocupe un puesto en cuya evaluación de riesgos se ha identificado el riesgo de agresión, informe justificativo en el que se describa la existencia o no de antecedentes de este tipo y/o la problemática social o docente que implicaría dicho riesgo (como mínimo en el último año), a fin de poder valorar la situación de riesgo.\n\nEl órgano de personal deberá trasladar la solicitud junto con la documentación anterior al SPRL.\n\n**6.2. Otros informes**\n\nLa persona interesada deberá disponer de los informes:\n\n▪ Informe fechado de su especialista en Obstetricia y Ginecología donde indique tipo de embarazo (único/múltiple), semanas de gestación, fecha probable de parto y si la gestación es de curso normal o presenta complicaciones clínicas que puedan interferir en la misma.\n\n▪ Si la persona interesada ocupa un puesto de trabajo en un centro educativo: analítica con la determinación de inmunidad frente a rubeola, varicela, citomegalovirus, sarampión, parvovirus B19 y parotiditis.\n\n▪ Si la persona interesada ocupa un puesto de trabajo de agente medioambiental, peón forestal, de tipo agrícola o veterinario: analítica con la determinación de inmunidad frente a toxoplasma, brucelosis y fiebre Q.\n\nEstos informes NO se deben adjuntar a la solicitud, se deben entregar al personal médico del\n\nSPRL cuando le sean requeridos.\n\n**6.3. Tramitación de la comunicación por el órgano de personal correspondiente**\n\nEl órgano de personal remitirá al SPRL en el plazo máximo de 24 horas la comunicación acompañada del correspondiente oficio de remisión, junto con toda la documentación aportada por la persona interesada.\n\n**6.4. Identificación y valoración de riesgos por el SPRL**\n\nEl personal del SPRL procederá a una revisión de la evaluación de riesgos del puesto de trabajo ocupado por la trabajadora en situación de embarazo, parto reciente o lactancia, con el fin de comprobar que las condiciones de trabajo y posibles riesgos no se han modificado desde la última evaluación, y determinar si continúa la situación de no exposición al riesgo o, si por el contrario, es necesario adoptar alguna acción preventiva, en cumplimiento de lo previsto en el artículo 26 de la LPRL.\n\nSe estudiarán y valorarán, especialmente, la naturaleza, el grado y la duración de la exposición a agentes, procedimientos o condiciones de trabajo que puedan influir negativamente en la salud de la persona interesada y propondrá las medidas preventivas adecuadas a las características individuales.\n\nEl personal médico del SPRL podrá citar a la persona interesada para llevar a cabo los exámenes y pruebas que considere necesario, momento en que deberá aportar los informes indicados anteriormente.\n\nEl SPRL emitirá un informe en el que:\n\n▪ se recogerán las actuaciones técnicas y médicas realizadas.\n\n▪ conclusiones y propuestas de actuación, siempre preservando el derecho a la confidencialidad de los datos de salud.\n\nDicho informe será remitido tanto al órgano de personal como a la persona interesada a la mayor brevedad posible.\n\nEn el caso de que se determine la existencia de riesgo biológico (inmunidad negativa de la trabajadora) se comunicará de forma urgente tal situación tanto a la trabajadora como al órgano de personal competente para que se adopten de forma inmediata las medidas indicadas.\n\n**6.5. Implementación de las medidas necesarias**\n\nLas medidas de adaptación propuestas en el informe del SPRL deben ser implementadas por el órgano responsable correspondiente (órgano de personal, el responsable del centro de trabajo, etc.).\n\nLa implantación de las medidas se debe efectuar en el menor tiempo posible; en todo caso se debe garantizar la no exposición al riesgo de la persona interesada mientras se llevan a cabo las medidas correctoras pertinentes.\n\nEn caso de que no sea posible eliminar los riesgos evaluados mediante las medidas de adaptación propuestas procede efectuar un cambio de puesto de trabajo.\n\nSi dicho cambio de puesto no resultara técnica u objetivamente posible, o no pueda razonablemente exigirse por motivos justificados, podrá declararse el paso de la persona interesada a la situación de licencia por riesgo durante el embarazo, durante el periodo necesario para la protección de su seguridad o de su salud y mientras persista la imposibilidad de reincorporarse a su puesto anterior o a otro puesto compatible con su estado.\n\n**6.6. Solicitud de la prestación por riesgo laboral durante el embarazo y lactancia**\n\nEn el caso que no sea posible el cambio de puesto de trabajo, el órgano competente en materia de personal emitirá declaración sobre la imposibilidad de adaptación del puesto de trabajo al no poderse eliminar los riesgos de todas las tareas realizadas. Dicha declaración será remitida a la persona interesada en el plazo de 2 días hábiles. Ver modelo en el anexo 3.\n\nCon este declaración y el informe del Servicio de Prevención, la persona interesada solicitará la prestación por [riesgo laboral durante el embarazo o lactancia](https://www.seg-social.es/wps/portal/wss/internet/Pensionistas/Servicios/34887/40968/41054?changeLanguage=es) a través del procedimiento que tenga establecida su entidad gestora:\n\n▪ En el caso de que la trabajadora este adscrita al Régimen del Mutualismo Administrativo ([MUFACE](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwj98L75t6eMAxXOUKQEHbQZNroQFnoECBcQAQ&url=https%3A%2F%2Fwww.muface.es%2Fdam%2Fjcr%3Ae1ab312f-02df-4922-b165-951af900127d%2FDPS_11008_PARTE_EMBARAZO_LACTANCIA.pdf&usg=AOvVaw0nxrMAE_Zp71J9G8BJcwzJ&opi=89978449) o [MUGEJU](https://www.mugeju.es/sites/default/files/archivos/impresos/asistencia_sanitaria/Partes_de_baja.pdf)):\n\n- Si ha optado por la asistencia sanitaria a través de una de las entidades colaboradoras, será el médico de la compañía que haya elegido el que deberá cumplimentar el parte de licencia de embarazo en el modelo oficial disponible en las web de MUFACE y MUGEJU.\n\n- Si ha optado por la asistencia sanitaria a través del Sistema Público de Salud, será el médico de atención primaria que tenga asignado el que cumplimentará dicho parte en el mismo modelo del párrafo anterior.\n\n▪ En el caso de las trabajadoras adscritas al Régimen General de Seguridad Social, es en la mutua correspondiente, según la provincia a la que esté destinada (en Alicante [IBERMUTUA](https://www.ibermutua.es/tramite/riesgo-durante-embarazo/?_gl=1*1pgoly8*_up*MQ..*_ga*MTQ3OTYyMDgyNy4xNzIwMTc2Njk2*_ga_FLJZ3SN95C*MTcyMDE3NjY5Ni4xLjEuMTcyMDE3NjY5OC4wLjAuMA..), en Castellón [UNIÓN DE MUTUAS](https://www.uniondemutuas.es/es/documentacion-para-la-prestacion-por-riesgo-durante-el-embarazo-o-la-lactancia-natural/) y en Valencia [UMIVALE](https://umivaleactiva.es/por-que-elegirnos/prestaciones-economicas-trabajador/licencia-riesgo-embarazo-o-lactancia)), donde deberá hacer la solicitud.\n\nEl órgano competente en materia de personal facilitará toda la documentación necesaria para que la persona interesada pueda realizar la solicitud."
+    },
+    {
+      "type": "seccion",
+      "id": "sec-7",
+      "title": "7. Información",
+      "content": "La conselleria u organismo autónomo al que esté adscrito el puesto de trabajo de la persona interesada debe informar al Comité de Seguridad y Salud correspondiente de las adaptaciones, cambios de puesto de trabajo, o licencias por riesgo durante el embarazo que se hayan efectuado.\n\nNota: esta comunicación se debería incluir en alguno de los procedimientos del Plan de Prevención correspondiente."
+    },
+    {
+      "type": "seccion",
+      "id": "sec-8",
+      "title": "8. Registro y archivo de la documentación",
+      "content": "Se debe conservar la documentación generada en el proceso gestión de adaptación o cambio de puesto de trabajo. En todo caso, es responsabilidad de cada conselleria u organismo autónomo el establecimiento de un método de gestión documental. El SPRL ha elaborado el procedimiento [SPRL-PPRL-09](https://prevencio.gva.es/documents/161660390/164793251/SPRL_PPRL_09_2018_CS/e6dcf16e-e206-4452-88f2-f0c29b0a03d7) para el control de la documentación del sistema de gestión de prevención de riesgos laborales.\n\nEl SPRL podrá recabar la documentación relacionada con la gestión de adaptación o cambio de puesto de trabajo al personal responsable de los diferentes servicios y/o departamentos afectados. Toda la documentación estará a disposición de la Autoridad Laboral, tal y como se establece en la LPRL."
+    },
+    {
+      "type": "seccion",
+      "id": "sec-9",
+      "title": "9. Anexos",
+      "content": "ANEXO 1. Comunicación de situación de embarazo, parto reciente o lactancia. Modelo FSPRL-IOPRL-04-01.\n\nANEXO 2. Plantilla Informe para la descripción de tareas de puesto de trabajo. Modelo FSPRL-IOPRL-04-02.\n\nANEXO 3. Declaración de imposibilidad de eliminación de riesgos y de cambio de puesto de trabajo. Modelo FSPRL-IOPRL-04-03."
+    },
+    {
+      "type": "anexo",
+      "id": "anexo-1",
+      "title": "Anexo 1. Comunicación de situación de embarazo, parto reciente o lactancia. Modelo",
+      "content": "[Documento descargable - ver botón de descarga]"
+    },
+    {
+      "type": "anexo",
+      "id": "anexo-2",
+      "title": "Anexo 2. Declaración sobre la descripción de tareas de puesto de trabajo. Modelo FSPRL-",
+      "content": "[Documento descargable - ver botón de descarga]"
+    },
+    {
+      "type": "anexo",
+      "id": "anexo-3",
+      "title": "Anexo 3. Declaración de imposibilidad de eliminación de riesgos y de cambio de puesto de",
+      "content": "[Documento descargable - ver botón de descarga]"
+    }
+  ]
+}

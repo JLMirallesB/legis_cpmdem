@@ -18,7 +18,7 @@
     "consejo escolar",
     "consell escolar"
   ],
-  "updatedAt": "2026-08-19",
+  "updatedAt": "2026-11-06",
   "refs": [
     {
       "law": "decreto-193-2025",
@@ -786,6 +786,20 @@
         "va": "c8d257d8"
       },
       "checkedAt": "2026-10-18"
+    },
+    {
+      "law": "resolucion-20-12-2024-agresiones",
+      "article": "anexo-1-sec-5",
+      "apartado": "5",
+      "hash": {
+        "es": "056fa6d4",
+        "va": "0431b450"
+      },
+      "checkedAt": "2026-11-06",
+      "note": {
+        "es": "Su comisión de igualdad y convivencia es informada de las agresiones al personal",
+        "va": "La seua comissió d’igualtat i convivència és informada de les agressions al personal"
+      }
     }
   ],
   "discarded": [

@@ -22,7 +22,7 @@
     "coordinacio de",
     "figures de coordinacio"
   ],
-  "updatedAt": "2026-08-19",
+  "updatedAt": "2026-11-06",
   "refs": [
     {
       "law": "decreto-193-2025",
@@ -1043,6 +1043,55 @@
       "law": "decreto-80-2025",
       "article": "*",
       "reason": "Las coordinaciones que cita son de actividades formativas de la Administración (indemnizaciones por asistencias), no los cargos de coordinación del conservatorio"
+    },
+    {
+      "law": "resolucion-20-12-2024-agresiones",
+      "article": "preambulo",
+      "apartado": "0",
+      "reason": "Preámbulo: cita la coordinación de bienestar y protección del art. 124 de la LOE"
+    },
+    {
+      "law": "protocolo-acoso-laboral-docentes",
+      "article": "sec-3",
+      "apartado": "0",
+      "reason": "«Coordinación» del SPRL y la Inspección, no una coordinación del centro"
+    },
+    {
+      "law": "protocolo-acoso-laboral-docentes",
+      "article": "sec-5",
+      "apartado": "5.2.1",
+      "reason": "Coordinación de las inspecciones territoriales, no una coordinación del centro"
+    },
+    {
+      "law": "protocolo-acoso-laboral-docentes",
+      "article": "sec-9",
+      "apartado": "normativa-autonomica",
+      "reason": "Lista de normativa"
+    },
+    {
+      "law": "resolucion-29-07-2022-reglamento-urc",
+      "article": "anexo-1-art-6",
+      "reason": "Persona coordinadora de la URC, no una coordinación del centro"
+    },
+    {
+      "law": "resolucion-29-07-2022-reglamento-urc",
+      "article": "anexo-1-art-9",
+      "reason": "Persona coordinadora de la URC, no una coordinación del centro"
+    },
+    {
+      "law": "resolucion-29-07-2022-reglamento-urc",
+      "article": "anexo-1-art-11",
+      "reason": "Persona coordinadora de la URC, no una coordinación del centro"
+    },
+    {
+      "law": "resolucion-29-07-2022-reglamento-urc",
+      "article": "anexo-1-art-15",
+      "reason": "Persona coordinadora de la URC, no una coordinación del centro"
+    },
+    {
+      "law": "resolucion-29-07-2022-reglamento-urc",
+      "article": "anexo-1-art-16",
+      "reason": "Persona coordinadora de la URC, no una coordinación del centro"
     }
   ],
   "titleTerms": [

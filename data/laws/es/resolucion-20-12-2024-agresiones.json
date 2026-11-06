@@ -1,0 +1,216 @@
+{
+  "id": "resolucion-20-12-2024-agresiones",
+  "slug": "resolucion-20-12-2024-agresiones",
+  "type": "resolucion",
+  "number": "20/12/2024",
+  "date": "2024-12-20",
+  "publishedIn": {
+    "source": "DOGV",
+    "number": "10014",
+    "date": "2024-12-27",
+    "url": "https://dogv.gva.es/es/resultat-dogv?signatura=2024/13897",
+    "pdfUrl": "https://dogv.gva.es/datos/2024/12/27/pdf/2024_13897_es.pdf"
+  },
+  "title": "Resolución de 20 de diciembre de 2024, de la Conselleria de Educación, Cultura, Universidades y Empleo, por la que se establece el protocolo de apoyo, asesoramiento y acompañamiento al personal de los centros educativos ante agresiones producidas por el ejercicio de sus funciones",
+  "titleShort": "Res 20/12/2024 - Protocolo ante agresiones al personal de los centros educativos",
+  "category": "orientacion_convivencia",
+  "vigpiracy": {
+    "status": "vigente",
+    "statusLabel": "Vigente",
+    "effectiveDate": "2024-12-28"
+  },
+  "legalAnalysis": {
+    "enactedPursuantTo": [
+      {
+        "title": "Ley 15/2010, de 3 de diciembre, de la Generalitat, de autoridad del profesorado (arts. 7 y 8)",
+        "relationship": "desarrollo"
+      },
+      {
+        "title": "Ley 10/2005, de 9 de diciembre, de asistencia jurídica a la Generalitat (art. 11)",
+        "relationship": "conformidad"
+      },
+      {
+        "title": "Decreto 166/2024, de 12 de noviembre, del Consell, de aprobación del Reglamento orgánico y funcional de la Conselleria de Educación, Cultura, Universidades y Empleo",
+        "relationship": "habilitante"
+      }
+    ],
+    "priorAffectations": [
+      {
+        "lawId": "orden-62-2014",
+        "title": "Orden 62/2014, de 28 de julio, de la Conselleria de Educación, Cultura y Deporte, por la que se actualiza la normativa que regula la elaboración de los planes de convivencia en los centros educativos de la Comunitat Valenciana y se establecen los protocolos de actuación e intervención ante supuestos de violencia escolar",
+        "type": "modifica",
+        "date": "2024-12-28",
+        "description": "El apartado segundo adecua el anexo V (protocolo ante agresiones al profesorado y al personal) con el texto del anexo de esta resolución."
+      }
+    ],
+    "posteriorAffectations": [],
+    "derogations": [],
+    "concordances": [
+      {
+        "lawId": "decreto-193-2025",
+        "title": "Decreto 193/2025, de 12 de diciembre, del Consell, de la convivencia en el sistema educativo de la Comunitat Valenciana",
+        "description": "Deroga el Decreto 195/2022, que esta resolución cita (arts. 18, 19, 44 y 46). Su DT 1.ª mantiene en vigor los protocolos de la Orden 62/2014, cuyo anexo V es el que esta resolución adecua, y su art. 25.h tipifica como falta grave la agresión al profesorado."
+      },
+      {
+        "lawId": "ley-organica-2-2006",
+        "title": "Ley Orgánica 2/2006, de 3 de mayo, de Educación",
+        "description": "Arts. 104, 105 y 124 (reconocimiento y protección del profesorado, protocolos ante la violencia)."
+      },
+      {
+        "lawId": "sprl-ioprl-13",
+        "title": "SPRL-IOPRL-13. Instrucción operativa para la adaptación o cambio de puesto por motivos de salud en la Administración de la Generalitat",
+        "description": "El apartado VI.6 del anexo permite a la persona agredida pedir la adaptación o el cambio de puesto."
+      }
+    ]
+  },
+  "promulgation": {
+    "place": "València",
+    "date": "2024-12-20",
+    "signatories": [
+      {
+        "name": "José Antonio Rovira Jover",
+        "role": "Conselleria de Educación"
+      }
+    ]
+  },
+  "formModels": [
+    {
+      "id": "informe-direccion",
+      "title": "Informe de la dirección del centro sobre agresiones (modelo bilingüe)",
+      "pdfUrl": "models/resolucion-20-12-2024-agresiones-informe-direccion.pdf"
+    }
+  ],
+  "externalResources": [
+    {
+      "id": "oficinas-victimas",
+      "title": "Red de Oficinas de Asistencia a las Víctimas del Delito",
+      "url": "https://oficinavictimas.gva.es/es/red-de-oficinas"
+    }
+  ],
+  "scope": "general",
+  "territory": "autonomico",
+  "temporality": {
+    "type": "permanente"
+  },
+  "docType": "normativa",
+  "structure": [
+    {
+      "type": "preambulo",
+      "id": "preambulo",
+      "title": "Preámbulo",
+      "content": "La Constitución Española en su artículo 27, establece como derecho fundamental el derecho a la educación para todos. Este derecho se hace efectivo por los poderes públicos mediante entre otros agentes, por el profesorado. Además, en el artículo 15, queda consagrado el derecho a la vida y a la integridad física y moral de todas las personas.\n\nEl artículo 40.2 encomienda a los poderes públicos, como uno de los principios rectores de la política social y económica, el velar por la seguridad e higiene en el trabajo.\n\nLa Ley 31/1995, de 8 de noviembre, de prevención de riesgos laborales y las disposiciones de desarrollo o complementarias, promueven la necesidad de aplicación de medidas de desarrollo de las actividades para la prevención de riesgos derivados del trabajo.\n\nLa Organización Mundial de la Salud adopta en su informe mundial de 2002, sobre violencia y salud, la definición de violencia ocupacional como aquella que está constituida por incidentes en los que las personas trabajadoras sufren abusos, amenazas o ataques en circunstancias relacionadas con su trabajo, incluyendo el trayecto de ida y vuelta, que pongan en peligro, implícita o explícitamente, su seguridad, su bienestar o su salud.\n\nEn la Unión Europea, la Directiva 89/391/CEE sobre seguridad y salud en el trabajo impone a la empresa la obligación de garantizar la seguridad y la salud del personal en todos los aspectos relacionados con el trabajo, obligación que, según la Agencia Europea para la Seguridad y la Salud en el Trabajo, abarca el deber de protección contra la violencia externa y el acoso moral (EU-OSHA, 2002).\n\nLa Ley Orgánica 2/2006, de 3 de mayo, de educación, dentro del capítulo IV relativo al reconocimiento, apoyo y valoración del profesorado, en su artículo 104, dispone que las administraciones educativas velarán por que el profesorado reciba el trato, la consideración y el respeto de acuerdo con la importancia social de su labor. Además, estas prestarán una atención prioritaria a la mejora de las condiciones en que el profesorado realiza su trabajo y al estímulo de una creciente consideración y reconocimiento social de la función docente. Por otro lado, el artículo 105 determina que corresponde a las administraciones educativas, adoptar las medidas oportunas para garantizar la debida protección y asistencia jurídica al profesorado.\n\nPor otra parte, en el artículo 124, relativo a las normas de organización, funcionamiento y convivencia, determina que los miembros del equipo directivo y los profesores y profesoras serán considerados autoridad pública y regula que serán las administraciones educativas las que establezcan los protocolos de actuación frente a indicios de acoso escolar, ciberacoso, acoso sexual, violencia de género y cualquier otra manifestación de violencia, así como los requisitos y las funciones que debe ejercer el coordinador o coordinadora de bienestar y protección, que debe designarse en todos los centros educativos independientemente de su titularidad.\n\nDe acuerdo con este marco normativo se dicta la Ley 15/2010, de 3 de diciembre, de autoridad del profesorado, donde se estipulan como derechos del profesorado entre otros:\n– A ser respetados, recibir un trato adecuado y ser valorados por la comunidad educativa, y por la sociedad en general, en el ejercicio de sus funciones.\n– A desarrollar su función docente en un ambiente educativo adecuado, donde sean respetados sus derechos, especialmente su derecho a la integridad física y moral.\n– A la protección jurídica adecuada de sus funciones docentes.\n\nLos citados derechos tienen, asimismo, reconocimiento tanto en el Real decreto legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto básico del empleado Público, en la Ley 4/2021, de 16 de abril, de la función pública valenciana, y en el artículo 550 de la Ley orgánica 10/1995, de 23 de noviembre, del Código Penal, cuando se establecen como actos de atentado contra los funcionarios públicos, los cometidos contra los funcionarios docentes que se encuentran en el ejercicio de las funciones propias de su cargo, o con ocasión de ellas.\n\nEl artículo 7 de la Ley 15/2010, de 3 de diciembre, de autoridad del profesorado establece que la Administración educativa adoptará medidas oportunas para garantizar la defensa jurídica y protección adecuada, en los procedimientos que se sigan ante cualquier orden jurisdiccional, por el ejercicio legítimo de sus funciones o cargos públicos, según el artículo 11 de la Ley 10/2005, de 9 de diciembre, de asistencia jurídica a la Generalitat.\n\nEl artículo 11 de la Ley 10/2005, de 9 de diciembre, de asistencia jurídica a la Generalitat, determina que la Abogacía de la Generalitat podrá asumir la asistencia letrada de las autoridades y el personal al servicio de la Generalitat, cuando se les haya cometido una acción ilícita manifiesta y grave, con motivo de sus cargos, funciones u ocupaciones.\n\nEl artículo 8 de la Ley 15/2010, de 3 de diciembre, de autoridad del profesorado, establece la obligatoriedad de reparar el daño en los casos de agresión física o moral al profesorado y las actuaciones a realizar por parte de las direcciones de los centros públicos y la titularidad de los centros privados concertados.\n\nEl artículo 18 del Decreto 195/2022, de 11 de noviembre, del Consell, de igualdad y convivencia en el sistema educativo valenciano, considera como conductas gravemente perjudiciales para la convivencia, el uso de la intimidación o la violencia, las agresiones, las ofensas graves, el abuso sexual y los actos de odio, o los que atentan gravemente contra el derecho a la intimidad, al honor, a la misma imagen o a la salud de los miembros de la comunidad educativa.\n\nTambién, los artículos 44 y 46 del Decreto 195/2022 incluyen como derechos del profesorado, entre otros, el derecho a la defensa jurídica en los procedimientos derivados del ejercicio legítimo de sus funciones, según establece la normativa vigente y la consideración de autoridad pública, según se establece en la Ley 15/2010, de 3 de diciembre, de autoridad del profesorado.\n\nPara el personal de administración y servicios y el personal no docente de atención educativa, el artículo 46 del Decreto 195/2022 incluye el derecho a la defensa jurídica en los procedimientos derivados del ejercicio legítimo de sus funciones, según la normativa vigente.\n\nLa disposición transitoria primera del Decreto 195/2022, dispone que mientras no se desarrolle la normativa que despliegue dicho decreto, se mantendrán en vigor las disposiciones relativas a los protocolos de actuación e intervención ante supuestos de violencia escolar con consecuencias gravemente perjudiciales para la convivencia en los centros, recogidos en la Orden 62/2014, de 28 de julio, de la Conselleria de Educación, Cultura y Deporte, por la que se actualiza la normativa que regula la elaboración de los planes de convivencia en los centros educativos de la Comunitat Valenciana y se establecen los protocolos de actuación e intervención ante supuestos de violencia escolar.\n\nPor tanto, es necesario adecuar el protocolo reflejado en el anexo V de la Orden 62/2014, de 28 de julio, de la Conselleria de Educación, Cultura y Deporte, por la que se actualiza la normativa que regula la elaboración de los planes de convivencia en los centros educativos de la Comunitat Valenciana y se establecen los protocolos de actuación e intervención ante supuestos de violencia escolar.\n\nDe acuerdo con las competencias atribuidas por el Decreto 166/2024, de 12 de noviembre, del Consell, de aprobación del Reglamento orgánico y funcional de la Conselleria de Educación, Cultura, Universidades y Empleo"
+    },
+    {
+      "type": "articulo",
+      "id": "apartado-1",
+      "number": "1",
+      "title": "Primero. Objeto y ámbito",
+      "content": "1. Esta resolución tiene como objeto establecer el protocolo de apoyo, asesoramiento y acompañamiento al personal que preste servicios en los centros educativos ante agresiones producidas por el ejercicio de sus funciones, adecuando el protocolo establecido en el anexo V de la Orden 62/2014, de 28 de julio, de la Conselleria de Educación, Cultura y Deporte, por la que se actualiza la normativa que regula la elaboración de los planes de convivencia en los centros educativos de la Comunitat Valenciana y se establecen los protocolos de actuación e intervención ante supuestos de violencia escolar.\n\n2. Este protocolo de actuación está dirigido al personal docente, personal no docente de atención educativa y personal de administración y servicios de los centros docentes públicos no universitarios de la Comunitat Valenciana.\n\nTambién se aplicará al resto de personal que preste servicios en los centros docentes si mantienen una relación laboral o funcionarial con la Generalitat.\n\n3. Este protocolo será de aplicación en los centros privados sostenidos con fondos públicos a excepción del apartado VI.3, teniendo en cuenta que todas las referencias al director o director se referirán a la persona titular del centro."
+    },
+    {
+      "type": "articulo",
+      "id": "apartado-2",
+      "number": "2",
+      "title": "Segundo. Adecuación del anexo V de la Orden 62/2014",
+      "content": "Se adecua el anexo V de la Orden 62/2014, de 28 de julio, de la Conselleria de Educación, Cultura y Deporte, por la que se actualiza la normativa que regula la elaboración de los planes de convivencia en los centros educativos de la Comunitat Valenciana y se establecen los protocolos de actuación e intervención ante supuestos de violencia escolar como se establece en el anexo de esta resolución."
+    },
+    {
+      "type": "articulo",
+      "id": "apartado-3",
+      "number": "3",
+      "title": "Tercero. Efectos",
+      "content": "Esta resolución tendrá efectos desde el día siguiente al de su publicación en el Diari Oficial de la Generalitat Valenciana."
+    },
+    {
+      "type": "anexo",
+      "id": "anexo-1",
+      "title": "Anexo. Protocolo de apoyo, asesoramiento y acompañamiento al personal de los centros educativos ante agresiones",
+      "children": [
+        {
+          "type": "seccion",
+          "id": "anexo-1-sec-1",
+          "title": "I. Ámbito de aplicación",
+          "content": "Este protocolo será de aplicación ante agresiones producidas en actividades lectivas, durante las actividades complementarias o extraescolares, durante la prestación de los servicios complementarios de transporte y comedor escolar o en el desarrollo de funciones administrativas, y las agresiones producidas en el ejercicio de su actividad profesional o por consecuencia directa de esta."
+        },
+        {
+          "type": "seccion",
+          "id": "anexo-1-sec-2",
+          "title": "II. Definiciones",
+          "content": "Se considera agresión cualquier acción ilícita física o verbal manifiesta y grave, de carácter amenazante, humillante, discriminatoria, intimidatoria o acosadora incluyendo la ejercida a través de medios digitales, que vaya en contra de los derechos del personal docente, no docente de atención educativa o de administración o servicios en el ejercicio de sus funciones y en cumplimiento de lo que se especifica en el artículo 4 de la Ley 15/2010, de autoridad del profesorado, y el artículo 76.g de la Ley 4/2021, de 16 de abril, de la función pública valenciana.\n\nSe entiende por acción ilícita manifiesta y grave, la comisión de actos que estén tipificados como delito grave, delito menos grave y delito leve."
+        },
+        {
+          "type": "seccion",
+          "id": "anexo-1-sec-3",
+          "title": "III. Detección y comunicación de la incidencia",
+          "content": "Cualquier miembro de la comunidad educativa conocedor de una agresión que tenga por objeto el personal docente y no docente de atención educativa o de administración de servicios en el caso de centros de titularidad de la Generalitat y personal docente de los centros privados concertados, tiene la obligación de comunicarlo al director o la directora del centro o, en caso de ausencia, a otro miembro del equipo directivo."
+        },
+        {
+          "type": "seccion",
+          "id": "anexo-1-sec-4",
+          "title": "IV. Primeras actuaciones",
+          "content": "1. Ante cualquier agresión al personal del centro educativo se procederá a prestar auxilio y ayudar a contener la situación por parte del personal presente en el momento, y, si es necesario, se solicitará ayuda inmediata a los cuerpos y fuerzas de seguridad, bien sea la Policía Local, Policía Nacional o Guardia Civil para que se persone en el centro educativo. Esta actuación será realizada preferentemente por personal del equipo directivo.\n\n2. Ante una agresión, el personal agredido, si es necesario, se dirigirá al centro de salud de referencia u hospital próximo o, en función de la gravedad de las agresiones, el equipo directivo llamará al servicio de urgencias. En cualquier caso, se solicitará un parte de lesiones el cual formará parte del expediente administrativo.\n\n3. Si los hechos objeto de la agresión pueden constituir delito, la persona agredida podrá presentar una denuncia ante el Ministerio Fiscal, del juzgado de guardia, o en cualquier dependencia de las fuerzas y cuerpos de seguridad del Estado."
+        },
+        {
+          "type": "seccion",
+          "id": "anexo-1-sec-5",
+          "title": "V. Actuaciones del director o directora del centro educativo",
+          "content": "1. Ante las situaciones de agresión, y las primeras actuaciones de auxilio y apoyo, el director o directora del centro educativo grabará el hecho en el Registro PREVI de ÍTACA e informará a la inspección educativa, así como a la persona agredida de las actuaciones previstas en este protocolo.\n\n2. El director o directora del centro educativo recabará la información necesaria relativa a los hechos ocurridos y, a petición de la inspección educativa, emitirá un informe dentro de las 24 horas siguientes del día lectivo inmediatamente posterior a la agresión dirigido a la dirección territorial correspondiente. Este informe recogerá la información siguiente:\n– Profesional agredido\n– Identificación de la persona presuntamente agresora\n– Testigos\n– Persona tutora, si la agresión es atribuida al alumnado.\n– Otros profesionales que tengan relación con la situación de agresión de carácter testimonial.\n– Actuaciones inmediatas realizadas en el centro educativo para preservar la seguridad de la persona agredida.\n\n3. Simultáneamente, el director o directora del centro notificará mediante el anexo VII de la Orden 62/2014, o documento que lo sustituya con las modificaciones normativas, el modelo de comunicación al Ministerio Fiscal de conductas gravemente perjudiciales para la convivencia en el centro y que pueden ser constitutivas de delito.\n\n4. Si la persona o personas presuntamente agresoras son parte del alumnado del centro educativo, el director o directora del centro educativo aplicará las medidas de abordaje educativo ante las conductas perjudiciales para la convivencia, reflejadas en el artículo 19 del Decreto 195/2022, de 11 de noviembre, del Consell, de igualdad y convivencia en el sistema educativo valenciano informando de los hechos a las familias o representantes legales.\n\nEl procedimiento ordinario se suspende cuando hay iniciado un procedimiento legal (diligencias preliminares, investigación policial o judicial). La denuncia interpuesta por las partes no implica el inicio del procedimiento legal correspondiente, por lo que no es motivo de suspensión del procedimiento.\n\n5. El director o directora del centro informará a la Comisión de igualdad y convivencia del consejo escolar preservando el deber de sigilo.\n\n6. Dado que las agresiones sufridas por el personal empleado público en el ejercicio de sus funciones, se considera accidente de trabajo, el director o directora del centro educativo debe garantizar que se cumplimente el CAT (comunicado de accidente de trabajo), ya sea por el director o directora del centro educativo o por la persona agredida. Posteriormente, el director o directora del centro lo firmará y remitirá al órgano competente.\n\n7. En el caso de que el director o directora del centro educativo esté implicado en la agresión, la inspección educativa determinará la persona para realizar las actuaciones que le correspondan expresamente al director o directora del centro educativo."
+        },
+        {
+          "type": "seccion",
+          "id": "anexo-1-sec-6",
+          "title": "VI. Actuaciones de la persona agredida",
+          "content": "La persona agredida podrá realizar las siguientes acciones:\n\n1. Formular denuncia y comunicar dicha circunstancia al director o directora del centro educativo para su conocimiento.\n\n2. Asimismo, se podrá dirigir a la Oficina de Asistencia a las Víctimas del Delito de la Generalitat para solicitar asesoramiento y/o apoyo jurídico psicológico o asistencial.\n\n3. Con relación a los daños materiales que pudieran haberse producido, el personal empleado público podrá acudir a la vía de responsabilidad patrimonial de la Administración en los términos previstos en la normativa de aplicación.\n\n4. Podrá estimar la presentación de solicitud de asistencia jurídica ante la dirección territorial de educación de referencia. La solicitud de asistencia jurídica contendrá la siguiente información:\n– Datos personales de la persona interesada, teléfono de contacto.\n– Relato de los hechos y todos los elementos de prueba de que se disponen y que sirvan para confirmar aquellos, con citación de testigos y, si es posible, de los relatos de los hechos. Asimismo, irá acompañada de la denuncia presentada.\n– Informe de asistencia médica o parte de lesiones, si las hubiere.\n– Informe del director o directora del centro educativo, que confirme si los hechos denunciados están relacionados con el ejercicio de la función o cargo de la persona solicitante.\n\n5. Dado que las agresiones sufridas por el personal en el ejercicio de sus funciones se consideran accidente de trabajo, podrá acudir bien a la mutua de accidentes de trabajo y enfermedades profesionales, si es del Régimen General de la Seguridad Social o a los servicios sanitarios que le corresponda si pertenece a alguno de los regímenes administrativos, pidiendo un parte de lesiones, si las hubiera.\n\n6. La persona agredida podrá solicitar ante el órgano competente, la adaptación o cambio de puesto por motivos de salud, si así lo valora el facultativo médico del servicio de prevención de riesgos laborales, solicitud que será resuelta por el órgano competente según la normativa aplicable.\n\n7. La persona agredida podrá solicitar la intervención del servicio de prevención propio."
+        },
+        {
+          "type": "seccion",
+          "id": "anexo-1-sec-7",
+          "title": "VII. Actuaciones de la inspección educativa",
+          "content": "1. Una vez informada por el director o directora del centro educativo, la inspectora o inspector de educación asesorará a la dirección del centro educativo sobre las posibilidades de actuación previstas en este protocolo, y elaborará los informes requeridos de oficio o a requerimiento de los diferentes órganos de la Administración.\n\n2. La inspección educativa podrá proponer al órgano competente las medidas que considere oportunas ante situaciones que puedan suponer un riesgo para la seguridad del personal afectado."
+        },
+        {
+          "type": "seccion",
+          "id": "anexo-1-sec-8",
+          "title": "VIII. Actuaciones de la dirección territorial de educación",
+          "content": "La dirección territorial de educación de referencia recibirá la solicitud de asistencia jurídica remitida por el director o directora del centro educativo, en el caso de que la persona agredida lo solicite, y requerirá los informes correspondientes tanto al directora o directora del centro educativo como a la inspección educativa, trasladando toda la documentación a la dirección general competente en materia de personal docente o a la subsecretaria de la conselleria competente en materia de educación."
+        },
+        {
+          "type": "seccion",
+          "id": "anexo-1-sec-9",
+          "title": "IX. Actuaciones de la dirección general competente en materia de personal docente o de la subsecretaría",
+          "content": "El órgano competente, a la vista de la documentación remitida por quien solicita asistencia jurídica, emitirá, como superior jerárquico, el informe a que se refiere el artículo 11.2 de la Ley 10/2005, de 9 de diciembre, de asistencia jurídica a la Generalitat.\n\nDicho informe indicará si se cumplen los requisitos previstos en la Ley 10/2005 para que la persona solicitante pueda recibir la asistencia de la Abogacía de la Generalitat. El órgano competente trasladará las actuaciones realizadas a la Abogacía de la Generalitat y llevará a cabo las actuaciones complementarias que considere necesarias."
+        },
+        {
+          "type": "seccion",
+          "id": "anexo-1-sec-10",
+          "title": "X. Actuaciones de la Abogacía de la Generalitat",
+          "content": "La Abogacía de la Generalitat, de conformidad con lo dispuesto en el artículo 11.2 de la Ley 10/2005, de 9 de diciembre, de asistencia jurídica a la Generalitat, tomará el acuerdo que corresponda y lo comunicará a la persona interesada. La facultad concedida a la persona interesada por este artículo no menoscaba su derecho a designar abogada o abogado que lo asista o a solicitar que este le sea designado de oficio, según el artículo 11.3 de la citada Ley 10/2005. Cuando existieran contratos de seguro que cubrieran contingencias a las que se refiere este artículo, tomados por la Generalitat y en los que el personal al servicio de la Generalitat tuviera la condición de asegurado, la defensa o asistencia letrada del abogado de la Generalitat tendrá carácter excepcional."
+        },
+        {
+          "type": "seccion",
+          "id": "anexo-1-sec-11",
+          "title": "XI. Red de Oficinas de Asistencia a las Víctimas del Delito de la Generalitat",
+          "content": "1. La persona agredida puede disponer de asesoramiento jurídico y asistencia psicológica dirigiéndose a la Red de Oficinas de Asistencia a las Víctimas del Delito de la Generalitat.\n\n2. La Red de Oficinas de Asistencia a las Víctimas del Delito de la Generalitat presta asistencia a las personas agredidas independientemente del lugar de la comisión de la agresión y del lugar de residencia de la víctima desde el ámbito jurídico como psicológico y asistencial."
+        },
+        {
+          "type": "seccion",
+          "id": "anexo-1-sec-12",
+          "title": "XII. Seguimiento",
+          "content": "1. Con el objetivo de realizar el seguimiento de la aplicación del protocolo, se constituirá una comisión de seguimiento integrada por:\n– El director o la directora general competente en materia de convivencia escolar que asumirá la presidencia.\n– Una persona designada por la dirección general competente en materia de personal docente.\n– Una persona designada por la subsecretaria de la conselleria competente en materia de educación.\n– Una persona designada por la dirección general competente en materia de personal no docente de atención educativa.\n– Una persona designada por la dirección general competente en materia de función pública.\n– Un Inspector o Inspectora de Educación designada por la Inspección General de Educación.\n– Una persona designada por cada dirección territorial de educación.\n– El presidente o presidenta de los comités de seguridad y salud de laboral de las direcciones territoriales de Educación.\n– Una persona por cada una de las organizaciones sindicales con representación en la Mesa Sectorial de Educación.\n– Una persona por cada una de las organizaciones sindicales con representación en la Mesa Sectorial de Función Pública.\n– Una persona por cada una de las organizaciones con representación en la Comisión de Seguimiento de la Reforma Educativa en Centros Concertados.\n– Una persona técnica de la dirección general competente en materia de convivencia escolar, que ejercerá la secretaría.\n\nA las reuniones de la comisión de seguimiento podrá asistir, con voz, pero sin voto, personal técnico de prevención de riesgos laborales para prestar funciones de asesoramiento en función de los temas a tratar, previa convocatoria de la presidencia.\n\n2. La comisión de seguimiento de aplicación del protocolo se reunirá ordinariamente con carácter anual."
+        },
+        {
+          "type": "seccion",
+          "id": "anexo-1-sec-13",
+          "title": "XIII. Publicidad del protocolo",
+          "content": "1. Con la finalidad de que todo el personal de los centros educativos sea conocedor de este protocolo, la conselleria competente en materia de educación informará a los centros de su publicación, facilitando modelos y otra documentación auxiliar en su página web.\n\n2. Las direcciones de los centros educativos informarán de este protocolo a todo el personal del centro."
+        },
+        {
+          "type": "seccion",
+          "id": "anexo-1-sec-14",
+          "title": "XIV. Protección de datos",
+          "content": "La conselleria competente en materia de educación adoptará las medidas de gestión y organización que sean necesarias para asegurar la confidencialidad, seguridad, obligaciones e integridad de los datos, así como las conducentes a hacer efectivas las garantías, obligaciones y derechos reconocidos en la Ley Orgánica 3/2018, de 5 de diciembre, de protección de datos personales y garantía de los derechos digitales.\n"
+        }
+      ]
+    }
+  ]
+}

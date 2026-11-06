@@ -1,0 +1,216 @@
+{
+  "id": "resolucion-20-12-2024-agresiones",
+  "slug": "resolucion-20-12-2024-agresiones",
+  "type": "resolucion",
+  "number": "20/12/2024",
+  "date": "2024-12-20",
+  "publishedIn": {
+    "source": "DOGV",
+    "number": "10014",
+    "date": "2024-12-27",
+    "url": "https://dogv.gva.es/va/resultat-dogv?signatura=2024/13897",
+    "pdfUrl": "https://dogv.gva.es/datos/2024/12/27/pdf/2024_13897_va.pdf"
+  },
+  "title": "Resolució de 20 de desembre de 2024, de la Conselleria d'Educació, Cultura, Universitats i Ocupació, per la qual s'establix el protocol de suport, assessorament i acompanyament al personal dels centres educatius davant d’agressions produïdes per l'exercici de les seues funcions",
+  "titleShort": "Res 20/12/2024 - Protocol davant d’agressions al personal dels centres educatius",
+  "category": "orientacion_convivencia",
+  "vigpiracy": {
+    "status": "vigente",
+    "statusLabel": "Vigent",
+    "effectiveDate": "2024-12-28"
+  },
+  "legalAnalysis": {
+    "enactedPursuantTo": [
+      {
+        "title": "Llei 15/2010, de 3 de desembre, de la Generalitat, d’autoritat del professorat (arts. 7 i 8)",
+        "relationship": "desarrollo"
+      },
+      {
+        "title": "Llei 10/2005, de 9 de desembre, d’assistència jurídica a la Generalitat (art. 11)",
+        "relationship": "conformidad"
+      },
+      {
+        "title": "Decret 166/2024, de 12 de novembre, del Consell, d’aprovació del Reglament orgànic i funcional de la Conselleria d’Educació, Cultura, Universitats i Ocupació",
+        "relationship": "habilitante"
+      }
+    ],
+    "priorAffectations": [
+      {
+        "lawId": "orden-62-2014",
+        "title": "Orde 62/2014, de 28 de juliol, de la Conselleria d’Educació, Cultura i Esport, per la qual s’actualitza la normativa que regula l’elaboració dels plans de convivència en els centres educatius de la Comunitat Valenciana i s’establixen els protocols d’actuació i intervenció davant de supòsits de violència escolar",
+        "type": "modifica",
+        "date": "2024-12-28",
+        "description": "L’apartat segon adequa l’annex V (protocol davant d’agressions al professorat i al personal) amb el text de l’annex d’esta resolució."
+      }
+    ],
+    "posteriorAffectations": [],
+    "derogations": [],
+    "concordances": [
+      {
+        "lawId": "decreto-193-2025",
+        "title": "Decret 193/2025, de 12 de desembre, del Consell, de la convivència en el sistema educatiu de la Comunitat Valenciana",
+        "description": "Deroga el Decret 195/2022, que esta resolució cita (arts. 18, 19, 44 i 46). La seua DT 1a manté en vigor els protocols de l’Orde 62/2014, l’annex V de la qual és el que esta resolució adequa, i el seu art. 25.h tipifica com a falta greu l’agressió al professorat."
+      },
+      {
+        "lawId": "ley-organica-2-2006",
+        "title": "Llei orgànica 2/2006, de 3 de maig, d’educació",
+        "description": "Arts. 104, 105 i 124 (reconeixement i protecció del professorat, protocols davant la violència)."
+      },
+      {
+        "lawId": "sprl-ioprl-13",
+        "title": "SPRL-IOPRL-13. Instrucció operativa per a l’adaptació o canvi de lloc per motius de salut en l’Administració de la Generalitat",
+        "description": "L’apartat VI.6 de l’annex permet a la persona agredida demanar l’adaptació o el canvi de lloc."
+      }
+    ]
+  },
+  "promulgation": {
+    "place": "València",
+    "date": "2024-12-20",
+    "signatories": [
+      {
+        "name": "José Antonio Rovira Jover",
+        "role": "Conselleria d’Educació"
+      }
+    ]
+  },
+  "formModels": [
+    {
+      "id": "informe-direccion",
+      "title": "Informe de la direcció del centre sobre agressions (model bilingüe)",
+      "pdfUrl": "models/resolucion-20-12-2024-agresiones-informe-direccion.pdf"
+    }
+  ],
+  "externalResources": [
+    {
+      "id": "oficinas-victimas",
+      "title": "Xarxa d’Oficines d’Assistència a les Víctimes del Delicte",
+      "url": "https://oficinavictimas.gva.es/va/red-de-oficinas"
+    }
+  ],
+  "scope": "general",
+  "territory": "autonomico",
+  "temporality": {
+    "type": "permanente"
+  },
+  "docType": "normativa",
+  "structure": [
+    {
+      "type": "preambulo",
+      "id": "preambulo",
+      "title": "Preàmbul",
+      "content": "La Constitució Espanyola, en l’article 27, establix com a dret fonamental el dret a l'educació per a tots. Este dret es fa efectiu pels poders públics mitjançant, entre altres agents, el professorat. A més, en l'article 15, queda consagrat el dret a la vida i a la integritat física i moral de totes les persones.\n\nL'article 40.2 encomana als poders públics, com un dels principis rectors de la política social i econòmica, vetlar per la seguretat i higiene en el treball.\n\nLa Llei 31/1995, de 8 de novembre, de prevenció de riscos laborals i les disposicions de desplegament o complementàries, promouen la necessitat d'aplicació de mesures de desenrotllament de les activitats per a la prevenció de riscos derivats del treball.\n\nL'Organització Mundial de la Salut adopta en el seu informe mundial de 2002, sobre violència i salut, la definició de violència ocupacional com aquella que està constituïda per incidents en els quals las persones treballadores patixen abusos, amenaces o atacs en circumstàncies relacionades amb el seu treball, incloent-hi el trajecte d'anada i tornada, que posen en perill, implícitament o explícitament, la seua seguretat, el seu benestar o la seua salut.\n\nEn la Unió Europea, la Directiva 89/391/CEE, sobre seguretat i salut en el treball, imposa a l'empresa l'obligació de garantir la seguretat i la salut del personal en tots els aspectes relacionats amb el treball, obligació que, segons l'Agència Europea per a la Seguretat i la Salut en el Treball, inclou el deure de protecció contra la violència externa i l'assetjament moral (EU-OSHA, 2002).\n\nLa Llei orgànica 2/2006, de 3 de maig, d'educació, dins del capítol IV, relatiu al reconeixement, suport i valoració del professorat, en l’article 104, disposa que les administracions educatives vetlaran perquè el professorat reba el tracte, la consideració i el respecte d'acord amb la importància social de la seua labor. A més, estes prestaran una atenció prioritària a la millora de les condicions en les quals el professorat fa el seu treball i a l'estímul d'una creixent consideració i reconeixement social de la funció docent. D'altra banda, l'article 105 determina que correspon a les administracions educatives adoptar les mesures oportunes per a garantir la deguda protecció i assistència jurídica al professorat.\n\nD'altra banda, l'article 124, relatiu a les normes d'organització, funcionament i convivència, determina que les persones membre de l'equip directiu i els professors i professores seran considerats autoritat pública, i regula que seran les administracions educatives les que establisquen els protocols d'actuació enfront d'indicis d'assetjament escolar, ciberassetjament, assetjament sexual, violència de gènere i qualsevol altra manifestació de violència, així com els requisits i les funcions que ha d'exercir el coordinador o coordinadora de benestar i protecció, que ha de designar-se en tots els centres educatius independentment de la seua titularitat.\n\nD'acord amb este marc normatiu es dicta la Llei 15/2010, de 3 de desembre, d'autoritat del professorat, en la qual s'estipulen com a drets del professorat, entre altres:\n– A ser respectats, rebre un tracte adequat i ser valorats per la comunitat educativa, i per la societat en general, en l'exercici de les seues funcions.\n– A desenrotllar la seua funció docent en un ambient educatiu adequat, en el qual siguen respectats els seus drets, especialment el seu dret a la integritat física i moral.\n– A la protecció jurídica adequada de les seues funcions docents.\n\nEstos drets tenen, així mateix, reconeixement tant en el Reial decret legislatiu 5/2015, de 30 d'octubre, pel qual s'aprova el text refós de la Llei de l'Estatut bàsic de l'empleat públic; en la Llei 4/2021, de 16 d'abril, de la funció pública valenciana, i en l'article 550 de la Llei orgànica 10/1995, de 23 de novembre, del Codi Penal, quan s'establixen com a actes d'atemptat contra els funcionaris públics els comesos contra els funcionaris docents que es troben en l'exercici de les funcions pròpies del seu càrrec, o en ocasió d'estes.\n\nL'article 7 de la Llei 15/2010, de 3 de desembre, d'autoritat del professorat, establix que l'Administració educativa adoptarà mesures oportunes per a garantir la defensa jurídica i protecció adequada, en els procediments que se seguisquen davant de qualsevol orde jurisdiccional, per l'exercici legítim de les seues funcions o càrrecs públics, segons l'article 11 de la Llei 10/2005, de 9 de desembre, d’assistència jurídica a la Generalitat.\n\nL'article 11 de la Llei 10/2005, de 9 de desembre, d'assistència jurídica a la Generalitat, determina que l'Advocacia de la Generalitat podrà assumir l'assistència lletrada de les autoritats i el personal al servici de la Generalitat quan s'haja comés contra ells una acció il·lícita manifesta i greu, amb motiu dels seus càrrecs, funcions o ocupacions.\n\nL'article 8 de la Llei 15/2010, de 3 de desembre, d'autoritat del professorat, establix l'obligatorietat de reparar el mal en els casos d'agressió física o moral al professorat i les actuacions a realitzar per part de les direccions dels centres públics i la titularitat dels centres privats concertats.\n\nL'article 18 del Decret 195/2022, d'11 de novembre, del Consell, d'igualtat i convivència en el sistema educatiu valencià, considera com a conductes greument perjudicials per a la convivència l'ús de la intimidació o la violència, les agressions, les ofenses greus, l'abús sexual i els actes d'odi, o els que atempten greument contra el dret a la intimitat, a l'honor, a la mateixa imatge o a la salut dels membres de la comunitat educativa.\n\nTambé els articles 44 i 46 del Decret 195/2022 inclouen com a drets del professorat, entre altres, el dret a la defensa jurídica en els procediments derivats de l'exercici legítim de les seues funcions, segons establix la normativa vigent, i la consideració d'autoritat pública, segons s'establix en la Llei 15/2010, de 3 de desembre, d'autoritat del professorat.\n\nPer al personal d'administració i servicis i el personal no docent d'atenció educativa, l'article 46 del Decret 195/2022 inclou el dret a la defensa jurídica en els procediments derivats de l'exercici legítim de les seues funcions, segons la normativa vigent.\n\nLa disposició transitòria primera del Decret 195/2022 disposa que, mentres no es desenrotlle la normativa que desplegue este decret, es mantindran en vigor les disposicions relatives als protocols d'actuació i intervenció davant supòsits de violència escolar amb conseqüències greument perjudicials per a la convivència en els centres, arreplegats en l'Orde 62/2014, de 28 de juliol, de la Conselleria d'Educació, Cultura i Esport, per la qual s'actualitza la normativa que regula l'elaboració dels plans de convivència en els centres educatius de la Comunitat Valenciana i s'establixen els protocols d'actuació i intervenció davant de supòsits de violència escolar.\n\nPer tant, és necessari adequar el protocol reflectit en l'annex V de l'Orde 62/2014, de 28 de juliol, de la Conselleria d'Educació, Cultura i Esport, per la qual s'actualitza la normativa que regula l'elaboració dels plans de convivència en els centres educatius de la Comunitat Valenciana i s'establixen els protocols d'actuació i intervenció davant de supòsits de violència escolar.\n\nD'acord amb les competències atribuïdes pel Decret 166/2024, de 12 de novembre, del Consell, d'aprovació del Reglament orgànic i funcional de la Conselleria d'Educació, Cultura, Universitats i Ocupació,"
+    },
+    {
+      "type": "articulo",
+      "id": "apartado-1",
+      "number": "1",
+      "title": "Primer. Objecte i àmbit",
+      "content": "1. Esta resolució té com a objecte establir el protocol de suport, assessorament i acompanyament al personal que preste servicis en els centres educatius davant d’agressions produïdes per l'exercici de les seues funcions, adequant el protocol establit en l'annex V de l'Orde 62/2014, de 28 de juliol, de la Conselleria d'Educació, Cultura i Esport, per la qual s'actualitza la normativa que regula l'elaboració dels plans de convivència en els centres educatius de la Comunitat Valenciana i s'establixen els protocols d'actuació i intervenció davant de supòsits de violència escolar.\n\n2. Este protocol d'actuació està dirigit al personal docent, personal no docent d'atenció educativa i personal d'administració i servicis dels centres docents públics no universitaris de la Comunitat Valenciana.\n\nTambé s'aplicarà a la resta de personal que preste servicis en els centres docents si mantenen una relació laboral o funcionarial amb la Generalitat.\n\n3. Este protocol serà aplicable en els centres privats sostinguts amb fons públics a excepció de l'apartat VI.3, tenint en compte que totes les referències al director o directora es referiran a la persona titular del centre."
+    },
+    {
+      "type": "articulo",
+      "id": "apartado-2",
+      "number": "2",
+      "title": "Segon. Adequació de l'annex V de l'Orde 62/2014",
+      "content": "S'adequa l'annex V de l'Orde 62/2014, de 28 de juliol, de la Conselleria d'Educació, Cultura i Esport, per la qual s'actualitza la normativa que regula l'elaboració dels plans de convivència en els centres educatius de la Comunitat Valenciana i s'establixen els protocols d'actuació i intervenció davant de supòsits de violència escolar, com s'establix en l'annex d'esta resolució."
+    },
+    {
+      "type": "articulo",
+      "id": "apartado-3",
+      "number": "3",
+      "title": "Tercer. Efectes",
+      "content": "Esta resolució tindrà efectes des de l’endemà de la seua publicació en el Diari Oficial de la Generalitat Valenciana."
+    },
+    {
+      "type": "anexo",
+      "id": "anexo-1",
+      "title": "Annex. Protocol de suport, assessorament i acompanyament al personal dels centres educatius davant d’agressions",
+      "children": [
+        {
+          "type": "seccion",
+          "id": "anexo-1-sec-1",
+          "title": "I. Àmbit d'aplicació",
+          "content": "Este protocol serà d'aplicació davant d’agressions produïdes en activitats lectives, durant les activitats complementàries o extraescolars, durant la prestació dels servicis complementaris de transport i menjador escolar o en el desenrotllament de funcions administratives, i de les agressions produïdes en l'exercici de la seua activitat professional o per conseqüència directa d'esta."
+        },
+        {
+          "type": "seccion",
+          "id": "anexo-1-sec-2",
+          "title": "II. Definicions",
+          "content": "Es considera agressió qualsevol acció il·lícita física o verbal manifesta i greu, de caràcter amenaçador, humiliant, discriminatòria, intimidatòria o assetjadora, incloent-hi l'exercida a través de mitjans digitals, que vaja en contra dels drets del personal docent, no docent d'atenció educativa o d'administració o servicis en l'exercici de les seues funcions i en compliment del que s'especifica en l'article 4 de la Llei 15/2010, d'autoritat del professorat, i l'article 76.g de la Llei 4/2021, de 16 d'abril, de la funció pública valenciana.\n\nS'entén per acció il·lícita manifesta i greu la comissió d'actes que estiguen tipificats com a delicte greu, delicte menys greu i delicte lleu."
+        },
+        {
+          "type": "seccion",
+          "id": "anexo-1-sec-3",
+          "title": "III. Detecció i comunicació de la incidència",
+          "content": "Qualsevol membre de la comunitat educativa coneixedor d'una agressió que tinga per objecte el personal docent i no docent d'atenció educativa o d'administració de servicis en el cas de centres de titularitat de la Generalitat i personal docent dels centres privats concertats, té l'obligació de comunicar-ho al director o la directora del centre o, en cas d'absència, a un altre membre de l'equip directiu."
+        },
+        {
+          "type": "seccion",
+          "id": "anexo-1-sec-4",
+          "title": "IV. Primeres actuacions",
+          "content": "1. Davant de qualsevol agressió al personal del centre educatiu es procedirà a prestar auxili i ajudar a contindre la situació per part del personal present en el moment, i, si és necessari, se sol·licitarà ajuda immediata als cossos i forces de seguretat, bé siga la Policia Local, Policia Nacional o Guàrdia Civil, perquè es personen en el centre educatiu. Esta actuació serà realitzada preferentment per personal de l'equip directiu.\n\n2. Davant d’una agressió, el personal agredit, si és necessari, es dirigirà al centre de salut de referència o hospital pròxim o, en funció de la gravetat de les agressions, l'equip directiu cridarà al servici d'urgències. En qualsevol cas, se sol·licitarà un informe de lesions, el qual formarà part de l'expedient administratiu.\n\n3. Si els fets objecte de l'agressió poden constituir delicte, la persona agredida podrà presentar una denúncia davant del Ministeri Fiscal, del jutjat de guàrdia, o en qualsevol dependència de les forces i cossos de seguretat de l'Estat."
+        },
+        {
+          "type": "seccion",
+          "id": "anexo-1-sec-5",
+          "title": "V. Actuacions del director o directora del centre educatiu",
+          "content": "1. Davant de les situacions d'agressió, i les primeres actuacions d'auxili i suport, el director o directora del centre educatiu gravarà el fet en el registre PREVI d'ÍTACA i informarà la inspecció educativa, així com la persona agredida, de les actuacions previstes en este protocol.\n\n2. El director o directora del centre educatiu arreplegarà la informació necessària relativa als fets ocorreguts i, a petició de la inspecció educativa, emetrà un informe dins de les 24 hores següents del dia lectiu immediatament posterior a l'agressió dirigit a la direcció territorial corresponent. Este informe arreplegarà la informació següent:\n– Professional agredit.\n– Identificació de la persona presumptament agressora.\n– Testimonis.\n– Persona tutora, si l'agressió és atribuïda a l'alumnat.\n– Altres professionals que tinguen relació amb la situació d'agressió de caràcter testimonial.\n– Actuacions immediates realitzades en el centre educatiu per a preservar la seguretat de la persona agredida.\n\n3. Simultàniament, el director o directora del centre notificarà mitjançant l'annex VII de l'Orde 62/2014, o document que el substituïsca amb les modificacions normatives, el model de comunicació al Ministeri Fiscal de conductes greument perjudicials per a la convivència en el centre i que poden ser constitutives de delicte.\n\n4. Si la persona o persones presumptament agressores són part de l'alumnat del centre educatiu, el director o directora del centre educatiu aplicarà les mesures d'abordatge educatiu davant de les conductes perjudicials per a la convivència, reflectides en l'article 19 del Decret 195/2022, d'11 de novembre, del Consell, d'igualtat i convivència en el sistema educatiu valencià, informant dels fets les famílies o representants legals.\n\nEl procediment ordinari se suspén quan hi ha iniciat un procediment legal (diligències preliminars, investigació policial o judicial). La denúncia interposada per les parts no implica l'inici del procediment legal corresponent, per la qual cosa no és motiu de suspensió del procediment.\n\n5. El director o directora del centre informarà la comissió d'igualtat i convivència del consell escolar preservant el deure de sigil.\n\n6. Atés que les agressions patides pel personal empleat públic en l'exercici de les seues funcions es consideren accident de treball, el director o directora del centre educatiu ha de garantir que s'òmpliga el CAT (comunicat d'accident de treball), ja siga pel director o directora del centre educatiu o per la persona agredida. Posteriorment, el director o directora del centre el firmarà i remetrà a l'òrgan competent.\n\n7. En el cas que el director o directora del centre educatiu estiga implicat en l'agressió, la inspecció educativa determinarà la persona per a realitzar les actuacions que li corresponguen expressament al director o directora del centre educatiu."
+        },
+        {
+          "type": "seccion",
+          "id": "anexo-1-sec-6",
+          "title": "VI. Actuacions de la persona agredida",
+          "content": "La persona agredida podrà realitzar les accions següents:\n\n1. Formular denúncia i comunicar esta circumstància al director o directora del centre educatiu perquè en prenga coneixement.\n\n2. Així mateix, es podrà dirigir a l'Oficina d'Assistència a les Víctimes del Delicte de la Generalitat per a sol·licitar assessorament i/o suport jurídic psicològic o assistencial.\n\n3. En relació amb els danys materials que pogueren haver-se produït, el personal empleat públic podrà acudir a la via de responsabilitat patrimonial de l'Administració en els termes previstos en la normativa d'aplicació.\n\n4. Podrà estimar la presentació de sol·licitud d'assistència jurídica davant de la direcció territorial d'Educació de referència. La sol·licitud d'assistència jurídica contindrà la informació següent:\n– Dades personals de la persona interessada, telèfon de contacte.\n– Relat dels fets i tots els elements de prova que es disposen i que servisquen per a confirmar aquells, amb citació de testimonis i, si és possible, dels relats dels fets. Així mateix, anirà acompanyada de la denúncia presentada.\n– Informe d'assistència mèdica o informe de lesions, si n'hi haguera.\n– Informe del director o directora del centre educatiu que confirme si els fets denunciats estan relacionats amb l'exercici de la funció o càrrec de la persona sol·licitant.\n\n5. Atés que les agressions patides pel personal en l'exercici de les seues funcions es consideren accident de treball, podrà acudir bé a la mútua d'accidents de treball i malalties professionals, si és del Règim General de la Seguretat Social, o als servicis sanitaris que li corresponguen, si pertany a algun dels règims administratius, demanant un informe de lesions, si n'hi haguera.\n\n6. La persona agredida podrà sol·licitar davant de l'òrgan competent l'adaptació o canvi de lloc per motius de salut, si així ho valora el facultatiu mèdic del servici de prevenció de riscos laborals, sol·licitud que serà resolta per l'òrgan competent segons la normativa aplicable.\n\n7. La persona agredida podrà sol·licitar la intervenció del servici de prevenció propi."
+        },
+        {
+          "type": "seccion",
+          "id": "anexo-1-sec-7",
+          "title": "VII. Actuacions de la inspecció educativa",
+          "content": "1. Una vegada informada pel director o directora del centre educatiu, la inspectora o inspector d’educació assessorarà la direcció del centre educatiu sobre les possibilitats d'actuació previstes en este protocol, i elaborarà els informes requerits d'ofici o a requeriment dels diferents òrgans de l'Administració.\n\n2. La inspecció educativa podrà proposar a l'òrgan competent les mesures que considere oportunes davant de situacions que puguen suposar un risc per a la seguretat del personal afectat."
+        },
+        {
+          "type": "seccion",
+          "id": "anexo-1-sec-8",
+          "title": "VIII. Actuacions de la direcció territorial d'educació",
+          "content": "La direcció territorial d’educació de referència rebrà la sol·licitud d'assistència jurídica remesa pel director o directora del centre educatiu, en el cas que la persona agredida ho sol·licite, i requerirà els informes corresponents tant al directora o directora del centre educatiu com a la inspecció educativa, traslladant tota la documentació a la direcció general competent en matèria de personal docent o a la subsecretaria de la conselleria competent en matèria d'educació."
+        },
+        {
+          "type": "seccion",
+          "id": "anexo-1-sec-9",
+          "title": "IX. Actuacions de la direcció general competent en matèria de personal docent o de la subsecretaria",
+          "content": "L'òrgan competent, a la vista de la documentació remesa per qui sol·licita assistència jurídica, emetrà, com a superior jeràrquic, l'informe al qual es referix l'article 11.2 de la Llei 10/2005, de 9 de desembre, d'assistència jurídica a la Generalitat.\n\nEste informe indicarà si es complixen els requisits previstos en la Llei 10/2005 perquè la persona sol·licitant puga rebre l'assistència de l'Advocacia de la Generalitat. L'òrgan competent traslladarà les actuacions realitzades a l'Advocacia de la Generalitat i durà a terme les actuacions complementàries que considere necessàries."
+        },
+        {
+          "type": "seccion",
+          "id": "anexo-1-sec-10",
+          "title": "X. Actuacions de l'Advocacia de la Generalitat",
+          "content": "L'Advocacia de la Generalitat, de conformitat amb el que es disposa en l'article 11.2 de la Llei 10/2005, de 9 de desembre, d'assistència jurídica a la Generalitat, prendrà l'acord que corresponga i el comunicarà a la persona interessada. La facultat concedida a la persona interessada per este article no menyscaba el seu dret a designar advocada o advocat que l'assistisca o a sol·licitar que este li siga designat d'ofici, segons l'article 11.3 de l’esmentada Llei 10/2005. Quan existiren contractes d'assegurança que cobriren contingències a les quals es referix este article, contractats per la Generalitat i en els quals el personal al servici de la Generalitat tinguera la condició d'assegurat, la defensa o assistència lletrada de l'advocat de la Generalitat tindrà caràcter excepcional."
+        },
+        {
+          "type": "seccion",
+          "id": "anexo-1-sec-11",
+          "title": "XI. Xarxa d'Oficines d'Assistència a les Víctimes del Delicte de la Generalitat",
+          "content": "1. La persona agredida pot disposar d'assessorament jurídic i assistència psicològica dirigint-se a la Xarxa d'Oficines d'Assistència a les Víctimes del Delicte de la Generalitat.\n\n2. La Xarxa d'Oficines d'Assistència a les Víctimes del Delicte de la Generalitat presta assistència a les persones agredides independentment del lloc de la comissió de l'agressió i del lloc de residència de la víctima des de l'àmbit jurídic com a psicològic i assistencial."
+        },
+        {
+          "type": "seccion",
+          "id": "anexo-1-sec-12",
+          "title": "XII. Seguiment",
+          "content": "1. Amb l'objectiu de realitzar el seguiment de l'aplicació del protocol, es constituirà una comissió de seguiment integrada per:\n– El director o la directora general competent en matèria de convivència escolar, que n'assumirà la presidència.\n– Una persona designada per la direcció general competent en matèria de personal docent.\n– Una persona designada per la subsecretaria de la conselleria competent en matèria d'educació.\n– Una persona designada per la direcció general competent en matèria de personal no docent d'atenció educativa.\n– Una persona designada per la direcció general competent en matèria de funció pública.\n– Un inspector o inspectora d'educació designada per la Inspecció General d'Educació.\n– Una persona designada per cada direcció territorial d'educació.\n– El president o presidenta dels comités de seguretat i salut laboral de les direccions territorials d'educació.\n– Una persona per cadascuna de les organitzacions sindicals amb representació en la Mesa Sectorial d'Educació.\n– Una persona per cadascuna de les organitzacions sindicals amb representació en la Mesa Sectorial de Funció Pública.\n– Una persona per cadascuna de les organitzacions amb representació en la Comissió de Seguiment de la Reforma Educativa en Centres Concertats.\n– Una persona tècnica de la direcció general competent en matèria de convivència escolar, que n’exercirà la secretaria.\n\nA les reunions de la comissió de seguiment podrà assistir, amb veu, però sense vot, personal tècnic de prevenció de riscos laborals per a prestar funcions d'assessorament en funció dels temes a tractar, amb la convocatòria prèvia de la presidència.\n\n2. La comissió de seguiment d'aplicació del protocol es reunirà ordinàriament amb caràcter anual."
+        },
+        {
+          "type": "seccion",
+          "id": "anexo-1-sec-13",
+          "title": "XIII. Publicitat del protocol",
+          "content": "1. Amb la finalitat que tot el personal dels centres educatius siga coneixedor d'este protocol, la conselleria competent en matèria d'educació informarà els centres de la seua publicació, facilitant models i altra documentació auxiliar en la seua pàgina web.\n\n2. Les direccions dels centres educatius informaran d'este protocol tot el personal del centre."
+        },
+        {
+          "type": "seccion",
+          "id": "anexo-1-sec-14",
+          "title": "XIV. Protecció de dades",
+          "content": "La conselleria competent en matèria d’educació adoptarà les mesures de gestió i organització que siguen necessàries per a assegurar la confidencialitat, seguretat, obligacions i integritat de les dades, així com les conduents a fer efectives les garanties, obligacions i drets reconeguts en la Llei orgànica 3/2018, de 5 de desembre, de protecció de dades personals i garantia dels drets digitals.\n"
+        }
+      ]
+    }
+  ]
+}

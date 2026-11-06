@@ -100,6 +100,15 @@
       "icon": "book"
     },
     {
+      "id": "prevencion_riesgos",
+      "label": { "es": "Prevención de riesgos laborales", "va": "Prevenció de riscos laborals" },
+      "description": {
+        "es": "Seguridad y salud del personal de los centros: adaptación de puestos, embarazo y lactancia, acoso laboral, confort térmico, emergencias y residuos peligrosos",
+        "va": "Seguretat i salut del personal dels centres: adaptació de llocs, embaràs i lactància, assetjament laboral, confort tèrmic, emergències i residus perillosos"
+      },
+      "icon": "check"
+    },
+    {
       "id": "convalidaciones",
       "label": { "es": "Convalidaciones", "va": "Convalidacions" },
       "description": {

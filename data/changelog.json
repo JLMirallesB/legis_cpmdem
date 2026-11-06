@@ -1,5 +1,63 @@
 [
   {
+    "version": "2.16.0",
+    "date": "2026-11-06",
+    "entries": {
+      "es": [
+        {
+          "type": "nuevo",
+          "description": "Nueva categoría «Prevención de riesgos laborales». Reúne lo que trata de la seguridad y la salud del personal y que hasta ahora estaba repartido: pasan a ella las dos instrucciones de confort térmico, las instrucciones de altas temperaturas y el protocolo de emergencias por fenómenos meteorológicos adversos."
+        },
+        {
+          "type": "nuevo",
+          "description": "Resolución de 20 de diciembre de 2024, protocolo de apoyo, asesoramiento y acompañamiento al personal de los centros educativos ante agresiones. Se aplica a todo el personal de los centros públicos, conservatorios incluidos: qué hace la dirección (registro PREVI, informe, comunicación a Fiscalía, parte de accidente de trabajo), qué puede hacer la persona agredida y la asistencia jurídica. Con el modelo de informe de la dirección para descargar. Va en Orientación y Convivencia."
+        },
+        {
+          "type": "nuevo",
+          "description": "Protocolo de prevención y actuación ante el acoso laboral en centros docentes (2017): tipos de acoso, unidades competentes, prevención y el procedimiento en seis fases ante la Unidad de Resolución de Conflictos (URC), con su esquema y su cuadro de plazos."
+        },
+        {
+          "type": "nuevo",
+          "description": "Reglamento de funcionamiento interno de las Unidades de Resolución de Conflictos (resolución de la Dirección General de Personal Docente de 29 de julio de 2022): composición, sesiones, actas y disponibilidad horaria de quienes las forman."
+        },
+        {
+          "type": "nuevo",
+          "description": "Tres instrucciones operativas del Servicio de Prevención de Riesgos Laborales de la Generalitat: SPRL-IOPRL-13 (adaptación o cambio de puesto por motivos de salud), SPRL-IOPRL-04 (embarazo, parto reciente o lactancia), a las que remiten las instrucciones de inicio de curso, y SPRL-IOPRL-12 (residuos peligrosos en centros educativos), que recomienda la guía del plan de sostenibilidad. Con sus modelos en Word y los enlaces que el PDF esconde tras el texto. De la IOPRL-12 no se reproducen las tablas de química de laboratorio."
+        },
+        {
+          "type": "mejora",
+          "description": "Fichas de dirección, equipo directivo, consejo escolar y jefatura de estudios: nuevas referencias al protocolo de agresiones, al de acoso laboral, al reglamento de la URC y a las instrucciones de embarazo y de residuos."
+        }
+      ],
+      "va": [
+        {
+          "type": "nou",
+          "description": "Nova categoria «Prevenció de riscos laborals». Reunix el que tracta de la seguretat i la salut del personal i que fins ara estava repartit: hi passen les dues instruccions de confort tèrmic, les instruccions d’altes temperatures i el protocol d’emergències per fenòmens meteorològics adversos."
+        },
+        {
+          "type": "nou",
+          "description": "Resolució de 20 de desembre de 2024, protocol de suport, assessorament i acompanyament al personal dels centres educatius davant d’agressions. S’aplica a tot el personal dels centres públics, conservatoris inclosos: què fa la direcció (registre PREVI, informe, comunicació a la Fiscalia, comunicat d’accident de treball), què pot fer la persona agredida i l’assistència jurídica. Amb el model d’informe de la direcció per a descarregar. Va en Orientació i Convivència."
+        },
+        {
+          "type": "nou",
+          "description": "Protocol de prevenció i actuació davant de l’assetjament laboral en centres docents (2017): tipus d’assetjament, unitats competents, prevenció i el procediment en sis fases davant de la Unitat de Resolució de Conflictes (URC), amb el seu esquema i el quadre de terminis."
+        },
+        {
+          "type": "nou",
+          "description": "Reglament de funcionament intern de les unitats de resolució de conflictes (resolució de la Direcció General de Personal Docent de 29 de juliol de 2022): composició, sessions, actes i disponibilitat horària de qui en forma part."
+        },
+        {
+          "type": "nou",
+          "description": "Tres instruccions operatives del Servei de Prevenció de Riscos Laborals de la Generalitat: SPRL-IOPRL-13 (adaptació o canvi de lloc per motius de salut), SPRL-IOPRL-04 (embaràs, part recent o lactància), a les quals remeten les instruccions d’inici de curs, i SPRL-IOPRL-12 (residus perillosos en centres educatius), que recomana la guia del pla de sostenibilitat. Amb els seus models en Word i els enllaços que el PDF amaga darrere del text. De la IOPRL-12 no es reproduïxen les taules de química de laboratori."
+        },
+        {
+          "type": "millora",
+          "description": "Fitxes de direcció, equip directiu, consell escolar i prefectura d’estudis: noves referències al protocol d’agressions, al d’assetjament laboral, al reglament de la URC i a les instruccions d’embaràs i de residus."
+        }
+      ]
+    }
+  },
+  {
     "version": "2.15.0",
     "date": "2026-11-05",
     "entries": {
