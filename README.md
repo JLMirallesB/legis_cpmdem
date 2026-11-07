@@ -134,11 +134,25 @@ Ver la carpeta `docs/` para documentaci&oacute;n detallada:
 
 ## Licencia
 
-MIT
+© 2026 José Luis Miralles Bono ([jlmirall.es](https://jlmirall.es)) · joseluismirallesbono@gmail.com
+
+- **Código** (web, scripts y servidor MCP): [GNU AGPL v3](LICENSE).
+- **Contenidos propios** (cuadernos, resúmenes, clasificaciones, notas y documentación): [CC BY-SA 4.0](LICENSE-CONTENIDOS).
+
+**Excepción:** los textos de las normas (leyes, decretos, órdenes, resoluciones e instrucciones)
+proceden de los diarios oficiales y de las administraciones que los dictan. Las disposiciones
+legales no están protegidas por derechos de autor (art. 13 de la Ley de Propiedad Intelectual) y
+no quedan sujetas a estas licencias.
+
+Hasta la versión 2.16.0 el README indicaba licencia MIT; las copias obtenidas antes la conservan.
+
+Más información: [Archivo Legislativo vivo de Normativa de Conservatorios](https://elpulpoenelvaso.jlmirall.es/?p=727) ·
+[Legis CPMDEM ya no es solo un lector de leyes](https://elpulpoenelvaso.jlmirall.es/?p=777)
 
 ---
 
 <p align="center">
-  Proyecto de <a href="mailto:jl.mirallesbono@edu.gva.es">Jos&eacute; Luis Miralles Bono</a> &middot;
+  Proyecto de <a href="https://jlmirall.es">Jos&eacute; Luis Miralles Bono</a> &middot;
+  <a href="mailto:joseluismirallesbono@gmail.com">joseluismirallesbono@gmail.com</a> &middot;
   <a href="https://ko-fi.com/miralles">Ko-fi</a>
 </p>

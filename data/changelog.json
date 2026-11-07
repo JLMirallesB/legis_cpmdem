@@ -1,5 +1,23 @@
 [
   {
+    "version": "2.16.1",
+    "date": "2026-11-07",
+    "entries": {
+      "es": [
+        {
+          "type": "actualizado",
+          "description": "Licencia: el código pasa a GNU AGPL v3 y los contenidos propios (cuadernos, resúmenes, clasificaciones) a CC BY-SA 4.0. Los textos de las normas proceden de los diarios oficiales y no están sujetos a derechos de autor. El pie enlaza al blog del proyecto y el correo de contacto pasa a ser joseluismirallesbono@gmail.com."
+        }
+      ],
+      "va": [
+        {
+          "type": "actualitzat",
+          "description": "Llicència: el codi passa a GNU AGPL v3 i els continguts propis (quaderns, resums, classificacions) a CC BY-SA 4.0. Els textos de les normes procedixen dels diaris oficials i no estan subjectes a drets d'autor. El peu enllaça al blog del projecte i el correu de contacte passa a ser joseluismirallesbono@gmail.com."
+        }
+      ]
+    }
+  },
+  {
     "version": "2.16.0",
     "date": "2026-11-06",
     "entries": {

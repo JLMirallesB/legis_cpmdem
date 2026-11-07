@@ -1,6 +1,7 @@
 {
   "name": "legis-cpmdem-mcp",
   "version": "1.0.0",
+  "license": "AGPL-3.0-only",
   "type": "module",
   "description": "MCP server for Legis CPMDEM - legislation reader for music and dance conservatories",
   "main": "src/index.ts",
