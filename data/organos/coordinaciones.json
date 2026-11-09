@@ -22,7 +22,7 @@
     "coordinacio de",
     "figures de coordinacio"
   ],
-  "updatedAt": "2026-11-06",
+  "updatedAt": "2026-11-09",
   "refs": [
     {
       "law": "decreto-193-2025",
@@ -1092,6 +1092,12 @@
       "law": "resolucion-29-07-2022-reglamento-urc",
       "article": "anexo-1-art-16",
       "reason": "Persona coordinadora de la URC, no una coordinación del centro"
+    },
+    {
+      "law": "instruccion-5-2025-derogaciones-correccion",
+      "article": "sec-3",
+      "apartado": "0",
+      "reason": "Solo cita el título de la Instrucción 3/2011 (coordinadores TIC) al dejarla sin efecto; no atribuye nada"
     }
   ],
   "titleTerms": [

@@ -1,0 +1,89 @@
+{
+  "id": "instruccion-2-2024-instalaciones-telecomunicacion",
+  "slug": "instruccion-2-2024-instalaciones-telecomunicacion",
+  "type": "documento",
+  "number": "2/2024",
+  "date": "2024-05-15",
+  "publishedIn": {
+    "source": "CEICE",
+    "number": "",
+    "date": "2024-05-15",
+    "url": "https://ceice.gva.es/va/web/educacion/innovacio-tecnologica-educativa/instruccions-generals",
+    "pdfUrl": "https://ceice.gva.es/documents/161634279/390142986/Instrucci%C3%B3_Execuci%C3%B3_Instal%C2%B7lacions_Telecomunicacions_Centres_Educatius.pdf/f4607eee-5c9f-2acb-da30-6aa6c22a359d"
+  },
+  "title": "Instrucció 2/2024, execució d'instal·lacions de telecomunicació en centres educatius de titularitat de la Generalitat, sobre les condicions tècniques, d'execució i control de les instal·lacions de telecomunicacions",
+  "titleShort": "Instrucció 2/2024 - Instal·lacions de telecomunicació en centres",
+  "category": "tic",
+  "vigpiracy": {
+    "status": "vigente",
+    "statusLabel": "Vigent",
+    "effectiveDate": "2024-05-15"
+  },
+  "structure": [
+    {
+      "type": "preambulo",
+      "id": "preambulo",
+      "title": "Introducció",
+      "content": "En virtut de les competències atribuïdes pel DECRET 136/2023, de 10 d'agost, del Consell, d'aprovació del Reglament orgànic i funcional de la Conselleria d'Educació, Universitats i Ocupació. [2023/8898] i concretament pel que es disposa en el seu article 19.1, d'acord amb els següents:\n\n**1. Antecedents**\n\nA causa de la gran quantitat d'actuacions, reformes i obres de nova construcció per a centres educatius de la Generalitat Valenciana, en què intervenen al seu torn nombrosos actors entre els quals es troben servicis de la Generalitat Valenciana, ajuntaments, enginyeries, empreses constructores i empreses instal·ladores externes, es fa necessària l'elaboració de la present instrucció amb la finalitat d'establir les condicions necessàries per a la correcta execució de les instal·lacions de telecomunicacions, així com per al seu control.\n\nNo sols la multiplicitat d'agents fa necessària la coordinació en l'execució d'esta mena d'instal·lacions, sinó també la necessitat de control dels sistemes educatius posats a la disposició de l’alumnat de manera homogènia i generalitzada, en els immobles de centres educatius de titularitat Generalitat Valenciana independentment del seu caràcter (permanent o provisional).\n\nJa existixen a nivell intern unes certes instruccions que hauran de respectar-se en l'execució d'esta mena d'instal·lacions, fixades des de la Direcció General de Tecnologies de la Informació i les Comunicacions dependent de la Conselleria d'Hisenda, Economia i Administració Pública i que es consideren imprescindibles seguir. Els documents referits són les “Especificacions tècniques per a instal·lacions de telecomunicacions en centres de la Generalitat Valenciana” i les “Especificacions particulars per a instal·lacions de telecomunicacions en centres educatius de la Generalitat Valenciana”.\n\nAtés que este tipus d'instal·lacions estan en contínua evolució, esta instrucció preveu l'actualització de tots dos documents, i està disponible la seua última versió en la pàgina https://dgtic.gva.es/es/normativa\n\n**2. Objecte de la instrucció**\n\nL'objecte de la instrucció és divers i pot resumir-se en els punts següents:\n\n• Millorar l'execució dels projectes constructius perquè el seu disseny siga conforme a les necessitats de funcionament posterior quant a les característiques, distribució, número i disposició dels diferents elements, així com en la denominació i codificació d'estos, en col·laboració amb els equips redactors dels projectes, oficines tècniques i oficines de supervisió.\n\n• Establir el procés de control de l'execució de les instal·lacions conforme a les característiques predefinides en el projecte en col·laboració amb les direccions facultatives de les obres, ajustades al moment de la seua execució, de cara al fet que hi haja una coherència amb els sistemes generals de funcionament i control dels llocs educatius.\n\n• Determinar les vies perquè la documentació final d'obra estiga degudament ordenada, organitzada i parametritzada i permeta així les labors necessàries de manteniment, control i gestió remota.\n\n**3. Repercussió**\n\nLes mesures establides en la instrucció no requerixen de finançament públic addicional perquè poden ser assumides pel personal propi de la Generalitat Valenciana dins de les obligacions establides en els seus respectius llocs de treball, i/o els diferents implicats en els contractes de redacció de projectes, execució d'obres i direcció d'obres, per ser part pròpia dels encàrrecs corresponents.\n\nSí que s'espera que permeta una reducció important de les ineficiències que es produïxen en les obres per errors i duplicitats de projectes o descontrol entre els diferents implicats.\n\nDispose, per a la seua deguda observança i compliment pels diferents implicats en la planificació i execució d'infraestructures educatives en l'àmbit de la Comunitat Valenciana:"
+    },
+    {
+      "type": "seccion",
+      "id": "ap-1",
+      "title": "Primer. Àmbit d'aplicació",
+      "content": "Esta instrucció serà aplicable a qualsevol centre educatiu de titularitat Generalitat Valenciana, tant provisional com definitiu que es construïsca i pretenga utilitzar-se amb esta fi, des de la data de firma d’este."
+    },
+    {
+      "type": "seccion",
+      "id": "ap-2",
+      "title": "Segon. Via d'exigència",
+      "content": "En les prescripcions tècniques o document equivalent de qualsevol plec de contractació de servicis de redacció de projectes, execució d'obres i instal·lacions o de manteniment que puga incidir en elles, es farà referència a esta instrucció amb caràcter obligatori.\n\nAixí mateix, tota instal·lació de cablejat de telecomunicacions ha de complir les especificacions descrites en els documents “Especificacions tècniques per a instal·lacions de telecomunicacions en centres de la Generalitat Valenciana” i les “Especificacions particulars per a instal·lacions de telecomunicacions en centres educatius de la Generalitat Valenciana” de la DGTIC."
+    },
+    {
+      "type": "seccion",
+      "id": "ap-3",
+      "title": "Tercer. Responsabilitat dels actors implicats i processos implicats",
+      "content": "1. Serà responsabilitat de la unitat encarregada del seguiment del contracte de redacció de projectes:\n\na. Coordinar amb la DGTIC l'estudi Wifi de manera que se situen en projecte correctament les preses de dades per a este servici, que està estandarditzat amb uns paràmetres de funcionament molt concrets per a centres educatius.\n\nb. Coordinar amb la DGTIC la validació del disseny, memòria o projecte de la instal·lació.\n\n2. Serà responsabilitat de l'empresa adjudicatària del contracte d'obres:\n\na. Que l'empresa instal·ladora complisca el que s'establix en el document d'especificacions tècniques.\n\nb. Informar la DGTIC, amb 3 mesos d'antelació, de la data prevista d'ocupació, a través del responsable del contracte, de manera que es puga planificar correctament la instal·lació d'electrònica i línies de dades necessàries per al seu funcionament.\n\nc. Traslladar a la DGTIC, a través del responsable del contracte, tota la documentació final d'obra especificada en el document d'especificacions tècniques abans de l'ocupació de l'edifici."
+    },
+    {
+      "type": "seccion",
+      "id": "ap-4",
+      "title": "Quart. Vies de comunicació",
+      "content": "S'establix com a via de comunicació amb la DGTIC el correu electrònic cableado@gva.es, sense menyscapte d'altres vies que puguen habilitar-se en el futur."
+    }
+  ],
+  "legalAnalysis": {
+    "enactedPursuantTo": [
+      {
+        "title": "Decret 136/2023, de 10 d'agost, del Consell, Reglament orgànic i funcional de la Conselleria d'Educació, Universitats i Ocupació (art. 19.1)",
+        "articles": [
+          "art-19"
+        ],
+        "relationship": "habilitante"
+      }
+    ],
+    "priorAffectations": [],
+    "posteriorAffectations": [],
+    "derogations": [],
+    "concordances": []
+  },
+  "promulgation": {
+    "place": "València",
+    "date": "2024-05-15",
+    "signatories": [
+      {
+        "name": "Rafael Valcárcel Sánchez",
+        "role": "Director general d'Infraestructures Educatives"
+      },
+      {
+        "name": "José Manuel García Duarte",
+        "role": "Director general de Tecnologies de la Informació i les Comunicacions"
+      }
+    ]
+  },
+  "scope": "general",
+  "territory": "autonomico",
+  "temporality": {
+    "type": "permanente"
+  },
+  "docType": "documentos"
+}

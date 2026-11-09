@@ -18,7 +18,7 @@
     "equipo directivo",
     "equip directiu"
   ],
-  "updatedAt": "2026-11-06",
+  "updatedAt": "2026-11-09",
   "refs": [
     {
       "law": "decreto-104-2018",
@@ -571,6 +571,20 @@
       "note": {
         "es": "Llama a urgencias si la agresión es grave",
         "va": "Telefona a urgències si l'agressió és greu"
+      }
+    },
+    {
+      "law": "instruccion-4-2010-documento-nia",
+      "article": "sec-8",
+      "apartado": "0",
+      "hash": {
+        "es": "e83a108a",
+        "va": "72ac71cb"
+      },
+      "checkedAt": "2026-11-09",
+      "note": {
+        "es": "Sus miembros son responsables de entregar las tarjetas NIA",
+        "va": "Els seus membres són responsables d'entregar les targetes NIA"
       }
     }
   ],

@@ -17,7 +17,8 @@
   "vigpiracy": {
     "status": "vigente",
     "statusLabel": "Vigent",
-    "effectiveDate": "2025-02-24"
+    "effectiveDate": "2025-02-24",
+    "lastModifiedDate": "2025-06-18"
   },
   "structure": [
     {
@@ -68,7 +69,16 @@
       }
     ],
     "priorAffectations": [],
-    "posteriorAffectations": [],
+    "posteriorAffectations": [
+      {
+        "lawId": "instruccion-5-2025-derogaciones-correccion",
+        "title": "Instrucció General 5/2025, de 18 de juny de 2025 — Deixa sense efecte i corregix instruccions TIC",
+        "type": "modifica",
+        "articles": [],
+        "date": "2025-06-18",
+        "description": "Corregix la numeració d'esta instrucció: emesa com a «Instrucció 3/2024», passa a ser la «Instrucció 2/2025»."
+      }
+    ],
     "derogations": [],
     "concordances": []
   },

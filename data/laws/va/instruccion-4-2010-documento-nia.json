@@ -1,0 +1,130 @@
+{
+  "id": "instruccion-4-2010-documento-nia",
+  "slug": "instruccion-4-2010-documento-nia",
+  "type": "documento",
+  "number": "4/2010",
+  "date": "2010-12-09",
+  "publishedIn": {
+    "source": "CEICE",
+    "number": "",
+    "date": "2010-12-09",
+    "url": "https://ceice.gva.es/va/web/educacion/innovacio-tecnologica-educativa/instruccions-generals",
+    "pdfUrl": "https://ceice.gva.es/documents/161634279/390142986/4.2010_VAL.pdf/efd7fbc9-a57c-5c3c-4ae8-b4ba9253e02e"
+  },
+  "title": "Instruccions de servici núm. 4/2010, per a la impressió i correcció d'errors del document NIA",
+  "titleShort": "Instrucció 4/2010 - Impressió i correcció d'errors del document NIA",
+  "category": "tic",
+  "vigpiracy": {
+    "status": "vigente",
+    "statusLabel": "Vigent",
+    "effectiveDate": "2010-12-09"
+  },
+  "structure": [
+    {
+      "type": "preambulo",
+      "id": "preambulo",
+      "title": "Introducció",
+      "content": "La Conselleria d’Educació, a través de la Direcció General d’Innovació Tecnològica Educativa, atenent el que disposa l’Orde de 29 d’abril de 2009, disposa les següents instruccions per a la impressió i correcció d’errors del document NIA."
+    },
+    {
+      "type": "seccion",
+      "id": "antecedentes",
+      "title": "Antecedents",
+      "content": "Regulació del número identificatiu de l’alumnat de la Comunitat Valenciana (NIA).\n\nL’Orde de 29 d’abril de 2009, de la Conselleria d’Educació, publicada en el DOCV 6.026, de data 2 de juny de 2009, regula el número identificatiu de l’alumnat de la Comunitat Valenciana (NIA). En esta s’establix el registre informàtic de les dades de l’alumnat de la Comunitat Valenciana a través del programa d’Innovació Tecnològica per a l’Administració de Centres i Alumnat, d’ara en avant ITACA. Establix un conjunt de mecanismes i procediments per a assignar un número d’identificació personal (NIA) en el moment de la seua incorporació al sistema educatiu valencià, en el procés de matriculació, pel centre docent, i que serà utilitzat al llarg de la seua vida escolar, amb independència del centre on curse els seus estudis.\n\nRespecte de les dades del NIA, afirma l’esmentada orde:\n\nEl NIA identifica unívocament l’alumna o alumne basant-se en les dades següents: nom, 1r cognom, 2n cognom, data de naixement, sexe, DNI (si és el cas), localitat de naixement i província de naixement. El centre comprovarà i introduirà les dades que figuren en els documents oficials aportats per l’alumnat.\n\nEstes dades hauran de ser modificades pel centre docent on estiga matriculat l’alumne en ensenyances de règim general, quan s’hi detecte un error o a petició de l’interessat.\n\nQualsevol modificació haurà d’estar degudament documentada i custodiada pel centre.\n\nRespecte de l’emissió de la targeta identificativa de l’alumnat, fa saber l’orde que:\n\nS’emetrà per a cada alumna i cada alumne una targeta que servirà com a document acreditatiu del número d’identificació de l’alumnat.\n\nDes del centre on estiga escolaritzat l’alumne/a, es podrà expedir duplicats de la targeta en cas necessari."
+    },
+    {
+      "type": "seccion",
+      "id": "sec-1",
+      "title": "1. Sobre les denominacions de la targeta identificativa de l’alumnat",
+      "content": "La targeta identificativa de l’alumnat o document NIA podrà tindre diverses denominacions depenent de la impressió realitzada. Anomenem:\n\n– Targeta provisional a aquella que pot imprimir el mateix centre per a l’alumnat, matriculat en este, i que s’acaba d’incorporar al sistema educatiu valencià.\n\n– Targeta original a aquella que emetrà la Conselleria d’Educació en format plastificat.\n\n– Targeta duplicada a aquella que imprimirà el centre, on estiga matriculat l’alumnat, per als casos que es detallen en el punt 10 d’estes instruccions i que substituïx l’original."
+    },
+    {
+      "type": "seccion",
+      "id": "sec-2",
+      "title": "2. Impressió provisional de la targeta identificativa de l’alumnat",
+      "content": "ITACA permetrà la impressió del document des del mateix centre, una vegada matriculat l’alumne/a, de manera que se li entregue a l’interessat/ada i dispose d’este, amb total validesa, fins que reba l’imprés original. Açò garantix la fidelitat de les dades, ja que permet la comprovació de la seua exactitud i l’esmena abans de procedir a la impressió original."
+    },
+    {
+      "type": "seccion",
+      "id": "sec-3",
+      "title": "3. Correcció d’errors",
+      "content": "Correspon al centre l’esmena dels errors detectats en les dades bàsiques del NIA (nom, 1r cognom, 2n cognom, data de naixement, sexe, DNI (si és el cas), localitat de naixement i província de naixement), per exemple en l’assignació del sexe o dates de naixement. Per a això seleccionarà l’alumne/a i farà clic en el botó “Modificar dades NIA” (disposa d’una guia en la web de suport ITACA)."
+    },
+    {
+      "type": "seccion",
+      "id": "sec-4",
+      "title": "4. Com imprimir des del centre la targeta identificativa de l’alumnat",
+      "content": "El document o model provisional/duplicat es pot imprimir, i obtindre una còpia en format PDF, des de l’aplicació ITACA a través del menú Centre >> Llistes >> Alumnat >> General >> Carta d’enviament del NIA. Per a imprimir el document NIA d’un sol alumne o alumna seleccione l’opció “El següent”, en compte de tots, i busque (icona lupa) o escriga directament el seu NIA."
+    },
+    {
+      "type": "seccion",
+      "id": "sec-5",
+      "title": "5. Comprovació d’errors i duplicitats",
+      "content": "Previ al procés d’emissió de les targetes identificatives de l’alumnat o document NIA, per part de la Conselleria d’Educació, es comprovarà que no hi ha errors i duplicitats en els NIA, de manera que no s’imprimiran les targetes de l’alumnat dels centres on persistisquen els mencionats errors.\n\nA este efecte, els centres podran comprovar l’existència o no dels dits errors a través d’una llista des de la pestanya LLISTES, seleccionant el mòdul Alumnat, títol “Detall d’errors en NIA per centre”, i es mostrarà una llista que conté dos parts: la primera és la informació relativa a errors en dades bàsiques del NIA; la segona fa referència als possibles duplicats en NIA pendents de solucionar.\n\nEn el cas de detectar errors el centre, haurà de corregir-los tal com s’indica en el punt 3.\n\nEn el cas de detectar una duplicitat (un mateix NIA per a dos alumnes diferents), el centre haurà de comunicar-ho a la inspecció educativa per a la seua esmena."
+    },
+    {
+      "type": "seccion",
+      "id": "sec-6",
+      "title": "6. Esmena de duplicitats",
+      "content": "Segons s’arreplega en l’article 6 de l’Orde de 29 d’abril de 2009, correspon a les direccions territorials, a través dels servicis d’inspecció educativa (personal amb perfil administrador_alumnat), la detecció i esmena, si és el cas, de les duplicitats. Per a això seguiran el procediment ja establit a través de l’aplicació ITACA."
+    },
+    {
+      "type": "seccion",
+      "id": "sec-7",
+      "title": "7. Emissió de les targetes identificatives de l’alumnat o document NIA",
+      "content": "La Direcció General d’Innovació Tecnològica Educativa de la Conselleria d’Educació procedirà a emetre una sola vegada l’original de les targetes identificatives de l’alumnat o document NIA en paper especial (targeta plastificada), per a l’alumnat nou (aquells que han accedit a infantil 3 anys, i també les noves incorporacions procedents de fora de la Comunitat Valenciana en infantil 4 i 5 anys i primària, i en els altres nivells, segons es vagen incorporant les ensenyances a ITACA). Es realitzarà al començament del 2n trimestre del curs escolar, una vegada estabilitzada la matrícula dels centres docents.\n\nA l’alumnat que s’incorpore després d’esta emissió se li entregarà una targeta provisional que imprimirà el centre on es matricule (vegeu punt 2 ). En l’emissió corresponent al següent curs es procedirà a la seua elaboració en format original, que s’enviarà al centre on es trobe matriculat en eixe moment."
+    },
+    {
+      "type": "seccion",
+      "id": "sec-8",
+      "title": "8. Repartiment de les targetes identificatives de l’alumnat",
+      "content": "Des de la Conselleria d’Educació, els centres docents rebran un paquet amb els NIA corresponents als alumnes del seu centre, ordenats per ensenyança, curs i grup, a fi que procedisquen al seu repartiment. Correspon als membres de l’equip directiu del centre la responsabilitat d’entregar-los.\n\nEl document del NIA romandrà en poder de la família de l’alumne/a, ja que els serà necessari i imprescindible per a realitzar qualsevol gestió administrativa (admissió, matrícula, sol·licitud de beques i títols, etc.).\n\nEn el cas que en el moment de la recepció de les targetes un alumne/a s’haja traslladat a un altre centre pertanyent a la Comunitat Valenciana, el centre haurà de remetre la targeta o document NIA al centre de destí. Si es trasllada a un centre fora de la Comunitat Valenciana, haurà de tornar-la a la Conselleria d’Educació, i remetre-la a la Direcció General d’Innovació Tecnològica Educativa l’adreça de la qual figura en l’encapçalament d’estes instruccions."
+    },
+    {
+      "type": "seccion",
+      "id": "sec-9",
+      "title": "9. Esmena d’errors en fase posterior a l’emissió de les targetes identificatives de l’alumnat",
+      "content": "En el cas que una targeta rebuda continga errors en les dades bàsiques, el centre procedirà a corregir-los tal com s’explica en el punt 3 i, posteriorment, imprimirà i entregarà a l’interessat/ada un duplicat d’esta seguint els passos detallats en el punt 4. La targeta original que contenia errors quedarà invalidada i serà destruïda pel mateix centre sense necessitat de comunicació o enviament a la Conselleria.\n\nTingueu en compte que, en el cas de nascuts en l’estranger, si el camp “Província de naixement” està buit, es farà constar el nom del país de naixement.\n\nLa targeta original no es tornarà a emetre, excepte si, en el moment de la recepció, es troba deteriorada, no llegible, en blanc o nul·la. En eixe cas, el centre haurà de remetre-la i sol·licitar-ne una nova emissió en original a l’adreça mencionada en el tercer paràgraf del punt anterior."
+    },
+    {
+      "type": "seccion",
+      "id": "sec-10",
+      "title": "10. Impressió del duplicat de la targeta identificativa de l’alumnat",
+      "content": "Una vegada imprés i entregat a l’alumne/a, el document original, si es produïx algun deteriorament, pèrdua, hi ha errors en les dades, etc., correspondrà al mateix centre on estiga matriculat corregir les dades si és el cas i imprimir un duplicat. Esta impressió es farà en el tipus de paper que determinen els centres, sempre que reunisca les característiques mínimes següents: paper blanc de 100 grams. El duplicat substituïx amb caràcter general l’original que, si és el cas, haurà de ser destruït pel centre."
+    },
+    {
+      "type": "seccion",
+      "id": "sec-11",
+      "title": "11. Suport i assistència tècnica en cas de dubtes",
+      "content": "La resolució d’incidències i preguntes sobre dubtes tècnics i utilització d’ITACA es canalitzarà a través del portal SAI, <http://sai.edu.gva.es/ >> Gestió d’incidències>.\n\nLa qual cosa comunique, per al seu coneixement i compliment."
+    }
+  ],
+  "legalAnalysis": {
+    "enactedPursuantTo": [
+      {
+        "title": "Orde de 29 d'abril de 2009, de la Conselleria d'Educació, per la qual es regula el número identificatiu de l'alumnat de la Comunitat Valenciana (NIA) (DOCV 6.026, de 2 de juny de 2009)",
+        "relationship": "desarrollo"
+      }
+    ],
+    "priorAffectations": [],
+    "posteriorAffectations": [],
+    "derogations": [],
+    "concordances": []
+  },
+  "promulgation": {
+    "place": "València",
+    "date": "2010-12-09",
+    "signatories": [
+      {
+        "name": "Sofía Bellés Ramos",
+        "role": "Directora general d'Innovació Tecnològica Educativa"
+      }
+    ]
+  },
+  "scope": "general",
+  "territory": "autonomico",
+  "temporality": {
+    "type": "permanente"
+  },
+  "docType": "documentos"
+}

@@ -429,6 +429,27 @@
       "notes": "Documento (no normativa). PDFs separados ES/VA desde CEICE, 4 páginas. Instrucción de Servicio firmada el 17/06/2025 por José María Larena Berrocal. Regula el uso seguro de la identidad digital y del equipamiento TIC gestionado por la Conselleria. Preámbulo + 5 secciones (Objeto, Ámbito, Normas de cuentas de correo con subsecciones 3.1 Identidad Digital Personal y 3.2 Identidad digital de centro y buzones compartidos, Normas de equipamiento informático, Derogaciones). Habilitada por D.38/2025 (art. 22.m). Deroga 4 instrucciones previas (1/2011, 2/2011, 1/2009, 4/2009). URL activa: gvasai.edu.gva.es."
     },
     {
+      "slug": "instruccion-5-2025-derogaciones-correccion",
+      "title": "Instrucción 5/2025 - Deja sin efecto y corrige instrucciones TIC",
+      "status": "ingested",
+      "category": "tic",
+      "notes": "Documento (no normativa). PDFs separados ES/VA desde CEICE, 2 páginas. Instrucción General de 18/06/2025 (firmada el 17/06/2025 por José María Larena Berrocal). Preámbulo + 4 secciones. Deja sin efecto las instrucciones 2/2009, 5/2009, 1/2010, 2/2010, 3/2011 y 4/2011 (ninguna ingestada) y corrige la numeración de la de altas y bajas de cuentas, emitida como 3/2024 y que pasa a ser 2/2025."
+    },
+    {
+      "slug": "instruccion-2-2024-instalaciones-telecomunicacion",
+      "title": "Instrucción 2/2024 - Instalaciones de telecomunicación en centros",
+      "status": "ingested",
+      "category": "tic",
+      "notes": "Documento (no normativa). PDFs separados ES/VA desde CEICE. Firmada por Rafael Valcárcel Sánchez (14/05/2024) y José Manuel García Duarte (15/05/2024). Parte expositiva + 4 apartados dispositivos (Primero-Cuarto). Aplicable a obras e instalaciones. El PDF valenciano publicado no lleva firma y tiene marca de versión «v. 22/05/2024», con diferencias de redacción respecto al castellano; se transcribe tal cual. Lugar tomado de la sede (el documento no lo indica). Remite a dos especificaciones de la DGTIC en https://dgtic.gva.es/es/normativa, no ingestadas."
+    },
+    {
+      "slug": "instruccion-4-2010-documento-nia",
+      "title": "Instrucción 4/2010 - Impresión y corrección de errores del documento NIA",
+      "status": "ingested",
+      "category": "tic",
+      "notes": "Documento (no normativa). PDFs separados ES/VA desde CEICE, 3 páginas. Instrucciones de servicio de 09/12/2010, firmadas por Sofía Bellés Ramos (DG Innovación Tecnológica Educativa). Introducción + antecedentes + 11 puntos. Sigue en la lista oficial y la 5/2025 no la deroga; desarrolla la Orden de 29/04/2009 (NIA), no ingestada."
+    },
+    {
       "slug": "decreto-93-2016",
       "title": "Decreto 93/2016 - Proceso electoral de consejos escolares",
       "status": "ingested",

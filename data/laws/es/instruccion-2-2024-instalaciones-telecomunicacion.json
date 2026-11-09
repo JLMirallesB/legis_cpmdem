@@ -1,0 +1,89 @@
+{
+  "id": "instruccion-2-2024-instalaciones-telecomunicacion",
+  "slug": "instruccion-2-2024-instalaciones-telecomunicacion",
+  "type": "documento",
+  "number": "2/2024",
+  "date": "2024-05-15",
+  "publishedIn": {
+    "source": "CEICE",
+    "number": "",
+    "date": "2024-05-15",
+    "url": "https://ceice.gva.es/es/web/educacion/innovacio-tecnologica-educativa/instruccions-generals",
+    "pdfUrl": "https://ceice.gva.es/documents/161634279/390142986/2.2024_CAS.pdf/6249cfa1-75de-e1f0-05d5-6d67044d1030"
+  },
+  "title": "Instrucción 2/2024, ejecución de instalaciones de telecomunicación en centros educativos de titularidad de la Generalitat, sobre las condiciones técnicas, de ejecución y control de las instalaciones de telecomunicaciones",
+  "titleShort": "Instrucción 2/2024 - Instalaciones de telecomunicación en centros",
+  "category": "tic",
+  "vigpiracy": {
+    "status": "vigente",
+    "statusLabel": "Vigente",
+    "effectiveDate": "2024-05-15"
+  },
+  "structure": [
+    {
+      "type": "preambulo",
+      "id": "preambulo",
+      "title": "Introducción",
+      "content": "En virtud de las competencias atribuidas por el DECRETO 136/2023, de 10 de agosto, del Consell, de aprobación del Reglamento orgánico y funcional de la Conselleria de Educación, Universidades y Empleo. [2023/8898] y concretamente en lo dispuesto en su artículo 19.1, a tenor de los siguientes:\n\n**1. Antecedentes**\n\nDebido a la gran cantidad de actuaciones, reformas y obras de nueva construcción para centros educativos de titularidad de la Generalitat, en los que intervienen a su vez numerosos actores entre los que se encuentran servicios de la Generalitat, ayuntamientos, ingenierías, empresas constructoras y empresas instaladoras externas, se hace necesaria la elaboración de la presente instrucción con el fin de establecer las condiciones necesarias para la correcta ejecución de las instalaciones de telecomunicaciones, así como para su control.\n\nNo solo la multiplicidad de agentes hace necesaria la coordinación en la ejecución de este tipo de instalaciones, sino también la necesidad de control de los sistemas puestos a disposición de los alumnos de manera homogénea y generalizada, en los inmuebles de centros educativos de titularidad de la Generalitat independientemente de su carácter (permanente o provisional).\n\nExisten a nivel interno instrucciones que deben respetarse en la ejecución de este tipo de instalaciones, fijadas desde la Dirección General de Tecnologías de la Información y las Comunicaciones (DGTIC) dependiente de la Conselleria de Hacienda, Economía y Administración Pública. Estos documentos son:\n\n• Especificaciones técnicas para instalaciones de telecomunicaciones en centros de la Generalitat\n\n• Especificaciones particulares para instalaciones de telecomunicaciones en centros educativos de la Generalitat\n\nDado que este tipo de instalaciones están en continua evolución, esta instrucción prevé la actualización de ambos documentos, estando disponible su última versión en la página https://dgtic.gva.es/es/normativa\n\n**2. Objeto de la instrucción**\n\nEl objeto de esta instrucción se resume en los siguientes puntos:\n\n• Mejorar la ejecución de los proyectos de construcción para que su diseño sea acorde a las necesidades de funcionamiento en cuanto a las características, distribución, número y disposición de los distintos elementos, así como en su denominación y codificación, en colaboración con los equipos redactores de los proyectos, oficinas técnicas y oficinas de supervisión.\n\n• Establecer el proceso de control de la ejecución de las instalaciones conforme a las características predefinidas en el proyecto en colaboración con las direcciones facultativas de las obras, ajustadas al momento de su ejecución, de cara a que haya una coherencia con los sistemas generales de funcionamiento y control de los puestos educativos.\n\n• Determinar las vías para que la documentación final de obra esté debidamente ordenada, organizada y parametrizada y permitir así las labores necesarias de mantenimiento, control y gestión remota.\n\n**3. Repercusión**\n\nLas medidas establecidas en la instrucción no requieren de financiación pública adicional, ya que pueden ser asumidas por el personal propio de las Generalitat dentro de las obligaciones establecidas en sus respectivos puestos de trabajo, y/o los distintos implicados en los contratos de redacción de proyectos, ejecución de obras y dirección de obras, por ser parte propia de los encargos correspondientes.\n\nSí que se espera que permita una reducción importante de las ineficiencias que se producen en las obras por errores y duplicidades de proyectos o descontrol entre los distintos implicados.\n\nDispongo, para su debida observancia y cumplimiento por los distintos implicados en la planificación y ejecución de infraestructuras educativas en el ámbito de la Comunitat Valenciana:"
+    },
+    {
+      "type": "seccion",
+      "id": "ap-1",
+      "title": "Primero. Ámbito de aplicación",
+      "content": "Esta instrucción será aplicable a los centros educativos de titularidad de la Generalitat, tanto provisionales como definitivos que se construyan y pretendan utilizarse con dicho fin, desde la fecha de firma de esta instrucción."
+    },
+    {
+      "type": "seccion",
+      "id": "ap-2",
+      "title": "Segundo. Vía de exigencia",
+      "content": "En las prescripciones técnicas o documento equivalente de cualquier pliego de contratación de servicios de redacción de proyectos, ejecución de obras e instalaciones o de mantenimiento que pueda incidir en ellas, se hará referencia a esta instrucción con carácter obligatorio.\n\nAsimismo, toda instalación de cableado de telecomunicaciones debe cumplir las especificaciones descritas en los documentos de la DGTIC siguientes:\n\n• Especificaciones técnicas para instalaciones de telecomunicaciones en centros de la Generalitat\n\n• Especificaciones particulares para instalaciones de telecomunicaciones en centros educativos de la Generalitat"
+    },
+    {
+      "type": "seccion",
+      "id": "ap-3",
+      "title": "Tercero. Responsabilidad de los actores y procesos implicados",
+      "content": "1. Será responsabilidad de la unidad encargada del seguimiento del contrato de redacción de proyectos:\n\na. Coordinar con la DGTIC el estudio WIFI de modo que se sitúen en proyecto correctamente las tomas de datos para este servicio, que está estandarizado con unos parámetros de funcionamiento para centros educativos.\n\nb. Coordinar con la DGTIC la validación del diseño, memoria o proyecto de la instalación.\n\n2. Será responsabilidad de la empresa adjudicataria del contrato de obras:\n\na. Que la empresa instaladora cumpla lo establecido en el documento de Especificaciones Técnicas.\n\nb. Informar a la DGTIC, con 3 meses de antelación, de la fecha prevista de ocupación, a través del responsable del contrato, de modo que se pueda planificar correctamente la instalación de electrónica y líneas de datos necesarias para su funcionamiento.\n\nc. Trasladar a la DGTIC, a través del responsable del contrato, toda la documentación final de obra especificada en el documento de Especificaciones Técnicas antes de la ocupación del edificio."
+    },
+    {
+      "type": "seccion",
+      "id": "ap-4",
+      "title": "Cuarto. Vías de comunicación",
+      "content": "Se establece como vía de comunicación con la DGTIC el correo electrónico cableado@gva.es, sin menoscabo de otras vías que puedan habilitarse en el futuro."
+    }
+  ],
+  "legalAnalysis": {
+    "enactedPursuantTo": [
+      {
+        "title": "Decreto 136/2023, de 10 de agosto, del Consell, Reglamento orgánico y funcional de la Conselleria de Educación, Universidades y Empleo (art. 19.1)",
+        "articles": [
+          "art-19"
+        ],
+        "relationship": "habilitante"
+      }
+    ],
+    "priorAffectations": [],
+    "posteriorAffectations": [],
+    "derogations": [],
+    "concordances": []
+  },
+  "promulgation": {
+    "place": "València",
+    "date": "2024-05-15",
+    "signatories": [
+      {
+        "name": "Rafael Valcárcel Sánchez",
+        "role": "Director general de Infraestructuras Educativas"
+      },
+      {
+        "name": "José Manuel García Duarte",
+        "role": "Director general de Tecnologías de la Información y las Comunicaciones"
+      }
+    ]
+  },
+  "scope": "general",
+  "territory": "autonomico",
+  "temporality": {
+    "type": "permanente"
+  },
+  "docType": "documentos"
+}

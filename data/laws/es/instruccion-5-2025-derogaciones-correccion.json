@@ -1,0 +1,128 @@
+{
+  "id": "instruccion-5-2025-derogaciones-correccion",
+  "slug": "instruccion-5-2025-derogaciones-correccion",
+  "type": "documento",
+  "number": "5/2025",
+  "date": "2025-06-18",
+  "publishedIn": {
+    "source": "CEICE",
+    "number": "",
+    "date": "2025-06-18",
+    "url": "https://ceice.gva.es/es/web/educacion/innovacio-tecnologica-educativa/instruccions-generals",
+    "pdfUrl": "https://ceice.gva.es/documents/161634279/390142986/5.2025_CAS.pdf/80620941-20b0-580e-80a2-53b774df1af4"
+  },
+  "title": "Instrucción General 5/2025, de 18 de junio de 2025, por la cual se dejan sin efectos y se corrige errores de determinadas Instrucciones relacionadas con las competencias ejercidas por la Dirección General de Infraestructuras Educativas",
+  "titleShort": "Instrucción 5/2025 - Deja sin efecto y corrige instrucciones TIC",
+  "category": "tic",
+  "vigpiracy": {
+    "status": "vigente",
+    "statusLabel": "Vigente",
+    "effectiveDate": "2025-06-18"
+  },
+  "structure": [
+    {
+      "type": "preambulo",
+      "id": "preambulo",
+      "title": "Introducción",
+      "content": "En virtud de las competencias atribuidas por el DECRETO 38/2025, de 4 de marzo, del Consell, de aprobación del Reglamento orgánico y funcional de la Conselleria de Educación, Cultura, Universidades y Empleo"
+    },
+    {
+      "type": "seccion",
+      "id": "sec-1",
+      "title": "1. Antecedentes",
+      "content": "En los últimos años, se han emitido diversas instrucciones relacionadas con las TIC con el objetivo de establecer y definir los mecanismos y procedimientos de uso.\n\nEstas instrucciones han sido fundamentales para el correcto uso de las herramientas TIC proporcionadas a los centros educativos titularidad de la Generalitat Valenciana. Sin embargo, con el paso del tiempo y la evolución de nuestras necesidades y objetivos, se ha identificado la necesidad de revisar y actualizar estas directrices.\n\nLa revisión de estas instrucciones es esencial para asegurar que el funcionamiento y gestión de los centros educativos estén alineados con los objetivos actuales y futuros la Conselleria de Educación, Cultura, Universidades y Empleo dentro de las competencias de la Dirección General de Infraestructuras Educativas."
+    },
+    {
+      "type": "seccion",
+      "id": "sec-2",
+      "title": "2. Objeto y alcance",
+      "content": "El objeto de esta instrucción es dejar sin efecto instrucciones anteriores y corregir errores de instrucciones vigentes."
+    },
+    {
+      "type": "seccion",
+      "id": "sec-3",
+      "title": "3. Derogaciones",
+      "content": "A partir de la fecha de emisión de esta instrucción, las siguientes instrucciones se dejan sin efecto.\n\n• Instrucción de servicio número 2/2009 para la petición y explotación del espacio web y subdominio proporcionado por la Conselleria de educación a los centros docentes\n\n• Instrucción 5/2009, utilización y custodia de las licencias del software instalado en los centros educativos de la Generalitat.\n\n• Instrucción 1/2010, modificación de la Instrucción 2/2009 sobre petición y explotación del espacio web y subdominio proporcionado por la Conselleria de Educación a los centros educativos.\n\n• Instrucción de servicio número 2/2010 para la utilización del 'mestre a casa'\n\n• Instrucción 3/2011, sobre el acceso a las cuentas corporativas de correo electrónico de los centros docentes y coordinadores TIC mediante webmail.\n\n• Instrucción 4/2011, sobre la adecuación a la LOPD de los centros educativos públicos"
+    },
+    {
+      "type": "seccion",
+      "id": "sec-4",
+      "title": "4. Instrucción con corrección de error",
+      "content": "• Se corrige la numeración de la “Instrucción 3/2024, sobre altas y bajas de cuentas de usuario en los dominios @edu.gva.es, @alu.edu.gva.es, @iseacv.gva.es y @alu.iseacv.gva.es gestionados por la Dirección General de Infraestructuras Educativas para los Centros Educativos de titularidad de la Generalitat” pasando a ser la “Instrucción 2/2025, sobre altas y bajas de cuentas de usuario en los dominios @edu.gva.es, @alu.edu.gva.es, @iseacv.gva.es y @alu.iseacv.gva.es gestionados por la titularidad de la Generalitat”"
+    }
+  ],
+  "legalAnalysis": {
+    "enactedPursuantTo": [
+      {
+        "title": "Decreto 38/2025, de 4 de marzo, del Consell, Reglamento orgánico y funcional de la Conselleria de Educación, Cultura, Universidades y Empleo",
+        "relationship": "habilitante"
+      }
+    ],
+    "priorAffectations": [
+      {
+        "lawId": "instruccion-2-2025-altas-bajas-usuarios",
+        "title": "Instrucción 2/2025 — Altas y bajas de cuentas de usuario",
+        "type": "modifica",
+        "articles": [],
+        "date": "2025-06-18",
+        "description": "Corrige la numeración: la instrucción, emitida como «Instrucción 3/2024», pasa a ser la «Instrucción 2/2025»."
+      }
+    ],
+    "posteriorAffectations": [],
+    "derogations": [
+      {
+        "lawId": "instruccion-2-2009-espacio-web",
+        "title": "Instrucción de servicio 2/2009 — Petición y explotación del espacio web y subdominio",
+        "type": "deroga",
+        "description": "Queda sin efecto a partir de la fecha de emisión de esta instrucción."
+      },
+      {
+        "lawId": "instruccion-5-2009-licencias-software",
+        "title": "Instrucción 5/2009 — Utilización y custodia de las licencias del software instalado en los centros",
+        "type": "deroga",
+        "description": "Queda sin efecto a partir de la fecha de emisión de esta instrucción."
+      },
+      {
+        "lawId": "instruccion-1-2010-espacio-web",
+        "title": "Instrucción 1/2010 — Modificación de la Instrucción 2/2009",
+        "type": "deroga",
+        "description": "Queda sin efecto a partir de la fecha de emisión de esta instrucción."
+      },
+      {
+        "lawId": "instruccion-2-2010-mestre-a-casa",
+        "title": "Instrucción de servicio 2/2010 — Utilización del «mestre a casa»",
+        "type": "deroga",
+        "description": "Queda sin efecto a partir de la fecha de emisión de esta instrucción."
+      },
+      {
+        "lawId": "instruccion-3-2011-webmail",
+        "title": "Instrucción 3/2011 — Acceso a las cuentas corporativas de correo mediante webmail",
+        "type": "deroga",
+        "description": "Queda sin efecto a partir de la fecha de emisión de esta instrucción."
+      },
+      {
+        "lawId": "instruccion-4-2011-lopd",
+        "title": "Instrucción 4/2011 — Adecuación a la LOPD de los centros educativos públicos",
+        "type": "deroga",
+        "description": "Queda sin efecto a partir de la fecha de emisión de esta instrucción."
+      }
+    ],
+    "concordances": []
+  },
+  "promulgation": {
+    "place": "València",
+    "date": "2025-06-17",
+    "signatories": [
+      {
+        "name": "José María Larena Berrocal",
+        "role": "Director general de Infraestructuras Educativas"
+      }
+    ]
+  },
+  "scope": "general",
+  "territory": "autonomico",
+  "temporality": {
+    "type": "permanente"
+  },
+  "docType": "documentos"
+}

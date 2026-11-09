@@ -1,0 +1,130 @@
+{
+  "id": "instruccion-4-2010-documento-nia",
+  "slug": "instruccion-4-2010-documento-nia",
+  "type": "documento",
+  "number": "4/2010",
+  "date": "2010-12-09",
+  "publishedIn": {
+    "source": "CEICE",
+    "number": "",
+    "date": "2010-12-09",
+    "url": "https://ceice.gva.es/es/web/educacion/innovacio-tecnologica-educativa/instruccions-generals",
+    "pdfUrl": "https://ceice.gva.es/documents/161634279/390142986/4.2010_CAS.pdf/7e032f24-079d-6075-0c9d-a53defc8533f"
+  },
+  "title": "Instrucciones de servicio núm. 4/2010, para la impresión y corrección de errores del documento NIA",
+  "titleShort": "Instrucción 4/2010 - Impresión y corrección de errores del documento NIA",
+  "category": "tic",
+  "vigpiracy": {
+    "status": "vigente",
+    "statusLabel": "Vigente",
+    "effectiveDate": "2010-12-09"
+  },
+  "structure": [
+    {
+      "type": "preambulo",
+      "id": "preambulo",
+      "title": "Introducción",
+      "content": "La Conselleria de Educación, a través de la Dirección General de Innovación Tecnológica Educativa, atendiendo lo dispuesto en la Orden de 29 de abril de 2009, dispone las siguientes instrucciones para la impresión y corrección de errores del documento NIA."
+    },
+    {
+      "type": "seccion",
+      "id": "antecedentes",
+      "title": "Antecedentes",
+      "content": "Regulación del número identificativo del alumnado de la Comunitat Valenciana (NIA).\n\nLa Orden de 29 de abril de 2009, de la Conselleria de Educación, publicada en el DOCV 6.026 de fecha 2 de junio de 2009, regula el número identificativo del alumnado de la Comunitat Valenciana (NIA). En ella se establece el registro informático de los datos del alumnado de la Comunidad Valenciana a través del programa de Innovación Tecnológica para la Administración de Centros y Alumnado, en adelante ITACA. Establece un conjunto de mecanismos y procedimientos para asignar un número de identificación personal (NIA) en el momento de su incorporación al sistema educativo valenciano, en el proceso de matriculación, por el centro docente y que será utilizado a lo largo de su vida escolar, con independencia del centro donde curse sus estudios.\n\nRespecto de los datos del NIA afirma la citada Orden:\n\nEl NIA identifica unívocamente a la alumna o alumno basándose en los siguientes datos: nombre, 1º apellido, 2º apellido, fecha de nacimiento, sexo, DNI (en su caso), localidad de nacimiento y provincia de nacimiento. El centro comprobará e introducirá los datos que figuran en los documentos oficiales aportados por el alumnado.\n\nEstos datos deberán ser modificados por el centro docente donde esté matriculado el alumno en enseñanzas de régimen general, cuando se detecte un error en los mismos o a petición del interesado. Cualquier modificación deberá estar debidamente documentada y custodiada por el centro.\n\nRespecto de la emisión de la tarjeta identificativa del alumnado hace saber la Orden que:\n\nSe emitirá para cada alumna y cada alumno, una tarjeta que servirá como documento acreditativo del número de identificación del alumnado.\n\nDesde el centro donde esté escolarizado el alumno/a, se podrá expedir duplicados de la tarjeta en caso necesario."
+    },
+    {
+      "type": "seccion",
+      "id": "sec-1",
+      "title": "1. Sobre las denominaciones de la tarjeta identificativa del alumnado",
+      "content": "La tarjeta identificativa del alumnado o documento NIA podrá tener varias denominaciones dependiendo de la impresión realizada. Llamamos:\n– Tarjeta provisional a aquella que puede imprimir el propio centro para el alumnado, matriculado en el mismo, y que se acaba de incorporar al sistema educativo valenciano.\n– Tarjeta original a aquella que emitirá la Conselleria de Educación en formato plastificado.\n– Tarjeta duplicado a aquella que imprimirá el centro, donde esté matriculado el alumnado, para los casos que se detallan en el punto 10 de estas instrucciones y que sustituye al original."
+    },
+    {
+      "type": "seccion",
+      "id": "sec-2",
+      "title": "2. Impresión provisional de la tarjeta identificativa del alumnado",
+      "content": "ITACA permitirá la impresión del documento desde el propio centro, una vez matriculado el alumno/a, de modo que se le entregue al interesado/a y disponga del mismo, con total validez, en tanto no reciba el impreso original. Esto garantiza la fidelidad de los datos, ya que permite la comprobación de su exactitud y la subsanación antes de proceder a la impresión original."
+    },
+    {
+      "type": "seccion",
+      "id": "sec-3",
+      "title": "3. Corrección de errores",
+      "content": "Corresponde al centro la subsanación de los errores detectados en los datos básicos del NIA (nombre, 1º apellido, 2º apellido, fecha de nacimiento, sexo, DNI (en su caso), localidad de nacimiento y provincia de nacimiento), por ejemplo en la asignación del sexo o fechas de nacimiento. Para ello seleccionará al alumno/a y hará clic en el botón “Modificar datos NIA” (dispone de una guía en la web de soporte ITACA)."
+    },
+    {
+      "type": "seccion",
+      "id": "sec-4",
+      "title": "4. Cómo imprimir desde el centro la tarjeta identificativa del alumnado",
+      "content": "El documento o modelo provisional/duplicado se puede imprimir, y obtener una copia en formato PDF, desde la aplicación ITACA a través del menú Centro >> Listados >> Alumnado >> General >> Carta de envío del NIA. Para imprimir el documento NIA de un solo alumno o alumna seleccione la opción “El siguiente”, en lugar de todos, y busque (icono lupa) o escriba directamente su NIA."
+    },
+    {
+      "type": "seccion",
+      "id": "sec-5",
+      "title": "5. Comprobación de errores y duplicidades",
+      "content": "Previo al proceso de emisión de las tarjetas identificativas del alumnado o documento NIA, por parte de la Conselleria de Educación, se comprobará que no existen errores y duplicidades en los NIA, de modo que no se imprimirán las tarjetas del alumnado de los centros donde persistan los mencionados errores.\n\nA este efecto, los centros podrán comprobar la existencia o no de dichos errores a través de un listado desde la pestaña LISTADOS, seleccionando el módulo Alumnado, título “Detalle de errores en NIA por centro” y se mostrará un listado que contiene dos partes: la primera de ellas es la información relativa a errores en datos básicos del NIA; la segunda de ellas hace referencia a los posibles duplicados en NIA pendientes de solucionar.\n\nEn el caso de detectar errores el centro deberá corregirlos tal como se indica en el punto 3.\n\nEn el caso de detectar una duplicidad (un mismo NIA para dos alumnos diferentes) el centro deberá comunicarlo a inspección educativa para su subsanación."
+    },
+    {
+      "type": "seccion",
+      "id": "sec-6",
+      "title": "6. Subsanación de duplicidades",
+      "content": "Según se recoge en el artículo 6 de la Orden de 29 de abril de 2009, corresponde a las direcciones territoriales, a través de los servicios de Inspección Educativa (personal con perfil administrador_alumnado) la detección y subsanación, en su caso, de las duplicidades. Para ello seguirán el procedimiento ya establecido a través de la aplicación ITACA."
+    },
+    {
+      "type": "seccion",
+      "id": "sec-7",
+      "title": "7. Emisión de las tarjetas identificativas del alumnado o documento NIA",
+      "content": "La Dirección General de Innovación Tecnológica Educativa de la Conselleria de Educación procederá a emitir una sola vez el original de las tarjetas identificativas del alumnado o documento NIA en papel especial (tarjeta plastificada), para el alumnado nuevo (aquellos que han accedido a infantil 3 años y también las nuevas incorporaciones procedentes de fuera de la Comunidad Valenciana en infantil 4 y 5 años y primaria y en los otros niveles, según se vayan incorporando las enseñanzas a ITACA). Se realizará al comienzo del 2º trimestre del curso escolar, una vez estabilizada la matrícula de los centros docentes.\n\nAl alumnado que se incorpore con posterioridad a esta emisión se le entregará una tarjeta provisional que imprimirá el centro donde se matricule (véase punto 2). En la emisión correspondiente al siguiente curso se procederá a su elaboración en formato original, que se enviará al centro donde se encuentre matriculado en ese momento."
+    },
+    {
+      "type": "seccion",
+      "id": "sec-8",
+      "title": "8. Reparto de las tarjetas identificativas del alumnado",
+      "content": "Desde la Conselleria de Educación los centros docentes recibirán un paquete con los NIA correspondientes a los alumnos/as de su centro, ordenados por enseñanza, curso y grupo, con el fin de que procedan a su reparto. Corresponde a los miembros del equipo directivo del centro la responsabilidad de su entrega.\n\nEl documento del NIA, permanecerá en poder de la familia del alumno/a ya que les será necesario e imprescindible para realizar cualquier gestión administrativa (admisión, matrícula, solicitud de becas y títulos, etc.).\n\nEn el caso de que, en el momento de la recepción de las tarjetas, un alumno/a se hubiese trasladado a otro centro perteneciente a la Comunidad Valenciana, el centro deberá remitir la tarjeta o documento NIA al centro de destino. Si se traslada a un centro fuera de la Comunidad Valenciana deberá devolverla a la Conselleria de Educación, remitiéndola a la Dirección General de Innovación Tecnológica Educativa cuya dirección figura en el encabezado de estas instrucciones."
+    },
+    {
+      "type": "seccion",
+      "id": "sec-9",
+      "title": "9. Subsanación de errores en fase posterior a la emisión de las tarjetas identificativas del alumnado",
+      "content": "En el caso de que una tarjeta recepcionada contenga errores en los datos básicos, el centro procederá a corregirlos tal como se explica en el punto 3 y posteriormente imprimirá y entregará al interesado/a un duplicado de la misma siguiendo los pasos detallados en el punto 4. La tarjeta original que contenía errores quedará invalidada y será destruida por el propio centro sin necesidad de comunicación o envío a Conselleria.\n\nTéngase en cuenta que, en el caso de nacidos en el extranjero, si el campo ”Provincia de nacimiento” está vacío, se hará constar el nombre del país de nacimiento.\n\nLa tarjeta original no se volverá a emitir salvo si, en el momento de la recepción, se encuentra deteriorada, no legible, en blanco o nula. En ese caso, el centro deberá remitirla y solicitar una nueva emisión en original de la misma a la dirección mencionada en el tercer párrafo del punto anterior."
+    },
+    {
+      "type": "seccion",
+      "id": "sec-10",
+      "title": "10. Impresión del duplicado de la tarjeta identificativa del alumnado",
+      "content": "Una vez impreso y entregado al alumno/a el documento original, si se produjese algún deterioro, pérdida, existiesen errores en los datos, etc., corresponderá al propio centro, donde esté matriculado, corregir los datos en su caso e imprimir un duplicado. Esta impresión se realizará en el tipo de papel que determinen los centros, siempre que reúna las características mínimas siguientes: papel blanco de 100 gramos. El duplicado sustituye a todos los efectos al original que, en su caso, deberá ser destruido por el centro."
+    },
+    {
+      "type": "seccion",
+      "id": "sec-11",
+      "title": "11. Soporte y asistencia técnica en caso de dudas",
+      "content": "La resolución de incidencias y preguntas sobre dudas técnicas y utilización de ITACA se canalizarán a través del portal SAI, http://sai.edu.gva.es/ >> Gestión de Incidencias.\n\nLo cual comunico, para su conocimiento y cumplimiento."
+    }
+  ],
+  "legalAnalysis": {
+    "enactedPursuantTo": [
+      {
+        "title": "Orden de 29 de abril de 2009, de la Conselleria de Educación, por la que se regula el número identificativo del alumnado de la Comunitat Valenciana (NIA) (DOCV 6.026, de 2 de junio de 2009)",
+        "relationship": "desarrollo"
+      }
+    ],
+    "priorAffectations": [],
+    "posteriorAffectations": [],
+    "derogations": [],
+    "concordances": []
+  },
+  "promulgation": {
+    "place": "Valencia",
+    "date": "2010-12-09",
+    "signatories": [
+      {
+        "name": "Sofía Bellés Ramos",
+        "role": "Directora general de Innovación Tecnológica Educativa"
+      }
+    ]
+  },
+  "scope": "general",
+  "territory": "autonomico",
+  "temporality": {
+    "type": "permanente"
+  },
+  "docType": "documentos"
+}

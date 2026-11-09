@@ -1,5 +1,47 @@
 [
   {
+    "version": "2.17.0",
+    "date": "2026-11-09",
+    "entries": {
+      "es": [
+        {
+          "type": "nuevo",
+          "description": "Instrucción 5/2025, de 18 de junio de 2025, de la Dirección General de Infraestructuras Educativas: deja sin efecto seis instrucciones TIC de 2009 a 2011 y corrige la numeración de la de altas y bajas de cuentas, emitida como 3/2024 y que pasa a ser 2/2025."
+        },
+        {
+          "type": "nuevo",
+          "description": "Instrucción 2/2024, sobre las condiciones técnicas, de ejecución y control de las instalaciones de telecomunicaciones en centros educativos de titularidad de la Generalitat."
+        },
+        {
+          "type": "nuevo",
+          "description": "Instrucciones de servicio 4/2010, para la impresión y corrección de errores del documento NIA."
+        },
+        {
+          "type": "mejora",
+          "description": "La Instrucción 2/2025 de altas y bajas de cuentas indica ahora su renumeración por la Instrucción 5/2025. Con estas tres incorporaciones están todas las instrucciones publicadas en la página «Instrucciones generales» de la Conselleria."
+        }
+      ],
+      "va": [
+        {
+          "type": "nou",
+          "description": "Instrucció 5/2025, de 18 de juny de 2025, de la Direcció General d'Infraestructures Educatives: deixa sense efecte sis instruccions TIC de 2009 a 2011 i corregix la numeració de la d'altes i baixes de comptes, emesa com a 3/2024 i que passa a ser 2/2025."
+        },
+        {
+          "type": "nou",
+          "description": "Instrucció 2/2024, sobre les condicions tècniques, d'execució i control de les instal·lacions de telecomunicacions en centres educatius de titularitat de la Generalitat."
+        },
+        {
+          "type": "nou",
+          "description": "Instruccions de servici 4/2010, per a la impressió i correcció d'errors del document NIA."
+        },
+        {
+          "type": "millora",
+          "description": "La Instrucció 2/2025 d'altes i baixes de comptes indica ara la seua renumeració per la Instrucció 5/2025. Amb estes tres incorporacions estan totes les instruccions publicades en la pàgina «Instruccions generals» de la Conselleria."
+        }
+      ]
+    }
+  },
+  {
     "version": "2.16.1",
     "date": "2026-11-07",
     "entries": {
