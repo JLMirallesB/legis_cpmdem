@@ -18,7 +18,7 @@
     "consejo escolar",
     "consell escolar"
   ],
-  "updatedAt": "2026-11-06",
+  "updatedAt": "2026-11-13",
   "refs": [
     {
       "law": "decreto-193-2025",
@@ -800,6 +800,20 @@
         "es": "Su comisión de igualdad y convivencia es informada de las agresiones al personal",
         "va": "La seua comissió d’igualtat i convivència és informada de les agressions al personal"
       }
+    },
+    {
+      "law": "resolucion-03-11-2026-videovigilancia",
+      "article": "anexo-2",
+      "apartado": "b",
+      "hash": {
+        "es": "f5b8d96e",
+        "va": "70086b34"
+      },
+      "checkedAt": "2026-11-13",
+      "note": {
+        "es": "Su acuerdo favorable es documentación obligatoria de la solicitud de autorización de la videovigilancia",
+        "va": "El seu acord favorable és documentació obligatòria de la sol·licitud d’autorització de la videovigilància"
+      }
     }
   ],
   "discarded": [
@@ -1124,6 +1138,12 @@
       "law": "decreto-140-2026",
       "article": "preambulo",
       "reason": "Preámbulo: describe el decreto, no regula nada"
+    },
+    {
+      "law": "resolucion-03-11-2026-videovigilancia",
+      "article": "anexo-4-sec-4",
+      "apartado": "b-informacion-segunda-capa",
+      "reason": "Casilla del formulario de la memoria («¿se ha informado al Consejo Escolar?»); el requisito es el acuerdo favorable del anexo II.b"
     }
   ],
   "titleTerms": [

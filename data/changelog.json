@@ -1,5 +1,31 @@
 [
   {
+    "version": "2.18.0",
+    "date": "2026-11-13",
+    "entries": {
+      "es": [
+        {
+          "type": "nuevo",
+          "description": "Resolución de 3 de noviembre de 2026, de la Dirección General de Centros Docentes, por la que se dictan instrucciones en materia de seguridad de los sistemas de videovigilancia de los centros educativos públicos: instrucciones de uso e instalación, procedimiento de autorización ante la dirección territorial, carteles informativos, memoria de idoneidad y análisis de riesgos y modelo de contrato de encargo del tratamiento. Deja sin efecto la Resolución de 12 de marzo de 2013. Los centros con cámaras instaladas sin autorización tienen seis meses para solicitarla."
+        },
+        {
+          "type": "mejora",
+          "description": "Fichas de dirección, secretaría y consejo escolar: funciones que les atribuye la nueva resolución de videovigilancia (memoria de riesgos, carteles, contrato de encargo, acceso a las imágenes, entrega a la autoridad en 72 horas y acuerdo favorable del consejo escolar)."
+        }
+      ],
+      "va": [
+        {
+          "type": "nou",
+          "description": "Resolució de 3 de novembre de 2026, de la Direcció General de Centres Docents, per la qual es dicten instruccions en matèria de seguretat dels sistemes de videovigilància dels centres educatius públics: instruccions d'ús i instal·lació, procediment d'autorització davant de la direcció territorial, cartells informatius, memòria d'idoneïtat i anàlisi de riscos i model de contracte d'encàrrec del tractament. Deixa sense efecte la Resolució de 12 de març de 2013. Els centres amb càmeres instal·lades sense autorització tenen sis mesos per a sol·licitar-la."
+        },
+        {
+          "type": "millora",
+          "description": "Fitxes de direcció, secretaria i consell escolar: funcions que els atribuïx la nova resolució de videovigilància (memòria de riscos, cartells, contracte d'encàrrec, accés a les imatges, lliurament a l'autoritat en 72 hores i acord favorable del consell escolar)."
+        }
+      ]
+    }
+  },
+  {
     "version": "2.17.0",
     "date": "2026-11-09",
     "entries": {

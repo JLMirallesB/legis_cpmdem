@@ -686,6 +686,13 @@
       "status": "ingested",
       "category": "prevencion_riesgos",
       "notes": "Instrucción operativa del SPRL del Personal Propio (INVASSAT), revisión 01 de 05/05/2023, PDFs ES (29 págs.) / VA (28 págs.). Control del documento + 8 secciones + 6 anexos. Las tablas de química de laboratorio (incompatibilidades del anexo 3 y tablas APQ/NTP-725 del anexo 4) se sustituyen por la nota de no relativo; el resto del texto, íntegro. Pictogramas (anexo 1), ejemplo de etiqueta (anexo 2) y envases (anexo 5) como imágenes por idioma en public/images/laws/sprl-ioprl-12-*. Excluye de su objeto los aparatos eléctricos y electrónicos, las pilas y los envases (solo los informa en el anexo 6). La guía del plan de sostenibilidad la cita como «SPRL-IOPRL-14» (errata de origen). Erratas transcritas: «16o05o06*», «Residuos i suelos»."
+    },
+    {
+      "slug": "resolucion-03-11-2026-videovigilancia",
+      "title": "Resolución 03/11/2026 - Videovigilancia en centros educativos públicos",
+      "status": "ingested",
+      "category": "tic",
+      "notes": "DOGV 10493 (13/11/2026), PDFs separados ES/VA, 23 págs. Resolución de la DG de Centros Docentes: preámbulo + apartados primero a tercero + 5 anexos (instrucciones en 11 apartados, procedimiento de autorización, carteles III.a/III.b, memoria de idoneidad y análisis de riesgos, modelo de contrato de encargo). Deja sin efecto la Resolución de 12/03/2013 (DOGV 6993), no ingestada. Carteles como imágenes por idioma en public/images/laws/resolucion-03-11-2026-videovigilancia-cartel-*; en el PDF VA el recuadro del anexo III.a tapa el título del cartel (se reproduce tal cual). Plazo de 6 meses desde la publicación para regularizar instalaciones sin autorización (anexo II.h)."
     }
   ]
 }

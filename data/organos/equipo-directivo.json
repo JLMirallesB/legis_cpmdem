@@ -18,7 +18,7 @@
     "equipo directivo",
     "equip directiu"
   ],
-  "updatedAt": "2026-11-09",
+  "updatedAt": "2026-11-13",
   "refs": [
     {
       "law": "decreto-104-2018",
@@ -745,6 +745,12 @@
       "article": "preambulo",
       "apartado": "0",
       "reason": "Preámbulo: cita el art. 124 de la LOE sobre la autoridad del equipo directivo"
+    },
+    {
+      "law": "resolucion-03-11-2026-videovigilancia",
+      "article": "anexo-4-sec-3",
+      "apartado": "riesgo-5-acceso-a-las-imagenes-confidenc",
+      "reason": "Opción del formulario de la memoria; el acceso lo regula el anexo I, 3.5 (dirección y secretaría)"
     }
   ],
   "titleTerms": [

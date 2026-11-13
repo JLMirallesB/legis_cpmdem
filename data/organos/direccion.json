@@ -28,7 +28,7 @@
     "director o directora",
     "directora o director"
   ],
-  "updatedAt": "2026-11-06",
+  "updatedAt": "2026-11-13",
   "refs": [
     {
       "law": "circular-1-2025-permisos",
@@ -1207,6 +1207,90 @@
         "es": "Como órgano responsable: medios, contrato con el gestor y designación de quien gestiona los residuos peligrosos",
         "va": "Com a òrgan responsable: mitjans, contracte amb el gestor i designació de qui gestiona els residus perillosos"
       }
+    },
+    {
+      "law": "resolucion-03-11-2026-videovigilancia",
+      "article": "ap-1",
+      "apartado": "4",
+      "hash": {
+        "es": "474b1634",
+        "va": "0664b055"
+      },
+      "checkedAt": "2026-11-13",
+      "note": {
+        "es": "Elabora la memoria de idoneidad y análisis de riesgos como gestora operativa del sistema de videovigilancia",
+        "va": "Elabora la memòria d’idoneïtat i anàlisi de riscos com a gestora operativa del sistema de videovigilància"
+      }
+    },
+    {
+      "law": "resolucion-03-11-2026-videovigilancia",
+      "article": "anexo-1-sec-1",
+      "apartado": "1.7",
+      "hash": {
+        "es": "a2908bb5",
+        "va": "d5094e63"
+      },
+      "checkedAt": "2026-11-13",
+      "note": {
+        "es": "Pone las imágenes a disposición de la autoridad en un máximo de 72 horas si constata actos contra personas, bienes o instalaciones",
+        "va": "Posa les imatges a disposició de l’autoritat en un màxim de 72 hores si constata actes contra persones, béns o instal·lacions"
+      }
+    },
+    {
+      "law": "resolucion-03-11-2026-videovigilancia",
+      "article": "anexo-1-sec-2",
+      "apartado": "2.1",
+      "hash": {
+        "es": "d8ae18d7",
+        "va": "510126c8"
+      },
+      "checkedAt": "2026-11-13",
+      "note": {
+        "es": "Responde del deber de información: carteles de zona videovigilada en cada acceso",
+        "va": "Respon del deure d’informació: cartells de zona videovigilada en cada accés"
+      }
+    },
+    {
+      "law": "resolucion-03-11-2026-videovigilancia",
+      "article": "anexo-1-sec-3",
+      "apartado": "3.5",
+      "hash": {
+        "es": "f269b67f",
+        "va": "71eed2ff"
+      },
+      "checkedAt": "2026-11-13",
+      "note": {
+        "es": "Tiene acceso al sistema de videovigilancia, solo por causa justificada",
+        "va": "Té accés al sistema de videovigilància, només per causa justificada"
+      }
+    },
+    {
+      "law": "resolucion-03-11-2026-videovigilancia",
+      "article": "anexo-1-sec-4",
+      "apartado": "4.2",
+      "hash": {
+        "es": "46508b48",
+        "va": "11698262"
+      },
+      "checkedAt": "2026-11-13",
+      "note": {
+        "es": "Elabora y firma el contrato de encargo del tratamiento con la empresa de seguridad",
+        "va": "Elabora i firma el contracte d’encàrrec del tractament amb l’empresa de seguretat"
+      }
+    },
+    {
+      "law": "resolucion-03-11-2026-videovigilancia",
+      "article": "anexo-4-intro",
+      "apartado": "0",
+      "hash": {
+        "es": "a7361fcb",
+        "va": "865ef0d3"
+      },
+      "checkedAt": "2026-11-13",
+      "note": {
+        "es": "Cumplimenta la memoria antes de instalar o modificar el sistema y la conserva en el expediente",
+        "va": "Emplena la memòria abans d’instal·lar o modificar el sistema i la conserva en l’expedient"
+      }
     }
   ],
   "discarded": [
@@ -1780,6 +1864,30 @@
       "article": "sec-5",
       "apartado": "0",
       "reason": "Definiciones; la tarea de la persona responsable del centro se cita en 6.1"
+    },
+    {
+      "law": "resolucion-03-11-2026-videovigilancia",
+      "article": "anexo-2",
+      "apartado": "b",
+      "reason": "Lista de documentos de la solicitud; la memoria que firma la dirección ya entra por el apartado primero.4 y la introducción del anexo IV"
+    },
+    {
+      "law": "resolucion-03-11-2026-videovigilancia",
+      "article": "anexo-4-sec-6",
+      "apartado": "0",
+      "reason": "Conclusión del formulario de la memoria; la obligación de cumplimentarla entra por la introducción del anexo IV"
+    },
+    {
+      "law": "resolucion-03-11-2026-videovigilancia",
+      "article": "anexo-5",
+      "apartado": "1",
+      "reason": "Modelo de contrato: la dirección solo aparece como quien pide extracciones de imágenes"
+    },
+    {
+      "law": "resolucion-03-11-2026-videovigilancia",
+      "article": "anexo-5",
+      "apartado": "5",
+      "reason": "Modelo de contrato: obligación del encargado de trasladar solicitudes a la dirección; no le atribuye función"
     }
   ],
   "titleTerms": [
