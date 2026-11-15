@@ -85,6 +85,8 @@ Usar un script Python que:
 - Genere `data/laws/es/{slug}.json` y `data/laws/va/{slug}.json`
 - Incluya el campo `promulgation` con `place`, `date` y `signatories[]`
 - Siga el esquema de `src/lib/types.ts`
+- El texto se extrae y se trocea con el script, no delegándolo en un agente o subagente LLM: con leyes largas (más de 50 artículos) resumen o pierden contenido.
+- Tablas de tiempos lectivos: una por especialidad (`**Especialidad: Arpa**`), columnas `Asignatura | 1º | 2º | 3º | 4º | 5º | 6º | Total`, y las secciones A/B/C en negrita dentro de la tabla.
 
 #### 4. Validar y compilar
 ```bash
@@ -144,6 +146,10 @@ regla sirve para no fundir fichas, **no para descartar**: un apartado que dice
 dos. Descartarlo de cada una con «ficha propia» fue el error que corrigió la
 v2.9.1 (34 apartados).
 
+**Ficha o parte.** Si la norma dice que un documento se elabora «mediante» o «dentro de» otro, es una parte de esa ficha (`parts[]`), no una ficha propia: así quedaron los proyectos curriculares en el PEC y el plan de autoevaluación en el Plan de Mejora. Un documento **renombrado** es una sola ficha y no entra en la regla de separación: el NOF es el antiguo RRI (buscar por «reglamento de régimen interior», «reglamento de régimen interno», «normas de organización y funcionamiento» y sus formas valencianas). Nombres que no se cambian: es **plan de convivencia** (D.193/2025, art. 18), aunque la coordinación pasó a llamarse de bienestar y protección; y el PAT es el **plan de orientación y acción tutorial** (D.57/2020, art. 50.3.h).
+
+Si una ficha sale sospechosamente corta, mira primero qué ve el cribador: ya pasó que `parseApartados` dejaba invisible el 43 % del corpus. Y lee la lista completa, no solo lo marcado con `★`: el heurístico de verbos se dejó el corazón del PEC (D.57/2020, art. 50.2 y 50.3).
+
 **Fichas que no se criban por términos.** Algunas no se definen por una
 palabra sino por un tramo de articulado («los arts. 15-24 de la Ley 40/2015»)
 o por un tema difuso. Buscarlas por término da mucho ruido y, peor, pierde
@@ -158,6 +164,8 @@ queda dicho para que alguien lo mire a mano. Hoy son tres cuadernos
 (`organos-colegiados`, `evaluacion-equipo-docente`, `distribucion-horaria`).
 Antes de poner `terms` a una ficha nueva, medir el **recall**: si el cribado no
 reencuentra las refs que ya tiene, no sirve de red y va a manual.
+
+**Órganos y cargos (`data/organos/`) no se criban por mención**: a la dirección la nombran cientos de apartados, casi siempre como firmante o destinataria. `node scripts/organos-clasificar.mjs <slug>` (informe; `--write` escribe la ficha) propone incluir cuando el órgano es sujeto de un deber o el artículo entero va de él, y agrupa el resto como menciones incidentales. Cada ficha lleva `titleTerms` (para reconocer sus artículos) y `exclude` (homónimos: «dirección del departamento», «dirección territorial»…). Lo que el clasificador se deja es sistemático: las relaciones **entre** órganos («el claustro elige a sus representantes en el Consejo Escolar»), porque el sujeto de la frase es el otro órgano. Revisa esa clase primero.
 
 Tras tocar una ficha: `npm run validate` y `npm run refs:refresh` si procede.
 
@@ -198,6 +206,10 @@ Después: `npm run build` (Astro copia `public/` a `dist/`), release normal y **
 2. `public/data/{nombre}/` — salida: `manifest.json` con `courses[]` + un fichero por curso.
 3. Una **fila en la tabla de este paso 7** y una **sección al final de este documento** con el disparador y las convenciones del esquema.
 4. `src/lib/opendata.ts` — descriptor bilingüe del dataset; es lo que alimenta la página pública `/es/datos/` y `/va/dades/`. Si cambia la forma de un fichero ya publicado, actualizarlo también.
+
+**Antes de proponer un dataset nuevo**, que haya un consumidor que lo pida: los dos que hay nacieron de la petición concreta de una app externa. Un dataset sin consumidor no lo regenera nadie y, cuando alguien lo encuentra años después, sirve un dato ya falso. Ordenar las ideas por «hay alguien que lo pediría», no por «se podría hacer».
+
+**Se publica la cita de la norma, no el algoritmo.** El consumidor tiene que poder separar ante su usuario qué es texto legal y qué es su propia lectura (lo pidió una app consumidora). Si la norma base no está ingestada, el dataset lo dice (`procedure.sourceIngested: false` en el del sorteo) en vez de aparentar una fuente que no está.
 
 ### Errores conocidos y lecciones aprendidas
 
@@ -261,10 +273,17 @@ IDs de bloques BOE: `pr` (preámbulo), `a1`-`aN` (artículos), `daprimera`, `dtp
 - Las tablas (distribución horaria, ratios profesor/alumno) están en páginas a ancho completo (no dos columnas), primero un idioma y luego el otro — NO usar crop de media página para estas páginas
 - Usar `pdfplumber.extract_tables()` para extraer tablas — funciona bien para la mayoría de PDFs excepto los más antiguos (D.157/2007 donde agrupa toda la tabla en 1 fila)
 - Almacenar tablas como **markdown** en el `content` (formato `| col | col |` con separador `|---|---|`). Esto funciona en los 3 formatos de salida: web (renderizado como `<table>`), JSON (legible), markdown export (nativo)
-- `ArticleContent.astro` detecta bloques que empiezan con `|` y contienen `|---` y los renderiza como `<table>` HTML
+- `src/lib/content-renderer.ts` detecta bloques que empiezan con `|` y contienen `|---` y los renderiza como `<table>` HTML
 - Agrupar tablas por especialidad con título en negrita: `**Especialidad: Arpa**\n\n| ... |`
 - Las páginas de tablas se identifican buscando `page.extract_tables()` con más de 3 filas (las de 1 fila son basura)
 - Un `ANEXO` sin número romano (ej. "Anexo único") no se captura con la regex `ANEXO\s+(I{1,3}V?...)` → buscar también `ANEXO\s*\n` sin número
+
+#### Renderizado del contenido (`src/lib/content-renderer.ts`, `ArticleContent.astro`)
+- Formato admitido en `content`: `\n\n` separa bloques (cada uno un `<p>`); `\n` simple es `<br>` dentro del párrafo; `**texto**` es `<strong>`, o `.content-heading` si ocupa el bloque entero; un bloque que empieza por `|` y lleva `|---` es una tabla (`**…**` en una celda → `<strong>`); `![alt](url)` es una figura.
+- El HTML entra con `set:html`, que no recibe el atributo `data-astro-cid-*` de los estilos con ámbito de Astro: los selectores del contenido van con `:global()` (`.article-text :global(p)`). Si un estilo nuevo «no se ve», es esto.
+- Tablas: sin `width: 100%` (se centran con `margin: auto`), sin `white-space: nowrap` en `th`, y el envoltorio `.table-wrapper` con `max-width: 100%` y `overflow-x: auto`.
+- Los encabezados de grupo de disposiciones («Disposiciones adicionales»…) no van en los JSON: los genera `src/lib/disposition-groups.ts` al renderizar, en el contenido y en la barra lateral.
+- El selector de versión solo aparece si el nodo tiene `versions` con más de una entrada.
 
 #### PDFs consolidados del BOE (errores recurrentes)
 - Los PDFs consolidados del BOE tienen un **ÍNDICE** al principio con los mismos marcadores de estructura (`Artículo N.`, `Disposición...`) que el cuerpo de la ley, pero seguidos de `. . . . . .` y número de página
@@ -428,6 +447,10 @@ corrige a ojo**: se deja como está.
 - Para modificar un apartado: reemplazar el párrafo que empieza con `N. `
 - Para reemplazar un artículo entero: usar el nuevo texto completo
 - SIEMPRE preservar el texto original como versión anterior
+- Al suprimir un apartado se van también todas sus letras y sub-apartados; si se sustituye por un texto corto (p. ej. una remisión a la conselleria), los sub-apartados del original desaparecen.
+- En una cadena v1→v2→v3, la vigente acumula **todas** las intermedias: si la ley nueva solo toca el apartado 3, los apartados 1 y 2 conservan el texto de v2, no el de v1. (Fallo real: el art-14 del D.158/2007 perdió en v3 el Cant Valencià que el D.90/2015 había añadido al 1.b.)
+- Los **anexos** también llevan `versions[]` cuando una norma los modifica (anexos II y III del D.159/2007, por la DF 4.ª del D.57/2020).
+- El texto de cada versión sale del PDF de la norma modificadora, nunca del JSON existente: el art-8 del D.158/2007 tuvo en v2 un texto de procedencia desconocida.
 
 #### Detección de apartados de primer nivel (CUIDADO)
 - Algunos artículos tienen sub-listados dentro de apartados con letras (a, b, c, d) que a su vez contienen ítems numerados `1. `, `2. `, etc.
@@ -542,9 +565,10 @@ Cuando un cuadro de tarifas o de cuotas mezcla enseñanzas, **se recorta a los c
 - Deploy automático en push a main via GitHub Actions
 
 ### Versionado y releases (OBLIGATORIO en cada release)
-- **Siempre** actualizar `src/lib/version.ts` con el nuevo número de versión — se muestra en el header de la web
-- **Siempre** actualizar `data/changelog.json` con las novedades (bilingüe es/va)
-- **Siempre** crear tag git con el número de versión (`git tag vX.Y.Z`)
+- **Una sola rama, `main`**, en local y en `origin`: se commitea y se empuja directamente a `main`. Nada de ramas `release-X.Y.Z` ni PR. Las PR #5-#7 del historial vienen de sesiones de Claude Code en iOS, donde no hay otra forma de llevar cambios al remoto; no son la convención (regla del usuario, 13/10/2026).
+- Secuencia: `src/lib/version.ts` (se muestra en el header) → `data/changelog.json` bilingüe es/va → `npm run validate` (0 errores) → `npm run build` → commit en `main` → `git push origin main` (dispara el deploy) → `git tag vX.Y.Z` → `git push origin vX.Y.Z`.
+- Al empezar o cerrar un release: `git fetch --prune` y `git branch -a`. Si aparece otra rama (p. ej. una que vino de iOS), comprobar que está fusionada en `main` y proponer borrarla.
+- «Borrar la rama al fusionar» en la configuración de GitHub queda en manos del usuario (a Claude se lo impidieron los permisos el 13/10/2026).
 - Formato: major.minor.patch (major=cambios de estructura, minor=ingestas de leyes, patch=correcciones)
 
 ## Dataset de calendario escolar para consumo externo (`data/calendario/`)

@@ -30,3 +30,6 @@ pnpm-debug.log*
 !.claude/agents/
 !.claude/skills/
 CLAUDE.local.md
+
+# Notas internas de trabajo: se quedan en este Mac, no se publican
+docs/choques-normativos.md
