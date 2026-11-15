@@ -7,6 +7,10 @@ Lector de legislación de Conservatorios Profesionales de Música y Danza **y de
 Leer antes de hacer cambios: `docs/CONTENT-GUIDE.md` (proceso de ingesta), `docs/DATA-SCHEMA.md` (esquema JSON), `src/lib/types.ts` (tipos TypeScript).
 Aclaraciones de aplicación (material no normativo): `data/aclaraciones/{slug}.md`, descritas en `docs/DATA-SCHEMA.md` §«Aclaraciones de aplicación».
 
+## Pendientes
+La lista de lo que queda está en `PENDIENTE.md` (sala de tareas, skill `todo-room`).
+Léela antes de proponer trabajo y táchala en el mismo commit que termina algo.
+
 ## Consultas sobre la normativa
 Al responder una duda sobre cómo se aplica una norma, buscar en **todo `data/`**, no solo en `data/laws/`. Las fichas de `data/notebooks/`, `data/center-docs/` y `data/organos/` también tienen notas:
 ```bash
