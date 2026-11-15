@@ -575,7 +575,7 @@ Cuando un cuadro de tarifas o de cuotas mezcla enseñanzas, **se recorta a los c
 - «Borrar la rama al fusionar» en la configuración de GitHub queda en manos del usuario (a Claude se lo impidieron los permisos el 13/10/2026).
 - Formato: major.minor.patch (major=cambios de estructura, minor=ingestas de leyes, patch=correcciones)
 
-## Dataset de calendario escolar para consumo externo (`data/calendario/`)
+## Dataset de calendario escolar para consumo externo (`public/data/calendario/`)
 
 Este repo publica un **dataset de calendario** (ficheros estáticos servidos por GitHub Pages) que consume una app externa de planificación de calendario escolar. NO es parte de la web visible: son datos.
 
@@ -604,7 +604,7 @@ Convenciones del dataset (no romper, la app externa depende de ellas):
 
 Tras regenerar: `npm run build` (Astro copia `public/` a `dist/`) y hacer release normal (version.ts + changelog + tag + push).
 
-## Dataset del sorteo de admisión para consumo externo (`data/sorteo/`)
+## Dataset del sorteo de admisión para consumo externo (`public/data/sorteo/`)
 
 Este repo publica un segundo dataset (mismo patrón que el de calendario) que consumen apps externas de gestión de admisión y pruebas de acceso: las letras del sorteo público de Conselleria con las que se ordena al alumnado en los desempates. NO es parte de la web visible: son datos.
 
