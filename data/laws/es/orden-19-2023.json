@@ -1,0 +1,784 @@
+{
+  "id": "orden-19-2023",
+  "slug": "orden-19-2023",
+  "type": "orden",
+  "number": "19/2023",
+  "date": "2023-06-29",
+  "publishedIn": {
+    "source": "DOGV",
+    "number": "9631",
+    "date": "2023-07-04",
+    "url": "https://dogv.gva.es/es/eli/es-vc/o/2023/06/29/19/dof/spa/html",
+    "pdfUrl": "https://dogv.gva.es/datos/2023/07/04/pdf/2023_7514.pdf"
+  },
+  "title": "Orden 19/2023, de 29 de junio, de la Conselleria de Educación, Cultura y Deporte, por la que se regulan los procedimientos derivados del Decreto 107/2022, de 5 de agosto, del Consell, por el que se establecen la ordenación y el currículo de Educación Secundaria Obligatoria, y del Decreto 108/2022, de 5 de agosto, del Consell, por el que se establecen la ordenación y el currículo de Bachillerato, así como la organización y el funcionamiento del Bachillerato nocturno y a distancia en la Comunitat Valenciana",
+  "titleShort": "Orden 19/2023 - Procedimientos derivados de los decretos de ESO y Bachillerato (convalidaciones y materias comunes)",
+  "category": "convalidaciones",
+  "vigpiracy": {
+    "status": "vigente",
+    "statusLabel": "Vigente",
+    "effectiveDate": "2023-07-05",
+    "lastModifiedDate": "2024-06-27"
+  },
+  "structure": [
+    {
+      "type": "preambulo",
+      "id": "preambulo",
+      "title": "Preámbulo",
+      "content": "La Ley orgánica 2/2006, de 3 de mayo, de educación, modificada por la Ley orgánica 3/2020, de 29 de diciembre, ha introducido importantes cambios en materia de ordenación y currículo de las etapas de Educación Secundaria Obligatoria y Bachillerato.\n\n[No relativo a conservatorios profesionales de música y danza - ver PDF original]\n\nAsí pues, se ha publicado, por un lado, el Decreto 107/2022, de 5 de agosto, del Consell, por el que se establecen la ordenación y el currículo de Educación Secundaria Obligatoria, y por otro lado, el Decreto 108/2022, de 5 de agosto, del Consell, por el que se establecen la ordenación y el currículo de Bachillerato que responden a la regulación de cada etapa en el ámbito autonómico valenciano.\n\nLos dos decretos recogen en la disposición final primera la delegación que autoriza a quien ejerza la titularidad de la conselleria competente en materia educativa para dictar todas las disposiciones que sean necesarias para la aplicación y el desarrollo de lo que disponen estos decretos. Efectivamente, a lo largo del articulado de los decretos se propone su desarrollo en base al procedimiento que disponga la conselleria competente en materia de educación de una serie de cuestiones o procedimientos que se enumeren en su articulado.\n\nEl objeto de esta orden es desarrollar y actualizar estos procedimientos y otros aspectos relacionados de conformidad con lo establecido en la normativa vigente que ha introducido cambios normativos que afectan a los procesos. Así mismo, actualizar otros procedimientos recogidos en la normativa actual que por su contenido están relacionados con el currículo y ya no son adecuados y conformes a los cambios que ha establecido el nuevo sistema.\n\n[No relativo a conservatorios profesionales de música y danza - ver PDF original]\n\n– Orden 71/2010, de 15 de julio, de la Conselleria de Educación, por la que se regula el procedimiento para solicitar la convalidación y exención de materias en la Educación Secundaria Obligatoria y el Bachillerato por parte del alumnado que cursa simultáneamente enseñanzas profesionales de Música y de Danza o bien que acredita la condición de deportista de alto nivel, de alto rendimiento o de élite en la Comunitat Valenciana.\n\n– Orden 27/2011, de 5 de mayo, de la Conselleria de Educación, por la que se modifica parcialmente la Orden de 19 de junio de 2009, de la Conselleria de Educación, por la que se regula la organización y el funcionamiento del Bachillerato diurno, nocturno y a distancia en la Comunitat Valenciana, y la Orden 71/2010, de 15 de julio, de la Conselleria de Educación, por la que se regula el procedimiento para solicitar la convalidación y exención de materias en la Educación Secundaria Obligatoria y el Bachillerato por parte del alumnado que cursa simultáneamente enseñanzas profesionales de Música y de Danza o bien que acredita la condición de deportista de alto nivel, de alto rendimiento o de élite en la Comunitat Valenciana.\n\n[No relativo a conservatorios profesionales de música y danza - ver PDF original]\n\nEn la etapa de Bachillerato, esta orden afectará a lo siguiente: aspectos de la evaluación, los procedimientos que regularán los cambios de modalidad o vía y de lengua extranjera, la solicitud de cursar únicamente materias comunes o de repetir completamente el segundo de Bachillerato, la convalidación y exención de materias, la implementación de materias de diseño propio y la organización y funcionamiento del Bachillerato en régimen nocturno y a distancia.\n\n[No relativo a conservatorios profesionales de música y danza - ver PDF original]\n\nEn conformidad con lo dispuesto en el artículo 53.1 del Estatuto de Autonomía de la Comunitat Valenciana, aprobado por la Ley orgánica 5/1982, de 1 de julio, y reformado por la Ley orgánica 1/2006, de 10 de abril, la Generalitat tiene la competencia exclusiva en materia de educación, con el Decreto 105/2019, de 5 de julio, por el que establece la estructura orgánica básica de la Presidencia y de las consellerias de la Generalitat, y el Decreto 173/2020, de 30 de octubre, del Consell, de aprobación del Reglamento orgánico y funcional de la Conselleria de Educación, Cultura y Deporte. Por todo esto, una vez emitido el informe por la Abogacía de la Generalitat y el resto de informes preceptivos, previa audiencia a las entidades representantes de los colectivos afectados y el dictamen del Consell Escolar de la Comunitat Valenciana, en uso de las facultades que me confiere el artículo 28 de la Ley 5/1983, de 30 de diciembre, del Consell, y a propuesta de la Dirección General de Innovación Educativa y Ordenación,"
+    },
+    {
+      "type": "titulo",
+      "id": "titulo-1",
+      "title": "Título I. Disposiciones comunes",
+      "children": [
+        {
+          "type": "capitulo",
+          "id": "titulo-1-cap-unico",
+          "title": "Capítulo único. Disposiciones preliminares",
+          "children": [
+            {
+              "type": "articulo",
+              "id": "art-1",
+              "number": "1",
+              "title": "Artículo 1. Objeto y ámbito de aplicación",
+              "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "titulo",
+      "id": "titulo-2",
+      "title": "Título II. Procedimientos y aspectos relacionados con la etapa de Educación Secundaria Obligatoria derivados de la autorización otorgada por la disposición final primera del Decreto 107/2022, de 5 de agosto",
+      "children": [
+        {
+          "type": "capitulo",
+          "id": "titulo-2-cap-1",
+          "title": "Capítulo I. Procedimiento para la solicitud de medidas para el alumnado que compagina estudios de la Educación Secundaria Obligatoria y las enseñanzas profesionales de Música o Danza",
+          "children": [
+            {
+              "type": "articulo",
+              "id": "art-2",
+              "number": "2",
+              "title": "Artículo 2. Finalidad, personas destinatarias y justificación del procedimiento",
+              "content": "1. Finalidad y personas destinatarias del procedimiento\n\nEl procedimiento establecido en este capítulo tiene como finalidad obtener la convalidación o exención de determinadas materias de Educación Secundaria Obligatoria por parte del alumnado que cursa la ESO y cursa o ha cursado las enseñanzas profesionales de Música o de Danza y que así lo solicite.\n\n2. Justificación del procedimiento\n\nEn la Educación Secundaria Obligatoria y en las enseñanzas profesionales de Música y de Danza se establecen unos currículos, con competencias que, sin ser idénticas, coinciden en parte. Por un lado, teniendo en cuenta estas coincidencias, en los artículos 31 y 32 del Decreto 107/2022 se ha dispuesto la convalidación de la materia Música y, por otro lado, por la dedicación de compaginar el estudio de estas enseñanzas, la convalidación de la materia optativa.\n\nAsí mismo, se ha dispuesto la posible exención de la materia Educación Física en la Educación Secundaria Obligatoria para el alumnado que cursa enseñanzas profesionales de Danza, como medida de apoyo a su dedicación al entrenamiento y a su rendimiento deportivo.\n\n3. El procedimiento para la solicitud de estas medidas de apoyo se establece en este capítulo."
+            },
+            {
+              "type": "articulo",
+              "id": "art-3",
+              "number": "3",
+              "title": "Artículo 3. Solicitudes para la convalidación y la exención de materias de la Educación Secundaria Obligatoria en el caso de alumnado que cursa o ha cursado las enseñanzas profesionales de Música o Danza",
+              "content": "1. La convalidación y la exención de materias requiere la solicitud expresa por parte del alumnado, o de los padres, las madres o las personas tutoras legales si son menores de edad.\n\n2. Esta solicitud se tiene que ajustar a los anexos I y II de esta orden, en el caso de alumnado de enseñanzas profesionales de Música y Danza, respectivamente.\n\n3. Las solicitudes se tienen que presentar, preferentemente, en el centro donde el alumno o alumna esté matriculado o matriculada en la enseñanza de Educación Secundaria Obligatoria, antes del día 31 de octubre del curso escolar para el que se soliciten, y las tienen que sellar y fechar los centros en el momento en que se presenten."
+            },
+            {
+              "type": "articulo",
+              "id": "art-4",
+              "number": "4",
+              "title": "Artículo 4. Documentación necesaria que hay que adjuntar a la solicitud de convalidación y de exención de materias de la Educación Secundaria Obligatoria en el caso de alumnado que cursa o ha cursado las enseñanzas profesionales de Música o Danza",
+              "content": "1. Para la solicitud de convalidación de la materia Música se tendrá en cuenta según el caso:\n\na) Si el alumno o la alumna ya ha superado determinadas asignaturas de las enseñanzas profesionales de Música o Danza, especificadas en el anexo I de esta orden, debe presentar el certificado académico acreditativo de la superación de la asignatura con la que se convalida.\n\nb) Si el alumno o la alumna está cursando cualquiera de las asignaturas de las enseñanzas profesionales de Música o Danza, especificadas en el anexo I de esta orden, que hay que superar para obtener esta convalidación, debe presentar el certificado de matrícula de la asignatura de las enseñanzas profesionales en el momento de la solicitud.\n\n2. Para la solicitud de convalidación de la materia optativa por estar cursando enseñanzas profesionales de Música o Danza, hay que presentar el documento que acredite tener formalizada la matrícula para cursar estas enseñanzas.\n\n3. Para la solicitud de exención de la materia Educación Física por estar cursando enseñanzas profesionales de Danza, debe presentar el documento que acredite tener formalizada la matrícula para cursar estas enseñanzas."
+            },
+            {
+              "type": "articulo",
+              "id": "art-5",
+              "number": "5",
+              "title": "Artículo 5. Órgano competente para el reconocimiento de las convalidaciones o las exenciones indicadas en el procedimiento establecido en este capítulo",
+              "content": "1. Corresponde a la dirección del centro donde el alumnado cursa la Educación Secundaria Obligatoria comprobar que se cumple el requisito indicado en el artículo 2.1 de esta orden y reconocer la posibilidad de convalidación de la materia Música y de la materia optativa, y de exención de la materia Educación Física, indicadas en el procedimiento establecido en este capítulo.\n\n2. La dirección del centro podrá requerir la enmienda de la documentación necesaria que no haya aportado el alumno o la alumna que haya solicitado la convalidación o exención.\n\n3. En el supuesto de que no haya una resolución expresa por parte de la dirección del centro antes de que finalice el mes de noviembre del curso escolar para el que se solicite, se considerará estimada la petición.\n\n4. En caso de no cumplir los requisitos de este capítulo, la dirección del centro notificará por escrito la resolución motivada de denegación al alumno o la alumna, o a los padres, a las madres o a las personas tutoras legales si son menores de edad, antes de que finalice el mes de noviembre del curso escolar para el que se soliciten la convalidación y la exención."
+            },
+            {
+              "type": "articulo",
+              "id": "art-6",
+              "number": "6",
+              "title": "Artículo 6. Registro de las convalidaciones o las exenciones indicadas en el procedimiento establecido en este capítulo",
+              "content": "1. Para el registro de las convalidaciones o las exenciones indicadas en el procedimiento establecido en este capítulo, hay que ajustarse a lo que disponen los artículos 31 y 32 del Decreto 107/2022.\n\n2. En el caso de haber solicitado la convalidación de la materia optativa, hay que tener en cuenta que, si el alumno o alumna se da de baja en el conservatorio o centro profesional de Música o Danza antes de la fecha de la sesión de la evaluación final, podrá solicitar ser evaluado o evaluada desde este momento en la materia optativa.\n\nEsta circunstancia se reflejará por medio de la diligencia correspondiente en los diferentes documentos de evaluación.\n\n3. En el caso de haber solicitado la exención de la materia Educación Física, hay que tener en cuenta que, si el alumno o alumna se da de baja en el conservatorio o centro profesional de Danza antes de la fecha de la sesión de la evaluación final, podrá solicitar ser evaluado o evaluada desde este momento en la materia Educación Física.\n\nEsta circunstancia se reflejará por medio de la diligencia correspondiente en los diferentes documentos de evaluación."
+            }
+          ]
+        },
+        {
+          "type": "capitulo",
+          "id": "titulo-2-cap-2",
+          "title": "Capítulo II. Procedimiento para la solicitud de medidas para el alumnado que compagina estudios de la ESO con la condición de deportista de alto nivel, de alto rendimiento o de élite o con la condición de personal técnico, entrenador, arbitral o juez de élite de la Comunitat Valenciana",
+          "children": [
+            {
+              "type": "articulo",
+              "id": "arts-7-11",
+              "title": "Artículos 7 a 11",
+              "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+            }
+          ]
+        },
+        {
+          "type": "capitulo",
+          "id": "titulo-2-cap-3",
+          "title": "Capítulo III. Procedimiento para el traslado de matrícula en Educación Secundaria Obligatoria",
+          "children": [
+            {
+              "type": "articulo",
+              "id": "arts-12-15",
+              "title": "Artículos 12 a 15",
+              "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+            }
+          ]
+        },
+        {
+          "type": "capitulo",
+          "id": "titulo-2-cap-4",
+          "title": "Capítulo IV. Prueba extraordinaria para la obtención del título de graduado o graduada en Educación Secundaria Obligatoria",
+          "children": [
+            {
+              "type": "articulo",
+              "id": "arts-16-22",
+              "title": "Artículos 16 a 22",
+              "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+            }
+          ]
+        },
+        {
+          "type": "capitulo",
+          "id": "titulo-2-cap-5",
+          "title": "Capítulo V. Aspectos relacionados con la constitución de grupos, el procedimiento de solicitud y autorización, el profesorado de los ámbitos y el seguimiento y la evaluación del programa de diversificación curricular",
+          "children": [
+            {
+              "type": "articulo",
+              "id": "arts-23-28",
+              "title": "Artículos 23 a 28",
+              "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+            }
+          ]
+        },
+        {
+          "type": "capitulo",
+          "id": "titulo-2-cap-6",
+          "title": "Capítulo VI. Aspectos relacionados con el diseño y la concreción curricular, la evaluación y la promoción, los recursos y los acuerdos de colaboración, el procedimiento de solicitud y la autorización y el seguimiento y la evaluación del programa de aula compartida",
+          "children": [
+            {
+              "type": "articulo",
+              "id": "arts-29-35",
+              "title": "Artículos 29 a 35",
+              "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+            }
+          ]
+        },
+        {
+          "type": "capitulo",
+          "id": "titulo-2-cap-7",
+          "title": "Capítulo VII. Aspectos relativos a la regulación de las materias optativas de la Educación Secundaria Obligatoria",
+          "children": [
+            {
+              "type": "articulo",
+              "id": "arts-36-39",
+              "title": "Artículos 36 a 39",
+              "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "titulo",
+      "id": "titulo-3",
+      "title": "Título III. Procedimientos en la etapa de Bachillerato derivados de la autorización otorgada por la disposición final primera del Decreto 108/2022, de 5 de agosto de 2022",
+      "children": [
+        {
+          "type": "capitulo",
+          "id": "titulo-3-cap-1",
+          "title": "Capítulo I. Procedimiento para la solicitud del cambio de modalidad o vía en la etapa de Bachillerato",
+          "children": [
+            {
+              "type": "articulo",
+              "id": "arts-40-42",
+              "title": "Artículos 40 a 42",
+              "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+            }
+          ]
+        },
+        {
+          "type": "capitulo",
+          "id": "titulo-3-cap-2",
+          "title": "Capítulo II. Procedimiento para la solicitud del cambio de lengua extranjera en la etapa de Bachillerato",
+          "children": [
+            {
+              "type": "articulo",
+              "id": "arts-43-45",
+              "title": "Artículos 43 a 45",
+              "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+            }
+          ]
+        },
+        {
+          "type": "capitulo",
+          "id": "titulo-3-cap-3",
+          "title": "Capítulo III. Procedimiento para la solicitud de cursar únicamente materias comunes en la etapa de Bachillerato",
+          "children": [
+            {
+              "type": "articulo",
+              "id": "art-46",
+              "number": "46",
+              "title": "Artículo 46. Finalidad y personas destinatarias del procedimiento",
+              "content": "1. La normativa estatal y autonómica reconoce la obtención del título de Bachiller desde otras enseñanzas, cursando únicamente las materias comunes de primero y segundo curso de Bachillerato y obteniendo el título de Bachiller por la modalidad General o por la modalidad de Artes, habiendo superado dichas materias.\n\n2. De acuerdo con el artículo 51 y la disposición adicional quinta del Decreto 108/2022, puede optar a cursar únicamente las materias comunes para la obtención del título de Bachiller en la modalidad correspondiente el alumnado que así lo solicite y que tenga o cumpla alguna de las condiciones siguientes:\n\na) El título de técnico o técnica en Formación Profesional. En este caso, se titulará por la modalidad General.\n\nb) El título de técnico o técnica en Artes Plásticas y Diseño. En este caso, se titulará por la modalidad de Artes.\n\nc) El título de las enseñanzas profesionales de Música o de Danza. En este caso, se titulará por la modalidad de Artes.\n\nd) Alumnado que esté cursando quinto o sexto curso de las enseñanzas profesionales de Música o de Danza y esté cursando simultáneamente primero o segundo curso de Bachillerato. En este caso, puede obtener el título de Bachiller por la modalidad de Artes cursando únicamente las materias comunes, siempre que esté en posesión del título de técnico o técnica de las enseñanzas profesionales de Música o de Danza en el momento de realización de la evaluación final ordinaria o extraordinaria de segundo curso de Bachillerato.\n\nPara este último apartado, en caso de no haber obtenido el título de las enseñanzas profesionales de Música o de Danza una vez finalizada con éxito la etapa de Bachillerato, quedarán registradas las calificaciones para la expedición del título de Bachiller una vez superados las enseñanzas profesionales. En todo caso, se tiene que respetar el límite de permanencia de cuatro años académicos en la etapa de Bachillerato en régimen ordinario diurno."
+            },
+            {
+              "type": "articulo",
+              "id": "art-47",
+              "number": "47",
+              "title": "Artículo 47. Tramitación y documentación",
+              "content": "1. Para solicitar cursar únicamente materias comunes, el alumnado, o los padres, madres o personas tutoras legales, si es menor de edad, tienen que aportar el documento de solicitud del anexo X de esta orden al centro educativo donde esté matriculado.\n\n2. Se tiene que adjuntar con la solicitud la documentación siguiente:\n\na) Alumnado que esté en posesión de alguno de los títulos indicados en el artículo 46 de esta orden:\n\na.1. Título de técnico/a de enseñanzas profesionales de Música o Danza.\n\na.2. Título de técnico/a o técnico/a superiores en Formación Profesional.\n\na.3. Título de técnico/a en Artes Plásticas y Diseño.\n\nb) Alumnado que curse las enseñanzas profesionales de Música o Danza:\n\nb.1. Certificado de matrícula de 5.º o 6.º en las enseñanzas profesionales de Música o Danza.\n\nb.2. Certificado académico con las calificaciones de 5.º o 6.º de las enseñanzas profesionales de Música o Danza.\n\n3. Esta solicitud se puede realizar desde la segunda semana de septiembre hasta el 31 de octubre del curso escolar para el cual se solicite.\n\n4. Una vez estudiada la solicitud, en caso de que sea favorable, el centro tiene que realizar la matrícula correspondiente a través de la plataforma informática habilitada por la conselleria competente en materia de educación."
+            },
+            {
+              "type": "articulo",
+              "id": "art-48",
+              "number": "48",
+              "title": "Artículo 48. Órgano competente",
+              "content": "1. Corresponde a la dirección del centro donde el alumnado curse las enseñanzas de Bachillerato comprobar que se cumplen los requisitos indicados en el artículo 46 de esta orden y reconocer la posibilidad establecida en este procedimiento de cursar solo las materias comunes de Bachillerato.\n\n2. El centro podrá requerir la subsanación de la documentación necesaria que no haya aportado el alumno o alumna que haya solicitado cursar únicamente materias comunes.\n\n3. Se considera estimada la petición en el supuesto de que no haya una resolución expresa por parte de la dirección del centro antes de que finalice el mes de noviembre del curso escolar para el cual se solicite.\n\n4. En caso de no cumplir los requisitos de este capítulo, la dirección del centro tiene que notificar por escrito al alumno o alumna, o a los padres, madres o personas tutoras legales, si es menor de edad, la resolución motivada de denegación de la solicitud para cursar únicamente materias comunes antes de que finalice el mes de noviembre del curso escolar para el cual se solicite."
+            }
+          ]
+        },
+        {
+          "type": "capitulo",
+          "id": "titulo-3-cap-4",
+          "title": "Capítulo IV. Procedimiento para la solicitud de repetición completa de segundo curso en la etapa de Bachillerato",
+          "children": [
+            {
+              "type": "articulo",
+              "id": "arts-49-51",
+              "title": "Artículos 49 a 51",
+              "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+            }
+          ]
+        },
+        {
+          "type": "capitulo",
+          "id": "titulo-3-cap-5",
+          "title": "Capítulo V. Procedimiento para la convalidación y exención de materias de Bachillerato para el alumnado que compagina los estudios de Bachillerato con las enseñanzas profesionales de Danza",
+          "children": [
+            {
+              "type": "articulo",
+              "id": "art-52",
+              "number": "52",
+              "title": "Artículo 52. Finalidad y personas destinatarias del procedimiento",
+              "content": "1. En la etapa de Bachillerato y en las enseñanzas profesionales de Danza se establecen unos currículos en las correspondientes normativas con competencias que, sin ser idénticas, coinciden en parte. Teniendo en cuenta estas coincidencias, se dispone la posibilidad de convalidación de determinadas materias de las modalidades de Artes y de Humanidades y Ciencias Sociales especificadas en el anexo XII.\n\n2. Estas materias de modalidad son las establecidas en la normativa básica vigente en materia de convalidaciones entre las enseñanzas profesionales de Danza y el Bachillerato, así como los efectos que sobre la materia Educación Física deben tener las enseñanzas profesionales de Danza.\n\n3. Para el alumnado que compagina las enseñanzas de Bachillerato con las enseñanzas profesionales de Danza, se dispone la posibilidad de convalidación de la materia optativa del curso de Bachillerato en que el alumno o alumna esté matriculado o matriculada independientemente de la modalidad que esté cursando, y la posibilidad de exención de la materia Educación Física, de acuerdo con el artículo 33 del Decreto 108/2022.\n\n4. El procedimiento establecido en este capítulo tiene como finalidad, para el alumnado que así lo solicite, y que compagine el primero o segundo curso de Bachillerato con las enseñanzas profesionales de Danza, obtener la convalidación de la materia optativa de primero o segundo curso de Bachillerato y la exención de la materia Educación Física de primer curso de Bachillerato. Así mismo, también posibilita, para este alumnado, la convalidación de determinadas materias de las modalidades de Artes y de Humanidades y Ciencias Sociales para el alumnado que cursa o ha cursado determinadas materias de las enseñanzas profesionales de Danza y las tenga superadas al finalizar el curso académico en el cual se solicita la convalidación."
+            },
+            {
+              "type": "articulo",
+              "id": "art-53",
+              "number": "53",
+              "title": "Artículo 53. Tramitación y documentación",
+              "content": "1. Para solicitar la convalidación de determinadas materias de las modalidades de Artes o de Humanidades y Ciencias Sociales por cursar o haber cursado determinadas asignaturas de las enseñanzas profesionales de Danza, especificadas en el anexo XII, y para la convalidación de la materia optativa y la exención de la materia Educación Física por estar cursando simultáneamente las enseñanzas profesionales de Danza, el alumnado, o los padres, madres o personas tutoras legales, si es menor de edad, tienen que aportar el documento de solicitud del anexo XII de esta orden al centro educativo donde esté matriculado.\n\n2. Se tiene que adjuntar con la solicitud la documentación siguiente:\n\na) Para la convalidación de la materia optativa, el certificado de matrícula de las enseñanzas profesionales de Danza en el curso académico en el cual se solicita la convalidación. Para que esta convalidación sea finalmente efectiva, se tiene que mantener la matrícula en ambas enseñanzas hasta la evaluación final ordinaria del curso académico para el cual se solicite.\n\nb) Para la convalidación de determinadas materias de la modalidad de Artes y de Humanidades y Ciencias Sociales, el certificado de notas con la superación de la asignatura correspondiente, o el certificado de matrícula donde conste que la asignatura se está cursando en el curso académico por el cual se solicita la convalidación. Para que esta convalidación sea finalmente efectiva, se debe tener superada la asignatura de las enseñanzas profesionales de Danza en la evaluación final ordinaria del curso académico para el cual se solicite.\n\nc) Para la exención de la materia Educación Física, el certificado de matrícula de las enseñanzas profesionales de Danza en el curso académico en el cual se solicita la convalidación. Para que esta convalidación sea finalmente efectiva, se tiene que mantener la matrícula en ambas enseñanzas hasta la evaluación final ordinaria del curso académico para el cual se solicite.\n\n3. Esta solicitud se puede realizar desde la segunda semana de septiembre hasta el 31 de octubre del curso escolar para el cual se solicite.\n\n4. Una vez estudiada la solicitud, en caso de que sea favorable, el centro tiene que realizar la matrícula correspondiente a través de la plataforma informática habilitada por la conselleria competente en materia de educación."
+            },
+            {
+              "type": "articulo",
+              "id": "art-54",
+              "number": "54",
+              "title": "Artículo 54. Órgano competente",
+              "content": "1. Corresponde a la dirección del centro donde el alumnado curse las enseñanzas de Bachillerato, comprobar que se cumplen los requisitos indicados en el artículo 52 de esta orden y reconocer la posibilidad establecida en este procedimiento de: convalidar determinadas materias de modalidad, de Artes o Humanidades y Ciencias Sociales, convalidar la materia optativa y estar exento o exenta de la materia Educación Física.\n\n2. El centro podrá requerir la subsanación de la documentación necesaria que no haya aportado el alumno o alumna que haya solicitado la convalidación y/o exención.\n\n3. Se considera estimada la petición en el supuesto de que no haya una resolución expresa por parte de la dirección del centro antes de que finalice el mes de noviembre del curso escolar para el cual se solicite.\n\n4. En caso de no cumplir los requisitos de este capítulo, la dirección del centro tiene que notificar por escrito al alumno o alumna, o a los padres, madres o personas tutoras legales, si es menor de edad, la resolución motivada de denegación de la solicitud para convalidar materias de modalidad, convalidar la materia optativa o estar exento o exenta de la materia Educación Física, antes de que finalice el mes de noviembre del curso escolar para el cual se solicite.\n\n5. Para la consignación de la calificación de estas materias en los documentos de evaluación se estará a lo que dispone el artículo 33 del decreto 108/2022."
+            }
+          ]
+        },
+        {
+          "type": "capitulo",
+          "id": "titulo-3-cap-6",
+          "title": "Capítulo VI. Procedimiento para la convalidación de materias para el alumnado que compagina los estudios de Bachillerato con las enseñanzas profesionales de Música",
+          "children": [
+            {
+              "type": "articulo",
+              "id": "art-55",
+              "number": "55",
+              "title": "Artículo 55. Finalidad y personas destinatarias del procedimiento",
+              "content": "1. En la etapa de Bachillerato y en las enseñanzas profesionales de Música se establecen unos currículos en las correspondientes normativas, con competencias que, sin ser idénticas, coinciden en parte. Teniendo en cuenta estas coincidencias, se dispone la posibilidad de convalidación de determinadas materias de las modalidades de Artes y de Humanidades y Ciencias Sociales especificadas en el anexo XIII.\n\n2. Las materias de modalidad con posibilidad de convalidación son las establecidas en la normativa básica vigente en materia de convalidaciones entre las enseñanzas profesionales de Música y el Bachillerato.\n\n3. Para el alumnado que compagina las enseñanzas de Bachillerato con las enseñanzas profesionales de Música, se dispone la posibilidad de convalidación de la materia optativa del curso de Bachillerato en que el alumno o alumna esté matriculado o matriculada independientemente de la modalidad que esté cursando, de acuerdo con el artículo 34 del Decreto 108/2022.\n\n4. El procedimiento establecido en este capítulo tiene como finalidad, para el alumnado que así lo solicite, y que compagine el primero o segundo curso de Bachillerato con las enseñanzas profesionales de Música, obtener la convalidación de la materia optativa de primero o segundo curso de Bachillerato. Así mismo, también posibilita, para este alumnado, la convalidación de determinadas materias de las modalidades de Artes y de Humanidades y Ciencias Sociales para el alumnado que curse o haya cursado determinadas materias de las enseñanzas profesionales de Música y las tenga superadas al finalizar el curso académico en el cual se solicita la convalidación."
+            },
+            {
+              "type": "articulo",
+              "id": "art-56",
+              "number": "56",
+              "title": "Artículo 56. Tramitación y documentación",
+              "content": "1. Para solicitar la convalidación de determinadas materias de las modalidades de Artes o de Humanidades y Ciencias Sociales, especificadas en el anexo XIII, por cursar o haber cursado determinadas asignaturas de las enseñanzas profesionales de Música, y para la convalidación de la materia optativa por estar cursando simultáneamente las enseñanzas profesionales de Música, el alumnado, o los padres, madres o personas tutoras legales, si es menor de edad, tienen que aportar el documento de solicitud del anexo XIII de esta orden al centro educativo donde esté matriculado.\n\n2. Junto con la solicitud se tiene que adjuntar la documentación siguiente:\n\na) Para la convalidación de la materia optativa, el certificado de matrícula de las enseñanzas profesionales de Música en el curso académico en el cual se solicita la convalidación. Para que esta convalidación sea finalmente efectiva, se tiene que mantener la matrícula en ambas enseñanzas hasta la evaluación final ordinaria del curso académico para el cual se solicite.\n\nb) Para la convalidación de determinadas materias de las modalidades de Artes y de Humanidades y Ciencias Sociales, el certificado de notas con la superación de la asignatura correspondiente, o el certificado de matrícula donde conste que la asignatura se está cursando en el curso académico para el cual se solicita la convalidación. Para que esta convalidación sea finalmente efectiva, se debe tener superada la asignatura de las enseñanzas profesionales de Música en la evaluación final ordinaria del curso académico para el cual se solicite.\n\n3. Esta solicitud se puede realizar desde la segunda semana de septiembre hasta el 31 de octubre del curso escolar para el cual se solicite.\n\n4. Una vez estudiada la solicitud, en caso de que sea favorable, el centro tiene que realizar la matrícula correspondiente a través de la plataforma informática habilitada por la conselleria competente en materia de educación."
+            },
+            {
+              "type": "articulo",
+              "id": "art-57",
+              "number": "57",
+              "title": "Artículo 57. Órgano competente",
+              "content": "1. Corresponde a la dirección del centro donde el alumnado curse las enseñanzas de Bachillerato, comprobar que se cumplen los requisitos indicados en el artículo 55 de esta orden y reconocer la posibilidad establecida en este procedimiento de convalidar determinadas materias de modalidad, de Artes o Humanidades y Ciencias Sociales y la materia optativa.\n\n2. El centro podrá requerir la subsanación de la documentación necesaria que no haya aportado el alumno o alumna que haya solicitado convalidación.\n\n3. En caso de no cumplir los requisitos de este capítulo, la dirección del centro tiene que notificar por escrito al alumno o alumna, o a los padres, madres o personas tutoras legales, si es menor de edad, la resolución motivada de denegación de la solicitud para convalidar materias de modalidad y la materia optativa antes de que finalice el mes de noviembre del curso escolar para el cual se solicite.\n\n4. Para la consignación de la calificación de estas materias en los documentos de evaluación se estará a lo que dispone el artículo 34 del decreto 108/2022."
+            }
+          ]
+        },
+        {
+          "type": "capitulo",
+          "id": "titulo-3-cap-7",
+          "title": "Capítulo VII. Procedimiento para la convalidación de materias de Bachillerato y para la exención o adaptación curricular de la materia Educación Física de primero de Bachillerato para el alumnado que compagina los estudios de Bachillerato con la condición de deportista de alto nivel, de alto rendimiento o de élite, o con la condición de personal técnico, entrenador, arbitral o juez de élite de la Comunitat Valenciana",
+          "children": [
+            {
+              "type": "articulo",
+              "id": "arts-58-60",
+              "title": "Artículos 58 a 60",
+              "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+            }
+          ]
+        },
+        {
+          "type": "capitulo",
+          "id": "titulo-3-cap-8",
+          "title": "Capítulo VIII. Procedimiento para implementar las materias optativas de diseño propio en la etapa de Bachillerato",
+          "children": [
+            {
+              "type": "articulo",
+              "id": "arts-61-63",
+              "title": "Artículos 61 a 63",
+              "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+            }
+          ]
+        },
+        {
+          "type": "capitulo",
+          "id": "titulo-3-cap-9",
+          "title": "Capítulo IX. Procedimiento para el traslado de matrícula en las enseñanzas de Bachillerato",
+          "children": [
+            {
+              "type": "articulo",
+              "id": "arts-64-67",
+              "title": "Artículos 64 a 67",
+              "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "titulo",
+      "id": "titulo-4",
+      "title": "Título IV. Organización y funcionamiento de la etapa de Bachillerato en régimen nocturno",
+      "children": [
+        {
+          "type": "capitulo",
+          "id": "titulo-4-cap-1",
+          "title": "Capítulo I. Acceso del alumnado a la etapa de Bachillerato en régimen nocturno",
+          "children": [
+            {
+              "type": "articulo",
+              "id": "arts-68-71",
+              "title": "Artículos 68 a 71",
+              "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+            }
+          ]
+        },
+        {
+          "type": "capitulo",
+          "id": "titulo-4-cap-2",
+          "title": "Capítulo II. Organización, evaluación y promoción de la etapa de Bachillerato en régimen nocturno",
+          "children": [
+            {
+              "type": "articulo",
+              "id": "arts-72-73",
+              "title": "Artículos 72 y 73",
+              "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+            }
+          ]
+        },
+        {
+          "type": "capitulo",
+          "id": "titulo-4-cap-3",
+          "title": "Capítulo III. Autorización de las enseñanzas de Bachillerato en régimen nocturno",
+          "children": [
+            {
+              "type": "articulo",
+              "id": "art-74",
+              "number": "74",
+              "title": "Artículo 74. Autorización a los centros docentes para impartir las enseñanzas de Bachillerato en régimen nocturno y los modelos A (por bloques en tres cursos académicos) y B (en dos cursos académicos)",
+              "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+            }
+          ]
+        },
+        {
+          "type": "capitulo",
+          "id": "titulo-4-cap-4",
+          "title": "Capítulo IV. Movilidad en la etapa de Bachillerato entre los regímenes diurno y nocturno y los modelos A (por bloques en tres cursos académicos) y B (en dos cursos académicos) del régimen nocturno",
+          "children": [
+            {
+              "type": "articulo",
+              "id": "arts-75-76",
+              "title": "Artículos 75 y 76",
+              "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "titulo",
+      "id": "titulo-5",
+      "title": "Título V. Organización y funcionamiento de la etapa de Bachillerato en régimen a distancia",
+      "children": [
+        {
+          "type": "capitulo",
+          "id": "titulo-5-cap-1",
+          "title": "Capítulo I. Ámbito de aplicación y acceso del alumnado en la etapa de Bachillerato en régimen a distancia",
+          "children": [
+            {
+              "type": "articulo",
+              "id": "arts-77-81",
+              "title": "Artículos 77 a 81",
+              "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+            }
+          ]
+        },
+        {
+          "type": "capitulo",
+          "id": "titulo-5-cap-2",
+          "title": "Capítulo II. Organización, evaluación y promoción de la etapa de Bachillerato en régimen a distancia",
+          "children": [
+            {
+              "type": "articulo",
+              "id": "arts-82-83",
+              "title": "Artículos 82 y 83",
+              "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+            }
+          ]
+        },
+        {
+          "type": "capitulo",
+          "id": "titulo-5-cap-3",
+          "title": "Capítulo III. Atención al alumnado de la etapa de Bachillerato en régimen a distancia",
+          "children": [
+            {
+              "type": "articulo",
+              "id": "arts-84-85",
+              "title": "Artículos 84 y 85",
+              "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+            }
+          ]
+        },
+        {
+          "type": "capitulo",
+          "id": "titulo-5-cap-4",
+          "title": "Capítulo IV. Movilidad en la etapa de Bachillerato entre el régimen a distancia y los regímenes diurno o nocturno",
+          "children": [
+            {
+              "type": "articulo",
+              "id": "art-86",
+              "number": "86",
+              "title": "Artículo 86. Movilidad entre el régimen a distancia y los regímenes diurno o nocturno",
+              "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "disposicion_adicional",
+      "id": "da-1",
+      "title": "Disposición adicional primera. Órgano instructor en el procedimiento de reclamación de calificaciones obtenidas y de las decisiones de promoción en la educación básica o de obtención del título de Educación Secundaria Obligatoria y modelo de reclamación de calificaciones en Educación Primaria, Educación Secundaria Obligatoria y Bachillerato, establecidos en la Orden 32/2011, de 20 de diciembre, por la que se regula el derecho del alumnado a la objetividad en la evaluación, y se establece el procedimiento de reclamación de calificaciones obtenidas y de las decisiones de promoción, de certificación o de obtención del título académico que corresponda",
+      "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+    },
+    {
+      "type": "disposicion_adicional",
+      "id": "da-2",
+      "title": "Disposición adicional segunda. Certificación académica de Educación Secundaria Obligatoria y de Bachillerato",
+      "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+    },
+    {
+      "type": "disposicion_adicional",
+      "id": "da-3",
+      "title": "Disposición adicional tercera. Cambio de idioma en la materia Lengua Extranjera en Educación Secundaria Obligatoria",
+      "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+    },
+    {
+      "type": "disposicion_adicional",
+      "id": "da-4",
+      "title": "Disposición adicional cuarta. Alumnado de Educación Secundaria Obligatoria con materias pendientes de superación del sistema que se extingue",
+      "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+    },
+    {
+      "type": "disposicion_adicional",
+      "id": "da-5",
+      "title": "Disposición adicional quinta. Anulación de matrícula en Educación Secundaria Obligatoria",
+      "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+    },
+    {
+      "type": "disposicion_adicional",
+      "id": "da-6",
+      "title": "Disposición adicional sexta. Procedimiento para la conversión numérica de las calificaciones cualitativas de los estudios conducentes a la obtención del título de Educación Secundaria Obligatoria",
+      "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+    },
+    {
+      "type": "disposicion_adicional",
+      "id": "da-7",
+      "title": "Disposición adicional séptima. Procedimiento que regula la exención de calificación en algunas materias de Bachillerato para el alumnado con necesidades educativas especiales",
+      "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+    },
+    {
+      "type": "disposicion_adicional",
+      "id": "da-8",
+      "title": "Disposición adicional octava. Cálculo de la nota media de la etapa de Bachillerato cuando se obtiene una nueva modalidad después de titularse",
+      "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+    },
+    {
+      "type": "disposicion_adicional",
+      "id": "da-9",
+      "title": "Disposición adicional novena. Módulos optativos de la formación básica de las personas adultas",
+      "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+    },
+    {
+      "type": "disposicion_adicional",
+      "id": "da-10",
+      "title": "Disposición adicional décima. Procedimiento para reclamar las resoluciones establecidas en esta orden",
+      "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+    },
+    {
+      "type": "disposicion_adicional",
+      "id": "da-11",
+      "title": "Disposición adicional undécima. Cumplimiento de las disposiciones transitorias del Decreto 107/2022, de 5 de agosto, del Consell, por el cual se establecen la ordenación y el currículo de Educación Secundaria Obligatoria, y del Decreto 108/2022, de 5 de agosto, del Consell, por el cual se establecen la ordenación y el currículo de Bachillerato",
+      "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+    },
+    {
+      "type": "disposicion_adicional",
+      "id": "da-12",
+      "title": "Disposición adicional duodécima. Supervisión y difusión",
+      "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+    },
+    {
+      "type": "disposicion_adicional",
+      "id": "da-13",
+      "title": "Disposición adicional decimotercera. Incidencia presupuestaria y necesidad de recursos",
+      "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+    },
+    {
+      "type": "disposicion_transitoria",
+      "id": "dt-unica",
+      "title": "Disposición transitoria única. Evaluación de Bachillerato para el acceso en la Universidad",
+      "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+    },
+    {
+      "type": "disposicion_derogatoria",
+      "id": "dd-unica",
+      "title": "Disposición derogatoria única. Derogación normativa",
+      "content": "1. Queda derogada la Orden 71/2010, de 15 de julio, de la Conselleria de Educación, por la que se regula el procedimiento para solicitar la convalidación y exención de materias en la Educación Secundaria Obligatoria y el Bachillerato por parte del alumnado que cursa simultáneamente enseñanzas profesionales de Música y de Danza o bien que acredita la condición de deportista de alto nivel, de alto rendimiento o de élite en la Comunitat Valenciana y sus modificaciones posteriores.\n\n2. Queda derogada la Orden de 27 de mayo de 2008, de la Conselleria de Educación, por la que se regulan las materias optativas en la Educación Secundaria Obligatoria y sus modificaciones posteriores.\n\n3. Queda derogada la Orden de 17 de junio de 2009, de la Conselleria de Educación, por la que regula las materias optativas en el Bachillerato y sus modificaciones posteriores.\n\n4. Queda derogado el capítulo IV de la Orden 38/2016, de 27 de julio, de la Conselleria de Educación, Investigación, Cultura y Deporte, por la que se regula el Plan de actuación para la mejora, el Programa de refuerzo para 4º de ESO, el Programa de aula compartida para ESO y se establece el procedimiento para la dotación de recursos a los centros sostenidos con fondos públicos, para el curso 2016-2017.\n\n5. Queda derogada la Orden 38/2017, de 4 de octubre, de la Conselleria de Educación, Investigación, Cultura y Deporte, por la que se regula la evaluación en Educación Secundaria Obligatoria, en Bachillerato y en las enseñanzas de la Educación de las Personas Adultas en la Comunitat Valenciana para todo aquello que hace referencia a la etapa de bachillerato de personas adultas.\n\n6. Queda derogada la Orden de 16 de junio de 2008, de la Conselleria de Educación, por la que se regula el programa de diversificación curricular en la Educación Secundaria Obligatoria."
+    },
+    {
+      "type": "disposicion_final",
+      "id": "df-1",
+      "title": "Disposición final primera. Facultad para la aplicación y desarrollo",
+      "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+    },
+    {
+      "type": "disposicion_final",
+      "id": "df-2",
+      "title": "Disposición final segunda. Entrada en vigor",
+      "content": "Esta orden entrará en vigor al día siguiente de su publicación en el Diari Oficial de la Generalitat Valenciana."
+    },
+    {
+      "type": "anexo",
+      "id": "anexo-1",
+      "title": "Anexo I. Solicitud de convalidación de materias de la ESO para el alumnado que cursa o ha cursado las enseñanzas profesionales de Música",
+      "content": "[Documento descargable - ver botón de descarga] Redacción vigente: la del anexo II del Decreto 66/2024, de 21 de junio (DOGV 9878, 26/06/2024)."
+    },
+    {
+      "type": "anexo",
+      "id": "anexo-2",
+      "title": "Anexo II. Solicitud de convalidación y exención de materias de la ESO para el alumnado que cursa o ha cursado las enseñanzas profesionales de Danza",
+      "content": "[Documento descargable - ver botón de descarga] Redacción vigente: la del anexo II del Decreto 66/2024, de 21 de junio (DOGV 9878, 26/06/2024)."
+    },
+    {
+      "type": "anexo",
+      "id": "anexo-3",
+      "title": "Anexo III. Solicitud de medidas para el alumnado que compagina la ESO con la condición de deportista de alto nivel, de alto rendimiento o de élite o con la condición de personal técnico, entrenador, arbitral o juez de élite de la Comunitat Valenciana",
+      "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+    },
+    {
+      "type": "anexo",
+      "id": "anexo-4",
+      "title": "Anexo IV. Certificación académica de las calificaciones obtenidas en los años en que ha estado matriculado/a en Educación Secundaria Obligatoria",
+      "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+    },
+    {
+      "type": "anexo",
+      "id": "anexo-5",
+      "title": "Anexo V. Solicitud de realización de la prueba extraordinaria para la obtención del título de graduado en Educación Secundaria Obligatoria",
+      "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+    },
+    {
+      "type": "anexo",
+      "id": "anexo-6",
+      "title": "Anexo VI. Acta de evaluación de la prueba extraordinaria para la obtención del título de graduado en Educación Secundaria Obligatoria",
+      "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+    },
+    {
+      "type": "anexo",
+      "id": "anexo-7",
+      "title": "Anexo VII. Resultados de la prueba extraordinaria para la obtención del título de graduado en Educación Secundaria Obligatoria",
+      "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+    },
+    {
+      "type": "anexo",
+      "id": "anexo-8",
+      "title": "Anexo VIII. Solicitud de cambio de modalidad o vía en Bachillerato",
+      "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+    },
+    {
+      "type": "anexo",
+      "id": "anexo-9",
+      "title": "Anexo IX. Solicitud de cambio de lengua extranjera II en Bachillerato",
+      "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+    },
+    {
+      "type": "anexo",
+      "id": "anexo-10",
+      "title": "Anexo X. Solicitud para cursar únicamente materias comunes en Bachillerato",
+      "content": "[Documento descargable - ver botón de descarga]"
+    },
+    {
+      "type": "anexo",
+      "id": "anexo-11",
+      "title": "Anexo XI. Solicitud de repetición voluntaria de segundo curso de Bachillerato",
+      "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+    },
+    {
+      "type": "anexo",
+      "id": "anexo-12",
+      "title": "Anexo XII. Solicitud de convalidación y exención de materias de Bachillerato para el alumnado que compagina los estudios de Bachillerato con las enseñanzas profesionales de Danza",
+      "content": "[Documento descargable - ver botón de descarga]"
+    },
+    {
+      "type": "anexo",
+      "id": "anexo-13",
+      "title": "Anexo XIII. Solicitud de convalidación de materias para el alumnado que compagina los estudios de Bachillerato con las enseñanzas profesionales de Música",
+      "content": "[Documento descargable - ver botón de descarga]"
+    },
+    {
+      "type": "anexo",
+      "id": "anexo-14",
+      "title": "Anexo XIV. Solicitud de convalidación de materias de Bachillerato y de exención o adaptación curricular de la materia Educación Física de primero de Bachillerato para el alumnado deportista o personal técnico, entrenador, arbitral o juez de élite",
+      "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+    },
+    {
+      "type": "anexo",
+      "id": "anexo-15",
+      "title": "Anexo XV. Certificación académica de las calificaciones obtenidas en la etapa de Bachillerato",
+      "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+    },
+    {
+      "type": "anexo",
+      "id": "anexo-16",
+      "title": "Anexo XVI. Solicitud de exención de calificación en algunas materias de Bachillerato para el alumnado con necesidades educativas especiales",
+      "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+    },
+    {
+      "type": "anexo",
+      "id": "anexo-17",
+      "title": "Anexo XVII. Solicitud de reclamación de calificaciones en las etapas de Primaria, ESO y Bachillerato",
+      "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+    }
+  ],
+  "formModels": [
+    {
+      "id": "anexo-1",
+      "title": "Anexo I — Convalidación de materias de la ESO (enseñanzas profesionales de Música)",
+      "pdfUrl": "models/orden-19-2023-anexo-1-convalidacion-eso-musica.pdf"
+    },
+    {
+      "id": "anexo-2",
+      "title": "Anexo II — Convalidación y exención de materias de la ESO (enseñanzas profesionales de Danza)",
+      "pdfUrl": "models/orden-19-2023-anexo-2-convalidacion-exencion-eso-danza.pdf"
+    },
+    {
+      "id": "anexo-10",
+      "title": "Anexo X — Cursar únicamente materias comunes en Bachillerato",
+      "pdfUrl": "models/orden-19-2023-anexo-10-materias-comunes-bachillerato.pdf"
+    },
+    {
+      "id": "anexo-12",
+      "title": "Anexo XII — Convalidación y exención de materias de Bachillerato (enseñanzas profesionales de Danza)",
+      "pdfUrl": "models/orden-19-2023-anexo-12-convalidacion-exencion-bachillerato-danza.pdf"
+    },
+    {
+      "id": "anexo-13",
+      "title": "Anexo XIII — Convalidación de materias de Bachillerato (enseñanzas profesionales de Música)",
+      "pdfUrl": "models/orden-19-2023-anexo-13-convalidacion-bachillerato-musica.pdf"
+    }
+  ],
+  "legalAnalysis": {
+    "enactedPursuantTo": [
+      {
+        "title": "Decreto 107/2022, de 5 de agosto, del Consell (ordenación y currículo de ESO)",
+        "articles": [
+          "df-1"
+        ],
+        "relationship": "habilitante"
+      },
+      {
+        "lawId": "decreto-108-2022",
+        "title": "Decreto 108/2022 - Ordenación y currículo de Bachillerato",
+        "articles": [
+          "df-1"
+        ],
+        "relationship": "habilitante"
+      }
+    ],
+    "priorAffectations": [],
+    "posteriorAffectations": [
+      {
+        "lawId": "decreto-66-2024",
+        "title": "Decreto 66/2024, de 21 de junio, del Consell",
+        "type": "modifica",
+        "articles": [
+          "art-26",
+          "art-41",
+          "da-6",
+          "anexo-1",
+          "anexo-2",
+          "anexo-3",
+          "anexo-8"
+        ],
+        "date": "2024-06-27",
+        "description": "Añade un apartado 4 a los arts. 26 y 41 y modifica la DA 6.ª y los anexos I, II, III y VIII. De lo transcrito aquí solo afecta a los modelos de solicitud de los anexos I y II (convalidaciones de la ESO para el alumnado de enseñanzas profesionales de Música y Danza); los modelos que se descargan son los vigentes. Norma no ingresada"
+      }
+    ],
+    "derogations": [
+      {
+        "lawId": "orden-71-2010",
+        "title": "Orden 71/2010, de 15 de julio (convalidaciones con las enseñanzas profesionales de Música y Danza)",
+        "type": "deroga"
+      },
+      {
+        "lawId": "orden-38-2017",
+        "title": "Orden 38/2017, de 4 de octubre (evaluación en ESO, Bachillerato y personas adultas)",
+        "type": "deroga_parcial",
+        "description": "En lo que se refiere al bachillerato de personas adultas"
+      }
+    ],
+    "concordances": [
+      {
+        "lawId": "real-decreto-242-2009",
+        "title": "Real Decreto 242/2009 - Convalidaciones EEPP Música y Danza con ESO y Bachillerato"
+      },
+      {
+        "lawId": "instrucciones-convalidaciones-2023",
+        "title": "Instrucciones convalidaciones música y danza – bachillerato (2023)"
+      },
+      {
+        "lawId": "instrucciones-convalidaciones-eso-musica-2024",
+        "title": "Procedimiento de convalidaciones ESO – enseñanzas profesionales de música (2024)"
+      },
+      {
+        "lawId": "instrucciones-convalidaciones-eso-danza-2024",
+        "title": "Procedimiento de convalidaciones y exención ESO – enseñanzas profesionales de danza (2024)"
+      }
+    ]
+  },
+  "promulgation": {
+    "place": "València",
+    "date": "2023-06-29",
+    "signatories": [
+      {
+        "name": "Raquel Tamarit Iranzo",
+        "role": "Conselleria de Educación"
+      }
+    ]
+  },
+  "scope": "general",
+  "territory": "autonomico",
+  "temporality": {
+    "type": "permanente"
+  },
+  "docType": "normativa"
+}

@@ -319,7 +319,18 @@
       }
     ],
     "derogations": [],
-    "concordances": []
+    "concordances": [
+      {
+        "lawId": "real-decreto-243-2022",
+        "title": "Real Decreto 243/2022 - Ordenación y enseñanzas mínimas del Bachillerato",
+        "description": "Su art. 14.2 remite al RD 243/2022 para obtener el título de Bachiller (art. 23)"
+      },
+      {
+        "lawId": "real-decreto-242-2009",
+        "title": "Real Decreto 242/2009 - Convalidaciones EEPP Música y Danza con ESO y Bachillerato",
+        "description": "Convalidaciones con ESO y Bachillerato (art. 20 de este real decreto)"
+      }
+    ]
   },
   "promulgation": {
     "place": "Madrid",

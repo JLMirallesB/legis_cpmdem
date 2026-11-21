@@ -693,6 +693,48 @@
       "status": "ingested",
       "category": "tic",
       "notes": "DOGV 10493 (13/11/2026), PDFs separados ES/VA, 23 págs. Resolución de la DG de Centros Docentes: preámbulo + apartados primero a tercero + 5 anexos (instrucciones en 11 apartados, procedimiento de autorización, carteles III.a/III.b, memoria de idoneidad y análisis de riesgos, modelo de contrato de encargo). Deja sin efecto la Resolución de 12/03/2013 (DOGV 6993), no ingestada. Carteles como imágenes por idioma en public/images/laws/resolucion-03-11-2026-videovigilancia-cartel-*; en el PDF VA el recuadro del anexo III.a tapa el título del cartel (se reproduce tal cual). Plazo de 6 meses desde la publicación para regularizar instalaciones sin autorización (anexo II.h)."
+    },
+    {
+      "slug": "real-decreto-243-2022",
+      "title": "Real Decreto 243/2022 - Ordenación y enseñanzas mínimas del Bachillerato",
+      "status": "ingested",
+      "category": "titulaciones",
+      "notes": "BOE núm. 82 (06/04/2022), texto consolidado (incluye la corrección de errores del BOE 247, 14/10/2022). Solo en castellano. Ingesta parcial: íntegros los arts. 9 (materias comunes), 10 (modalidad de Artes), 15 (Bachillerato en tres años, alumnado de EEPP), 22 (título), 23 (título desde otras enseñanzas, con versiones v1 2022 y v2 RD 535/2026), DA 5.ª (simultaneidad) y DF 4.ª-5.ª; el resto en tramos con la nota de no relativo. Preámbulo íntegro. Los anexos (currículos) no se transcriben. El RD 205/2023 modifica la DA 3.ª.3 y la DT 1.ª.2, fuera del alcance."
+    },
+    {
+      "slug": "real-decreto-535-2026",
+      "title": "Real Decreto 535/2026 - Modifica títulos de Técnico Deportivo Superior, el RD 243/2022 y el RD 534/2024",
+      "status": "ingested",
+      "category": "leyes_modificadoras",
+      "notes": "BOE núm. 160 (02/07/2026), en vigor el 22/07/2026. Solo en castellano. Ingesta parcial: íntegro el art. undécimo (nuevo art. 23.4 del RD 243/2022: mantiene el 60/40 y añade un 5 en la parte b para quien carece de nota media por homologación o equivalencia), la DT única y las DF 2.ª-3.ª (que solo se refieren a enseñanzas deportivas; ninguna regula la aplicación del art. 23.4). Arts. 1-10 (deportivas), art. 12 (RD 534/2024, acceso a la universidad) y anexos, con la nota. El texto no indica lugar de firma («Dado el 30 de junio de 2026»): promulgation.place vacío."
+    },
+    {
+      "slug": "real-decreto-242-2009",
+      "title": "Real Decreto 242/2009 - Convalidaciones EEPP Música y Danza con ESO y Bachillerato",
+      "status": "ingested",
+      "category": "convalidaciones",
+      "notes": "BOE núm. 51 (28/02/2009), texto consolidado íntegro. Solo en castellano. 5 arts. + 2 DA + DD + 3 DF + 5 anexos (tablas de convalidaciones en markdown). Los anexos II a V llevan versiones: v1 (2009) y v2 (RD 14/2023, en vigor el 19/01/2023). El anexo I (Música de la ESO) no ha cambiado."
+    },
+    {
+      "slug": "real-decreto-14-2023",
+      "title": "Real Decreto 14/2023 - Modifica los anexos de convalidaciones del RD 242/2009",
+      "status": "ingested",
+      "category": "convalidaciones",
+      "notes": "BOE núm. 15 (18/01/2023), texto íntegro. Solo en castellano. Artículo único (sustituye los anexos II a V del RD 242/2009), DA única (Anatomía Aplicada y Artes Escénicas del RD 1105/2014), DT única (2.º de Bachillerato en 2022-2023 con la redacción anterior) y 3 DF."
+    },
+    {
+      "slug": "decreto-108-2022",
+      "title": "Decreto 108/2022 - Ordenación y currículo de Bachillerato",
+      "status": "ingested",
+      "category": "titulaciones",
+      "notes": "DOGV 9404 (12/08/2022), bilingüe a dos columnas, 1581 págs. (casi todo currículo). Ingesta parcial: íntegros los arts. 12 (modalidad de Artes), 20 (bloques en tres cursos), 33-34 (convalidaciones y exención para el alumnado de EEPP de danza y música), 50-51 (título y título desde otras enseñanzas, 60/40), DA 5.ª (simultaneidad: solo materias comunes con 5.º-6.º de EEPP) y DF 2.ª-3.ª; el resto, en tramos por capítulo con la nota. Preámbulo podado. Modificado por el Decreto 103/2026, de 26 de junio (DOGV 10396, 02/07/2026; no ingresado), que no toca los artículos transcritos; la corrección de errores (DOGV 9464, 07/11/2022) tampoco. El título de la DT 3.ª se toma de esa corrección."
+    },
+    {
+      "slug": "orden-19-2023",
+      "title": "Orden 19/2023 - Procedimientos derivados de los decretos de ESO y Bachillerato",
+      "status": "ingested",
+      "category": "convalidaciones",
+      "notes": "DOGV 9631 (04/07/2023), bilingüe a dos columnas, 75 págs. Ingesta parcial: íntegros los arts. 2-6 (convalidaciones y exención en la ESO para el alumnado de EEPP), 46-48 (cursar solo materias comunes de Bachillerato), 52-57 (convalidaciones y exención en Bachillerato, danza y música), la DD única (deroga la Orden 71/2010) y la DF 2.ª; el resto con la nota. formModels: anexos I y II (en la redacción vigente del Decreto 66/2024, DOGV 9878, recortados de su PDF), X, XII y XIII, en public/models/orden-19-2023-anexo-*.pdf. El Decreto 66/2024 (no ingresado) modifica además los arts. 26 y 41, la DA 6.ª y los anexos III y VIII, fuera del alcance."
     }
   ]
 }

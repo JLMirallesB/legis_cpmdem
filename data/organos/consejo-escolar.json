@@ -18,7 +18,7 @@
     "consejo escolar",
     "consell escolar"
   ],
-  "updatedAt": "2026-11-13",
+  "updatedAt": "2026-11-21",
   "refs": [
     {
       "law": "decreto-193-2025",
@@ -1144,6 +1144,16 @@
       "article": "anexo-4-sec-4",
       "apartado": "b-informacion-segunda-capa",
       "reason": "Casilla del formulario de la memoria («¿se ha informado al Consejo Escolar?»); el requisito es el acuerdo favorable del anexo II.b"
+    },
+    {
+      "law": "decreto-108-2022",
+      "article": "*",
+      "reason": "Mención de pasada en el preámbulo; el decreto ordena el Bachillerato y no regula el consejo escolar del conservatorio"
+    },
+    {
+      "law": "orden-19-2023",
+      "article": "*",
+      "reason": "Mención de pasada en el preámbulo; la orden regula procedimientos de los centros de ESO y Bachillerato"
     }
   ],
   "titleTerms": [

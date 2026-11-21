@@ -344,6 +344,16 @@
         "lawId": "decreto-156-2007",
         "title": "Decreto 156/2007 (currículo EEPP Danza en la CV)",
         "description": "Desarrollo autonómico valenciano de estas enseñanzas mínimas"
+      },
+      {
+        "lawId": "real-decreto-243-2022",
+        "title": "Real Decreto 243/2022 - Ordenación y enseñanzas mínimas del Bachillerato",
+        "description": "Su art. 14.2 remite al RD 243/2022 para obtener el título de Bachiller (art. 23)"
+      },
+      {
+        "lawId": "real-decreto-242-2009",
+        "title": "Real Decreto 242/2009 - Convalidaciones EEPP Música y Danza con ESO y Bachillerato",
+        "description": "Convalidaciones con ESO y Bachillerato (art. 20 de este real decreto)"
       }
     ]
   },

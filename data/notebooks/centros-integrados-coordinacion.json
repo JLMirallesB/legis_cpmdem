@@ -21,7 +21,7 @@
     "convalidacion",
     "convalidacio"
   ],
-  "updatedAt": "2026-09-13",
+  "updatedAt": "2026-11-21",
   "refs": [
     {
       "law": "ley-organica-2-2006",
@@ -202,6 +202,339 @@
         "va": "4d6d605c"
       },
       "checkedAt": "2026-09-13"
+    },
+    {
+      "law": "real-decreto-243-2022",
+      "article": "art-15",
+      "checkedAt": "2026-11-21",
+      "hash": {
+        "es": "748be3d9",
+        "va": "748be3d9"
+      }
+    },
+    {
+      "law": "real-decreto-243-2022",
+      "article": "art-23",
+      "checkedAt": "2026-11-21",
+      "hash": {
+        "es": "4c9856ec",
+        "va": "4c9856ec"
+      }
+    },
+    {
+      "law": "real-decreto-243-2022",
+      "article": "da-5",
+      "checkedAt": "2026-11-21",
+      "hash": {
+        "es": "162ad36c",
+        "va": "162ad36c"
+      }
+    },
+    {
+      "law": "real-decreto-242-2009",
+      "article": "art-1",
+      "checkedAt": "2026-11-21",
+      "hash": {
+        "es": "14472ca4",
+        "va": "14472ca4"
+      }
+    },
+    {
+      "law": "real-decreto-242-2009",
+      "article": "art-2",
+      "checkedAt": "2026-11-21",
+      "hash": {
+        "es": "a38c5942",
+        "va": "a38c5942"
+      }
+    },
+    {
+      "law": "real-decreto-242-2009",
+      "article": "art-3",
+      "checkedAt": "2026-11-21",
+      "hash": {
+        "es": "e369637e",
+        "va": "e369637e"
+      }
+    },
+    {
+      "law": "real-decreto-242-2009",
+      "article": "art-4",
+      "checkedAt": "2026-11-21",
+      "hash": {
+        "es": "525a71c7",
+        "va": "525a71c7"
+      }
+    },
+    {
+      "law": "real-decreto-242-2009",
+      "article": "art-5",
+      "checkedAt": "2026-11-21",
+      "hash": {
+        "es": "2ee6db3b",
+        "va": "2ee6db3b"
+      }
+    },
+    {
+      "law": "real-decreto-242-2009",
+      "article": "da-1",
+      "checkedAt": "2026-11-21",
+      "hash": {
+        "es": "c9517718",
+        "va": "c9517718"
+      }
+    },
+    {
+      "law": "real-decreto-242-2009",
+      "article": "da-2",
+      "checkedAt": "2026-11-21",
+      "hash": {
+        "es": "6dc6e328",
+        "va": "6dc6e328"
+      }
+    },
+    {
+      "law": "real-decreto-242-2009",
+      "article": "anexo-1",
+      "checkedAt": "2026-11-21",
+      "hash": {
+        "es": "f29874a7",
+        "va": "f29874a7"
+      }
+    },
+    {
+      "law": "real-decreto-242-2009",
+      "article": "anexo-2",
+      "checkedAt": "2026-11-21",
+      "hash": {
+        "es": "35fa92cb",
+        "va": "35fa92cb"
+      }
+    },
+    {
+      "law": "real-decreto-242-2009",
+      "article": "anexo-3",
+      "checkedAt": "2026-11-21",
+      "hash": {
+        "es": "6442c13e",
+        "va": "6442c13e"
+      }
+    },
+    {
+      "law": "real-decreto-242-2009",
+      "article": "anexo-4",
+      "checkedAt": "2026-11-21",
+      "hash": {
+        "es": "4f7ee14f",
+        "va": "4f7ee14f"
+      }
+    },
+    {
+      "law": "real-decreto-242-2009",
+      "article": "anexo-5",
+      "checkedAt": "2026-11-21",
+      "hash": {
+        "es": "8b245813",
+        "va": "8b245813"
+      }
+    },
+    {
+      "law": "real-decreto-14-2023",
+      "article": "art-unico",
+      "checkedAt": "2026-11-21",
+      "hash": {
+        "es": "72c061ac",
+        "va": "72c061ac"
+      }
+    },
+    {
+      "law": "real-decreto-14-2023",
+      "article": "da-unica",
+      "checkedAt": "2026-11-21",
+      "hash": {
+        "es": "f9110499",
+        "va": "f9110499"
+      }
+    },
+    {
+      "law": "real-decreto-14-2023",
+      "article": "dt-unica",
+      "checkedAt": "2026-11-21",
+      "hash": {
+        "es": "09415557",
+        "va": "09415557"
+      }
+    },
+    {
+      "law": "decreto-108-2022",
+      "article": "art-20",
+      "checkedAt": "2026-11-21",
+      "hash": {
+        "es": "b9e47c31",
+        "va": "837401cf"
+      }
+    },
+    {
+      "law": "decreto-108-2022",
+      "article": "art-33",
+      "checkedAt": "2026-11-21",
+      "hash": {
+        "es": "ae473466",
+        "va": "e843fb5d"
+      }
+    },
+    {
+      "law": "decreto-108-2022",
+      "article": "art-34",
+      "checkedAt": "2026-11-21",
+      "hash": {
+        "es": "7f31f669",
+        "va": "4283d51f"
+      }
+    },
+    {
+      "law": "decreto-108-2022",
+      "article": "art-51",
+      "checkedAt": "2026-11-21",
+      "hash": {
+        "es": "561dbee1",
+        "va": "af2058c6"
+      }
+    },
+    {
+      "law": "decreto-108-2022",
+      "article": "da-5",
+      "checkedAt": "2026-11-21",
+      "hash": {
+        "es": "0fa7d6f1",
+        "va": "48e09976"
+      }
+    },
+    {
+      "law": "orden-19-2023",
+      "article": "art-2",
+      "checkedAt": "2026-11-21",
+      "hash": {
+        "es": "e2bf003c",
+        "va": "f0a62362"
+      }
+    },
+    {
+      "law": "orden-19-2023",
+      "article": "art-3",
+      "checkedAt": "2026-11-21",
+      "hash": {
+        "es": "9c2c5192",
+        "va": "1a6102e0"
+      }
+    },
+    {
+      "law": "orden-19-2023",
+      "article": "art-4",
+      "checkedAt": "2026-11-21",
+      "hash": {
+        "es": "43b23aba",
+        "va": "883bb6e5"
+      }
+    },
+    {
+      "law": "orden-19-2023",
+      "article": "art-5",
+      "checkedAt": "2026-11-21",
+      "hash": {
+        "es": "bf362711",
+        "va": "918a223a"
+      }
+    },
+    {
+      "law": "orden-19-2023",
+      "article": "art-6",
+      "checkedAt": "2026-11-21",
+      "hash": {
+        "es": "c88a0eeb",
+        "va": "027283a0"
+      }
+    },
+    {
+      "law": "orden-19-2023",
+      "article": "art-46",
+      "checkedAt": "2026-11-21",
+      "hash": {
+        "es": "09d29f3b",
+        "va": "92357c44"
+      }
+    },
+    {
+      "law": "orden-19-2023",
+      "article": "art-47",
+      "checkedAt": "2026-11-21",
+      "hash": {
+        "es": "4ad2a115",
+        "va": "37cf3d91"
+      }
+    },
+    {
+      "law": "orden-19-2023",
+      "article": "art-48",
+      "checkedAt": "2026-11-21",
+      "hash": {
+        "es": "66061f65",
+        "va": "8e732303"
+      }
+    },
+    {
+      "law": "orden-19-2023",
+      "article": "art-52",
+      "checkedAt": "2026-11-21",
+      "hash": {
+        "es": "cdd4d570",
+        "va": "77c5ee54"
+      }
+    },
+    {
+      "law": "orden-19-2023",
+      "article": "art-53",
+      "checkedAt": "2026-11-21",
+      "hash": {
+        "es": "d0c4fc42",
+        "va": "d636d87e"
+      }
+    },
+    {
+      "law": "orden-19-2023",
+      "article": "art-54",
+      "checkedAt": "2026-11-21",
+      "hash": {
+        "es": "6484b13a",
+        "va": "6fe8f18c"
+      }
+    },
+    {
+      "law": "orden-19-2023",
+      "article": "art-55",
+      "checkedAt": "2026-11-21",
+      "hash": {
+        "es": "e7db3562",
+        "va": "e1b46f72"
+      }
+    },
+    {
+      "law": "orden-19-2023",
+      "article": "art-56",
+      "checkedAt": "2026-11-21",
+      "hash": {
+        "es": "25a36166",
+        "va": "27b1a70b"
+      }
+    },
+    {
+      "law": "orden-19-2023",
+      "article": "art-57",
+      "checkedAt": "2026-11-21",
+      "hash": {
+        "es": "61b141cc",
+        "va": "a1ac5d43"
+      }
     }
   ],
   "discarded": [
@@ -218,6 +551,29 @@
         "da-3#3"
       ],
       "reason": "Convalidación ministerial de estudios de planes anteriores a la LOGSE para incorporarse a la nueva ordenación; no trata la correspondencia con la secundaria"
+    },
+    {
+      "law": "real-decreto-242-2009",
+      "items": [
+        "preambulo#0",
+        "dd-unica#1"
+      ],
+      "reason": "Preámbulo (motivación) y derogación de la Orden de 2 de enero de 2001: no regulan la correspondencia vigente"
+    },
+    {
+      "law": "real-decreto-14-2023",
+      "items": [
+        "preambulo#0"
+      ],
+      "reason": "Preámbulo: motivación de la reforma; lo que regula está en el artículo único"
+    },
+    {
+      "law": "orden-19-2023",
+      "items": [
+        "preambulo#0",
+        "dd-unica#1"
+      ],
+      "reason": "Preámbulo y derogación de la Orden 71/2010 (procedimiento anterior): no regulan el procedimiento vigente"
     }
   ]
 }

@@ -38,7 +38,16 @@
     "priorAffectations": [],
     "posteriorAffectations": [],
     "derogations": [],
-    "concordances": []
+    "concordances": [
+      {
+        "lawId": "orden-19-2023",
+        "title": "Orden 19/2023 - Procedimientos derivados de los decretos de ESO y Bachillerato"
+      },
+      {
+        "lawId": "decreto-108-2022",
+        "title": "Decreto 108/2022 - Ordenación y currículo de Bachillerato"
+      }
+    ]
   },
   "promulgation": {
     "place": "València",
@@ -52,6 +61,8 @@
   },
   "scope": "musica_y_danza",
   "territory": "autonomico",
-  "temporality": { "type": "permanente" },
+  "temporality": {
+    "type": "permanente"
+  },
   "docType": "documentos"
 }

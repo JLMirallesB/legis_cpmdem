@@ -28,7 +28,7 @@
     "director o directora",
     "directora o director"
   ],
-  "updatedAt": "2026-11-13",
+  "updatedAt": "2026-11-21",
   "refs": [
     {
       "law": "circular-1-2025-permisos",
@@ -1888,6 +1888,11 @@
       "article": "anexo-5",
       "apartado": "5",
       "reason": "Modelo de contrato: obligación del encargado de trasladar solicitudes a la dirección; no le atribuye función"
+    },
+    {
+      "law": "orden-19-2023",
+      "article": "*",
+      "reason": "Es la dirección del centro donde se cursa la ESO o el Bachillerato la que resuelve las convalidaciones y la matrícula solo de materias comunes, no la del conservatorio"
     }
   ],
   "titleTerms": [

@@ -22,7 +22,7 @@
     "tutores y tutoras",
     "professorat tutor"
   ],
-  "updatedAt": "2026-08-19",
+  "updatedAt": "2026-11-21",
   "refs": [
     {
       "law": "decreto-156-2007",
@@ -525,6 +525,11 @@
         "art-8#1"
       ],
       "reason": "Menciones incidentales: la norma nombra la figura sin atribuirle nada"
+    },
+    {
+      "law": "real-decreto-243-2022",
+      "article": "*",
+      "reason": "Mención en el preámbulo de la tutoría del Bachillerato; no regula la tutoría del conservatorio"
     }
   ],
   "titleTerms": [

@@ -1,0 +1,161 @@
+{
+  "id": "real-decreto-535-2026",
+  "slug": "real-decreto-535-2026",
+  "type": "real_decreto",
+  "number": "535/2026",
+  "date": "2026-06-30",
+  "publishedIn": {
+    "source": "BOE",
+    "number": "160",
+    "date": "2026-07-02",
+    "url": "https://www.boe.es/eli/es/rd/2026/06/30/535",
+    "pdfUrl": "https://www.boe.es/boe/dias/2026/07/02/pdfs/BOE-A-2026-14333.pdf"
+  },
+  "title": "Real Decreto 535/2026, de 30 de junio, por el que se modifican los reales decretos por los que se establecen los títulos de Técnico Deportivo Superior regulados por la Ley Orgánica 2/2006, de 3 de mayo, de Educación, así como el Real Decreto 243/2022, de 5 de abril, por el que se establecen la ordenación y las enseñanzas mínimas del Bachillerato, y el Real Decreto 534/2024, de 11 de junio, por el que se regulan los requisitos de acceso a las enseñanzas universitarias oficiales de Grado, las características básicas de la prueba de acceso y la normativa básica de los procedimientos de admisión",
+  "titleShort": "Real Decreto 535/2026 - Modifica títulos de Técnico Deportivo Superior, el RD 243/2022 (Bachillerato) y el RD 534/2024",
+  "category": "leyes_modificadoras",
+  "vigpiracy": {
+    "status": "vigente",
+    "statusLabel": "Vigente",
+    "effectiveDate": "2026-07-22"
+  },
+  "structure": [
+    {
+      "type": "preambulo",
+      "id": "preambulo",
+      "title": "Preámbulo",
+      "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]\n\nPor otra parte, también se modifica el artículo 23.4 del Real Decreto 243/2022, de 5 abril, por el que se establecen la ordenación y las enseñanzas mínimas del Bachillerato, y el artículo 23.2 del Real Decreto 534/2024, de 11 de junio, por el que se regulan los requisitos de acceso a las enseñanzas universitarias oficiales de Grado, las características básicas de la prueba de acceso y la normativa básica de los procedimientos de admisión, para incluir el cálculo de la calificación final del título de Bachiller y la calificación de acceso a la universidad de quienes hayan obtenido la homologación o declaración de equivalencia a efectos académicos de otros estudios.\n\n[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+    },
+    {
+      "type": "capitulo",
+      "id": "cap-1",
+      "title": "Capítulo I. Modificación de los reales decretos por los que se establecen los títulos de Técnico Deportivo Superior regulados por la Ley Orgánica 2/2006, de 3 de mayo, de Educación",
+      "children": [
+        {
+          "type": "articulo",
+          "id": "arts-1-10",
+          "title": "Artículos primero a décimo",
+          "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+        }
+      ]
+    },
+    {
+      "type": "capitulo",
+      "id": "cap-2",
+      "title": "Capítulo II. Modificación del Real Decreto 243/2022, de 5 de abril, por el que se establecen la ordenación y las enseñanzas mínimas del Bachillerato y del Real Decreto 534/2024, de 11 de junio, por el que se regulan los requisitos de acceso a las enseñanzas universitarias oficiales de Grado, las características básicas de la prueba de acceso y la normativa básica de los procedimientos de admisión",
+      "children": [
+        {
+          "type": "articulo",
+          "id": "art-11",
+          "number": "11",
+          "title": "Artículo undécimo. Modificación del Real Decreto 243/2022, de 5 de abril, por el que se establecen la ordenación y las enseñanzas mínimas del Bachillerato",
+          "content": "Se modifica el apartado 4 del artículo 23 del Real Decreto 243/2022, de 5 abril, por el que se establecen la ordenación y las enseñanzas mínimas del Bachillerato, que queda redactado como sigue:\n\n«4. La nota que figurará en el título de Bachiller de este alumnado se deducirá de la siguiente ponderación:\n\na) El 60 % de la media de las calificaciones obtenidas en las materias comunes del Bachillerato.\n\nb) El 40 % de la nota media obtenida en las enseñanzas mediante las que se accede a la obtención del título, calculada conforme a lo establecido en los respectivos reales decretos de ordenación de las mismas.\n\nEn el caso del alumnado que careciese de nota media en las enseñanzas correspondientes, por haber accedido a la obtención del título de Bachiller mediante la homologación o declaración de equivalencia a efectos académicos de otros estudios, se otorgará a este apartado una calificación de 5 puntos.»"
+        },
+        {
+          "type": "articulo",
+          "id": "art-12",
+          "number": "12",
+          "title": "Artículo duodécimo. Modificación del Real Decreto 534/2024, de 11 de junio, por el que se regulan los requisitos de acceso a las enseñanzas universitarias oficiales de Grado, las características básicas de la prueba de acceso y la normativa básica de los procedimientos de admisión",
+          "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+        }
+      ]
+    },
+    {
+      "type": "disposicion_transitoria",
+      "id": "dt-unica",
+      "title": "Disposición transitoria única. Transitoriedad normativa",
+      "content": "Hasta la finalización de los ciclos de enseñanza deportiva iniciados con anterioridad a la implantación de las enseñanzas mínimas de los módulos del bloque común establecidas en este real decreto seguirá siendo de aplicación lo dispuesto en los reales decretos por los que se establecen los títulos de Técnico Deportivo Superior regulados por la Ley Orgánica 2/2006, de 3 de mayo, de Educación, en su redacción anterior a la entrada en vigor de este real decreto."
+    },
+    {
+      "type": "disposicion_final",
+      "id": "df-1",
+      "title": "Disposición final primera. Título competencial",
+      "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+    },
+    {
+      "type": "disposicion_final",
+      "id": "df-2",
+      "title": "Disposición final segunda. Calendario de implantación",
+      "content": "Las administraciones educativas implantarán las enseñanzas mínimas de los módulos del bloque común establecidas en este real decreto en el curso escolar 2027-2028. No obstante, podrán anticipar la implantación al año académico 2026-2027."
+    },
+    {
+      "type": "disposicion_final",
+      "id": "df-3",
+      "title": "Disposición final tercera. Entrada en vigor",
+      "content": "El presente real decreto entrará en vigor a los veinte días de su publicación en el «Boletín Oficial del Estado»."
+    },
+    {
+      "type": "anexo",
+      "id": "anexo-1",
+      "title": "Anexo I. Módulo común de enseñanza deportiva: Factores fisiológicos del alto rendimiento. Código: MED-C301",
+      "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+    },
+    {
+      "type": "anexo",
+      "id": "anexo-2",
+      "title": "Anexo II. Módulo común de enseñanza deportiva: Factores psicosociales del alto rendimiento. Código: MED-C302",
+      "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+    },
+    {
+      "type": "anexo",
+      "id": "anexo-3",
+      "title": "Anexo III. Módulo común de enseñanza deportiva: Formación de formadores deportivos. Código: MED-C303",
+      "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+    },
+    {
+      "type": "anexo",
+      "id": "anexo-4",
+      "title": "Anexo IV. Módulo común de enseñanza deportiva: Organización y gestión aplicada al alto rendimiento. Código: MED-C304",
+      "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+    }
+  ],
+  "legalAnalysis": {
+    "enactedPursuantTo": [
+      {
+        "lawId": "ley-organica-2-2006",
+        "title": "Ley Orgánica 2/2006, de 3 de mayo, de Educación",
+        "relationship": "desarrollo"
+      }
+    ],
+    "priorAffectations": [
+      {
+        "lawId": "real-decreto-243-2022",
+        "title": "Real Decreto 243/2022 - Ordenación y enseñanzas mínimas del Bachillerato",
+        "type": "modifica",
+        "articles": [
+          "art-23"
+        ],
+        "description": "Art. undécimo: nueva redacción del art. 23.4 (nota del título de Bachiller obtenido desde otras enseñanzas, entre ellas las EEPP de Música o Danza)"
+      },
+      {
+        "lawId": "real-decreto-534-2024",
+        "title": "Real Decreto 534/2024, de 11 de junio (acceso a la universidad)",
+        "type": "modifica",
+        "description": "Art. duodécimo: nueva redacción del art. 23.2 (calificación de acceso de quien tiene un título de Técnico Superior); norma no ingresada"
+      }
+    ],
+    "posteriorAffectations": [],
+    "derogations": [],
+    "concordances": []
+  },
+  "promulgation": {
+    "place": "",
+    "date": "2026-06-30",
+    "signatories": [
+      {
+        "name": "Felipe VI",
+        "role": "Rey de España"
+      },
+      {
+        "name": "Milagros Tolón Jaime",
+        "role": "Ministerio de Educación"
+      }
+    ]
+  },
+  "scope": "general",
+  "territory": "estatal",
+  "temporality": {
+    "type": "permanente"
+  },
+  "docType": "normativa"
+}

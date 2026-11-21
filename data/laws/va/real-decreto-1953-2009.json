@@ -16,7 +16,7 @@
   "category": "evaluacion",
   "vigpiracy": {
     "status": "vigente",
-    "statusLabel": "Vigent (l'art. 3 modifica el RD 1467/2007, ja derogat)",
+    "statusLabel": "Vigent (l'art. 3 modificava el RD 1467/2007, ja derogat: la nota del títol de Batxiller la fixa hui l'art. 23.4 del RD 243/2022)",
     "effectiveDate": "2010-01-19"
   },
   "structure": [
@@ -91,7 +91,13 @@
     ],
     "posteriorAffectations": [],
     "derogations": [],
-    "concordances": []
+    "concordances": [
+      {
+        "lawId": "real-decreto-243-2022",
+        "title": "Reial Decret 243/2022 - Ordenació i ensenyaments mínims del Batxillerat",
+        "description": "Nota del títol de Batxiller de l'alumnat que supera els EEPP i les matèries comunes: hui la fixa l'art. 23.4 (60 % matèries comunes + 40 % nota mitjana dels EEPP), no la mitjana aritmètica d'aquest art. 3"
+      }
+    ]
   },
   "promulgation": {
     "place": "Madrid",

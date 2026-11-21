@@ -16,7 +16,7 @@
   "category": "evaluacion",
   "vigpiracy": {
     "status": "vigente",
-    "statusLabel": "Vigente (el art. 3 modifica el RD 1467/2007, ya derogado)",
+    "statusLabel": "Vigente (el art. 3 modificaba el RD 1467/2007, ya derogado: la nota del título de Bachiller la fija hoy el art. 23.4 del RD 243/2022)",
     "effectiveDate": "2010-01-19"
   },
   "structure": [
@@ -91,7 +91,13 @@
     ],
     "posteriorAffectations": [],
     "derogations": [],
-    "concordances": []
+    "concordances": [
+      {
+        "lawId": "real-decreto-243-2022",
+        "title": "Real Decreto 243/2022 - Ordenación y enseñanzas mínimas del Bachillerato",
+        "description": "Nota del título de Bachiller del alumnado que supera las EEPP y las materias comunes: hoy la fija el art. 23.4 (60 % materias comunes + 40 % nota media de las EEPP), no la media aritmética de este art. 3"
+      }
+    ]
   },
   "promulgation": {
     "place": "Madrid",

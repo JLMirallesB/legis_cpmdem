@@ -1,0 +1,491 @@
+{
+  "id": "decreto-108-2022",
+  "slug": "decreto-108-2022",
+  "type": "decreto",
+  "number": "108/2022",
+  "date": "2022-08-05",
+  "publishedIn": {
+    "source": "DOGV",
+    "number": "9404",
+    "date": "2022-08-12",
+    "url": "https://dogv.gva.es/va/eli/es-vc/d/2022/08/05/108/dof/vci/html",
+    "pdfUrl": "https://dogv.gva.es/datos/2022/08/12/pdf/2022_7578.pdf"
+  },
+  "title": "Decret 108/2022, de 5 d'agost, del Consell, pel qual s'estableixen l'ordenació i el currículum de Batxillerat",
+  "titleShort": "Decret 108/2022 - Ordenació i currículum de Batxillerat",
+  "category": "titulaciones",
+  "vigpiracy": {
+    "status": "vigente",
+    "statusLabel": "Vigent",
+    "effectiveDate": "2022-08-13",
+    "lastModifiedDate": "2026-07-03"
+  },
+  "structure": [
+    {
+      "type": "preambulo",
+      "id": "preambulo",
+      "title": "Preàmbul",
+      "content": "L’article 53.1 de la Llei orgànica 5/1982, d’1 de juliol, d’Estatut d’Autonomia de la Comunitat Valenciana, disposa que és competència exclusiva de la Generalitat la regulació i l’administració de l’ensenyament en tota la seua extensió, nivells i graus, modalitats i especialitats, sense perjudici del que disposa l’article 27 de la Constitució Espanyola i les lleis orgàniques que, d’acord amb l’apartat 1 de l’article 81 d’aquella, el despleguen, i de les facultats que atribueix a l’Estat el número 30 de l’apartat 1 de l’article 149 de la Constitució Espanyola, per a dictar normativa bàsica en matèria d’educació.\n\nLa Llei orgànica 3/2020, de 29 de desembre, per la qual es modifica la Llei orgànica 2/2006, de 3 de maig, d’educació, introdueix en l’anterior redacció de la norma canvis importants, molts d’aquests, derivats, tal com indica la mateixa llei en el seu preàmbul, de la conveniència de revisar les mesures previstes en el text original a fi d’adaptar el sistema educatiu als reptes i desafiaments del segle XXI d’acord amb els objectius fixats per la Unió Europea i la UNESCO per a la dècada 2020/2030.\n\n[No relativo a conservatorios profesionales de música y danza - ver PDF original]\n\nPer a atendre les diferents inquietuds i interessos de l’alumnat que cursa els estudis de batxillerat, aquesta etapa s’organitza en diferents modalitats, amb matèries comunes, matèries de modalitat i matèries optatives. Les modalitats s’organitzen en relació amb els grans àmbits del saber i amb els ensenyaments que constitueixen l’educació superior, tant universitària com no universitària, que es poden cursar després del batxillerat. Això permet, a més de la formació general de l’alumnat, una preparació especialitzada per a seguir estudis posteriors o incorporar-se al món laboral.\n\n[No relativo a conservatorios profesionales de música y danza - ver PDF original]\n\nAquest decret regula també l’avaluació, la promoció i la titulació del batxillerat, i considera les diferències individuals en l’avaluació, així com els diferents documents d’avaluació.\n\n[No relativo a conservatorios profesionales de música y danza - ver PDF original]\n\nCorrespon al Consell, fent ús de les seues competències, establir els elements del currículum que la normativa bàsica indica i concretar els aspectes de l’ordenació acadèmica que li corresponen d’acord amb la distribució competencial recollida en l’article 6.5 i en la disposició final sisena de la Llei orgànica 2/2006, de 3 de maig.\n\nEn conseqüència, d’acord amb el que disposa l’article 28.c de la Llei 5/1983, de 30 de desembre, del Consell, amb l’informe previ del Consell Escolar de la Comunitat Valenciana, d’acord amb el Consell Jurídic Consultiu de la Comunitat Valenciana, a proposta de la consellera d’Educació, Cultura i Esport, amb la deliberació prèvia del Consell, en la reunió de 5 d’agost,"
+    },
+    {
+      "type": "titulo",
+      "id": "titulo-1",
+      "title": "Títol I. Disposicions comunes",
+      "children": [
+        {
+          "type": "capitulo",
+          "id": "titulo-1-cap-unico",
+          "title": "Capítol únic. Disposicions preliminars",
+          "children": [
+            {
+              "type": "articulo",
+              "id": "arts-1-7",
+              "title": "Articles 1 a 7",
+              "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "titulo",
+      "id": "titulo-2",
+      "title": "Títol II. Ordenació de l’etapa de batxillerat",
+      "children": [
+        {
+          "type": "capitulo",
+          "id": "titulo-2-cap-1",
+          "title": "Capítol I. Estructura del currículum",
+          "children": [
+            {
+              "type": "articulo",
+              "id": "arts-8-9",
+              "title": "Articles 8 i 9",
+              "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+            }
+          ]
+        },
+        {
+          "type": "capitulo",
+          "id": "titulo-2-cap-2",
+          "title": "Capítol II. Organització de l’etapa",
+          "children": [
+            {
+              "type": "articulo",
+              "id": "arts-10-11",
+              "title": "Articles 10 i 11",
+              "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+            },
+            {
+              "type": "articulo",
+              "id": "art-12",
+              "number": "12",
+              "title": "Article 12. Matèries específiques de la modalitat d’Arts",
+              "content": "D’acord amb el que estableix l’article 10 del Reial decret 243/2022:\n\n1. L’alumnat que opte per la modalitat d’Arts ha de triar entre la via d’Arts Plàstiques, Imatge i Disseny i la via de Música i Arts Escèniques, excepte en cas que, per raons organitzatives, l’oferta de vies de la modalitat d’Arts quede limitada a una de les dues vies.\n\n2. En primer, l’alumnat de la via d’Arts Plàstiques, Imatge i Disseny ha de cursar obligatòriament Dibuix Artístic I i dues altres matèries pròpies de la modalitat, que ha de triar d’entre les següents:\n\na) Cultura Audiovisual\n\nb) Dibuix Tècnic Aplicat a les Arts Plàstiques i al Disseny I\n\nc) Projectes Artístics\n\nd) Volum\n\n3. En segon, l’alumnat de la via d’Arts Plàstiques, Imatge i Disseny ha de cursar obligatòriament Dibuix Artístic II i dues altres matèries pròpies de la modalitat, que ha de triar d’entre les següents:\n\na) Dibuix Tècnic Aplicat a les Arts Plàstiques i al Disseny II\n\nb) Disseny\n\nc) Fonaments Artístics\n\nd) Tècniques d’Expressió Graficoplàstica\n\n4. Per la seua banda, en primer curs, l’alumnat de la via de Música i Arts Escèniques ha de cursar obligatòriament Anàlisi Musical I o Arts Escèniques I, i dues altres matèries pròpies de la modalitat, que ha de triar d’entre les següents:\n\na) Anàlisi Musical I\n\nb) Arts Escèniques I\n\nc) Cor i Tècnica Vocal I\n\nd) Cultura Audiovisual\n\ne) Llenguatge i Pràctica Musical\n\n5. En segon curs, l’alumnat de la via de Música i Arts Escèniques ha de cursar obligatòriament Anàlisi Musical II o Arts Escèniques II, i dues altres matèries pròpies de la modalitat, que ha de triar d’entre les següents:\n\na) Anàlisi Musical II\n\nb) Arts Escèniques II\n\nc) Cor i Tècnica Vocal II\n\nd) Història de la Música i de la Dansa\n\ne) Literatura Dramàtica"
+            },
+            {
+              "type": "articulo",
+              "id": "arts-13-19",
+              "title": "Articles 13 a 19",
+              "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+            },
+            {
+              "type": "articulo",
+              "id": "art-20",
+              "number": "20",
+              "title": "Article 20. Organització del batxillerat per blocs en tres cursos acadèmics",
+              "content": "D’acord amb el que estableix l’article 15 del Reial decret 243/2022:\n\n1. Per tal d’afavorir l’assoliment de les competències del batxillerat, els centres educatius poden flexibilitzar el currículum, de manera que un alumne o alumna realitze el batxillerat per blocs en tres cursos acadèmics, en règim ordinari, sempre que les seues circumstàncies personals, permanents o transitòries ho aconsellen de manera que l’alumne o alumna curse menys matèries en cada curs.\n\n2. Podran acollir-se a aquesta mesura els qui es troben en alguna de les circumstàncies següents:\n\na) que cursen l’etapa de manera simultània als ensenyaments professionals de música o de dansa\n\nb) que acrediten la consideració d’esportista d’alt nivell o d’alt rendiment\n\nc) que requerisquen una atenció educativa diferent de l’ordinària perquè presenten alguna necessitat específica de suport educatiu\n\nd) que al·leguen altres circumstàncies degudament acreditades que justifiquen l’aplicació d’aquesta mesura d’acord amb els termes que dispose la normativa en matèria d’educació per a garantir la inclusió educativa\n\n3. La distribució de matèries i l’horari d’aquestes són els que disposa l’annex V d’aquest decret.\n\n4. En termes de promoció, per a aquest alumnat, caldrà ajustar-se al que estableix l’article 43 d’aquest decret, però únicament en relació amb les matèries de cada bloc. En termes de permanència en l’etapa, s’aplicaran els mateixos criteris establits amb caràcter general en batxillerat."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "titulo",
+      "id": "titulo-3",
+      "title": "Títol III. Gestió pedagògica",
+      "children": [
+        {
+          "type": "capitulo",
+          "id": "titulo-3-cap-1",
+          "title": "Capítol I. Autonomia i gestió pedagògica dels centres",
+          "children": [
+            {
+              "type": "articulo",
+              "id": "arts-21-30",
+              "title": "Articles 21 a 30",
+              "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+            }
+          ]
+        },
+        {
+          "type": "capitulo",
+          "id": "titulo-3-cap-2",
+          "title": "Capítol II. Resposta educativa per a la inclusió",
+          "children": [
+            {
+              "type": "articulo",
+              "id": "arts-31-32",
+              "title": "Articles 31 i 32",
+              "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+            },
+            {
+              "type": "articulo",
+              "id": "art-33",
+              "number": "33",
+              "title": "Article 33. Mesures per a l’alumnat que compagina els estudis de batxillerat i els ensenyaments professionals de dansa",
+              "content": "Amb la finalitat d’afavorir la compatibilitat i la simultaneïtat dels estudis d’ensenyaments professionals de dansa i de batxillerat, per a aquest alumnat poden adoptar-se diferents mesures relatives a la convalidació i l’exempció de matèries de batxillerat:\n\n1. L’alumnat que cursa batxillerat i, simultàniament, ensenyaments professionals de dansa en conservatoris professionals o centres d’ensenyament professional, pot sol·licitar la convalidació de la matèria optativa de batxillerat, amb les condicions següents:\n\na) Les matèries optatives de batxillerat objecte de convalidació no computen a l’efecte del càlcul de la qualificació final de l’etapa.\n\nb) El procediment per a sol·licitar aquesta convalidació serà el que establisca la conselleria competent en matèria d’educació.\n\nc) En els documents d’avaluació s’ha de consignar la matèria com a «pendent de convalidació» (PTC) al llarg del curs. Perquè la convalidació es faça efectiva, cal que l’alumne o alumna presente un certificat d’haver mantingut la matrícula al conservatori o centre professional de dansa fins a la data de l’avaluació final ordinària. Una vegada acreditat el manteniment de la matrícula, la matèria s’ha de consignar en els documents d’avaluació com a «optativa convalidada dansa» (COD). Si no s’hi acredita la condició esmentada, la matèria optativa s’ha de considerar no superada a tots els efectes.\n\n2. L’alumnat que cursa batxillerat i cursa o ha cursat ensenyaments professionals de dansa en un conservatori professional o en un centre d’ensenyament professional, pot sol·licitar la convalidació de determinades matèries de la modalitat d’Arts del batxillerat, per cursar o haver superat les matèries dels ensenyaments professionals de dansa que són equivalents a les matèries de batxillerat que es volen convalidar, tal com disposa la normativa bàsica vigent. Les condicions per a efectuar aquests convalidacions són les següents:\n\na) Les matèries de la modalitat objecte de convalidació no tenen qualificació ni computen a l’efecte de càlcul de la qualificació final de l’etapa.\n\nb) El procediment per a sol·licitar aquesta convalidació serà el que establisca la conselleria competent en matèria d’educació.\n\nc) En el supòsit que l’alumnat curse simultàniament batxillerat i les matèries d’ensenyaments professionals de dansa susceptibles de convalidació, en els documents d’avaluació s’ha de consignar la matèria com a «pendent de convalidació» (PTC) al llarg del curs. Abans de l’avaluació final ordinària o extraordinària, el conservatori o el centre professional de dansa ha de facilitar al centre de batxillerat un certificat acadèmic que acredite la superació, o no, d’aquestes matèries, per tal que el centre ordinari puga incorporar-ho als documents oficials d’avaluació i deixar constància, si és el cas, de la convalidació corresponent. Una vegada acreditada la superació de la matèria cursada en els ensenyaments professionals, les convalidacions de les matèries de batxillerat s’hauran de consignar com a «convalidada» (CO) en els documents d’avaluació. En cas de no superar la matèria cursada en els ensenyaments professionals, la matèria de la modalitat de batxillerat s’ha de considerar no superada a tots els efectes.\n\n3. A més, l’alumnat que cursa batxillerat i, simultàniament, ensenyaments professionals de dansa en conservatoris professionals o centres d’ensenyament professional, pot sol·licitar l’exempció de la matèria d’Educació Física de primer de batxillerat d’acord amb les condicions següents:\n\na) La matèria d’Educació Física objecte d’exempció no té qualificació ni computa a l’efecte d’obtindre la qualificació final de l’etapa.\n\nb) El procediment per a sol·licitar aquesta exempció serà el que determine la conselleria competent en matèria d’educació.\n\nc) En aquest cas, l’exempció d’Educació Física implica l’exempció de cursar aquesta matèria.\n\nd) En els documents d’avaluació, la matèria d’Educació Física s’ha de consignar com a «pendent d’exempció» al llarg del curs (PTE). Per a l’anotació definitiva en els documents d’avaluació del terme «exempt/a» (ET), s’ha de presentar un certificat d’haver mantingut la matrícula en el conservatori o centre professional de dansa fins a la data de l’avaluació final ordinària. Si no s’hi manté la matrícula, l’esmentada matèria es considerarà no superada i l’alumne o alumna podrà realitzar la prova extraordinària.\n\ne) Si l’alumne o alumna es dona de baixa al conservatori o centre professional de dansa abans de la data de la sessió de l’avaluació final ordinària, podrà sol·licitar ser avaluat des d’aquell moment en la matèria d’Educació Física. Aquesta circumstància s’ha de reflectir per mitjà de la diligència corresponent en els diferents documents d’avaluació."
+            },
+            {
+              "type": "articulo",
+              "id": "art-34",
+              "number": "34",
+              "title": "Article 34. Mesures per a l’alumnat que compagina els estudis de batxillerat i els ensenyaments professionals de música",
+              "content": "Amb la finalitat d’afavorir la compatibilitat i la simultaneïtat dels estudis d’ensenyaments professionals de música i de batxillerat, per a aquest alumnat es poden adoptar diferents mesures relatives a la convalidació de matèries:\n\n1. L’alumnat que cursa batxillerat i, simultàniament, ensenyaments professionals de música en conservatoris professionals o centres d’ensenyament professional pot sol·licitar la convalidació de la matèria optativa de batxillerat, d’acord amb les condicions següents:\n\na) Les matèries optatives de batxillerat objecte de convalidació no computen a l’efecte de càlcul de la qualificació final de l’etapa.\n\nb) El procediment per a sol·licitar aquesta convalidació serà el que establisca la conselleria competent en matèria d’educació.\n\nc) En els documents d’avaluació s’ha de consignar la matèria com a «pendent de convalidació» (PTC) al llarg del curs. Perquè la convalidació es faça efectiva, cal que l’alumne o alumna presente un certificat d’haver mantingut la matrícula al conservatori o centre professional de música fins a la data de l’avaluació final ordinària. Una vegada acreditat el manteniment de la matrícula, la matèria s’ha de consignar en els documents d’avaluació com a «optativa convalidada música» (COM). Si no s’hi acredita la condició esmentada, la matèria optativa s’ha de considerar no superada a tots els efectes.\n\n2. L’alumnat que cursa batxillerat i cursa o ha cursat ensenyaments professionals de música en un conservatori o en un centre professional, pot sol·licitar la convalidació de determinades matèries de la modalitat d’Arts del batxillerat, per cursar o haver superat les matèries dels ensenyaments professionals de música que són equivalents a les matèries de batxillerat que es volen convalidar tal com disposa la normativa bàsica vigent i les resolucions que la despleguen i que seran dictades per la conselleria competent en matèria d’educació. Les condicions per a efectuar aquests convalidacions són les següents:\n\na) Les matèries de la modalitat objecte de convalidació no tenen qualificació ni computen a l’efecte de càlcul de la qualificació final de l’etapa.\n\nb) El procediment per a sol·licitar aquesta convalidació serà el que establisca la conselleria competent en matèria d’educació.\n\nc) En el supòsit que l’alumnat curse simultàniament el batxillerat i les matèries d’ensenyaments professionals de música susceptibles de convalidació, en els documents d’avaluació s’ha de consignar la matèria com a «pendent de convalidació» (PTC) al llarg del curs. Abans de l’avaluació final ordinària o extraordinària, el conservatori o el centre professional de música ha de facilitar al centre de batxillerat un certificat acadèmic que acredite la superació, o no, d’aquestes matèries, per tal que el centre ordinari puga incorporar-ho als documents oficials d’avaluació i deixar constància, si és el cas, de la convalidació corresponent. Una vegada acreditada la superació de la matèria cursada en els ensenyaments professionals, les convalidacions de modalitat de les matèries de batxillerat s’hauran de consignar com a «convalidada» (CO) en els documents d’avaluació. En cas de no superar la matèria cursada en els ensenyaments professionals, la matèria de modalitat de batxillerat es considerarà no superada a tots els efectes."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "titulo",
+      "id": "titulo-4",
+      "title": "Títol IV. Avaluació, promoció, titulació i documents oficials d’avaluació",
+      "children": [
+        {
+          "type": "capitulo",
+          "id": "titulo-4-cap-1",
+          "title": "Capítol I. Avaluació",
+          "children": [
+            {
+              "type": "articulo",
+              "id": "arts-35-42",
+              "title": "Articles 35 a 42",
+              "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+            }
+          ]
+        },
+        {
+          "type": "capitulo",
+          "id": "titulo-4-cap-2",
+          "title": "Capítol II. Promoció",
+          "children": [
+            {
+              "type": "articulo",
+              "id": "arts-43-49",
+              "title": "Articles 43 a 49",
+              "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+            }
+          ]
+        },
+        {
+          "type": "capitulo",
+          "id": "titulo-4-cap-3",
+          "title": "Capítol III. Titulació",
+          "children": [
+            {
+              "type": "articulo",
+              "id": "art-50",
+              "number": "50",
+              "title": "Article 50. Obtenció del títol de batxiller",
+              "content": "D’acord amb el que estableix l’article 22 del Reial decret 243/2022:\n\n1. El títol de batxiller acredita l’assoliment dels objectius establits per a l’etapa i l’adquisició de les competències corresponents.\n\n2. Per a obtindre el títol de batxiller serà necessària l’avaluació positiva de totes les matèries dels dos cursos de batxillerat.\n\n3. Excepcionalment, l’equip educatiu podrà decidir, en l’avaluació extraordinària, l’obtenció del títol de batxiller per a un alumne o alumna que haja superat totes les matèries excepte una, sempre que es complisquen, a més, totes les condicions següents:\n\na) que l’equip educatiu considere que l’alumne o alumna ha assolit els objectius i competències vinculats a aquest títol. Aquesta decisió s’ha d’adoptar per majoria simple i, en cas d’empat, cal considerar el vot de qualitat del tutor o tutora del grup;\n\nb) que no s’haja produït una inassistència continuada i no justificada per part de l’alumne o alumna a la matèria;\n\nc) que l’alumne o alumna s’haja presentat a les proves i haja realitzat les activitats necessàries per a la seua avaluació, incloses les de la convocatòria extraordinària;\n\nd) que la mitjana aritmètica de les qualificacions obtingudes en totes les matèries de l’etapa siga igual o superior a cinc. En aquest cas, a l’efecte del càlcul de la qualificació final de l’etapa, es considerarà la nota numèrica obtinguda en la matèria no superada.\n\n4. El títol de batxiller serà únic i s’expedirà amb expressió de la modalitat cursada i de la nota mitjana obtinguda. Aquesta s’ha de trobar calculant la mitjana aritmètica de les qualificacions de totes les matèries cursades, arrodonida a la centèsima. A l’efecte d’aquest càlcul es tindran en compte les matèries comunes i optatives, així com les matèries específiques de la modalitat per la qual s’expedeix el títol i, si és el cas, la matèria de Religió."
+            },
+            {
+              "type": "articulo",
+              "id": "art-51",
+              "number": "51",
+              "title": "Article 51. Obtenció del títol de batxiller des d’altres ensenyaments",
+              "content": "D’acord amb el que estableix l’article 23 del Reial decret 243/2022:\n\n1. L’alumnat que tinga el títol de tècnic o tècnica, o de tècnic o tècnica superior en formació professional podrà obtindre el títol de batxiller en la modalitat General, mitjançant la superació de les matèries comunes.\n\n2. L’alumnat que tinga el títol de tècnic o tècnica en arts plàstiques i disseny podrà obtindre el títol de batxiller en la modalitat d’Arts mitjançant la superació de les matèries comunes.\n\n3. També podran obtindre el títol de batxiller en la modalitat d’Arts els qui hagen superat els ensenyaments professionals de música o de dansa i superen, a més, les matèries comunes.\n\n4. En tots els casos anteriors, atés que únicament ha de cursar les matèries comunes de batxillerat, l’alumnat es podrà matricular en qualsevol centre educatiu encara que no tinga autoritzada la modalitat General o d’Arts. Excepcionalment, en aquests casos i amb la finalitat de complir amb la normativa vigent, els centres podran proposar l’expedició del títol de batxiller per a aquest alumnat per la modalitat General o d’Arts, segons el cas.\n\n5. La qualificació que apareixerà en el títol de batxiller dels estudiants referenciats en els apartats d’aquest article s’ha de deduir de la ponderació següent:\n\na) El 60 % de la mitjana de les qualificacions obtingudes en les matèries cursades en batxillerat.\n\nb) El 40 % de la nota mitjana obtinguda en els ensenyaments mitjançant els quals s’accedeix a l’obtenció del títol, calculada segons el que estableixen els respectius reials decrets d’ordenació d’aquests.\n\n6. El procediment per a sol·licitar cursar únicament les matèries comunes de batxillerat per trobar-se en alguna de les situacions anteriors serà el que determine la conselleria competent en matèria d’educació."
+            },
+            {
+              "type": "articulo",
+              "id": "arts-52-53",
+              "title": "Articles 52 i 53",
+              "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+            }
+          ]
+        },
+        {
+          "type": "capitulo",
+          "id": "titulo-4-cap-4",
+          "title": "Capítol IV. Documents oficials d’avaluació",
+          "children": [
+            {
+              "type": "articulo",
+              "id": "arts-54-60",
+              "title": "Articles 54 a 60",
+              "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "disposicion_adicional",
+      "id": "da-1",
+      "title": "Disposició addicional primera. Ensenyaments de religió",
+      "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+    },
+    {
+      "type": "disposicion_adicional",
+      "id": "da-2",
+      "title": "Disposició addicional segona. Calendari escolar",
+      "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+    },
+    {
+      "type": "disposicion_adicional",
+      "id": "da-3",
+      "title": "Disposició addicional tercera. Adscripció de les matèries optatives a les especialitats docents",
+      "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+    },
+    {
+      "type": "disposicion_adicional",
+      "id": "da-4",
+      "title": "Disposició addicional quarta. Batxillerat per a persones adultes",
+      "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+    },
+    {
+      "type": "disposicion_adicional",
+      "id": "da-5",
+      "title": "Disposició addicional cinquena. Simultaneïtat d’estudis de batxillerat i d’ensenyaments professionals de música o dansa",
+      "content": "1. L’alumnat que cursa cinqué o sisé curs dels ensenyaments professionals de música o de dansa i simultàniament primer de batxillerat, podrà matricular-se únicament de les matèries comunes de batxillerat i obtindre el títol de batxiller per la modalitat d’Arts sempre que estiga en possessió del títol de tècnic dels ensenyaments professionals de música o de dansa en el moment de realització de l’avaluació final de segon curs de batxillerat, siga en la fase ordinària o en l’extraordinària, i sempre que supere les matèries comunes de batxillerat.\n\n2. En termes de promoció de primer a segon curs, per a aquest alumnat, caldrà ajustar-se al que estableix l’article 43 d’aquest decret, però únicament en relació amb les matèries comunes. En termes de permanència en l’etapa, s’aplicaran els mateixos criteris establits amb caràcter general en batxillerat.\n\n3. En el cas que un alumne o alumna supere totes les matèries de primer i segon de batxillerat, però no estiga en possessió del títol de tècnic dels ensenyaments professionals de música o de dansa perquè no ha superat totes les matèries d’aquests ensenyaments, les qualificacions de batxillerat es traslladaran a l’acta del curs acadèmic següent fins que l’alumne o alumna obtinga el títol de tècnic dels ensenyaments professionals de música o de dansa, si no és que aquest alumnat renuncia a la possibilitat de cursar simultàniament els dos ensenyaments i opta per cursar totes les matèries de batxillerat. Aquesta opció no es podrà exercir una vegada haja transcorregut el mes d’octubre de cada curs acadèmic i, en tot cas, hi serà aplicable el límit de permanència en l’etapa establit per al batxillerat.\n\n4. En el supòsit de l’alumnat que estiga cursant sisé curs dels ensenyaments professionals de música o de dansa i haja superat el primer curs de qualsevol de les modalitats o vies del batxillerat cursant totes les matèries, podrà sol·licitar en segon curs de batxillerat matricular-se únicament de les matèries comunes. En aquest cas, als efectes d’avaluació i titulació, cal considerar únicament les matèries comunes de primer i segon de batxillerat.\n\n5. L’alumnat amb una o dues matèries pendents de primer curs únicament haurà de cursar aquests matèries si es tracta de matèries comunes.\n\n6. En tots els casos anteriors, atés que únicament ha de cursar les matèries comunes de batxillerat, l’alumnat es podrà matricular en qualsevol centre educatiu encara que no tinga autoritzada la modalitat d’Arts. Excepcionalment, en aquests casos i amb la finalitat de complir amb la normativa vigent, els centres podran proposar l’expedició del títol de batxiller per a aquest alumnat per la modalitat d’Arts.\n\n7. La qualificació que apareixerà en el títol de batxiller dels estudiants referenciats en els apartats d’aquest article s’ha de deduir de la ponderació següent:\n\na) El 60 % de la mitjana de les qualificacions obtingudes en les matèries comunes cursades en batxillerat.\n\nb) El 40 % de la nota mitjana obtinguda en els ensenyaments mitjançant els quals s’accedeix a l’obtenció del títol, calculada segons el que estableixen els respectius reials decrets d’ordenació d’aquests.\n\n8. Aquesta circumstància ha de ser registrada en l’apartat «canvis en la matrícula» de l’expedient acadèmic i de l’historial acadèmic de l’alumne o alumna.\n\n9. El procediment per a sol·licitar cursar únicament les matèries comunes de batxillerat per trobar-se en alguna de les situacions descrites en aquesta disposició serà el que determine la conselleria competent en matèria d’educació."
+    },
+    {
+      "type": "disposicion_adicional",
+      "id": "da-6",
+      "title": "Disposició addicional sisena. Obtenció de noves modalitats de batxillerat",
+      "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+    },
+    {
+      "type": "disposicion_adicional",
+      "id": "da-7",
+      "title": "Disposició addicional setena. Obligacions administratives dels centres de titularitat privada",
+      "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+    },
+    {
+      "type": "disposicion_adicional",
+      "id": "da-8",
+      "title": "Disposició addicional huitena. Incidència pressupostària i necessitat de recursos",
+      "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+    },
+    {
+      "type": "disposicion_adicional",
+      "id": "da-9",
+      "title": "Disposició addicional novena. Centres autoritzats per a impartir les diverses modalitats",
+      "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+    },
+    {
+      "type": "disposicion_transitoria",
+      "id": "dt-1",
+      "title": "Disposició transitòria primera. Currículum de segon curs de batxillerat per al curs 2022-2023",
+      "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+    },
+    {
+      "type": "disposicion_transitoria",
+      "id": "dt-2",
+      "title": "Disposició transitòria segona. Documents d’avaluació i de canvi de modalitat de segon curs de batxillerat per al curs 2022-2023",
+      "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+    },
+    {
+      "type": "disposicion_transitoria",
+      "id": "dt-3",
+      "title": "Disposició transitòria tercera. Proves lliures per a l'obtenció del títol de batxiller",
+      "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+    },
+    {
+      "type": "disposicion_transitoria",
+      "id": "dt-4",
+      "title": "Disposició transitòria quarta. Organització i funcionament del batxillerat nocturn i a distància",
+      "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+    },
+    {
+      "type": "disposicion_derogatoria",
+      "id": "dd-unica",
+      "title": "Disposició derogatòria única. Derogació normativa",
+      "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+    },
+    {
+      "type": "disposicion_final",
+      "id": "df-1",
+      "title": "Disposició final primera. Aplicació i desplegament",
+      "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+    },
+    {
+      "type": "disposicion_final",
+      "id": "df-2",
+      "title": "Disposició final segona. Calendari d’implantació",
+      "content": "El calendari d’aplicació del que estableix aquest decret és el següent:\n\nL’any acadèmic 2022-2023 s’implantarà la nova ordenació dels ensenyaments de batxillerat al primer curs.\n\nL’any acadèmic 2023-2024 s’implantarà la nova ordenació dels ensenyaments de batxillerat al segon curs."
+    },
+    {
+      "type": "disposicion_final",
+      "id": "df-3",
+      "title": "Disposició final tercera. Entrada en vigor",
+      "content": "Aquest decret entrarà en vigor l’endemà de ser publicat en el Diari Oficial de la Generalitat Valenciana."
+    },
+    {
+      "type": "anexo",
+      "id": "anexo-1",
+      "title": "Annex I. Competències clau en el batxillerat",
+      "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+    },
+    {
+      "type": "anexo",
+      "id": "anexo-2",
+      "title": "Annex II. Currículum de les matèries comunes i de modalitat de batxillerat",
+      "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+    },
+    {
+      "type": "anexo",
+      "id": "anexo-3",
+      "title": "Annex III. Currículum de les matèries optatives de batxillerat",
+      "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+    },
+    {
+      "type": "anexo",
+      "id": "anexo-4",
+      "title": "Annex IV. Distribució de les hores lectives de batxillerat en règim ordinari diürn",
+      "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+    },
+    {
+      "type": "anexo",
+      "id": "anexo-5",
+      "title": "Annex V. Organització del batxillerat per blocs en tres cursos acadèmics",
+      "content": "[Distribució de les matèries i de l'horari del batxillerat per blocs en tres cursos (art. 20.3): vegeu l'annex en el PDF original. El Decret 103/2026, de 26 de juny, el modifica a partir del curs 2026-2027.]"
+    },
+    {
+      "type": "anexo",
+      "id": "anexo-6",
+      "title": "Annex VI. Continuïtat entre matèries de batxillerat",
+      "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+    },
+    {
+      "type": "anexo",
+      "id": "anexo-7",
+      "title": "Annex VII. Informe d'avaluació de batxillerat",
+      "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+    },
+    {
+      "type": "anexo",
+      "id": "anexo-8",
+      "title": "Annex VIII. Actes d'avaluació de batxillerat",
+      "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+    },
+    {
+      "type": "anexo",
+      "id": "anexo-9",
+      "title": "Annex IX. Expedient acadèmic en l'etapa de batxillerat",
+      "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+    },
+    {
+      "type": "anexo",
+      "id": "anexo-10",
+      "title": "Annex X. Historial acadèmic en l'etapa de batxillerat",
+      "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+    },
+    {
+      "type": "anexo",
+      "id": "anexo-11",
+      "title": "Annex XI. Informe personal per trasllat en l'etapa de batxillerat",
+      "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+    },
+    {
+      "type": "anexo",
+      "id": "anexo-12",
+      "title": "Annex XII. Distribució horària setmanal del batxillerat en règim nocturn i a distància",
+      "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+    }
+  ],
+  "legalAnalysis": {
+    "enactedPursuantTo": [
+      {
+        "lawId": "ley-organica-2-2006",
+        "title": "Llei Orgànica 2/2006, de 3 de maig, d'Educació",
+        "relationship": "desarrollo"
+      },
+      {
+        "lawId": "real-decreto-243-2022",
+        "title": "Reial Decret 243/2022 - Ordenació i ensenyaments mínims del Batxillerat",
+        "relationship": "desarrollo"
+      }
+    ],
+    "priorAffectations": [],
+    "posteriorAffectations": [
+      {
+        "lawId": "decreto-103-2026",
+        "title": "Decret 103/2026, de 26 de juny, del Consell, de modificació del Decret 108/2022",
+        "type": "modifica",
+        "articles": [
+          "art-9",
+          "art-16",
+          "art-19",
+          "art-21",
+          "art-22",
+          "art-23",
+          "art-26",
+          "art-46",
+          "art-47",
+          "da-1",
+          "da-3",
+          "anexo-2",
+          "anexo-3",
+          "anexo-4",
+          "anexo-5",
+          "anexo-6",
+          "anexo-12"
+        ],
+        "date": "2026-07-03",
+        "description": "Modifica els arts. 9.1-2, 16, 19, 21.6, 22, 23.4, 26.5, 46 i 47.3, les DA 1a i 3a (apartats 1 i 5) i els annexos II a VI i XII (currículums, optatives Informàtica i Unió Europea, horaris i blocs en tres cursos). Ordenació i 1r des de 2026-2027; currículums de 2n des de 2027-2028. No toca els articles transcrits ací (12, 20, 33, 34, 50, 51 i DA 5a). Norma no ingressada (DOGV 10396, 02/07/2026)"
+      },
+      {
+        "lawId": "resolucion-17-11-2023-anexo-viii-bachillerato",
+        "title": "Resolució de 17 de novembre de 2023 (models d'actes d'avaluació)",
+        "type": "modifica",
+        "articles": [
+          "anexo-8"
+        ],
+        "date": "2023-11-17",
+        "description": "Modifica l'annex VIII (actes d'avaluació). Norma no ingressada"
+      }
+    ],
+    "derogations": [],
+    "concordances": [
+      {
+        "lawId": "orden-19-2023",
+        "title": "Orde 19/2023 - Procediments derivats dels decrets d'ESO i Batxillerat",
+        "description": "Procediments de convalidació i de cursar únicament matèries comunes (arts. 33, 34, 51.6 i DA 5a.9)"
+      },
+      {
+        "lawId": "real-decreto-242-2009",
+        "title": "Reial Decret 242/2009 - Convalidacions EEPP Música i Dansa amb ESO i Batxillerat"
+      },
+      {
+        "lawId": "instrucciones-convalidaciones-2023",
+        "title": "Instruccions convalidacions música i dansa – batxillerat (2023)"
+      },
+      {
+        "title": "Correcció d'errades del Decret 108/2022 (DOGV 9464, 07/11/2022)",
+        "description": "Afecta l'art. 35.5, la DA 3a, les DT 3a i 4a i diversos annexos; no els articles transcrits ací. https://dogv.gva.es/datos/2022/11/07/pdf/2022_10265.pdf"
+      }
+    ]
+  },
+  "promulgation": {
+    "place": "València",
+    "date": "2022-08-05",
+    "signatories": [
+      {
+        "name": "Ximo Puig i Ferrer",
+        "role": "President de la Generalitat"
+      },
+      {
+        "name": "Raquel Tamarit i Iranzo",
+        "role": "Conselleria d'Educació"
+      }
+    ]
+  },
+  "scope": "general",
+  "territory": "autonomico",
+  "temporality": {
+    "type": "permanente"
+  },
+  "docType": "normativa"
+}

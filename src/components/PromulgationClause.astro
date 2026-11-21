@@ -18,7 +18,7 @@ const dateFormatted = new Date(promulgation.date).toLocaleDateString(
 <article class="promulgation-block" id="promulgacion">
   <h3 class="promulgation-title">{t('law.promulgation', lang)}</h3>
   <div class="promulgation-text">
-    <p class="promulgation-place">{promulgation.place}, {dateFormatted}</p>
+    <p class="promulgation-place">{promulgation.place ? `${promulgation.place}, ` : ''}{dateFormatted}</p>
     {promulgation.signatories.map((s) => (
       <div class="signatory">
         <span class="signatory-name">{s.name}</span>

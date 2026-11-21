@@ -319,7 +319,18 @@
       }
     ],
     "derogations": [],
-    "concordances": []
+    "concordances": [
+      {
+        "lawId": "real-decreto-243-2022",
+        "title": "Reial Decret 243/2022 - Ordenació i ensenyaments mínims del Batxillerat",
+        "description": "El seu art. 14.2 remet al RD 243/2022 per a obtindre el títol de Batxiller (art. 23)"
+      },
+      {
+        "lawId": "real-decreto-242-2009",
+        "title": "Reial Decret 242/2009 - Convalidacions EEPP Música i Dansa amb ESO i Batxillerat",
+        "description": "Convalidacions amb ESO i Batxillerat (art. 20 d'aquest reial decret)"
+      }
+    ]
   },
   "promulgation": {
     "place": "Madrid",

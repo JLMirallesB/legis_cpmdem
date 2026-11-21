@@ -24,7 +24,7 @@
     "evaluacion interna",
     "avaluacio interna"
   ],
-  "updatedAt": "2026-10-18",
+  "updatedAt": "2026-11-21",
   "refs": [
     {
       "law": "ley-organica-2-2006",
@@ -554,6 +554,11 @@
       "article": "anexo-1-2",
       "apartado": "1.2.5",
       "reason": "Encabezado de la sección; su contenido ya está referenciado"
+    },
+    {
+      "law": "orden-19-2023",
+      "article": "*",
+      "reason": "Deroga el capítulo IV de la Orden 38/2016 (plan de actuación para la mejora de los centros de régimen general), que no es el Plan de Mejora del conservatorio"
     }
   ],
   "parts": [

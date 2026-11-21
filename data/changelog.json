@@ -1,5 +1,63 @@
 [
   {
+    "version": "2.19.0",
+    "date": "2026-11-21",
+    "entries": {
+      "es": [
+        {
+          "type": "nuevo",
+          "description": "Bachillerato desde las enseñanzas profesionales: Real Decreto 243/2022 (ordenación y enseñanzas mínimas del Bachillerato), con los artículos sobre materias comunes, modalidad de Artes, Bachillerato en tres años, título de Bachiller y su obtención desde las enseñanzas profesionales (art. 23, con su versión original de 2022 y la vigente), y la simultaneidad de estudios; y Real Decreto 535/2026, que da nueva redacción al art. 23.4 (mantiene el 60 % de la media de las materias comunes y el 40 % de la nota media de las enseñanzas profesionales y añade un 5 en esa parte para quien no tenga nota media por homologación). Solo en castellano."
+        },
+        {
+          "type": "nuevo",
+          "description": "Convalidaciones entre las enseñanzas profesionales de Música y Danza y la ESO y el Bachillerato: Real Decreto 242/2009, con sus tablas de convalidaciones (anexos II a V en la redacción original y en la vigente), y Real Decreto 14/2023, que adaptó esas tablas a las materias del Bachillerato actual."
+        },
+        {
+          "type": "nuevo",
+          "description": "Decreto 108/2022 de ordenación y currículo de Bachillerato en la Comunitat Valenciana: modalidad de Artes, Bachillerato por bloques en tres cursos, convalidaciones y exención para el alumnado que cursa a la vez las enseñanzas profesionales de música o danza, título de Bachiller desde otras enseñanzas y matrícula solo de materias comunes con 5.º o 6.º de enseñanzas profesionales. Se señala que el Decreto 103/2026 lo modifica desde el curso 2026-2027 sin tocar estos artículos."
+        },
+        {
+          "type": "nuevo",
+          "description": "Orden 19/2023 de procedimientos de la ESO y el Bachillerato: cómo se piden las convalidaciones y la exención de Educación Física, quién las resuelve y en qué plazos, y cómo se solicita cursar solo las materias comunes. Con los cinco modelos de solicitud que afectan al alumnado de conservatorio para descargar (los de la ESO, en la redacción vigente del Decreto 66/2024)."
+        },
+        {
+          "type": "mejora",
+          "description": "Cuaderno «Centros integrados y coordinación de enseñanzas»: 37 referencias nuevas a estas normas. El Real Decreto 1953/2009 avisa de que la nota del título de Bachiller ya no es la media aritmética de su art. 3, sino la ponderación del art. 23.4 del RD 243/2022; los currículos básicos y las instrucciones de convalidaciones enlazan con las normas nuevas."
+        },
+        {
+          "type": "corregido",
+          "description": "Cláusula de promulgación: si la norma no indica el lugar de firma, ya no aparece una coma suelta delante de la fecha."
+        }
+      ],
+      "va": [
+        {
+          "type": "nou",
+          "description": "Batxillerat des dels ensenyaments professionals: Reial Decret 243/2022 (ordenació i ensenyaments mínims del Batxillerat), amb els articles sobre matèries comunes, modalitat d'Arts, Batxillerat en tres anys, títol de Batxiller i la seua obtenció des dels ensenyaments professionals (art. 23, amb la versió original de 2022 i la vigent), i la simultaneïtat d'estudis; i Reial Decret 535/2026, que dona nova redacció a l'art. 23.4 (manté el 60 % de la mitjana de les matèries comunes i el 40 % de la nota mitjana dels ensenyaments professionals i afig un 5 en eixa part per a qui no tinga nota mitjana per homologació). Només en castellà."
+        },
+        {
+          "type": "nou",
+          "description": "Convalidacions entre els ensenyaments professionals de Música i Dansa i l'ESO i el Batxillerat: Reial Decret 242/2009, amb les seues taules de convalidacions (annexos II a V en la redacció original i en la vigent), i Reial Decret 14/2023, que va adaptar eixes taules a les matèries del Batxillerat actual."
+        },
+        {
+          "type": "nou",
+          "description": "Decret 108/2022 d'ordenació i currículum de Batxillerat a la Comunitat Valenciana: modalitat d'Arts, Batxillerat per blocs en tres cursos, convalidacions i exempció per a l'alumnat que cursa alhora els ensenyaments professionals de música o dansa, títol de Batxiller des d'altres ensenyaments i matrícula només de matèries comunes amb 5é o 6é d'ensenyaments professionals. S'indica que el Decret 103/2026 el modifica des del curs 2026-2027 sense tocar estos articles."
+        },
+        {
+          "type": "nou",
+          "description": "Orde 19/2023 de procediments de l'ESO i el Batxillerat: com es demanen les convalidacions i l'exempció d'Educació Física, qui les resol i en quins terminis, i com se sol·licita cursar només les matèries comunes. Amb els cinc models de sol·licitud que afecten l'alumnat de conservatori per a descarregar (els de l'ESO, en la redacció vigent del Decret 66/2024)."
+        },
+        {
+          "type": "millora",
+          "description": "Quadern «Centres integrats i coordinació d'ensenyances»: 37 referències noves a estes normes. El Reial Decret 1953/2009 avisa que la nota del títol de Batxiller ja no és la mitjana aritmètica del seu art. 3, sinó la ponderació de l'art. 23.4 del RD 243/2022; els currículums bàsics i les instruccions de convalidacions enllacen amb les normes noves."
+        },
+        {
+          "type": "corregit",
+          "description": "Clàusula de promulgació: si la norma no indica el lloc de signatura, ja no apareix una coma solta davant de la data."
+        }
+      ]
+    }
+  },
+  {
     "version": "2.18.0",
     "date": "2026-11-13",
     "entries": {

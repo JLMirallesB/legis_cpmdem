@@ -20,7 +20,7 @@
     "equip docent",
     "equips docents"
   ],
-  "updatedAt": "2026-08-19",
+  "updatedAt": "2026-11-21",
   "refs": [
     {
       "law": "decreto-193-2025",
@@ -483,6 +483,11 @@
         "anexo-10-1#4"
       ],
       "reason": "Menciones incidentales: la norma nombra la figura sin atribuirle nada"
+    },
+    {
+      "law": "real-decreto-243-2022",
+      "article": "*",
+      "reason": "Equipo docente del Bachillerato (decisión de título con una materia pendiente), no de las enseñanzas de música y danza"
     }
   ],
   "titleTerms": [
