@@ -1,5 +1,39 @@
 [
   {
+    "version": "2.20.0",
+    "date": "2026-11-21",
+    "entries": {
+      "es": [
+        {
+          "type": "nuevo",
+          "description": "Decreto 107/2022 de ordenación y currículo de la ESO en la Comunitat Valenciana: convalidación de la optativa y de la Música y exención de Educación Física para el alumnado que cursa enseñanzas profesionales de música o danza (arts. 31 y 32), con su redacción original y la vigente. Desde el curso 2024-2025, la Música de 1.º a 3.º de la ESO se convalida con Instrumento o Voz de 1.º de enseñanzas profesionales de música, y la de 4.º con el de 2.º. Se indica que el TSJCV anuló los arts. 10.3, 11.3 y 15.7, que no tratan de esto."
+        },
+        {
+          "type": "nuevo",
+          "description": "Decreto 66/2024, que modifica el Decreto 107/2022 y la Orden 19/2023: los puntos que cambian las convalidaciones de la Música de la ESO y los modelos de solicitud, y su calendario de aplicación."
+        },
+        {
+          "type": "mejora",
+          "description": "Aclaración de aplicación sobre los arts. 31.2 y 32.2 del Decreto 107/2022: el cambio de 2024 sustituyó la frase que abre el apartado y mantiene las reglas para anotar la convalidación (PTC y CO), como las siguen citando los procedimientos de la Conselleria. Las instrucciones de convalidaciones de la ESO, la Orden 19/2023 y el RD 242/2009 enlazan con las dos normas nuevas."
+        }
+      ],
+      "va": [
+        {
+          "type": "nou",
+          "description": "Decret 107/2022 d'ordenació i currículum de l'ESO a la Comunitat Valenciana: convalidació de l'optativa i de la Música i exempció d'Educació Física per a l'alumnat que cursa ensenyaments professionals de música o dansa (arts. 31 i 32), amb la redacció original i la vigent. Des del curs 2024-2025, la Música de 1r a 3r de l'ESO es convalida amb Instrument o Veu de 1r d'ensenyaments professionals de música, i la de 4t amb el de 2n. S'indica que el TSJCV va anul·lar els arts. 10.3, 11.3 i 15.7, que no tracten d'això."
+        },
+        {
+          "type": "nou",
+          "description": "Decret 66/2024, que modifica el Decret 107/2022 i l'Orde 19/2023: els punts que canvien les convalidacions de la Música de l'ESO i els models de sol·licitud, i el seu calendari d'aplicació."
+        },
+        {
+          "type": "millora",
+          "description": "Aclariment d'aplicació sobre els arts. 31.2 i 32.2 del Decret 107/2022: el canvi de 2024 va substituir la frase que obri l'apartat i manté les regles per a anotar la convalidació (PTC i CO), com les continuen citant els procediments de la Conselleria. Les instruccions de convalidacions de l'ESO, l'Orde 19/2023 i el RD 242/2009 enllacen amb les dues normes noves."
+        }
+      ]
+    }
+  },
+  {
     "version": "2.19.0",
     "date": "2026-11-21",
     "entries": {

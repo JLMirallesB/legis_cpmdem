@@ -703,7 +703,8 @@
         "articles": [
           "df-1"
         ],
-        "relationship": "habilitante"
+        "relationship": "habilitante",
+        "lawId": "decreto-107-2022"
       },
       {
         "lawId": "decreto-108-2022",

@@ -735,6 +735,20 @@
       "status": "ingested",
       "category": "convalidaciones",
       "notes": "DOGV 9631 (04/07/2023), bilingüe a dos columnas, 75 págs. Ingesta parcial: íntegros los arts. 2-6 (convalidaciones y exención en la ESO para el alumnado de EEPP), 46-48 (cursar solo materias comunes de Bachillerato), 52-57 (convalidaciones y exención en Bachillerato, danza y música), la DD única (deroga la Orden 71/2010) y la DF 2.ª; el resto con la nota. formModels: anexos I y II (en la redacción vigente del Decreto 66/2024, DOGV 9878, recortados de su PDF), X, XII y XIII, en public/models/orden-19-2023-anexo-*.pdf. El Decreto 66/2024 (no ingresado) modifica además los arts. 26 y 41, la DA 6.ª y los anexos III y VIII, fuera del alcance."
+    },
+    {
+      "slug": "decreto-107-2022",
+      "title": "Decreto 107/2022 - Ordenación y currículo de la ESO",
+      "status": "ingested",
+      "category": "convalidaciones",
+      "notes": "DOGV 9403 (11/08/2022), bilingüe a dos columnas, 1298 págs. (casi todo currículo). Ingesta parcial: íntegros los arts. 31 y 32 (convalidaciones de la optativa y de la Música y exención de Educación Física para el alumnado de EEPP de danza y música) y las DF 2.ª-3.ª; el resto, en tramos por capítulo con la nota. Arts. 31 y 32 con versiones: v1 (2022) y v2 (Decreto 66/2024: nuevo párrafo inicial del apartado 2; se mantienen las letras a-c, como las sigue citando la Conselleria, ver data/aclaraciones/decreto-107-2022.md). El TSJCV anuló los arts. 10.3, 11.3 y 15.7 (DOGV 9701, 16/10/2023), fuera del alcance. En el texto valenciano la DA 2.ª aparece como «Segunda» (errata del DOGV)."
+    },
+    {
+      "slug": "decreto-66-2024",
+      "title": "Decreto 66/2024 - Modifica el Decreto 107/2022 (ESO) y la Orden 19/2023",
+      "status": "ingested",
+      "category": "leyes_modificadoras",
+      "notes": "DOGV 9878 (26/06/2024), articulado bilingüe a dos columnas y anexos por idioma, 392 págs. Ingesta parcial: íntegros los arts. 1 y 2, las DF 2.ª (aplicable desde 2024-2025) y 4.ª, y del anexo I los puntos 8 y 9 (nuevos arts. 31.2 y 32.2 del D. 107/2022); del anexo II, los puntos 4 y 5 remiten a los modelos de solicitud, que se descargan desde la ficha de la Orden 19/2023. Firmado en Alicante. Lo demás (programas de diversificación, FP dual, currículos de ESO), con la nota."
     }
   ]
 }

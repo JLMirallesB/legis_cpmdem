@@ -61,11 +61,13 @@
     "enactedPursuantTo": [
       {
         "title": "Decreto 107/2022, de 5 de agosto, del Consell, por el que se establece la ordenación y el currículo de Educación Secundaria Obligatoria (Artículo 31: convalidación de Música y de la materia optativa y exención de Educación Física para el alumnado de enseñanzas profesionales de danza, y su registro en los documentos de evaluación)",
-        "relationship": "desarrollo"
+        "relationship": "desarrollo",
+        "lawId": "decreto-107-2022"
       },
       {
         "title": "Decreto 66/2024, de 21 de junio, del Consell, por el que se modifica el Decreto 107/2022 (Artículo 1.1: da nueva redacción a las convalidaciones del Decreto 107/2022 y aprueba los modelos de solicitud (anexos I y II))",
-        "relationship": "desarrollo"
+        "relationship": "desarrollo",
+        "lawId": "decreto-66-2024"
       },
       {
         "title": "Orden 19/2023, de 29 de junio, de la Conselleria de Educación, Cultura y Deporte, por la que se regulan los procedimientos derivados de los Decretos 107/2022 y 108/2022 (ESO y Bachillerato) (Artículos 2.1 (requisito) y 6.2 (baja en el conservatorio antes de la evaluación final))",

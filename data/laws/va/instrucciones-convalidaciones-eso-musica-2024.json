@@ -61,11 +61,13 @@
     "enactedPursuantTo": [
       {
         "title": "Decret 107/2022, de 5 d'agost, del Consell, pel qual s'establix l'ordenació i el currículum d'Educació Secundària Obligatòria (Article 32: convalidació de Música i de la matèria optativa per a l'alumnat d'ensenyances professionals de música, i el seu registre en els documents d'avaluació)",
-        "relationship": "desarrollo"
+        "relationship": "desarrollo",
+        "lawId": "decreto-107-2022"
       },
       {
         "title": "Decret 66/2024, de 21 de juny, del Consell, pel qual es modifica el Decret 107/2022 (Article 1.1: dona nova redacció a les convalidacions del Decret 107/2022 i aprova els models de sol·licitud (annexos I i II))",
-        "relationship": "desarrollo"
+        "relationship": "desarrollo",
+        "lawId": "decreto-66-2024"
       },
       {
         "title": "Ordre 19/2023, de 29 de juny, de la Conselleria d'Educació, Cultura i Esport, per la qual es regulen els procediments derivats dels Decrets 107/2022 i 108/2022 (ESO i Batxillerat) (Articles 2.1 (requisit) i 6.2 (baixa en el conservatori abans de l'avaluació final))",

@@ -1,0 +1,527 @@
+{
+  "id": "decreto-107-2022",
+  "slug": "decreto-107-2022",
+  "type": "decreto",
+  "number": "107/2022",
+  "date": "2022-08-05",
+  "publishedIn": {
+    "source": "DOGV",
+    "number": "9403",
+    "date": "2022-08-11",
+    "url": "https://dogv.gva.es/va/eli/es-vc/d/2022/08/05/107/dof/vci/html",
+    "pdfUrl": "https://dogv.gva.es/datos/2022/08/11/pdf/2022_7573.pdf"
+  },
+  "title": "Decret 107/2022, de 5 d'agost, del Consell, pel qual s'estableix l'ordenació i el currículum d'Educació Secundària Obligatòria",
+  "titleShort": "Decret 107/2022 - Ordenació i currículum de l'ESO",
+  "category": "convalidaciones",
+  "vigpiracy": {
+    "status": "vigente_parcial",
+    "statusLabel": "Vigent amb modificacions (Decret 66/2024) i amb els arts. 10.3, 11.3 i 15.7 anul·lats pel TSJCV",
+    "effectiveDate": "2022-08-12",
+    "lastModifiedDate": "2024-06-27"
+  },
+  "structure": [
+    {
+      "type": "preambulo",
+      "id": "preambulo",
+      "title": "Preàmbul",
+      "content": "L’article 53.1 de la Llei orgànica 5/1982, d’1 de juliol, d’Estatut d’Autonomia de la Comunitat Valenciana, disposa que és competència exclusiva de la Generalitat la regulació i administració de l’ensenyament en tota la seua extensió, nivells i graus, modalitats i especialitats, sense perjudici del que disposa l’article 27 de la Constitució espanyola i les lleis orgàniques que, d’acord amb l’apartat 1 de l’article 81 d’aquella, el desenvolupen, i de les facultats que atribueix a l’Estat el número 30 de l’apartat 1 de l’article 149 de la Constitució espanyola, per a dictar normativa bàsica en matèria d’educació.\n\nLa Llei orgànica 3/2020, de 29 de desembre, per la qual es modifica la Llei orgànica 2/2006, de 3 de maig, d’educació, introdueix en la redacció anterior de la norma canvis importants, molts dels quals derivats, tal com indica la mateixa llei en el seu preàmbul, de la conveniència de revisar les mesures previstes en el text original a fi d’adaptar el sistema educatiu als reptes i desafiaments del segle XXI d’acord amb els objectius fixats per la Unió Europea i la UNESCO per a la dècada 2020-2030.\n\n[No relativo a conservatorios profesionales de música y danza - ver PDF original]\n\nCorrespon al Consell, fent ús de les seues competències establir els elements del currículum que la normativa bàsica indica i concretar els aspectes de l’ordenació acadèmica que li corresponen d’acord amb la distribució competencial recollida en l’article 6.5 i en la disposició final sisena de la Llei orgànica 2/2006, de 3 de maig.\n\nEn conseqüència, d’acord amb el que es disposa en l’article 28.c de la Llei 5/1983, de 30 de desembre, del Consell, amb l’informe previ del Consell Escolar de la Comunitat Valenciana, conforme al Consell Jurídic Consultiu de la Comunitat Valenciana, a proposta de la consellera d’Educació, Cultura i Esport, amb la deliberació prèvia del Consell, en la reunió de 5 d’agost,"
+    },
+    {
+      "type": "titulo",
+      "id": "titulo-1",
+      "title": "Títol I. Disposicions comunes",
+      "children": [
+        {
+          "type": "capitulo",
+          "id": "titulo-1-cap-unico",
+          "title": "Capítol únic. Disposicions preliminars",
+          "children": [
+            {
+              "type": "articulo",
+              "id": "arts-1-7",
+              "title": "Articles 1 a 7",
+              "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "titulo",
+      "id": "titulo-2",
+      "title": "Títol II. Ordenació de l’etapa d’Educació Secundària Obligatòria",
+      "children": [
+        {
+          "type": "capitulo",
+          "id": "titulo-2-cap-1",
+          "title": "Capítol I. Estructura del currículum",
+          "children": [
+            {
+              "type": "articulo",
+              "id": "arts-8-16",
+              "title": "Articles 8 a 16",
+              "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+            }
+          ]
+        },
+        {
+          "type": "capitulo",
+          "id": "titulo-2-cap-2",
+          "title": "Capítol II. Cicles formatius de grau bàsic",
+          "children": [
+            {
+              "type": "articulo",
+              "id": "art-17",
+              "number": "17",
+              "title": "Article 17. Els cicles formatius de grau bàsic",
+              "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+            }
+          ]
+        },
+        {
+          "type": "capitulo",
+          "id": "titulo-2-cap-3",
+          "title": "Capítol III. Programes pedagògics",
+          "children": [
+            {
+              "type": "articulo",
+              "id": "arts-18-19",
+              "title": "Articles 18 i 19",
+              "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "titulo",
+      "id": "titulo-3",
+      "title": "Títol III. Gestió pedagògica",
+      "children": [
+        {
+          "type": "capitulo",
+          "id": "titulo-3-cap-1",
+          "title": "Capítol I. Autonomia i gestió pedagògica dels centres",
+          "children": [
+            {
+              "type": "articulo",
+              "id": "arts-20-28",
+              "title": "Articles 20 a 28",
+              "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+            }
+          ]
+        },
+        {
+          "type": "capitulo",
+          "id": "titulo-3-cap-2",
+          "title": "Capítol II. Resposta educativa per a la inclusió",
+          "children": [
+            {
+              "type": "articulo",
+              "id": "arts-29-30",
+              "title": "Articles 29 i 30",
+              "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+            },
+            {
+              "type": "articulo",
+              "id": "art-31",
+              "number": "31",
+              "title": "Article 31. Mesures per a l’alumnat que compagina els estudis d’educació secundària obligatòria i els ensenyaments professionals de dansa",
+              "content": "Amb la finalitat d’afavorir la simultaneïtat dels estudis d’ensenyaments professionals de dansa i d’educació secundària obligatòria, per a este alumnat poden adoptar-se diferents mesures relatives a la convalidació i exempció de matèries de l’ESO:\n\n1. L’alumnat que cursa l’ESO i, simultàniament, ensenyaments professionals de dansa en conservatoris professionals o centres d’ensenyament professional pot sol·licitar la convalidació de la matèria optativa, d’acord amb les condicions següents:\n\na) La matèria optativa convalidada no té qualificació ni computa a tots els efectes.\n\nb) El procediment per a sol·licitar esta convalidació serà el que determine la conselleria competent en matèria d’educació.\n\nc) En els documents d’avaluació s’ha de consignar la matèria com a «pendent de convalidació» (PTC) al llarg del curs. Perquè la convalidació es faça efectiva, cal que l’alumne o alumna presente un certificat d’haver mantingut la matrícula al conservatori o centre professional de dansa fins a la data de l’avaluació final. Una vegada acreditat el manteniment de la matrícula, la matèria s’ha de consignar en els documents d’avaluació com a «optativa convalidada dansa» (COD). Si no s’acredita la condició esmentada, la matèria optativa s’ha de considerar no superada a tots els efectes.\n\n2. L’alumnat que cursa l’ESO i cursa o ha cursat ensenyaments professionals de Dansa en conservatoris professionals o centres autoritzats també podrà sol·licitar la convalidació de la matèria Música de 1r, 2n i 3r curs de l’ESO, per la superació de la matèria Música de 1r curs dels ensenyaments professionals de Dansa, així com la convalidació de la matèria Música de 4t curs de l’ESO, per la superació de la matèria Música de 2n curs dels ensenyaments professionals de Dansa.\n\nA l’efecte de la convalidació de la matèria Música, cal considerar el següent:\n\na) La matèria Música objecte de convalidació no té qualificació ni computa a tots els efectes\n\nb) El procediment per a sol·licitar esta convalidació serà el que determine la conselleria competent en matèria d’educació.\n\nc) En el supòsit que l’alumne o alumna curse simultàniament l’ESO i les matèries d’ensenyaments professionals de dansa susceptibles de convalidació, en els documents d’avaluació s’ha de consignar la matèria com a «pendent de convalidació» (PTC) al llarg del curs. Una vegada que s’haja avaluat la matèria amb la qual convalida, el conservatori o el centre professional de dansa ha de facilitar al centre de l’ESO un certificat acadèmic que acredite la superació, o no, d’aquesta matèria, per tal que el centre ordinari puga incorporar-ho als documents oficials d’avaluació i deixar constància, si és el cas, de la convalidació corresponent. Una vegada acreditada la superació de la matèria cursada en els ensenyaments professionals, la convalidació de la matèria de Música s’ha de consignar com a «convalidada» (CO) en els documents d’avaluació. En cas de no superar la matèria cursada en els ensenyaments professionals, la matèria de Música s’ha de considerar no superada a tots els efectes.\n\n3. A més, l’alumnat que cursa l’ESO i, simultàniament, ensenyaments professionals de dansa en conservatoris professionals o centres d’ensenyament professional pot sol·licitar l’exempció de la matèria d’Educació Física, d’acord amb les condicions següents:\n\na) La matèria Educació Física objecte d’exempció no té qualificació ni computa a tots els efectes.\n\nb) El procediment per a sol·licitar esta exempció serà el que determine la conselleria competent en matèria d’educació.\n\nc) En este cas, l’exempció d’Educació Física implica l’exempció de cursar esta matèria.\n\nd) En els documents d’avaluació, la matèria Educació Física s’ha de consignar com a «pendent d’exempció» al llarg del curs (PTE). Per a l’anotació definitiva en els documents d’avaluació del terme «exempt/a» (ET), s’ha de presentar un certificat d’haver mantingut la matrícula al conservatori o centre professional de dansa fins a la data de l’avaluació final. Si no es manté la matrícula, la matèria esmentada s’ha de considerar no superada a tots els efectes.\n\ne) Si l’alumne o alumna es dona de baixa al conservatori o centre professional de dansa abans de la data de la sessió de l’avaluació final, podrà sol·licitar ser avaluat des d’aquest moment en la matèria d’Educació Física. Esta circumstància s’ha de reflectir per mitjà de la diligència corresponent en els diferents documents d’avaluació.",
+              "versions": [
+                {
+                  "versionId": "v2",
+                  "effectiveDate": "2024-06-27",
+                  "modifiedBy": {
+                    "lawId": "decreto-66-2024",
+                    "title": "Decret 66/2024, de 21 de juny, del Consell",
+                    "articleRef": "anexo-1"
+                  },
+                  "content": "Amb la finalitat d’afavorir la simultaneïtat dels estudis d’ensenyaments professionals de dansa i d’educació secundària obligatòria, per a este alumnat poden adoptar-se diferents mesures relatives a la convalidació i exempció de matèries de l’ESO:\n\n1. L’alumnat que cursa l’ESO i, simultàniament, ensenyaments professionals de dansa en conservatoris professionals o centres d’ensenyament professional pot sol·licitar la convalidació de la matèria optativa, d’acord amb les condicions següents:\n\na) La matèria optativa convalidada no té qualificació ni computa a tots els efectes.\n\nb) El procediment per a sol·licitar esta convalidació serà el que determine la conselleria competent en matèria d’educació.\n\nc) En els documents d’avaluació s’ha de consignar la matèria com a «pendent de convalidació» (PTC) al llarg del curs. Perquè la convalidació es faça efectiva, cal que l’alumne o alumna presente un certificat d’haver mantingut la matrícula al conservatori o centre professional de dansa fins a la data de l’avaluació final. Una vegada acreditat el manteniment de la matrícula, la matèria s’ha de consignar en els documents d’avaluació com a «optativa convalidada dansa» (COD). Si no s’acredita la condició esmentada, la matèria optativa s’ha de considerar no superada a tots els efectes.\n\n2. L’alumnat que cursa l’ESO i cursa o ha cursat ensenyaments professionals de Dansa en conservatoris professionals o centres autoritzats també podrà sol·licitar la convalidació de la matèria Música de 1r, 2n i 3r curs de l’ESO, per la superació de la matèria Música de 1r curs dels ensenyaments professionals de Dansa, així com la convalidació de la matèria Música de 4t curs de l’ESO, per la superació de la matèria Música de 2n curs dels ensenyaments professionals de Dansa.\n\nA l’efecte de la convalidació de la matèria Música, cal considerar el següent:\n\na) La matèria Música objecte de convalidació no té qualificació ni computa a tots els efectes\n\nb) El procediment per a sol·licitar esta convalidació serà el que determine la conselleria competent en matèria d’educació.\n\nc) En el supòsit que l’alumne o alumna curse simultàniament l’ESO i les matèries d’ensenyaments professionals de dansa susceptibles de convalidació, en els documents d’avaluació s’ha de consignar la matèria com a «pendent de convalidació» (PTC) al llarg del curs. Una vegada que s’haja avaluat la matèria amb la qual convalida, el conservatori o el centre professional de dansa ha de facilitar al centre de l’ESO un certificat acadèmic que acredite la superació, o no, d’aquesta matèria, per tal que el centre ordinari puga incorporar-ho als documents oficials d’avaluació i deixar constància, si és el cas, de la convalidació corresponent. Una vegada acreditada la superació de la matèria cursada en els ensenyaments professionals, la convalidació de la matèria de Música s’ha de consignar com a «convalidada» (CO) en els documents d’avaluació. En cas de no superar la matèria cursada en els ensenyaments professionals, la matèria de Música s’ha de considerar no superada a tots els efectes.\n\n3. A més, l’alumnat que cursa l’ESO i, simultàniament, ensenyaments professionals de dansa en conservatoris professionals o centres d’ensenyament professional pot sol·licitar l’exempció de la matèria d’Educació Física, d’acord amb les condicions següents:\n\na) La matèria Educació Física objecte d’exempció no té qualificació ni computa a tots els efectes.\n\nb) El procediment per a sol·licitar esta exempció serà el que determine la conselleria competent en matèria d’educació.\n\nc) En este cas, l’exempció d’Educació Física implica l’exempció de cursar esta matèria.\n\nd) En els documents d’avaluació, la matèria Educació Física s’ha de consignar com a «pendent d’exempció» al llarg del curs (PTE). Per a l’anotació definitiva en els documents d’avaluació del terme «exempt/a» (ET), s’ha de presentar un certificat d’haver mantingut la matrícula al conservatori o centre professional de dansa fins a la data de l’avaluació final. Si no es manté la matrícula, la matèria esmentada s’ha de considerar no superada a tots els efectes.\n\ne) Si l’alumne o alumna es dona de baixa al conservatori o centre professional de dansa abans de la data de la sessió de l’avaluació final, podrà sol·licitar ser avaluat des d’aquest moment en la matèria d’Educació Física. Esta circumstància s’ha de reflectir per mitjà de la diligència corresponent en els diferents documents d’avaluació."
+                },
+                {
+                  "versionId": "v1",
+                  "effectiveDate": "2022-08-12",
+                  "modifiedBy": null,
+                  "content": "Amb la finalitat d’afavorir la simultaneïtat dels estudis d’ensenyaments professionals de dansa i d’educació secundària obligatòria, per a este alumnat poden adoptar-se diferents mesures relatives a la convalidació i exempció de matèries de l’ESO:\n\n1. L’alumnat que cursa l’ESO i, simultàniament, ensenyaments professionals de dansa en conservatoris professionals o centres d’ensenyament professional pot sol·licitar la convalidació de la matèria optativa, d’acord amb les condicions següents:\n\na) La matèria optativa convalidada no té qualificació ni computa a tots els efectes.\n\nb) El procediment per a sol·licitar esta convalidació serà el que determine la conselleria competent en matèria d’educació.\n\nc) En els documents d’avaluació s’ha de consignar la matèria com a «pendent de convalidació» (PTC) al llarg del curs. Perquè la convalidació es faça efectiva, cal que l’alumne o alumna presente un certificat d’haver mantingut la matrícula al conservatori o centre professional de dansa fins a la data de l’avaluació final. Una vegada acreditat el manteniment de la matrícula, la matèria s’ha de consignar en els documents d’avaluació com a «optativa convalidada dansa» (COD). Si no s’acredita la condició esmentada, la matèria optativa s’ha de considerar no superada a tots els efectes.\n\n2. L’alumnat que cursa l’ESO i cursa o ha cursat ensenyaments professionals de dansa en conservatoris professionals o centres d’ensenyament professional també pot sol·licitar la convalidació de la matèria Música de 1r i 2n curs de l’ESO per la superació de la matèria Música de 1r curs dels ensenyaments professionals de dansa, així com la convalidació de la matèria Música de 4t curs de l’ESO per la superació de la matèria Música de 2n curs dels ensenyaments professionals de dansa.\n\nA l’efecte de la convalidació de la matèria Música, cal considerar el següent:\n\na) La matèria Música objecte de convalidació no té qualificació ni computa a tots els efectes\n\nb) El procediment per a sol·licitar esta convalidació serà el que determine la conselleria competent en matèria d’educació.\n\nc) En el supòsit que l’alumne o alumna curse simultàniament l’ESO i les matèries d’ensenyaments professionals de dansa susceptibles de convalidació, en els documents d’avaluació s’ha de consignar la matèria com a «pendent de convalidació» (PTC) al llarg del curs. Una vegada que s’haja avaluat la matèria amb la qual convalida, el conservatori o el centre professional de dansa ha de facilitar al centre de l’ESO un certificat acadèmic que acredite la superació, o no, d’aquesta matèria, per tal que el centre ordinari puga incorporar-ho als documents oficials d’avaluació i deixar constància, si és el cas, de la convalidació corresponent. Una vegada acreditada la superació de la matèria cursada en els ensenyaments professionals, la convalidació de la matèria de Música s’ha de consignar com a «convalidada» (CO) en els documents d’avaluació. En cas de no superar la matèria cursada en els ensenyaments professionals, la matèria de Música s’ha de considerar no superada a tots els efectes.\n\n3. A més, l’alumnat que cursa l’ESO i, simultàniament, ensenyaments professionals de dansa en conservatoris professionals o centres d’ensenyament professional pot sol·licitar l’exempció de la matèria d’Educació Física, d’acord amb les condicions següents:\n\na) La matèria Educació Física objecte d’exempció no té qualificació ni computa a tots els efectes.\n\nb) El procediment per a sol·licitar esta exempció serà el que determine la conselleria competent en matèria d’educació.\n\nc) En este cas, l’exempció d’Educació Física implica l’exempció de cursar esta matèria.\n\nd) En els documents d’avaluació, la matèria Educació Física s’ha de consignar com a «pendent d’exempció» al llarg del curs (PTE). Per a l’anotació definitiva en els documents d’avaluació del terme «exempt/a» (ET), s’ha de presentar un certificat d’haver mantingut la matrícula al conservatori o centre professional de dansa fins a la data de l’avaluació final. Si no es manté la matrícula, la matèria esmentada s’ha de considerar no superada a tots els efectes.\n\ne) Si l’alumne o alumna es dona de baixa al conservatori o centre professional de dansa abans de la data de la sessió de l’avaluació final, podrà sol·licitar ser avaluat des d’aquest moment en la matèria d’Educació Física. Esta circumstància s’ha de reflectir per mitjà de la diligència corresponent en els diferents documents d’avaluació."
+                }
+              ]
+            },
+            {
+              "type": "articulo",
+              "id": "art-32",
+              "number": "32",
+              "title": "Article 32. Mesures per a l’alumnat que compagina els estudis d’educació secundària obligatòria i els ensenyaments professionals de música",
+              "content": "Amb la finalitat d’afavorir la simultaneïtat dels estudis d’ensenyaments professionals de música i d’educació secundària obligatòria, per a este alumnat poden adoptar-se diferents mesures relatives a la convalidació i exempció de matèries de l’ESO:\n\n1. L’alumnat que cursa l’ESO i, simultàniament, ensenyaments professionals de música en conservatoris professionals o centres d’ensenyament professional pot sol·licitar la convalidació de la matèria optativa, d’acord amb les condicions següents:\n\na) La matèria optativa convalidada no té qualificació ni computa a tots els efectes.\n\nb) El procediment per a sol·licitar esta convalidació serà el que determine la conselleria competent en matèria d’educació.\n\nc) En els documents d’avaluació s’ha de consignar la matèria com a «pendent de convalidació» (PTC) al llarg del curs. Perquè la convalidació es faça efectiva, cal que l’alumne o alumna presente un certificat d’haver mantingut la matrícula al conservatori o centre professional de música fins a la data de l’avaluació final. Una vegada acreditat el manteniment de la matrícula, la matèria s’ha de consignar en els documents d’avaluació com a «optativa convalidada música» (COM). Si no s’acredita la condició esmentada, la matèria optativa s’ha de considerar no superada a tots els efectes.\n\n2. L’alumnat que cursa l’ESO i cursa o ha cursat ensenyaments professionals de Música en conservatoris professionals o centres autoritzats també podrà sol·licitar la convalidació de la matèria Música de 1r, 2n i 3r curs de l’ESO, per la superació de la matèria Instrument o Veu de 1r curs dels ensenyaments professionals de Música, així com la convalidació de la matèria Música de 4t curs de l’ESO, per la superació de la matèria Instrument o Veu de 2n curs dels ensenyaments professionals de Música.\n\nA l’efecte de la convalidació de la matèria Música, cal considerar el següent:\n\na) La matèria Música objecte de convalidació no té qualificació ni computa a tots els efectes.\n\nb) El procediment per a sol·licitar esta convalidació serà el que determine la conselleria competent en matèria d’educació.\n\nc) En el supòsit que l’alumne o alumna curse simultàniament l’ESO i les matèries d’ensenyaments professionals de música susceptibles de convalidació, en els documents d’avaluació s’ha de consignar la matèria com a «pendent de convalidació» (PTC) al llarg del curs. Una vegada que s’haja avaluat la matèria amb la qual convalida, el conservatori o el centre professional de música ha de facilitar al centre de l’ESO un certificat acadèmic que acredite la superació, o no, d’aquesta matèria, per tal que el centre ordinari puga incorporar-ho als documents oficials d’avaluació i deixar constància, si és el cas, de la convalidació corresponent. Una vegada acreditada la superació de la matèria cursada en els ensenyaments professionals, la convalidació de la matèria de Música s’ha de consignar com a «convalidada» (CO) en els documents d’avaluació. En cas de no superar la matèria cursada en els ensenyaments professionals, la matèria de Música s’ha de considerar no superada a tots els efectes.",
+              "versions": [
+                {
+                  "versionId": "v2",
+                  "effectiveDate": "2024-06-27",
+                  "modifiedBy": {
+                    "lawId": "decreto-66-2024",
+                    "title": "Decret 66/2024, de 21 de juny, del Consell",
+                    "articleRef": "anexo-1"
+                  },
+                  "content": "Amb la finalitat d’afavorir la simultaneïtat dels estudis d’ensenyaments professionals de música i d’educació secundària obligatòria, per a este alumnat poden adoptar-se diferents mesures relatives a la convalidació i exempció de matèries de l’ESO:\n\n1. L’alumnat que cursa l’ESO i, simultàniament, ensenyaments professionals de música en conservatoris professionals o centres d’ensenyament professional pot sol·licitar la convalidació de la matèria optativa, d’acord amb les condicions següents:\n\na) La matèria optativa convalidada no té qualificació ni computa a tots els efectes.\n\nb) El procediment per a sol·licitar esta convalidació serà el que determine la conselleria competent en matèria d’educació.\n\nc) En els documents d’avaluació s’ha de consignar la matèria com a «pendent de convalidació» (PTC) al llarg del curs. Perquè la convalidació es faça efectiva, cal que l’alumne o alumna presente un certificat d’haver mantingut la matrícula al conservatori o centre professional de música fins a la data de l’avaluació final. Una vegada acreditat el manteniment de la matrícula, la matèria s’ha de consignar en els documents d’avaluació com a «optativa convalidada música» (COM). Si no s’acredita la condició esmentada, la matèria optativa s’ha de considerar no superada a tots els efectes.\n\n2. L’alumnat que cursa l’ESO i cursa o ha cursat ensenyaments professionals de Música en conservatoris professionals o centres autoritzats també podrà sol·licitar la convalidació de la matèria Música de 1r, 2n i 3r curs de l’ESO, per la superació de la matèria Instrument o Veu de 1r curs dels ensenyaments professionals de Música, així com la convalidació de la matèria Música de 4t curs de l’ESO, per la superació de la matèria Instrument o Veu de 2n curs dels ensenyaments professionals de Música.\n\nA l’efecte de la convalidació de la matèria Música, cal considerar el següent:\n\na) La matèria Música objecte de convalidació no té qualificació ni computa a tots els efectes.\n\nb) El procediment per a sol·licitar esta convalidació serà el que determine la conselleria competent en matèria d’educació.\n\nc) En el supòsit que l’alumne o alumna curse simultàniament l’ESO i les matèries d’ensenyaments professionals de música susceptibles de convalidació, en els documents d’avaluació s’ha de consignar la matèria com a «pendent de convalidació» (PTC) al llarg del curs. Una vegada que s’haja avaluat la matèria amb la qual convalida, el conservatori o el centre professional de música ha de facilitar al centre de l’ESO un certificat acadèmic que acredite la superació, o no, d’aquesta matèria, per tal que el centre ordinari puga incorporar-ho als documents oficials d’avaluació i deixar constància, si és el cas, de la convalidació corresponent. Una vegada acreditada la superació de la matèria cursada en els ensenyaments professionals, la convalidació de la matèria de Música s’ha de consignar com a «convalidada» (CO) en els documents d’avaluació. En cas de no superar la matèria cursada en els ensenyaments professionals, la matèria de Música s’ha de considerar no superada a tots els efectes."
+                },
+                {
+                  "versionId": "v1",
+                  "effectiveDate": "2022-08-12",
+                  "modifiedBy": null,
+                  "content": "Amb la finalitat d’afavorir la simultaneïtat dels estudis d’ensenyaments professionals de música i d’educació secundària obligatòria, per a este alumnat poden adoptar-se diferents mesures relatives a la convalidació i exempció de matèries de l’ESO:\n\n1. L’alumnat que cursa l’ESO i, simultàniament, ensenyaments professionals de música en conservatoris professionals o centres d’ensenyament professional pot sol·licitar la convalidació de la matèria optativa, d’acord amb les condicions següents:\n\na) La matèria optativa convalidada no té qualificació ni computa a tots els efectes.\n\nb) El procediment per a sol·licitar esta convalidació serà el que determine la conselleria competent en matèria d’educació.\n\nc) En els documents d’avaluació s’ha de consignar la matèria com a «pendent de convalidació» (PTC) al llarg del curs. Perquè la convalidació es faça efectiva, cal que l’alumne o alumna presente un certificat d’haver mantingut la matrícula al conservatori o centre professional de música fins a la data de l’avaluació final. Una vegada acreditat el manteniment de la matrícula, la matèria s’ha de consignar en els documents d’avaluació com a «optativa convalidada música» (COM). Si no s’acredita la condició esmentada, la matèria optativa s’ha de considerar no superada a tots els efectes.\n\n2. L’alumnat que cursa l’ESO i cursa o ha cursat ensenyaments professionals de música en conservatoris professionals o centres d’ensenyament professional també pot sol·licitar la convalidació de la matèria Música de 1r i 2n curs de l’ESO per la superació de la matèria Música de 1r curs dels ensenyaments professionals de música, així com la convalidació de la matèria Música de 4t curs de l’ESO per la superació de la matèria Música de 2n curs dels ensenyaments professionals de música.\n\nA l’efecte de la convalidació de la matèria Música, cal considerar el següent:\n\na) La matèria Música objecte de convalidació no té qualificació ni computa a tots els efectes.\n\nb) El procediment per a sol·licitar esta convalidació serà el que determine la conselleria competent en matèria d’educació.\n\nc) En el supòsit que l’alumne o alumna curse simultàniament l’ESO i les matèries d’ensenyaments professionals de música susceptibles de convalidació, en els documents d’avaluació s’ha de consignar la matèria com a «pendent de convalidació» (PTC) al llarg del curs. Una vegada que s’haja avaluat la matèria amb la qual convalida, el conservatori o el centre professional de música ha de facilitar al centre de l’ESO un certificat acadèmic que acredite la superació, o no, d’aquesta matèria, per tal que el centre ordinari puga incorporar-ho als documents oficials d’avaluació i deixar constància, si és el cas, de la convalidació corresponent. Una vegada acreditada la superació de la matèria cursada en els ensenyaments professionals, la convalidació de la matèria de Música s’ha de consignar com a «convalidada» (CO) en els documents d’avaluació. En cas de no superar la matèria cursada en els ensenyaments professionals, la matèria de Música s’ha de considerar no superada a tots els efectes."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "titulo",
+      "id": "titulo-4",
+      "title": "Títol IV. Avaluació, promoció, titulació i documents oficials d’avaluació",
+      "children": [
+        {
+          "type": "capitulo",
+          "id": "titulo-4-cap-1",
+          "title": "Capítol I. Avaluació, promoció i titulació",
+          "children": [
+            {
+              "type": "articulo",
+              "id": "arts-33-42",
+              "title": "Articles 33 a 42",
+              "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+            }
+          ]
+        },
+        {
+          "type": "capitulo",
+          "id": "titulo-4-cap-2",
+          "title": "Capítol II. Documents oficials d’avaluació",
+          "children": [
+            {
+              "type": "articulo",
+              "id": "arts-43-50",
+              "title": "Articles 43 a 50",
+              "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "disposicion_adicional",
+      "id": "da-1",
+      "title": "Disposició addicional primera. Ensenyaments de religió",
+      "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+    },
+    {
+      "type": "disposicion_adicional",
+      "id": "da-2",
+      "title": "Disposició addicional segona. Calendari escolar",
+      "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+    },
+    {
+      "type": "disposicion_adicional",
+      "id": "da-3",
+      "title": "Disposició addicional tercera. Adscripció de les matèries optatives a les especialitats docents",
+      "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+    },
+    {
+      "type": "disposicion_adicional",
+      "id": "da-4",
+      "title": "Disposició addicional quarta. Condicions de formació inicial per al professorat dels centres privats per a la impartició de la matèria Valencià: Llengua i Literatura",
+      "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+    },
+    {
+      "type": "disposicion_adicional",
+      "id": "da-5",
+      "title": "Disposició addicional cinquena. Condicions de formació inicial per al professorat dels centres privats per a exercir la funció d’orientació",
+      "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+    },
+    {
+      "type": "disposicion_adicional",
+      "id": "da-6",
+      "title": "Disposició addicional sisena. Educació de persones adultes",
+      "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+    },
+    {
+      "type": "disposicion_adicional",
+      "id": "da-7",
+      "title": "Disposició addicional setena. Premis extraordinaris",
+      "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+    },
+    {
+      "type": "disposicion_adicional",
+      "id": "da-8",
+      "title": "Disposició addicional huitena. Obligacions administratives dels centres de titularitat privada",
+      "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+    },
+    {
+      "type": "disposicion_transitoria",
+      "id": "dt-1",
+      "title": "Disposició transitòria primera. Currículum de segon i quart curs per al curs escolar 2022-2023",
+      "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+    },
+    {
+      "type": "disposicion_transitoria",
+      "id": "dt-2",
+      "title": "Disposició transitòria segona. Documents d’avaluació de segon i quart curs per al curs escolar 2022-2023",
+      "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+    },
+    {
+      "type": "disposicion_transitoria",
+      "id": "dt-3",
+      "title": "Disposició transitòria tercera. Normativa transitòria per a l’educació de persones adultes",
+      "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+    },
+    {
+      "type": "disposicion_transitoria",
+      "id": "dt-4",
+      "title": "Disposició transitòria quarta. Proves lliures per a l’obtenció del títol de graduat en educació secundària obligatòria",
+      "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+    },
+    {
+      "type": "disposicion_derogatoria",
+      "id": "dd-unica",
+      "title": "Disposició derogatòria única. Derogació normativa",
+      "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+    },
+    {
+      "type": "disposicion_final",
+      "id": "df-1",
+      "title": "Disposició final primera. Aplicació i desplegament",
+      "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+    },
+    {
+      "type": "disposicion_final",
+      "id": "df-2",
+      "title": "Disposició final segona. Calendari d’implantació",
+      "content": "El calendari d’aplicació del que estableix este decret és el següent:\n\nL’any acadèmic 2022-2023 s’ha d’implantar la nova ordenació dels ensenyaments d’educació secundària obligatòria en els cursos 1r i 3r.\n\nL’any acadèmic 2023-2024 s’ha d’implantar la nova ordenació dels ensenyaments d’educació secundària obligatòria en els cursos 2n i 4t."
+    },
+    {
+      "type": "disposicion_final",
+      "id": "df-3",
+      "title": "Disposició final tercera. Entrada en vigor",
+      "content": "Este decret entrarà en vigor l’endemà de la publicació en el Diari Oficial de la Generalitat Valenciana."
+    },
+    {
+      "type": "anexo",
+      "id": "anexo-1",
+      "title": "Annex I. Competències clau",
+      "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+    },
+    {
+      "type": "anexo",
+      "id": "anexo-2",
+      "title": "Annex II. Perfil d’eixida",
+      "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+    },
+    {
+      "type": "anexo",
+      "id": "anexo-3",
+      "title": "Annex III. Currículum de les matèries comunes i d’opció d’educació secundària obligatòria",
+      "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+    },
+    {
+      "type": "anexo",
+      "id": "anexo-4",
+      "title": "Annex IV. Currículum de les matèries optatives d’educació secundària obligatòria",
+      "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+    },
+    {
+      "type": "anexo",
+      "id": "anexo-5",
+      "title": "Annex V. Distribució de les hores lectives de l’educació secundària obligatòria",
+      "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+    },
+    {
+      "type": "anexo",
+      "id": "anexo-6",
+      "title": "Annex VI. Distribució de les hores lectives dels programes de diversificació curricular de 3r i 4t curs d’educació secundària obligatòria",
+      "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+    },
+    {
+      "type": "anexo",
+      "id": "anexo-7",
+      "title": "Annex VII. Informe d’idoneïtat per a la incorporació al Programa de diversificació curricular de 3r curs de l’educació secundària obligatòria",
+      "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+    },
+    {
+      "type": "anexo",
+      "id": "anexo-8",
+      "title": "Annex VIII. Informe d’idoneïtat per a la incorporació al Programa de diversificació curricular de 4t curs de l’educació secundària obligatòria",
+      "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+    },
+    {
+      "type": "anexo",
+      "id": "anexo-9",
+      "title": "Annex IX. Informe d’idoneïtat per a la incorporació al Programa d’aula compartida",
+      "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+    },
+    {
+      "type": "anexo",
+      "id": "anexo-10",
+      "title": "Annex X. educació secundària obligatòria: Informe d’avaluació",
+      "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+    },
+    {
+      "type": "anexo",
+      "id": "anexo-11",
+      "title": "Annex XI. Certificació oficial del nombre d’anys cursats i del nivell d’adquisició de competències de l’educació secundària obligatòria",
+      "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+    },
+    {
+      "type": "anexo",
+      "id": "anexo-12",
+      "title": "Annex XII. Actes d’avaluació",
+      "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+    },
+    {
+      "type": "anexo",
+      "id": "anexo-13",
+      "title": "Annex XIII. Expedient acadèmic en l’etapa d’educació secundària obligatòria",
+      "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+    },
+    {
+      "type": "anexo",
+      "id": "anexo-14",
+      "title": "Annex XIV. Historial acadèmic en l’etapa d’educació secundària obligatòria",
+      "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+    },
+    {
+      "type": "anexo",
+      "id": "anexo-15",
+      "title": "Annex XV. Consell orientador per a l’alumnat de 2n curs de l’etapa d’educació secundària obligatòria",
+      "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+    },
+    {
+      "type": "anexo",
+      "id": "anexo-16",
+      "title": "Annex XVI. Consell orientador per a l’alumnat de 4t curs o que conclou la seua escolarització en l’etapa d’educació secundària obligatòria",
+      "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+    },
+    {
+      "type": "anexo",
+      "id": "anexo-17",
+      "title": "Annex XVII. Consell orientador per a l’alumnat de 3r curs de l’etapa d’educació secundària obligatòria per a la incorporació a un cicle formatiu de grau bàsic",
+      "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+    },
+    {
+      "type": "anexo",
+      "id": "anexo-18",
+      "title": "Annex XVIII. Informe personal per trasllat en educació secundària obligatòria",
+      "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+    },
+    {
+      "type": "anexo",
+      "id": "anexo-19",
+      "title": "Annex XIX. Actes d’avaluació final del 1r i 2n nivell del cicle II de la formació de persones adultes",
+      "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+    },
+    {
+      "type": "anexo",
+      "id": "anexo-20",
+      "title": "Annex XX. Certificat d’obtenció del títol de graduat o graduada en educació secundària obligatòria de la formació de persones adultes",
+      "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+    }
+  ],
+  "legalAnalysis": {
+    "enactedPursuantTo": [
+      {
+        "lawId": "ley-organica-2-2006",
+        "title": "Llei Orgànica 2/2006, de 3 de maig, d'Educació",
+        "relationship": "desarrollo"
+      },
+      {
+        "title": "Reial Decret 217/2022, de 29 de març (ordenació i ensenyaments mínims de l'ESO)",
+        "relationship": "desarrollo"
+      }
+    ],
+    "priorAffectations": [],
+    "posteriorAffectations": [
+      {
+        "lawId": "decreto-66-2024",
+        "title": "Decret 66/2024, de 21 de juny, del Consell",
+        "type": "modifica",
+        "articles": [
+          "art-6",
+          "art-10",
+          "art-11",
+          "art-13",
+          "art-15",
+          "art-18",
+          "art-31",
+          "art-32",
+          "art-36",
+          "art-41",
+          "da-3",
+          "da-4",
+          "anexo-3",
+          "anexo-4",
+          "anexo-5",
+          "anexo-6",
+          "anexo-12",
+          "anexo-13",
+          "anexo-14"
+        ],
+        "date": "2024-06-27",
+        "description": "Nova redacció dels arts. 31.2 i 32.2: la Música de 1r, 2n i 3r de l'ESO es convalida amb Música de 1r dels EEPP de dansa o amb Instrument o Veu de 1r dels EEPP de música, i la de 4t amb el 2n curs d'eixes assignatures. Modifica a més els arts. 6.5, 10, 11, 13, 15, 18.3, 36 i 41.4, les DA 3a i 4a i diversos annexos. Aplicable des del curs 2024-2025 (DF 2a)"
+      },
+      {
+        "lawId": "resolucion-04-10-2023-sentencias-decreto-107-2022",
+        "title": "Resolució de 4 d'octubre de 2023 (publica les sentències fermes 312/2023, 336/2023 i 340/2023 del TSJCV)",
+        "type": "deroga_parcial",
+        "articles": [
+          "art-10",
+          "art-11",
+          "art-15"
+        ],
+        "date": "2023-10-16",
+        "description": "Anul·la els arts. 11.3, 10.3 i 15.7 (este, només per a 1r a 3r de l'ESO); efectes des de la seua publicació en el DOGV 9701 (16/10/2023). No afecta els articles transcrits. https://dogv.gva.es/datos/2023/10/16/pdf/2023_10151.pdf"
+      }
+    ],
+    "derogations": [],
+    "concordances": [
+      {
+        "lawId": "orden-19-2023",
+        "title": "Orde 19/2023 - Procediments derivats dels decrets d'ESO i Batxillerat",
+        "description": "Procediment de sol·licitud de les convalidacions i l'exempció (arts. 2 a 6)"
+      },
+      {
+        "lawId": "instrucciones-convalidaciones-eso-musica-2024",
+        "title": "Procediment de convalidacions ESO – ensenyaments professionals de música (2024)"
+      },
+      {
+        "lawId": "instrucciones-convalidaciones-eso-danza-2024",
+        "title": "Procediment de convalidacions i exempció ESO – ensenyaments professionals de dansa (2024)"
+      },
+      {
+        "lawId": "real-decreto-242-2009",
+        "title": "Reial Decret 242/2009 - Convalidacions EEPP Música i Dansa amb ESO i Batxillerat",
+        "description": "Base estatal: convalidació de la Música de l'ESO (annex I)"
+      }
+    ]
+  },
+  "promulgation": {
+    "place": "València",
+    "date": "2022-08-05",
+    "signatories": [
+      {
+        "name": "Ximo Puig i Ferrer",
+        "role": "President de la Generalitat"
+      },
+      {
+        "name": "Raquel Tamarit i Iranzo",
+        "role": "Conselleria d'Educació"
+      }
+    ]
+  },
+  "scope": "general",
+  "territory": "autonomico",
+  "temporality": {
+    "type": "permanente"
+  },
+  "docType": "normativa"
+}

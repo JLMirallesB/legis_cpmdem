@@ -1,0 +1,527 @@
+{
+  "id": "decreto-107-2022",
+  "slug": "decreto-107-2022",
+  "type": "decreto",
+  "number": "107/2022",
+  "date": "2022-08-05",
+  "publishedIn": {
+    "source": "DOGV",
+    "number": "9403",
+    "date": "2022-08-11",
+    "url": "https://dogv.gva.es/es/eli/es-vc/d/2022/08/05/107/dof/spa/html",
+    "pdfUrl": "https://dogv.gva.es/datos/2022/08/11/pdf/2022_7573.pdf"
+  },
+  "title": "Decreto 107/2022, de 5 de agosto, del Consell, por el que se establece la ordenación y el currículo de Educación Secundaria Obligatoria",
+  "titleShort": "Decreto 107/2022 - Ordenación y currículo de la ESO",
+  "category": "convalidaciones",
+  "vigpiracy": {
+    "status": "vigente_parcial",
+    "statusLabel": "Vigente con modificaciones (Decreto 66/2024) y con los arts. 10.3, 11.3 y 15.7 anulados por el TSJCV",
+    "effectiveDate": "2022-08-12",
+    "lastModifiedDate": "2024-06-27"
+  },
+  "structure": [
+    {
+      "type": "preambulo",
+      "id": "preambulo",
+      "title": "Preámbulo",
+      "content": "El artículo 53.1 de la Ley orgánica 5/1982, de 1 de julio, del Estatuto de Autonomía de la Comunitat Valenciana, dispone que es competencia exclusiva de la Generalitat la regulación y la administración de la enseñanza en toda su extensión, niveles y grados, modalidades y especialidades, sin perjuicio de lo que dispone el artículo 27 de la Constitución Española y las leyes orgánicas que, conforme al apartado 1 del artículo 81 de aquella, lo desarrollan, y de las facultades que atribuye al Estado el número 30 del apartado 1 del artículo 149 de la Constitución Española, para dictar normativa básica en materia de educación.\n\nLa Ley orgánica 3/2020, de 29 de diciembre, por la que se modifica la Ley orgánica 2/2006, de 3 de mayo, de educación, introduce en la redacción anterior de la norma cambios importantes, muchos de estos derivados, tal como indica la misma ley en su exposición de motivos, de la conveniencia de revisar las medidas previstas en el texto original con el fin de adaptar el sistema educativo a los retos y los desafíos del siglo XXI de acuerdo con los objetivos fijados por la Unión Europea y la UNESCO para la década 2020-2030.\n\n[No relativo a conservatorios profesionales de música y danza - ver PDF original]\n\nCorresponde al Consell, en uso de sus competencias, establecer los elementos del currículo que indica la normativa básica y concretar los aspectos de la ordenación académica que le corresponden de acuerdo con la distribución competencial recogida en el artículo 6.5 y en la disposición final sexta de la Ley orgánica 2/2006, de 3 de mayo.\n\nEn consecuencia, de acuerdo con lo dispuesto en el artículo 28c de la Ley 5/1983, de 30 de diciembre, del Consell, previo informe del Consell Escolar de la Comunitat Valenciana, conforme al Consell Jurídic Consultiu de la Comunitat Valenciana, a propuesta de la consellera de Educación, Cultura y Deporte, previa deliberación del Consell, en la reunión de 5 de agosto,"
+    },
+    {
+      "type": "titulo",
+      "id": "titulo-1",
+      "title": "Título I. Disposiciones comunes",
+      "children": [
+        {
+          "type": "capitulo",
+          "id": "titulo-1-cap-unico",
+          "title": "Capítulo único. Disposiciones preliminares",
+          "children": [
+            {
+              "type": "articulo",
+              "id": "arts-1-7",
+              "title": "Artículos 1 a 7",
+              "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "titulo",
+      "id": "titulo-2",
+      "title": "Título II. Ordenación de la etapa de Educación Secundaria Obligatoria",
+      "children": [
+        {
+          "type": "capitulo",
+          "id": "titulo-2-cap-1",
+          "title": "Capítulo I. Estructura del currículo",
+          "children": [
+            {
+              "type": "articulo",
+              "id": "arts-8-16",
+              "title": "Artículos 8 a 16",
+              "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+            }
+          ]
+        },
+        {
+          "type": "capitulo",
+          "id": "titulo-2-cap-2",
+          "title": "Capítulo II. Ciclos formativos de grado básico",
+          "children": [
+            {
+              "type": "articulo",
+              "id": "art-17",
+              "number": "17",
+              "title": "Artículo 17. Los ciclos formativos de grado básico",
+              "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+            }
+          ]
+        },
+        {
+          "type": "capitulo",
+          "id": "titulo-2-cap-3",
+          "title": "Capítulo III. Programas pedagógicos",
+          "children": [
+            {
+              "type": "articulo",
+              "id": "arts-18-19",
+              "title": "Artículos 18 y 19",
+              "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "titulo",
+      "id": "titulo-3",
+      "title": "Título III. Gestión Pedagógica",
+      "children": [
+        {
+          "type": "capitulo",
+          "id": "titulo-3-cap-1",
+          "title": "Capítulo I. Autonomía y gestión pedagógica de los centros",
+          "children": [
+            {
+              "type": "articulo",
+              "id": "arts-20-28",
+              "title": "Artículos 20 a 28",
+              "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+            }
+          ]
+        },
+        {
+          "type": "capitulo",
+          "id": "titulo-3-cap-2",
+          "title": "Capítulo II. Respuesta educativa para la inclusión",
+          "children": [
+            {
+              "type": "articulo",
+              "id": "arts-29-30",
+              "title": "Artículos 29 y 30",
+              "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+            },
+            {
+              "type": "articulo",
+              "id": "art-31",
+              "number": "31",
+              "title": "Artículo 31. Medidas para el alumnado que compagina los estudios de educación secundaria obligatoria y las enseñanzas profesionales de danza",
+              "content": "Con el fin de favorecer la simultaneidad de los estudios de enseñanzas profesionales de danza y de educación secundaria obligatoria, para este alumnado pueden adoptarse diferentes medidas relativas a la convalidación y la exención de materias de la ESO:\n\n1. El alumnado que cursa la ESO y, simultáneamente, enseñanzas profesionales de danza en conservatorios profesionales o centros de enseñanza profesional puede solicitar la convalidación de la materia optativa, de acuerdo con las siguientes condiciones:\n\na) La materia optativa convalidada no tiene calificación ni computa a todos los efectos.\n\nb) El procedimiento para solicitar esta convalidación será el que determine la conselleria competente en materia de educación.\n\nc) En los documentos de evaluación se debe consignar la materia como «pendiente de convalidación» (PTC) a lo largo del curso. Para que la convalidación se haga efectiva, es necesario que el alumno o alumna presente un certificado de haber mantenido la matrícula en el conservatorio o el centro profesional de danza hasta la fecha de la evaluación final. Una vez acreditado el mantenimiento de la matrícula, la materia se tiene que consignar en los documentos de evaluación como «Optativa convalidada danza» (COD). Si no se acredita la condición mencionada, la materia optativa se tiene que considerar no superada a todos los efectos.\n\n2. El alumnado que cursa la ESO y cursa o ha cursado enseñanzas profesionales de danza en conservatorios profesionales o centros autorizados también podrá solicitar la convalidación de la materia Música de 1.er, 2.º y 3.er curso de la ESO, por la superación de la materia Música de 1.er curso de las enseñanzas profesionales de danza, así como la convalidación de la materia Música de 4.º curso de la ESO, por la superación de la materia Música de 2.º curso de las enseñanzas profesionales de danza.\n\nA los efectos de la convalidación de la materia Música, hay que considerar lo siguiente:\n\na) La materia Música objeto de convalidación no tiene calificación ni computa a todos los efectos.\n\nb) El procedimiento para solicitar esta convalidación será el que determine la conselleria competente en materia de educación.\n\nc) En el supuesto de que el alumno o alumna curse simultáneamente la ESO y las materias de enseñanzas profesionales de danza susceptibles de convalidación, en los documentos de evaluación se tiene que consignar la materia como «pendiente de convalidación» (PTC) a lo largo del curso. Una vez se haya evaluado la materia con que convalida, el conservatorio o el centro profesional de danza tiene que facilitar al centro de la ESO un certificado académico que acredite la superación, o no, de esta materia, para que el centro ordinario pueda incorporarlo a los documentos oficiales de evaluación y dejar constancia, si procede, de la correspondiente convalidación. Una vez acreditada la superación de la materia cursada en las enseñanzas profesionales, la convalidación de la materia de Música se tiene que consignar como «convalidada» (CO) en los documentos de evaluación. En caso de no superar la materia cursada en las enseñanzas profesionales, la materia de Música se debe considerar no superada a todos los efectos.\n\n3. Además, el alumnado que cursa la ESO y, simultáneamente, enseñanzas profesionales de danza en conservatorios profesionales o centros de enseñanza profesional puede solicitar la exención de la materia de Educación Física, de acuerdo con las siguientes condiciones:\n\na) La materia Educación Física objeto de exención no tiene calificación ni computa a todos los efectos.\n\nb) El procedimiento para solicitar esta exención será el que determine la conselleria competente en materia de educación.\n\nc) En este caso, la exención de Educación Física implica la exención de cursar esta materia.\n\nd) En los documentos de evaluación, la materia Educación Física se tiene que consignar como «pendiente de exención» a lo largo del curso (PTE). Para la anotación definitiva en los documentos de evaluación del término «exento/a» (ET), se tiene que presentar un certificado de haber mantenido la matrícula en el conservatorio o centro profesional de danza hasta a la fecha de la evaluación final. Si no se mantiene la matrícula, la materia mencionada se tiene que considerar no superada a todos los efectos.\n\ne) Si el alumno o alumna se da de baja en el conservatorio o centro profesional de danza antes de la fecha de la sesión de la evaluación final, podrá solicitar ser evaluado desde ese momento en la materia de Educación Física. Esta circunstancia se tendrá que reflejar por medio de la diligencia correspondiente en los diferentes documentos de evaluación.",
+              "versions": [
+                {
+                  "versionId": "v2",
+                  "effectiveDate": "2024-06-27",
+                  "modifiedBy": {
+                    "lawId": "decreto-66-2024",
+                    "title": "Decreto 66/2024, de 21 de junio, del Consell",
+                    "articleRef": "anexo-1"
+                  },
+                  "content": "Con el fin de favorecer la simultaneidad de los estudios de enseñanzas profesionales de danza y de educación secundaria obligatoria, para este alumnado pueden adoptarse diferentes medidas relativas a la convalidación y la exención de materias de la ESO:\n\n1. El alumnado que cursa la ESO y, simultáneamente, enseñanzas profesionales de danza en conservatorios profesionales o centros de enseñanza profesional puede solicitar la convalidación de la materia optativa, de acuerdo con las siguientes condiciones:\n\na) La materia optativa convalidada no tiene calificación ni computa a todos los efectos.\n\nb) El procedimiento para solicitar esta convalidación será el que determine la conselleria competente en materia de educación.\n\nc) En los documentos de evaluación se debe consignar la materia como «pendiente de convalidación» (PTC) a lo largo del curso. Para que la convalidación se haga efectiva, es necesario que el alumno o alumna presente un certificado de haber mantenido la matrícula en el conservatorio o el centro profesional de danza hasta la fecha de la evaluación final. Una vez acreditado el mantenimiento de la matrícula, la materia se tiene que consignar en los documentos de evaluación como «Optativa convalidada danza» (COD). Si no se acredita la condición mencionada, la materia optativa se tiene que considerar no superada a todos los efectos.\n\n2. El alumnado que cursa la ESO y cursa o ha cursado enseñanzas profesionales de danza en conservatorios profesionales o centros autorizados también podrá solicitar la convalidación de la materia Música de 1.er, 2.º y 3.er curso de la ESO, por la superación de la materia Música de 1.er curso de las enseñanzas profesionales de danza, así como la convalidación de la materia Música de 4.º curso de la ESO, por la superación de la materia Música de 2.º curso de las enseñanzas profesionales de danza.\n\nA los efectos de la convalidación de la materia Música, hay que considerar lo siguiente:\n\na) La materia Música objeto de convalidación no tiene calificación ni computa a todos los efectos.\n\nb) El procedimiento para solicitar esta convalidación será el que determine la conselleria competente en materia de educación.\n\nc) En el supuesto de que el alumno o alumna curse simultáneamente la ESO y las materias de enseñanzas profesionales de danza susceptibles de convalidación, en los documentos de evaluación se tiene que consignar la materia como «pendiente de convalidación» (PTC) a lo largo del curso. Una vez se haya evaluado la materia con que convalida, el conservatorio o el centro profesional de danza tiene que facilitar al centro de la ESO un certificado académico que acredite la superación, o no, de esta materia, para que el centro ordinario pueda incorporarlo a los documentos oficiales de evaluación y dejar constancia, si procede, de la correspondiente convalidación. Una vez acreditada la superación de la materia cursada en las enseñanzas profesionales, la convalidación de la materia de Música se tiene que consignar como «convalidada» (CO) en los documentos de evaluación. En caso de no superar la materia cursada en las enseñanzas profesionales, la materia de Música se debe considerar no superada a todos los efectos.\n\n3. Además, el alumnado que cursa la ESO y, simultáneamente, enseñanzas profesionales de danza en conservatorios profesionales o centros de enseñanza profesional puede solicitar la exención de la materia de Educación Física, de acuerdo con las siguientes condiciones:\n\na) La materia Educación Física objeto de exención no tiene calificación ni computa a todos los efectos.\n\nb) El procedimiento para solicitar esta exención será el que determine la conselleria competente en materia de educación.\n\nc) En este caso, la exención de Educación Física implica la exención de cursar esta materia.\n\nd) En los documentos de evaluación, la materia Educación Física se tiene que consignar como «pendiente de exención» a lo largo del curso (PTE). Para la anotación definitiva en los documentos de evaluación del término «exento/a» (ET), se tiene que presentar un certificado de haber mantenido la matrícula en el conservatorio o centro profesional de danza hasta a la fecha de la evaluación final. Si no se mantiene la matrícula, la materia mencionada se tiene que considerar no superada a todos los efectos.\n\ne) Si el alumno o alumna se da de baja en el conservatorio o centro profesional de danza antes de la fecha de la sesión de la evaluación final, podrá solicitar ser evaluado desde ese momento en la materia de Educación Física. Esta circunstancia se tendrá que reflejar por medio de la diligencia correspondiente en los diferentes documentos de evaluación."
+                },
+                {
+                  "versionId": "v1",
+                  "effectiveDate": "2022-08-12",
+                  "modifiedBy": null,
+                  "content": "Con el fin de favorecer la simultaneidad de los estudios de enseñanzas profesionales de danza y de educación secundaria obligatoria, para este alumnado pueden adoptarse diferentes medidas relativas a la convalidación y la exención de materias de la ESO:\n\n1. El alumnado que cursa la ESO y, simultáneamente, enseñanzas profesionales de danza en conservatorios profesionales o centros de enseñanza profesional puede solicitar la convalidación de la materia optativa, de acuerdo con las siguientes condiciones:\n\na) La materia optativa convalidada no tiene calificación ni computa a todos los efectos.\n\nb) El procedimiento para solicitar esta convalidación será el que determine la conselleria competente en materia de educación.\n\nc) En los documentos de evaluación se debe consignar la materia como «pendiente de convalidación» (PTC) a lo largo del curso. Para que la convalidación se haga efectiva, es necesario que el alumno o alumna presente un certificado de haber mantenido la matrícula en el conservatorio o el centro profesional de danza hasta la fecha de la evaluación final. Una vez acreditado el mantenimiento de la matrícula, la materia se tiene que consignar en los documentos de evaluación como «Optativa convalidada danza» (COD). Si no se acredita la condición mencionada, la materia optativa se tiene que considerar no superada a todos los efectos.\n\n2. El alumnado que cursa la ESO y cursa o ha cursado, enseñanzas profesionales de danza en conservatorios profesionales o centros de enseñanza profesional también puede solicitar la convalidación de la materia Música de 1.er y 2.º curso de la ESO, por la superación de la materia Música de 1.er curso de las enseñanzas profesionales de danza, así como la convalidación de la materia Música de 4.º curso de la ESO, por la superación de la materia Música de 2.º curso de las enseñanzas profesionales de danza.\n\nA los efectos de la convalidación de la materia Música, hay que considerar lo siguiente:\n\na) La materia Música objeto de convalidación no tiene calificación ni computa a todos los efectos.\n\nb) El procedimiento para solicitar esta convalidación será el que determine la conselleria competente en materia de educación.\n\nc) En el supuesto de que el alumno o alumna curse simultáneamente la ESO y las materias de enseñanzas profesionales de danza susceptibles de convalidación, en los documentos de evaluación se tiene que consignar la materia como «pendiente de convalidación» (PTC) a lo largo del curso. Una vez se haya evaluado la materia con que convalida, el conservatorio o el centro profesional de danza tiene que facilitar al centro de la ESO un certificado académico que acredite la superación, o no, de esta materia, para que el centro ordinario pueda incorporarlo a los documentos oficiales de evaluación y dejar constancia, si procede, de la correspondiente convalidación. Una vez acreditada la superación de la materia cursada en las enseñanzas profesionales, la convalidación de la materia de Música se tiene que consignar como «convalidada» (CO) en los documentos de evaluación. En caso de no superar la materia cursada en las enseñanzas profesionales, la materia de Música se debe considerar no superada a todos los efectos.\n\n3. Además, el alumnado que cursa la ESO y, simultáneamente, enseñanzas profesionales de danza en conservatorios profesionales o centros de enseñanza profesional puede solicitar la exención de la materia de Educación Física, de acuerdo con las siguientes condiciones:\n\na) La materia Educación Física objeto de exención no tiene calificación ni computa a todos los efectos.\n\nb) El procedimiento para solicitar esta exención será el que determine la conselleria competente en materia de educación.\n\nc) En este caso, la exención de Educación Física implica la exención de cursar esta materia.\n\nd) En los documentos de evaluación, la materia Educación Física se tiene que consignar como «pendiente de exención» a lo largo del curso (PTE). Para la anotación definitiva en los documentos de evaluación del término «exento/a» (ET), se tiene que presentar un certificado de haber mantenido la matrícula en el conservatorio o centro profesional de danza hasta a la fecha de la evaluación final. Si no se mantiene la matrícula, la materia mencionada se tiene que considerar no superada a todos los efectos.\n\ne) Si el alumno o alumna se da de baja en el conservatorio o centro profesional de danza antes de la fecha de la sesión de la evaluación final, podrá solicitar ser evaluado desde ese momento en la materia de Educación Física. Esta circunstancia se tendrá que reflejar por medio de la diligencia correspondiente en los diferentes documentos de evaluación."
+                }
+              ]
+            },
+            {
+              "type": "articulo",
+              "id": "art-32",
+              "number": "32",
+              "title": "Artículo 32. Medidas para el alumnado que compagina los estudios de educación secundaria obligatoria y las enseñanzas profesionales de música",
+              "content": "Con el fin de favorecer la simultaneidad de los estudios de enseñanzas profesionales de música y de educación secundaria obligatoria, para este alumnado pueden adoptarse diferentes medidas relativas a la convalidación y la exención de materias de la ESO:\n\n1. El alumnado que cursa la ESO y, simultáneamente, enseñanzas profesionales de música en conservatorios profesionales o centros de enseñanza profesional puede solicitar la convalidación de la materia optativa, de acuerdo con las siguientes condiciones:\n\na) La materia optativa convalidada no tiene calificación ni computa a todos los efectos.\n\nb) El procedimiento para solicitar esta convalidación será el que determine la conselleria competente en materia de educación.\n\nc) En los documentos de evaluación se debe consignar la materia como «pendiente de convalidación» (PTC) a lo largo del curso. Para que la convalidación se haga efectiva, es necesario que el alumno o alumna presente un certificado de haber mantenido la matrícula en el conservatorio o centro profesional de música hasta la fecha de la evaluación final. Una vez acreditado el mantenimiento de la matrícula, la materia se tiene que consignar en los documentos de evaluación como «Optativa convalidada música» (COM). Si no se acredita la condición mencionada, la materia optativa se tiene que considerar no superada a todos los efectos.\n\n2. El alumnado que cursa la ESO y cursa o ha cursado enseñanzas profesionales de música en conservatorios profesionales o centros autorizados también podrá solicitar la convalidación de la materia Música de 1.er, 2.º y 3.er curso de la ESO, por la superación de la materia Instrumento o Voz de 1.er curso de las enseñanzas profesionales de música, así como la convalidación de la materia Música de 4.º curso de la ESO, por la superación de la materia Instrumento o Voz de 2.º curso de las enseñanzas profesionales de música.\n\nA los efectos de la convalidación de la materia Música, hay que considerar lo siguiente:\n\na) La materia Música objeto de convalidación no tiene calificación ni computa a todos los efectos.\n\nb) El procedimiento para solicitar esta convalidación será el que determine la conselleria competente en materia de educación.\n\nc) En el supuesto de que el alumno o alumna curse simultáneamente la ESO y las materias de enseñanzas profesionales de música susceptibles de convalidación, en los documentos de evaluación se tiene que consignar la materia como «pendiente de convalidación» (PTC) a lo largo del curso. Una vez que se haya evaluado la materia con la que convalida, el conservatorio o el centro profesional de música tiene que facilitar al centro de la ESO un certificado académico que acredite la superación, o no, de esta materia, para que el centro ordinario pueda incorporarlo a los documentos oficiales de evaluación y dejar constancia, si procede, de la correspondiente convalidación. Una vez acreditada la superación de la materia cursada en las enseñanzas profesionales, la convalidación de la materia de Música se tiene que consignar como «convalidada» (CO) en los documentos de evaluación. En caso de no superar la materia cursada en las enseñanzas profesionales, la materia de Música se ha considerar no superada a todos los efectos.",
+              "versions": [
+                {
+                  "versionId": "v2",
+                  "effectiveDate": "2024-06-27",
+                  "modifiedBy": {
+                    "lawId": "decreto-66-2024",
+                    "title": "Decreto 66/2024, de 21 de junio, del Consell",
+                    "articleRef": "anexo-1"
+                  },
+                  "content": "Con el fin de favorecer la simultaneidad de los estudios de enseñanzas profesionales de música y de educación secundaria obligatoria, para este alumnado pueden adoptarse diferentes medidas relativas a la convalidación y la exención de materias de la ESO:\n\n1. El alumnado que cursa la ESO y, simultáneamente, enseñanzas profesionales de música en conservatorios profesionales o centros de enseñanza profesional puede solicitar la convalidación de la materia optativa, de acuerdo con las siguientes condiciones:\n\na) La materia optativa convalidada no tiene calificación ni computa a todos los efectos.\n\nb) El procedimiento para solicitar esta convalidación será el que determine la conselleria competente en materia de educación.\n\nc) En los documentos de evaluación se debe consignar la materia como «pendiente de convalidación» (PTC) a lo largo del curso. Para que la convalidación se haga efectiva, es necesario que el alumno o alumna presente un certificado de haber mantenido la matrícula en el conservatorio o centro profesional de música hasta la fecha de la evaluación final. Una vez acreditado el mantenimiento de la matrícula, la materia se tiene que consignar en los documentos de evaluación como «Optativa convalidada música» (COM). Si no se acredita la condición mencionada, la materia optativa se tiene que considerar no superada a todos los efectos.\n\n2. El alumnado que cursa la ESO y cursa o ha cursado enseñanzas profesionales de música en conservatorios profesionales o centros autorizados también podrá solicitar la convalidación de la materia Música de 1.er, 2.º y 3.er curso de la ESO, por la superación de la materia Instrumento o Voz de 1.er curso de las enseñanzas profesionales de música, así como la convalidación de la materia Música de 4.º curso de la ESO, por la superación de la materia Instrumento o Voz de 2.º curso de las enseñanzas profesionales de música.\n\nA los efectos de la convalidación de la materia Música, hay que considerar lo siguiente:\n\na) La materia Música objeto de convalidación no tiene calificación ni computa a todos los efectos.\n\nb) El procedimiento para solicitar esta convalidación será el que determine la conselleria competente en materia de educación.\n\nc) En el supuesto de que el alumno o alumna curse simultáneamente la ESO y las materias de enseñanzas profesionales de música susceptibles de convalidación, en los documentos de evaluación se tiene que consignar la materia como «pendiente de convalidación» (PTC) a lo largo del curso. Una vez que se haya evaluado la materia con la que convalida, el conservatorio o el centro profesional de música tiene que facilitar al centro de la ESO un certificado académico que acredite la superación, o no, de esta materia, para que el centro ordinario pueda incorporarlo a los documentos oficiales de evaluación y dejar constancia, si procede, de la correspondiente convalidación. Una vez acreditada la superación de la materia cursada en las enseñanzas profesionales, la convalidación de la materia de Música se tiene que consignar como «convalidada» (CO) en los documentos de evaluación. En caso de no superar la materia cursada en las enseñanzas profesionales, la materia de Música se ha considerar no superada a todos los efectos."
+                },
+                {
+                  "versionId": "v1",
+                  "effectiveDate": "2022-08-12",
+                  "modifiedBy": null,
+                  "content": "Con el fin de favorecer la simultaneidad de los estudios de enseñanzas profesionales de música y de educación secundaria obligatoria, para este alumnado pueden adoptarse diferentes medidas relativas a la convalidación y la exención de materias de la ESO:\n\n1. El alumnado que cursa la ESO y, simultáneamente, enseñanzas profesionales de música en conservatorios profesionales o centros de enseñanza profesional puede solicitar la convalidación de la materia optativa, de acuerdo con las siguientes condiciones:\n\na) La materia optativa convalidada no tiene calificación ni computa a todos los efectos.\n\nb) El procedimiento para solicitar esta convalidación será el que determine la conselleria competente en materia de educación.\n\nc) En los documentos de evaluación se debe consignar la materia como «pendiente de convalidación» (PTC) a lo largo del curso. Para que la convalidación se haga efectiva, es necesario que el alumno o alumna presente un certificado de haber mantenido la matrícula en el conservatorio o centro profesional de música hasta la fecha de la evaluación final. Una vez acreditado el mantenimiento de la matrícula, la materia se tiene que consignar en los documentos de evaluación como «Optativa convalidada música» (COM). Si no se acredita la condición mencionada, la materia optativa se tiene que considerar no superada a todos los efectos.\n\n2. El alumnado que cursa la ESO y cursa o ha cursado enseñanzas profesionales de música en conservatorios profesionales o centros de enseñanza profesional también puede solicitar la convalidación de la materia Música de 1.er y 2.º curso de la ESO, por la superación la materia Música de 1.er curso de las enseñanzas profesionales de música, así como la convalidación de la materia Música de 4.º curso de la ESO, por la superación de la materia Música de 2.º curso de las enseñanzas profesionales de música.\n\nA los efectos de la convalidación de la materia Música, hay que considerar lo siguiente:\n\na) La materia Música objeto de convalidación no tiene calificación ni computa a todos los efectos.\n\nb) El procedimiento para solicitar esta convalidación será el que determine la conselleria competente en materia de educación.\n\nc) En el supuesto de que el alumno o alumna curse simultáneamente la ESO y las materias de enseñanzas profesionales de música susceptibles de convalidación, en los documentos de evaluación se tiene que consignar la materia como «pendiente de convalidación» (PTC) a lo largo del curso. Una vez que se haya evaluado la materia con la que convalida, el conservatorio o el centro profesional de música tiene que facilitar al centro de la ESO un certificado académico que acredite la superación, o no, de esta materia, para que el centro ordinario pueda incorporarlo a los documentos oficiales de evaluación y dejar constancia, si procede, de la correspondiente convalidación. Una vez acreditada la superación de la materia cursada en las enseñanzas profesionales, la convalidación de la materia de Música se tiene que consignar como «convalidada» (CO) en los documentos de evaluación. En caso de no superar la materia cursada en las enseñanzas profesionales, la materia de Música se ha considerar no superada a todos los efectos."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "titulo",
+      "id": "titulo-4",
+      "title": "Título IV. Evaluación, promoción, titulación y documentos oficiales de evaluación",
+      "children": [
+        {
+          "type": "capitulo",
+          "id": "titulo-4-cap-1",
+          "title": "Capítulo I. Evaluación, promoción y titulación",
+          "children": [
+            {
+              "type": "articulo",
+              "id": "arts-33-42",
+              "title": "Artículos 33 a 42",
+              "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+            }
+          ]
+        },
+        {
+          "type": "capitulo",
+          "id": "titulo-4-cap-2",
+          "title": "Capítulo II. Documentos oficiales de evaluación",
+          "children": [
+            {
+              "type": "articulo",
+              "id": "arts-43-50",
+              "title": "Artículos 43 a 50",
+              "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "disposicion_adicional",
+      "id": "da-1",
+      "title": "Disposición adicional primera. Enseñanzas de religión",
+      "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+    },
+    {
+      "type": "disposicion_adicional",
+      "id": "da-2",
+      "title": "Disposición adicional segunda. Calendario escolar",
+      "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+    },
+    {
+      "type": "disposicion_adicional",
+      "id": "da-3",
+      "title": "Disposición adicional tercera. Adscripción de las materias optativas a las especialidades docentes",
+      "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+    },
+    {
+      "type": "disposicion_adicional",
+      "id": "da-4",
+      "title": "Disposición adicional cuarta. Condiciones de formación inicial para el profesorado de los centros privados para la impartición de la materia Valenciano: Lengua y Literatura",
+      "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+    },
+    {
+      "type": "disposicion_adicional",
+      "id": "da-5",
+      "title": "Disposición adicional quinta. Condiciones de formación inicial para el profesorado de los centros privados para ejercer la función de orientación",
+      "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+    },
+    {
+      "type": "disposicion_adicional",
+      "id": "da-6",
+      "title": "Disposición adicional sexta. Educación de personas adultas",
+      "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+    },
+    {
+      "type": "disposicion_adicional",
+      "id": "da-7",
+      "title": "Disposición adicional séptima. Premios extraordinarios",
+      "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+    },
+    {
+      "type": "disposicion_adicional",
+      "id": "da-8",
+      "title": "Disposición adicional octava. Obligaciones administrativas de los centros de titularidad privada",
+      "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+    },
+    {
+      "type": "disposicion_transitoria",
+      "id": "dt-1",
+      "title": "Disposición transitoria primera. Currículo de segundo y cuarto curso para el curso escolar 2022-2023",
+      "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+    },
+    {
+      "type": "disposicion_transitoria",
+      "id": "dt-2",
+      "title": "Disposición transitoria segunda. Documentos de evaluación de segundo y cuarto curso para el curso escolar 2022-2023",
+      "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+    },
+    {
+      "type": "disposicion_transitoria",
+      "id": "dt-3",
+      "title": "Disposición transitoria tercera. Normativa transitoria para la educación de personas adultas",
+      "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+    },
+    {
+      "type": "disposicion_transitoria",
+      "id": "dt-4",
+      "title": "Disposición transitoria cuarta. Pruebas libres para la obtención del título de graduado en educación secundaria obligatoria",
+      "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+    },
+    {
+      "type": "disposicion_derogatoria",
+      "id": "dd-unica",
+      "title": "Disposición derogatoria única. Derogación normativa",
+      "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+    },
+    {
+      "type": "disposicion_final",
+      "id": "df-1",
+      "title": "Disposición final primera. Aplicación y desarrollo",
+      "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+    },
+    {
+      "type": "disposicion_final",
+      "id": "df-2",
+      "title": "Disposición final segunda. Calendario de implantación",
+      "content": "El calendario de aplicación de lo que establece este decreto es el siguiente:\n\nEl año académico 2022-2023 se debe implantar la nueva ordenación de las enseñanzas de educación secundaria obligatoria en los cursos 1.º y 3.º\n\nEl año académico 2023-2024 se debe implantar la nueva ordenación de las enseñanzas de educación secundaria obligatoria en los cursos 2.º y 4.º"
+    },
+    {
+      "type": "disposicion_final",
+      "id": "df-3",
+      "title": "Disposición final tercera. Entrada en vigor",
+      "content": "Este decreto entrará en vigor el día siguiente de su publicación en el Diari Oficial de la Generalitat Valenciana."
+    },
+    {
+      "type": "anexo",
+      "id": "anexo-1",
+      "title": "Anexo I. Competencias clave",
+      "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+    },
+    {
+      "type": "anexo",
+      "id": "anexo-2",
+      "title": "Anexo II. Perfil de salida",
+      "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+    },
+    {
+      "type": "anexo",
+      "id": "anexo-3",
+      "title": "Anexo III. Currículo de las materias comunes y de opción de educación secundaria obligatoria",
+      "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+    },
+    {
+      "type": "anexo",
+      "id": "anexo-4",
+      "title": "Anexo IV. Currículo de las materias optativas de educación secundaria obligatoria",
+      "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+    },
+    {
+      "type": "anexo",
+      "id": "anexo-5",
+      "title": "Anexo V. Distribución de las horas lectivas de la educación secundaria obligatoria",
+      "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+    },
+    {
+      "type": "anexo",
+      "id": "anexo-6",
+      "title": "Anexo VI. Distribución de las horas lectivas de los programas de diversificación curricular de 3.er y 4.º curso de la educación secundaria obligatoria",
+      "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+    },
+    {
+      "type": "anexo",
+      "id": "anexo-7",
+      "title": "Anexo VII. Informe de idoneidad para la incorporación en el programa de diversificación curricular de 3.er curso de la educación secundaria obligatoria",
+      "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+    },
+    {
+      "type": "anexo",
+      "id": "anexo-8",
+      "title": "Anexo VIII. Informe de idoneidad para la incorporación en el programa de diversificación curricular de 4.º curso de la educación secundaria obligatoria",
+      "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+    },
+    {
+      "type": "anexo",
+      "id": "anexo-9",
+      "title": "Anexo IX. Informe de idoneidad para la incorporación en el programa de aula compartida",
+      "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+    },
+    {
+      "type": "anexo",
+      "id": "anexo-10",
+      "title": "Anexo X. educación secundaria obligatoria: Informe de evaluación",
+      "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+    },
+    {
+      "type": "anexo",
+      "id": "anexo-11",
+      "title": "Anexo XI. Certificación oficial del número de años cursados y del nivel de adquisición de competencias de la educación secundaria obligatoria",
+      "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+    },
+    {
+      "type": "anexo",
+      "id": "anexo-12",
+      "title": "Anexo XII. Actas de evaluación",
+      "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+    },
+    {
+      "type": "anexo",
+      "id": "anexo-13",
+      "title": "Anexo XIII. Expediente académico en la etapa de educación secundaria obligatoria",
+      "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+    },
+    {
+      "type": "anexo",
+      "id": "anexo-14",
+      "title": "Anexo XIV. Historial académico en la etapa de educación secundaria obligatoria",
+      "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+    },
+    {
+      "type": "anexo",
+      "id": "anexo-15",
+      "title": "Anexo XV. Consejo orientador para el alumnado de 2.º curso de la etapa de educación secundaria obligatoria",
+      "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+    },
+    {
+      "type": "anexo",
+      "id": "anexo-16",
+      "title": "Anexo XVI. Consejo orientador para el alumnado de 4.º curso o que concluye su escolarización en la etapa de educación secundaria obligatoria",
+      "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+    },
+    {
+      "type": "anexo",
+      "id": "anexo-17",
+      "title": "Anexo XVII. Consejo orientador para el alumnado de 3.er curso de la etapa de educación secundaria obligatoria para la incorporación a un ciclo formativo de grado básico",
+      "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+    },
+    {
+      "type": "anexo",
+      "id": "anexo-18",
+      "title": "Anexo XVIII. Informe personal por traslado en educación secundaria obligatoria",
+      "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+    },
+    {
+      "type": "anexo",
+      "id": "anexo-19",
+      "title": "Anexo XIX. Actas de evaluación final del 1.er y 2.º nivel del ciclo II de la formación de persones adultas",
+      "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+    },
+    {
+      "type": "anexo",
+      "id": "anexo-20",
+      "title": "Anexo XX. Certificado de obtención del título de graduado o graduada en educación secundaria obligatoria de la formación de persones adultas",
+      "content": "[No relativo a conservatorios profesionales de música y danza - ver PDF original]"
+    }
+  ],
+  "legalAnalysis": {
+    "enactedPursuantTo": [
+      {
+        "lawId": "ley-organica-2-2006",
+        "title": "Ley Orgánica 2/2006, de 3 de mayo, de Educación",
+        "relationship": "desarrollo"
+      },
+      {
+        "title": "Real Decreto 217/2022, de 29 de marzo (ordenación y enseñanzas mínimas de la ESO)",
+        "relationship": "desarrollo"
+      }
+    ],
+    "priorAffectations": [],
+    "posteriorAffectations": [
+      {
+        "lawId": "decreto-66-2024",
+        "title": "Decreto 66/2024, de 21 de junio, del Consell",
+        "type": "modifica",
+        "articles": [
+          "art-6",
+          "art-10",
+          "art-11",
+          "art-13",
+          "art-15",
+          "art-18",
+          "art-31",
+          "art-32",
+          "art-36",
+          "art-41",
+          "da-3",
+          "da-4",
+          "anexo-3",
+          "anexo-4",
+          "anexo-5",
+          "anexo-6",
+          "anexo-12",
+          "anexo-13",
+          "anexo-14"
+        ],
+        "date": "2024-06-27",
+        "description": "Nueva redacción de los arts. 31.2 y 32.2: la Música de 1.º, 2.º y 3.º de la ESO se convalida con Música de 1.º de las EEPP de danza o con Instrumento o Voz de 1.º de las EEPP de música, y la de 4.º con el 2.º curso de esas asignaturas. Modifica además los arts. 6.5, 10, 11, 13, 15, 18.3, 36 y 41.4, las DA 3.ª y 4.ª y varios anexos. Aplicable desde el curso 2024-2025 (DF 2.ª)"
+      },
+      {
+        "lawId": "resolucion-04-10-2023-sentencias-decreto-107-2022",
+        "title": "Resolución de 4 de octubre de 2023 (publica las sentencias firmes 312/2023, 336/2023 y 340/2023 del TSJCV)",
+        "type": "deroga_parcial",
+        "articles": [
+          "art-10",
+          "art-11",
+          "art-15"
+        ],
+        "date": "2023-10-16",
+        "description": "Anula los arts. 11.3, 10.3 y 15.7 (este, solo para 1.º a 3.º de la ESO); efectos desde su publicación en el DOGV 9701 (16/10/2023). No afecta a los artículos transcritos. https://dogv.gva.es/datos/2023/10/16/pdf/2023_10151.pdf"
+      }
+    ],
+    "derogations": [],
+    "concordances": [
+      {
+        "lawId": "orden-19-2023",
+        "title": "Orden 19/2023 - Procedimientos derivados de los decretos de ESO y Bachillerato",
+        "description": "Procedimiento de solicitud de las convalidaciones y la exención (arts. 2 a 6)"
+      },
+      {
+        "lawId": "instrucciones-convalidaciones-eso-musica-2024",
+        "title": "Procedimiento de convalidaciones ESO – enseñanzas profesionales de música (2024)"
+      },
+      {
+        "lawId": "instrucciones-convalidaciones-eso-danza-2024",
+        "title": "Procedimiento de convalidaciones y exención ESO – enseñanzas profesionales de danza (2024)"
+      },
+      {
+        "lawId": "real-decreto-242-2009",
+        "title": "Real Decreto 242/2009 - Convalidaciones EEPP Música y Danza con ESO y Bachillerato",
+        "description": "Base estatal: convalidación de la Música de la ESO (anexo I)"
+      }
+    ]
+  },
+  "promulgation": {
+    "place": "València",
+    "date": "2022-08-05",
+    "signatories": [
+      {
+        "name": "Ximo Puig i Ferrer",
+        "role": "President de la Generalitat"
+      },
+      {
+        "name": "Raquel Tamarit i Iranzo",
+        "role": "Conselleria de Educación"
+      }
+    ]
+  },
+  "scope": "general",
+  "territory": "autonomico",
+  "temporality": {
+    "type": "permanente"
+  },
+  "docType": "normativa"
+}

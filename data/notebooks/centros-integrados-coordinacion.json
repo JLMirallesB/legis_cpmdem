@@ -535,6 +535,24 @@
         "es": "61b141cc",
         "va": "a1ac5d43"
       }
+    },
+    {
+      "law": "decreto-107-2022",
+      "article": "art-31",
+      "checkedAt": "2026-11-21",
+      "hash": {
+        "es": "701788ec",
+        "va": "bb4c342e"
+      }
+    },
+    {
+      "law": "decreto-107-2022",
+      "article": "art-32",
+      "checkedAt": "2026-11-21",
+      "hash": {
+        "es": "5c91ccc0",
+        "va": "7081f763"
+      }
     }
   ],
   "discarded": [
@@ -574,6 +592,14 @@
         "dd-unica#1"
       ],
       "reason": "Preámbulo y derogación de la Orden 71/2010 (procedimiento anterior): no regulan el procedimiento vigente"
+    },
+    {
+      "law": "decreto-66-2024",
+      "items": [
+        "anexo-1#8",
+        "anexo-1#9"
+      ],
+      "reason": "Puntos modificadores del D. 107/2022: su texto vigente se cita en los arts. 31 y 32 de ese decreto"
     }
   ]
 }
