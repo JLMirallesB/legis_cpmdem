@@ -1,5 +1,23 @@
 [
   {
+    "version": "2.20.1",
+    "date": "2026-11-22",
+    "entries": {
+      "es": [
+        {
+          "type": "corregido",
+          "description": "Decreto 159/2007: el art. 13 se titula «Flexibilización de las enseñanzas», como lo renombró el Decreto 46/2026, y no «Ampliación de matrícula». El texto del artículo ya era el vigente."
+        }
+      ],
+      "va": [
+        {
+          "type": "corregit",
+          "description": "Decret 159/2007: l'art. 13 es titula «Flexibilització de les ensenyances», com el va reanomenar el Decret 46/2026, i no «Ampliació de matrícula». El text de l'article ja era el vigent."
+        }
+      ]
+    }
+  },
+  {
     "version": "2.20.0",
     "date": "2026-11-21",
     "entries": {
