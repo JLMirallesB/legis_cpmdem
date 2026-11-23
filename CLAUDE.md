@@ -9,7 +9,8 @@ Aclaraciones de aplicación (material no normativo): `data/aclaraciones/{slug}.m
 
 ## Pendientes
 La lista de lo que queda está en `PENDIENTE.md` (sala de tareas, skill `todo-room`).
-Léela antes de proponer trabajo y táchala en el mismo commit que termina algo.
+Solo vive en el Mac: está en `.git/info/exclude` y no se sube. Léela antes de
+proponer trabajo y tacha lo que termines al cerrarlo.
 
 ## Consultas sobre la normativa
 Al responder una duda sobre cómo se aplica una norma, buscar en **todo `data/`**, no solo en `data/laws/`. Las fichas de `data/notebooks/`, `data/center-docs/` y `data/organos/` también tienen notas:
