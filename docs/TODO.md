@@ -2,6 +2,8 @@
 
 ## Fase Actual: 9 (Pulido) - COMPLETADA PARCIALMENTE
 
+> Repasado el 23-11-2026: las fases 0-9 están hechas salvo la optimización de rendimiento; hay 107 leyes ingestadas. El trabajo vivo se sigue en el changelog (`data/changelog.json`).
+
 ## Fases
 
 - [x] **Fase 0**: Scaffolding Astro + docs + GitHub Actions
@@ -12,7 +14,7 @@
 - [x] **Fase 5**: Sistema de versiones (selector integrado en ArticleContent)
 - [x] **Fase 6**: Análisis jurídico (panel LegalAnalysis bajo el contenido)
 - [x] **Fase 7**: Búsqueda (índice JSON + búsqueda cliente sin dependencias externas)
-- [ ] **Fase 8**: Ingesta de leyes reales (PDFs del DOGV, asistida por Claude)
+- [x] **Fase 8**: Ingesta de leyes reales (PDFs del DOGV, asistida por Claude)
 - [x] **Fase 9**: Pulido, accesibilidad, descargas
 
 ## Extras completados (fuera de plan original)
@@ -40,24 +42,24 @@
 - [x] Script de validación (`npm run validate`)
 - [x] Plantilla de prompt y checklist en CONTENT-GUIDE.md
 - [x] Registro de leyes (`data/metadata/law-registry.json`)
-- [ ] Ingerir leyes reales desde PDFs del DOGV (asistida por Claude)
-- [ ] Actualizar cross-references bidireccionales
-- [ ] Reemplazar ley de ejemplo (decreto-158-2007) con datos reales
+- [x] Ingerir leyes reales desde PDFs del DOGV (asistida por Claude)
+- [x] Actualizar cross-references bidireccionales
+- [x] Reemplazar ley de ejemplo (decreto-158-2007) con datos reales
 
 ## Notas
 
-- El proyecto usa Astro 6.x (Node.js >= 22)
+- El proyecto usa Astro 7.x (Node.js >= 22.12)
 - Deploy automático via GitHub Actions en push a main
 - URL: https://JLMirallesB.github.io/legis_cpmdem/
-- Ley de ejemplo: Decreto 158/2007 (datos ficticios pero estructura real)
-- Búsqueda: índice JSON generado en build, búsqueda client-side sin FlexSearch (suficiente para 20-50 leyes)
+- Ley de ejemplo: Decreto 158/2007 (al principio con datos ficticios; hoy es el texto real)
+- Búsqueda: índice JSON generado en build, búsqueda client-side sin FlexSearch (pensada para 20-50 leyes; hoy hay 107)
 
 ## Documentos de centro (apartado nuevo, en diseño 2026-08-19)
 
 Fichas por documento de centro (PEC, PGA, PAM, NOF/convivencia, programaciones,
 PAT, memoria...) que recogen todo lo que la normativa dice sobre cada uno.
 
-- [ ] **v1: solo normativa** — referencias resueltas desde las leyes ingestadas,
+- [x] **v1: solo normativa** — referencias resueltas desde las leyes ingestadas,
       separando lo permanente de lo del curso vigente + histórico plegado.
 - [ ] **Ámbito futuro**: enseñanzas superiores y escuelas de música. La v1 cubre
       solo Conservatorios Profesionales; sus documentos no coinciden.
@@ -69,3 +71,4 @@ Requisito transversal: **las citas no pueden petrificarse**. Los cuadernos
 actuales guardan el texto copiado en `excerpt` y nadie se entera si la ley
 cambia. Hay que sustituirlo por referencias con ancla resueltas en build, con
 aviso de frescura. Esto se arregla aunque el apartado de documentos no se haga.
+*(Hecho: las fichas citan con ancla y hash, y `npm run validate` avisa si el texto citado cambia; no queda ningún `excerpt`.)*
