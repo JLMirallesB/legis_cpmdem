@@ -81,6 +81,8 @@ npm run validate  # 0 errores obligatorio, avisos OK para leyes no ingresadas
 npm run build     # debe compilar sin errores
 ```
 
+Después, revisión a ojo con `npm run dev`: la ley aparece en el catálogo, el lector muestra todos los artículos y disposiciones, la barra lateral navega, la búsqueda la encuentra, el análisis jurídico enseña las cross-references y se ven los dos idiomas (`/es/ley/{slug}/` y `/va/llei/{slug}/`).
+
 Si la norma cita direcciones web en el texto, comprobar además que resuelven —
 ver `referencias/urls.md` («URLs escritas dentro del articulado»).
 

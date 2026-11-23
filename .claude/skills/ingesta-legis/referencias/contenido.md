@@ -44,7 +44,7 @@
 - `id` y `slug` deben ser iguales y coincidir con el nombre del archivo (sin .json)
 - Convención: `{tipo}-{numero}-{año}` → `decreto-158-2007`. Para resoluciones anuales: `resolucion-inicio-curso-2025-2026`
 - Categorías válidas: las de `data/metadata/categories.json` (no mantener lista duplicada aquí). Las leyes ómnibus van en `leyes_modificadoras`, no en `general`
-- IDs de estructura: `art-N`, `titulo-N`, `titulo-N-cap-N`, `cap-N`, `da-N`, `dt-N`, `dd-unica`, `df-N`, `anexo-N`, `preambulo`
+- IDs de estructura: `art-N`, `titulo-N`, `titulo-N-cap-N`, `cap-N`, `da-N`, `dt-N`, `dd-unica`, `df-N`, `anexo-N`, `preambulo`; secciones `titulo-N-cap-N-sec-N` o `cap-N-sec-N`; disposiciones únicas `da-unica`, `dt-unica`, `df-unica`
 
 ## Propiedades de clasificación (OBLIGATORIO en toda nueva ingesta)
 Cada ley debe incluir las 4 propiedades siguientes (definidas en `src/lib/types.ts`):

@@ -4,7 +4,7 @@
 Lector de legislación de Conservatorios Profesionales de Música y Danza **y de Escuelas de enseñanza artística no formal (Música y Artes Escénicas)** de la Generalitat Valenciana. Sitio estático con Astro 7.x desplegado en GitHub Pages (`compressHTML: true` en `astro.config.mjs`: el modo `'jsx'` por defecto de Astro 7 borra los espacios entre texto y expresiones en líneas distintas). Datos en JSON bilingüe (es/va). El proyecto se llama **Legis CPMDEM** (los textos de marca ya incluyen las Escuelas de Música).
 
 ## Documentación
-Leer antes de hacer cambios: `docs/CONTENT-GUIDE.md` (proceso de ingesta), `docs/DATA-SCHEMA.md` (esquema JSON), `src/lib/types.ts` (tipos TypeScript).
+Leer antes de hacer cambios: `docs/CONTENT-GUIDE.md` (guía de ingesta para personas; Claude sigue la skill `ingesta-legis`), `docs/DATA-SCHEMA.md` (esquema JSON), `src/lib/types.ts` (tipos TypeScript).
 Aclaraciones de aplicación (material no normativo): `data/aclaraciones/{slug}.md`, descritas en `docs/DATA-SCHEMA.md` §«Aclaraciones de aplicación».
 
 ## Pendientes

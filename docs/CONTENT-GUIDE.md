@@ -1,5 +1,7 @@
 # Guía de Contenido - Legis CPM
 
+> Guía para personas. Claude sigue la skill del repo `ingesta-legis` (`.claude/skills/ingesta-legis/`), que tiene el proceso completo y las lecciones de ingestas anteriores; si algo de aquí no coincide con ella, manda la skill.
+
 ## Cómo Añadir una Nueva Ley
 
 La ingesta de leyes se hace de forma **asistida por Claude** en sesiones de trabajo.
@@ -24,7 +26,7 @@ DATOS:
 - Tipo: [decreto/orden/resolucion/ley/ley_organica/real_decreto/correccion_errores]
 - Número: [ej. 158/2007]
 - Slug: [ej. decreto-158-2007]
-- Categoría: [curriculo/organizacion/acceso/evaluacion/profesorado/titulaciones/general]
+- Categoría: [una de `data/metadata/categories.json`]
 - DOGV número: [ej. 5606]
 - DOGV fecha: [YYYY-MM-DD]
 - DOGV URL: [URL del PDF]
@@ -102,28 +104,7 @@ Mismo que el nombre del archivo sin `.json`. Los campos `id` y `slug` deben tene
 
 ## Categorías Disponibles
 
-Ver `data/metadata/categories.json`:
-
-| ID | Etiqueta |
-|----|----------|
-| `curriculo` | Currículo |
-| `organizacion` | Organización y funcionamiento |
-| `premios` | Premios |
-| `evaluacion` | Evaluación |
-| `acceso` | Acceso y admisión |
-| `flexibilizacion` | Flexibilización |
-| `leyes_organicas` | Leyes Orgánicas de Educación |
-| `orientacion_convivencia` | Orientación y Convivencia |
-| `profesorado` | Profesorado |
-| `titulaciones` | Titulaciones |
-| `economica` | Gestión económica |
-| `prevencion_riesgos` | Prevención de riesgos laborales |
-| `convalidaciones` | Convalidaciones |
-| `tic` | TIC |
-| `obtencion_directa` | Obtención directa |
-| `convocatorias` | Convocatorias |
-| `leyes_modificadoras` | Leyes de medidas y ómnibus |
-| `general` | Normativa general |
+La lista vigente, con su etiqueta en castellano y valenciano, está en `data/metadata/categories.json` (hoy, 18 categorías). No se copia aquí para que no se desfase.
 
 ---
 
@@ -148,7 +129,7 @@ Ver `data/metadata/categories.json`:
 
 - Usar `lawId` con el slug esperado (ej. `decreto-90-2020`) + `title` como texto
 - El enlace dará 404 hasta que se ingeste esa ley (comportamiento aceptable)
-- Para leyes que nunca se ingestarán (ej. LOE, reales decretos nacionales): omitir `lawId`, usar solo `title`
+- Para leyes que nunca se ingestarán (ej. LOE, reales decretos nacionales): omitir `lawId`, usar solo `title`. *(Nota del 23-11-2026: en la práctica no se hace; todas las afectaciones del repo llevan `lawId`, y la LOE y varios reales decretos ya están ingestados.)*
 
 ---
 
@@ -159,7 +140,7 @@ Después de generar los JSON, verificar:
 - [ ] JSON `es/` creado con todos los campos requeridos
 - [ ] JSON `va/` creado con estructura idéntica
 - [ ] `id` y `slug` siguen convención `{tipo}-{numero}-{año}`
-- [ ] `category` es una de las 7 categorías válidas
+- [ ] `category` es una de las de `data/metadata/categories.json`
 - [ ] `publishedIn.url` apunta a la ficha de la disposición en DOGV/BOE (no al PDF)
 - [ ] `publishedIn.pdfUrl` apunta al PDF publicado en DOGV/BOE
 - [ ] `promulgation` incluye lugar, fecha y firmantes (nombre + cargo en idioma correcto)
