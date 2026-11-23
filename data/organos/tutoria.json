@@ -22,7 +22,7 @@
     "tutores y tutoras",
     "professorat tutor"
   ],
-  "updatedAt": "2026-11-21",
+  "updatedAt": "2026-11-23",
   "refs": [
     {
       "law": "decreto-156-2007",
@@ -535,6 +535,18 @@
       "law": "decreto-66-2024",
       "article": "*",
       "reason": "Mención en el preámbulo de la tutoría de la ESO; no regula la tutoría del conservatorio"
+    },
+    {
+      "law": "instruccion-17-2025-ige-supervision-pec",
+      "article": "anexo-1-tipo-i-centros-docentes",
+      "apartado": "bloque-i-contenido-del-pec",
+      "reason": "Lista de comprobación de los centros de tipo I (régimen general); la de los conservatorios es la de tipo III"
+    },
+    {
+      "law": "instruccion-17-2025-ige-supervision-pec",
+      "article": "anexo-1-tipo-iii-conservatorios",
+      "apartado": "proyecto-educativo",
+      "reason": "Ítem de la lista de comprobación del PEC del conservatorio: solo comprueba que el PEC lo recoge; está en la ficha del PEC (ítem 76, asignación de tutorías); no atribuye funciones"
     }
   ],
   "titleTerms": [

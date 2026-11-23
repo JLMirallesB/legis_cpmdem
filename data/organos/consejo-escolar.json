@@ -18,7 +18,7 @@
     "consejo escolar",
     "consell escolar"
   ],
-  "updatedAt": "2026-11-21",
+  "updatedAt": "2026-11-23",
   "refs": [
     {
       "law": "decreto-193-2025",
@@ -1164,6 +1164,66 @@
       "law": "decreto-66-2024",
       "article": "*",
       "reason": "Mención de pasada en el preámbulo; modifica la ordenación de la ESO"
+    },
+    {
+      "law": "instruccion-3-2026-ige-gestion-economica",
+      "article": "anexo-1-b",
+      "apartado": "0",
+      "reason": "Cuestionario o criterios de la supervisión económica: comprueban documentos de gestión, pero no atribuyen funciones nuevas al órgano (están en la Orden de 1995)"
+    },
+    {
+      "law": "instruccion-3-2026-ige-gestion-economica",
+      "article": "anexo-1-d",
+      "apartado": "0",
+      "reason": "Cuestionario o criterios de la supervisión económica: comprueban documentos de gestión, pero no atribuyen funciones nuevas al órgano (están en la Orden de 1995)"
+    },
+    {
+      "law": "instruccion-3-2026-ige-gestion-economica",
+      "article": "anexo-1-f",
+      "apartado": "0",
+      "reason": "Cuestionario o criterios de la supervisión económica: comprueban documentos de gestión, pero no atribuyen funciones nuevas al órgano (están en la Orden de 1995)"
+    },
+    {
+      "law": "instruccion-3-2026-ige-gestion-economica",
+      "article": "anexo-1-g",
+      "apartado": "0",
+      "reason": "Cuestionario o criterios de la supervisión económica: comprueban documentos de gestión, pero no atribuyen funciones nuevas al órgano (están en la Orden de 1995)"
+    },
+    {
+      "law": "instruccion-3-2026-ige-gestion-economica",
+      "article": "anexo-1-k",
+      "apartado": "0",
+      "reason": "Cuestionario o criterios de la supervisión económica: comprueban documentos de gestión, pero no atribuyen funciones nuevas al órgano (están en la Orden de 1995)"
+    },
+    {
+      "law": "instruccion-3-2026-ige-gestion-economica",
+      "article": "anexo-2-b",
+      "apartado": "0",
+      "reason": "Cuestionario o criterios de la supervisión económica: comprueban documentos de gestión, pero no atribuyen funciones nuevas al órgano (están en la Orden de 1995)"
+    },
+    {
+      "law": "instruccion-3-2026-ige-gestion-economica",
+      "article": "anexo-2-d",
+      "apartado": "0",
+      "reason": "Cuestionario o criterios de la supervisión económica: comprueban documentos de gestión, pero no atribuyen funciones nuevas al órgano (están en la Orden de 1995)"
+    },
+    {
+      "law": "instruccion-3-2026-ige-gestion-economica",
+      "article": "anexo-2-f",
+      "apartado": "0",
+      "reason": "Cuestionario o criterios de la supervisión económica: comprueban documentos de gestión, pero no atribuyen funciones nuevas al órgano (están en la Orden de 1995)"
+    },
+    {
+      "law": "instruccion-3-2026-ige-gestion-economica",
+      "article": "anexo-2-g",
+      "apartado": "0",
+      "reason": "Cuestionario o criterios de la supervisión económica: comprueban documentos de gestión, pero no atribuyen funciones nuevas al órgano (están en la Orden de 1995)"
+    },
+    {
+      "law": "instruccion-3-2026-ige-gestion-economica",
+      "article": "anexo-2-k",
+      "apartado": "0",
+      "reason": "Cuestionario o criterios de la supervisión económica: comprueban documentos de gestión, pero no atribuyen funciones nuevas al órgano (están en la Orden de 1995)"
     }
   ],
   "titleTerms": [

@@ -20,7 +20,7 @@
     "plan de sostenibilidad",
     "pla de sostenibilitat"
   ],
-  "updatedAt": "2026-11-05",
+  "updatedAt": "2026-11-23",
   "refs": [
     {
       "law": "ley-organica-2-2006",
@@ -306,6 +306,20 @@
         "va": "2bfd94dd"
       },
       "checkedAt": "2026-11-05"
+    },
+    {
+      "law": "instruccion-3-2026-ige-gestion-economica",
+      "article": "art-1",
+      "checkedAt": "2026-11-23",
+      "effect": "control",
+      "note": {
+        "es": "La Inspección supervisa la gestión económica de una cuarta parte de los centros públicos de cada zona, con el cuestionario del anexo I y los criterios del anexo II (ejercicio 2025)",
+        "va": "La Inspecció supervisa la gestió econòmica d’una quarta part dels centres públics de cada zona, amb el qüestionari de l’annex I i els criteris de l’annex II (exercici 2025)"
+      },
+      "hash": {
+        "es": "97eb1c3a",
+        "va": "2b0991f1"
+      }
     }
   ],
   "discarded": [
@@ -323,6 +337,18 @@
       "law": "guia-plan-sostenibilidad",
       "article": "sec-2-2-1",
       "reason": "Diagnóstico energético: detalle técnico (certificación energética, Pacto de las Alcaldías); ya cubierto por la ref a la sección 2"
+    },
+    {
+      "law": "instruccion-3-2026-ige-gestion-economica",
+      "article": "preambulo",
+      "apartado": "0",
+      "reason": "Preámbulo: marco normativo del control financiero de los centros"
+    },
+    {
+      "law": "instruccion-3-2026-ige-gestion-economica",
+      "article": "art-2",
+      "apartado": "e",
+      "reason": "Objetivo de asesoramiento de la supervisión; el control se cita en el art. 1"
     }
   ]
 }

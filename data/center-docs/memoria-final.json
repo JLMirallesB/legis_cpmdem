@@ -23,7 +23,7 @@
     "memoria final de curs",
     "memoria de fi de curs"
   ],
-  "updatedAt": "2026-10-18",
+  "updatedAt": "2026-11-23",
   "refs": [
     {
       "law": "decreto-57-2020",
@@ -187,6 +187,20 @@
         "va": "672fe984"
       },
       "checkedAt": "2026-10-18"
+    },
+    {
+      "law": "instruccion-7-2026-ige-pgaa",
+      "article": "anexo-1",
+      "checkedAt": "2026-11-23",
+      "effect": "control",
+      "note": {
+        "es": "Actuación habitual HAB36: la Inspección supervisa la memoria final del centro; si procede, emite informe",
+        "va": "Actuació habitual HAB36: la Inspecció supervisa la memòria final del centre; si escau, emet informe"
+      },
+      "hash": {
+        "es": "100aee5e",
+        "va": "4c439949"
+      }
     }
   ],
   "discarded": [
@@ -228,6 +242,24 @@
       "article": "apartado-14",
       "apartado": "5.a",
       "reason": "Memoria de las actividades formativas, no la del centro"
+    },
+    {
+      "law": "resolucion-pgaa-inspeccion-2026-2027",
+      "article": "anexo-6-1",
+      "apartado": "0",
+      "reason": "Memoria anual de la Inspección, no la memoria final del centro"
+    },
+    {
+      "law": "resolucion-pgaa-inspeccion-2026-2027",
+      "article": "anexo-6-2",
+      "apartado": "g",
+      "reason": "Memoria anual de la Inspección, no la memoria final del centro"
+    },
+    {
+      "law": "instruccion-7-2026-ige-pgaa",
+      "article": "anexo-1",
+      "apartado": "0",
+      "reason": "Tabla de actuaciones habituales: se cita el anexo entero como efecto (HAB36)"
     }
   ],
   "related": [

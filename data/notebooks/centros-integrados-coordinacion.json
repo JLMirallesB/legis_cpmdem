@@ -21,7 +21,7 @@
     "convalidacion",
     "convalidacio"
   ],
-  "updatedAt": "2026-11-21",
+  "updatedAt": "2026-11-23",
   "refs": [
     {
       "law": "ley-organica-2-2006",
@@ -600,6 +600,24 @@
         "anexo-1#9"
       ],
       "reason": "Puntos modificadores del D. 107/2022: su texto vigente se cita en los arts. 31 y 32 de ese decreto"
+    },
+    {
+      "law": "instruccion-17-2025-ige-supervision-pec",
+      "article": "preambulo",
+      "apartado": "0",
+      "reason": "Preámbulo: lista de las normas de organización de cada tipo de centro"
+    },
+    {
+      "law": "instruccion-17-2025-ige-supervision-pec",
+      "article": "anexo-1-tipo-ii-centros-integrados-fp",
+      "apartado": "proyecto-funcional-del-centro",
+      "reason": "Centros integrados de FP, no centros integrados de enseñanzas artísticas y régimen general"
+    },
+    {
+      "law": "instruccion-7-2026-ige-pgaa",
+      "article": "anexo-1",
+      "apartado": "0",
+      "reason": "HAB29: plantillas de centros integrados de FP, no de enseñanzas artísticas"
     }
   ]
 }

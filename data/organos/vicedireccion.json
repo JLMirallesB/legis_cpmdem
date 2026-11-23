@@ -20,7 +20,7 @@
     "vicedirectora",
     "vicedireccio"
   ],
-  "updatedAt": "2026-08-19",
+  "updatedAt": "2026-11-23",
   "refs": [
     {
       "law": "decreto-57-2020",
@@ -185,6 +185,18 @@
       "article": "art-11",
       "apartado": "q",
       "reason": "No se puede anclar: el texto valenciano de este artículo solo llega hasta la letra n"
+    },
+    {
+      "law": "instruccion-3-2026-ige-gestion-economica",
+      "article": "anexo-1-e",
+      "apartado": "0",
+      "reason": "Cuenta corriente del centro (firmas, entidades con convenio): mención de pasada, no atribuye funciones"
+    },
+    {
+      "law": "instruccion-3-2026-ige-gestion-economica",
+      "article": "anexo-2-e",
+      "apartado": "0",
+      "reason": "Cuenta corriente del centro (firmas, entidades con convenio): mención de pasada, no atribuye funciones"
     }
   ],
   "titleTerms": [

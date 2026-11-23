@@ -28,7 +28,7 @@
     "programacio d'aula",
     "programacions d'aula"
   ],
-  "updatedAt": "2026-10-18",
+  "updatedAt": "2026-11-23",
   "refs": [
     {
       "law": "decreto-57-2020",
@@ -552,6 +552,18 @@
       "article": "anexo-1-2",
       "apartado": "1.2.2.2.a",
       "reason": "La acción tutorial: ficha propia"
+    },
+    {
+      "law": "instruccion-17-2025-ige-supervision-pec",
+      "article": "anexo-1-tipo-iii-conservatorios",
+      "apartado": "proyecto-educativo",
+      "reason": "Ítem de la lista de comprobación del PEC del conservatorio: solo comprueba que el PEC lo recoge; está en la ficha del PEC (ítem 78, criterios para elaborar las programaciones)"
+    },
+    {
+      "law": "resolucion-pgaa-inspeccion-2026-2027",
+      "article": "anexo-2-1",
+      "apartado": "0",
+      "reason": "AP1 (supervisión y evaluación de centros) se desarrolla en la Instrucción 10/2026, limitada a Infantil, Primaria, ESO y Bachillerato: en 2026-2027 no alcanza a los conservatorios"
     }
   ],
   "related": [

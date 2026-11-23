@@ -22,7 +22,7 @@
     "reglament de regim interior",
     "reglament de regim intern"
   ],
-  "updatedAt": "2026-10-18",
+  "updatedAt": "2026-11-23",
   "refs": [
     {
       "law": "ley-organica-2-2006",
@@ -554,6 +554,24 @@
       "article": "preambulo",
       "apartado": "0",
       "reason": "Preámbulo: encuadre, no regulación"
+    },
+    {
+      "law": "instruccion-17-2025-ige-supervision-pec",
+      "article": "anexo-1-tipo-i-centros-docentes",
+      "apartado": "bloque-ii-normas-de-organizacion-y-funci",
+      "reason": "Lista de comprobación de los centros de tipo I (régimen general); la de los conservatorios es la de tipo III"
+    },
+    {
+      "law": "instruccion-17-2025-ige-supervision-pec",
+      "article": "anexo-1-tipo-ii-centros-integrados-fp",
+      "apartado": "proyecto-funcional-del-centro",
+      "reason": "Lista de comprobación de los centros integrados de FP (tipo II), no de conservatorios"
+    },
+    {
+      "law": "instruccion-3-2026-ige-gestion-economica",
+      "article": "anexo-2-k",
+      "apartado": "0",
+      "reason": "Normativa de comedor escolar: los conservatorios no tienen comedor"
     }
   ]
 }

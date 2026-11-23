@@ -198,7 +198,7 @@ Después: `npm run build` (Astro copia `public/` a `dist/`), release normal y **
 
 **Antes de proponer un dataset nuevo**, que haya un consumidor que lo pida: los dos que hay nacieron de la petición concreta de una app externa. Un dataset sin consumidor no lo regenera nadie y, cuando alguien lo encuentra años después, sirve un dato ya falso. Ordenar las ideas por «hay alguien que lo pediría», no por «se podría hacer».
 
-**Se publica la cita de la norma, no el algoritmo.** El consumidor tiene que poder separar ante su usuario qué es texto legal y qué es su propia lectura (lo pidió una app consumidora). Si la norma base no está ingestada, el dataset lo dice (`procedure.sourceIngested: false` en el del sorteo) en vez de aparentar una fuente que no está.
+**Se publica la cita de la norma, no el algoritmo.** El consumidor tiene que poder separar ante su usuario qué es texto legal y qué es su propia lectura (lo pidió una app consumidora después de que un error suyo de interpretación afectara a actas ya emitidas). Si la norma base no está ingestada, el dataset lo dice (`procedure.sourceIngested: false` en el del sorteo) en vez de aparentar una fuente que no está.
 
 
 ### Errores conocidos y lecciones aprendidas

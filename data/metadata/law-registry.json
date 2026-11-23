@@ -749,6 +749,41 @@
       "status": "ingested",
       "category": "leyes_modificadoras",
       "notes": "DOGV 9878 (26/06/2024), articulado bilingüe a dos columnas y anexos por idioma, 392 págs. Ingesta parcial: íntegros los arts. 1 y 2, las DF 2.ª (aplicable desde 2024-2025) y 4.ª, y del anexo I los puntos 8 y 9 (nuevos arts. 31.2 y 32.2 del D. 107/2022); del anexo II, los puntos 4 y 5 remiten a los modelos de solicitud, que se descargan desde la ficha de la Orden 19/2023. Firmado en Alicante. Lo demás (programas de diversificación, FP dual, currículos de ESO), con la nota."
+    },
+    {
+      "slug": "resolucion-pgaa-inspeccion-2026-2027",
+      "title": "Res 21/07/2026 - Plan general de actuación de la Inspección 2026-2027",
+      "status": "ingested",
+      "category": "organizacion",
+      "notes": "Resolución de la Secretaría Autonómica de Educación (DOGV 10418, 31/07/2026). Aprueba el Plan general de actuación anual (PGAA) de la Inspección Educativa para el curso 2026-2027. PDF separados ES/VA. Preámbulo + apartados Primero-Cuarto + anexo en 6 secciones (objetivos; actuaciones prioritarias AP1-AP5 con el cronograma reconstruido en tabla, específicas, habituales e incidentales; áreas y equipos; PTAA; formación; memorias). Índice del anexo omitido. Errata del VA en 2.2 («f) g)») transcrita tal cual. Firma Daniel McEvoy Bravo. General, autonómica, anual (26-27)."
+    },
+    {
+      "slug": "instruccion-7-2026-ige-pgaa",
+      "title": "Instrucción 7/2026 IGE - Desarrollo del PGAA 2026-2027",
+      "status": "ingested",
+      "category": "organizacion",
+      "notes": "Documento (no normativa). PDF bilingüe de la web de la Inspección (va izq., es der.; anexos apaisados, primero VA y luego ES). Desarrolla el PGAA 2026-2027: preámbulo + 6 instrucciones (art-1 a art-6) + anexo I (tabla de 59 actuaciones habituales HAB1-HAB59, entera aunque mezcla enseñanzas) + anexo II (cronograma de actuaciones con participación elevada; los colores del original se transcriben con el texto de la leyenda). Firma la inspectora general, Rosario Arolas Romero, el 06/08/2026. General, autonómica, anual (26-27)."
+    },
+    {
+      "slug": "instruccion-sae-inicio-curso-2026-2027",
+      "title": "Instrucción SAE - Incidencias de inicio de curso 2026-2027",
+      "status": "ingested",
+      "category": "organizacion",
+      "notes": "Documento (no normativa). PDF bilingüe de la web de la Inspección (va izq., es der.). Protocolo de la Secretaría Autonómica para comunicar y supervisar las incidencias que impidan abrir el centro o empezar las clases en 2026-2027 (incluye enseñanzas artísticas): preámbulo + apartados 1-4 (art-1 a art-4), con el enlace al formulario de comunicación. Firmada el 03/09/2026 por Daniel McEvoy Bravo. Errata en el VA del preámbulo («curs acadèmic 2025-2026»), transcrita tal cual. General, autonómica, anual (26-27)."
+    },
+    {
+      "slug": "instruccion-3-2026-ige-gestion-economica",
+      "title": "Instrucción 3/2026 IGE - Supervisión de la gestión económica 2025-2026",
+      "status": "ingested",
+      "category": "economica",
+      "notes": "Documento (no normativa). Instrucción de la Inspección General de Educación (web de la Inspección, no DOGV; firmada el 23/01/2026, publicada el 26/01/2026). Supervisión cíclica (25 % por zona) de la gestión económica de los centros públicos GVA, ejercicio 2025. Preámbulo + Primera-Décima + anexo I (cuestionario o informe normalizado, bloques A-L, códigos de pregunta en negrita) + anexo II (criterios y referentes normativos, bloques B-K, en tablas). Anexos en PDF aparte, en ES y VA; enlazados en externalResources. Las tarjetas bancarias son E.8.e (no E.8.f, como se citó en la jornada Erasmus+ 2026). Hipervínculo a la AEAT muerto en origen. General, autonómica, anual (25-26)."
+    },
+    {
+      "slug": "instruccion-17-2025-ige-supervision-pec",
+      "title": "Instrucción 17/2025 IGE - Supervisión del PEC 2025-2026",
+      "status": "ingested",
+      "category": "organizacion",
+      "notes": "Documento (no normativa). Instrucción de la Inspección General de Educación (web de la Inspección, 13/10/2025), PDF bilingüe a dos columnas, firmada por Vicente Marchante Villanueva. Supervisión del PEC (actuación prioritaria cíclica del PGAA 2025-2026, 25 % de centros por zona). Preámbulo + Primera-Cuarta + anexo I con las listas de comprobación por tipo de centro, en tabla (tipo I: ítems 1-50; tipo II CIPFP: 51-60; tipo III conservatorios profesionales de música y danza: 61-80). Columnas SÍ/NO/OBSERVACIONES no reproducidas. General, autonómica, anual (25-26)."
     }
   ]
 }

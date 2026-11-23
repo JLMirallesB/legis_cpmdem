@@ -20,7 +20,7 @@
     "accion tutorial",
     "accio tutorial"
   ],
-  "updatedAt": "2026-10-18",
+  "updatedAt": "2026-11-23",
   "refs": [
     {
       "law": "decreto-193-2025",
@@ -331,6 +331,24 @@
       "article": "anexo-1-2",
       "apartado": "1.2.2",
       "reason": "Encabezado de la sección; su contenido ya está referenciado"
+    },
+    {
+      "law": "instruccion-17-2025-ige-supervision-pec",
+      "article": "anexo-1-tipo-i-centros-docentes",
+      "apartado": "bloque-i-contenido-del-pec",
+      "reason": "Lista de comprobación de los centros de tipo I (régimen general); la de los conservatorios es la de tipo III"
+    },
+    {
+      "law": "instruccion-17-2025-ige-supervision-pec",
+      "article": "anexo-1-tipo-ii-centros-integrados-fp",
+      "apartado": "proyecto-funcional-del-centro",
+      "reason": "Lista de comprobación de los centros integrados de FP (tipo II), no de conservatorios"
+    },
+    {
+      "law": "instruccion-17-2025-ige-supervision-pec",
+      "article": "anexo-1-tipo-iii-conservatorios",
+      "apartado": "proyecto-educativo",
+      "reason": "Ítem de la lista de comprobación del PEC del conservatorio: solo comprueba que el PEC lo recoge; está en la ficha del PEC (ítem 70, plan de orientación y acción tutorial)"
     }
   ],
   "related": [

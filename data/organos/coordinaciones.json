@@ -22,7 +22,7 @@
     "coordinacio de",
     "figures de coordinacio"
   ],
-  "updatedAt": "2026-11-09",
+  "updatedAt": "2026-11-23",
   "refs": [
     {
       "law": "decreto-193-2025",
@@ -1098,6 +1098,18 @@
       "article": "sec-3",
       "apartado": "0",
       "reason": "Solo cita el título de la Instrucción 3/2011 (coordinadores TIC) al dejarla sin efecto; no atribuye nada"
+    },
+    {
+      "law": "instruccion-3-2026-ige-gestion-economica",
+      "article": "art-3",
+      "apartado": "c",
+      "reason": "«Coordinador/a» de la Inspección, no coordinación del centro"
+    },
+    {
+      "law": "instruccion-7-2026-ige-pgaa",
+      "article": "anexo-1",
+      "apartado": "0",
+      "reason": "Tabla de actuaciones habituales de la Inspección: no atribuye funciones a las coordinaciones del centro"
     }
   ],
   "titleTerms": [

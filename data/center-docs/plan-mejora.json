@@ -24,7 +24,7 @@
     "evaluacion interna",
     "avaluacio interna"
   ],
-  "updatedAt": "2026-11-21",
+  "updatedAt": "2026-11-23",
   "refs": [
     {
       "law": "ley-organica-2-2006",
@@ -559,6 +559,24 @@
       "law": "orden-19-2023",
       "article": "*",
       "reason": "Deroga el capítulo IV de la Orden 38/2016 (plan de actuación para la mejora de los centros de régimen general), que no es el Plan de Mejora del conservatorio"
+    },
+    {
+      "law": "instruccion-17-2025-ige-supervision-pec",
+      "article": "anexo-1-tipo-iii-conservatorios",
+      "apartado": "proyecto-educativo",
+      "reason": "Lista de comprobación del PEC: no regula el Plan de Mejora"
+    },
+    {
+      "law": "instruccion-3-2026-ige-gestion-economica",
+      "article": "art-3",
+      "apartado": "b",
+      "reason": "Autoevaluación de la gestión económica para la supervisión, no el plan de autoevaluación del Plan de Mejora"
+    },
+    {
+      "law": "instruccion-3-2026-ige-gestion-economica",
+      "article": "art-3",
+      "apartado": "c",
+      "reason": "Visita de inspección tras la autoevaluación económica: no regula el Plan de Mejora"
     }
   ],
   "parts": [

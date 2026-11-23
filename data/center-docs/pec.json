@@ -24,7 +24,7 @@
     "concrecion del curriculo",
     "concrecio del curriculum"
   ],
-  "updatedAt": "2026-10-18",
+  "updatedAt": "2026-11-23",
   "refs": [
     {
       "law": "ley-organica-2-2006",
@@ -1025,6 +1025,34 @@
         "va": "618cf35a"
       },
       "checkedAt": "2026-10-18"
+    },
+    {
+      "law": "instruccion-17-2025-ige-supervision-pec",
+      "article": "art-1",
+      "checkedAt": "2026-11-23",
+      "effect": "control",
+      "note": {
+        "es": "La Inspección supervisa el PEC de una cuarta parte de los centros de cada zona en el curso 2025-2026",
+        "va": "La Inspecció supervisa el PEC d’una quarta part dels centres de cada zona en el curs 2025-2026"
+      },
+      "hash": {
+        "es": "e97715ce",
+        "va": "5ad228fe"
+      }
+    },
+    {
+      "law": "instruccion-17-2025-ige-supervision-pec",
+      "article": "anexo-1-tipo-iii-conservatorios",
+      "checkedAt": "2026-11-23",
+      "effect": "control",
+      "note": {
+        "es": "Lo que la Inspección comprueba que contiene el PEC de un conservatorio (ítems 61-80)",
+        "va": "El que la Inspecció comprova que conté el PEC d’un conservatori (ítems 61-80)"
+      },
+      "hash": {
+        "es": "ba7a3e56",
+        "va": "f7596b16"
+      }
     }
   ],
   "discarded": [
@@ -1212,6 +1240,30 @@
       "law": "decreto-140-2026",
       "article": "preambulo",
       "reason": "Preámbulo: describe el decreto, no regula nada"
+    },
+    {
+      "law": "instruccion-17-2025-ige-supervision-pec",
+      "article": "art-1",
+      "apartado": "0",
+      "reason": "Objeto de la instrucción; el control de la Inspección sobre el PEC se cita en el art. 1 entero"
+    },
+    {
+      "law": "instruccion-17-2025-ige-supervision-pec",
+      "article": "art-3",
+      "apartado": "3",
+      "reason": "Paso del procedimiento (verificar en ITACA las modificaciones del PEC); el control ya está en el art. 1"
+    },
+    {
+      "law": "instruccion-17-2025-ige-supervision-pec",
+      "article": "anexo-1-tipo-i-centros-docentes",
+      "apartado": "bloque-i-contenido-del-pec",
+      "reason": "Lista de comprobación de los centros de tipo I (régimen general); la de los conservatorios es la de tipo III"
+    },
+    {
+      "law": "instruccion-17-2025-ige-supervision-pec",
+      "article": "anexo-1-tipo-iii-conservatorios",
+      "apartado": "proyecto-educativo",
+      "reason": "Encabezado de la lista de conservatorios; se cita la sección entera"
     }
   ],
   "parts": [

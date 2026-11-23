@@ -28,7 +28,7 @@
     "director o directora",
     "directora o director"
   ],
-  "updatedAt": "2026-11-21",
+  "updatedAt": "2026-11-23",
   "refs": [
     {
       "law": "circular-1-2025-permisos",
@@ -1291,6 +1291,33 @@
         "es": "Cumplimenta la memoria antes de instalar o modificar el sistema y la conserva en el expediente",
         "va": "Emplena la memòria abans d’instal·lar o modificar el sistema i la conserva en l’expedient"
       }
+    },
+    {
+      "law": "instruccion-3-2026-ige-gestion-economica",
+      "article": "art-3",
+      "apartado": "b",
+      "checkedAt": "2026-11-23",
+      "note": {
+        "es": "Si el centro entra en la supervisión económica, hace la autoevaluación de la gestión económica y la envía a la inspección",
+        "va": "Si el centre entra en la supervisió econòmica, fa l’autoavaluació de la gestió econòmica i l’envia a la inspecció"
+      },
+      "hash": {
+        "es": "01eb6c85",
+        "va": "eb99ead4"
+      }
+    },
+    {
+      "law": "instruccion-sae-inicio-curso-2026-2027",
+      "article": "art-2",
+      "checkedAt": "2026-11-23",
+      "note": {
+        "es": "Comunica a la inspección, con el formulario, las incidencias que impiden abrir el centro o empezar las clases",
+        "va": "Comunica a la inspecció, amb el formulari, les incidències que impedixen obrir el centre o començar les classes"
+      },
+      "hash": {
+        "es": "82b29542",
+        "va": "a4b1b80f"
+      }
     }
   ],
   "discarded": [
@@ -1893,6 +1920,36 @@
       "law": "orden-19-2023",
       "article": "*",
       "reason": "Es la dirección del centro donde se cursa la ESO o el Bachillerato la que resuelve las convalidaciones y la matrícula solo de materias comunes, no la del conservatorio"
+    },
+    {
+      "law": "instruccion-3-2026-ige-gestion-economica",
+      "article": "anexo-1-c",
+      "apartado": "0",
+      "reason": "Cuestionario o criterios de la supervisión económica: comprueban documentos de gestión, pero no atribuyen funciones nuevas al órgano (están en la Orden de 1995)"
+    },
+    {
+      "law": "instruccion-3-2026-ige-gestion-economica",
+      "article": "anexo-2-c",
+      "apartado": "0",
+      "reason": "Cuestionario o criterios de la supervisión económica: comprueban documentos de gestión, pero no atribuyen funciones nuevas al órgano (están en la Orden de 1995)"
+    },
+    {
+      "law": "instruccion-7-2026-ige-pgaa",
+      "article": "anexo-1",
+      "apartado": "0",
+      "reason": "Actuaciones de la Inspección sobre la selección, renovación y nombramiento de directores: no atribuyen funciones a la dirección"
+    },
+    {
+      "law": "instruccion-7-2026-ige-pgaa",
+      "article": "anexo-2",
+      "apartado": "actuaciones-habituales-con-una-participa",
+      "reason": "Cronograma de actuaciones de la Inspección: no atribuye funciones a la dirección"
+    },
+    {
+      "law": "instruccion-sae-inicio-curso-2026-2027",
+      "article": "art-3",
+      "apartado": "0",
+      "reason": "Actuación de la Inspección ante las incidencias que comunica la dirección"
     }
   ],
   "titleTerms": [

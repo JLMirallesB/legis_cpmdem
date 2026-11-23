@@ -19,7 +19,7 @@
     "programacio general anual",
     "pga"
   ],
-  "updatedAt": "2026-10-18",
+  "updatedAt": "2026-11-23",
   "refs": [
     {
       "law": "ley-organica-2-2006",
@@ -593,6 +593,34 @@
         "va": "676e8591"
       },
       "checkedAt": "2026-10-18"
+    },
+    {
+      "law": "instruccion-3-2026-ige-gestion-economica",
+      "article": "anexo-1-f",
+      "checkedAt": "2026-11-23",
+      "effect": "control",
+      "note": {
+        "es": "En la supervisión económica, la Inspección comprueba que las actividades complementarias y extraescolares están incluidas en la PGA (F.5.a y F.6.a)",
+        "va": "En la supervisió econòmica, la Inspecció comprova que les activitats complementàries i extraescolars estan incloses en la PGA (F.5.a i F.6.a)"
+      },
+      "hash": {
+        "es": "bed1035f",
+        "va": "c2f1c023"
+      }
+    },
+    {
+      "law": "instruccion-7-2026-ige-pgaa",
+      "article": "anexo-1",
+      "checkedAt": "2026-11-23",
+      "effect": "control",
+      "note": {
+        "es": "Actuación habitual HAB31: la Inspección supervisa la PGA y asesora sobre ella; si procede, emite informe",
+        "va": "Actuació habitual HAB31: la Inspecció supervisa la PGA i n’assessora; si escau, emet informe"
+      },
+      "hash": {
+        "es": "100aee5e",
+        "va": "4c439949"
+      }
     }
   ],
   "discarded": [
@@ -699,6 +727,108 @@
       "article": "preambulo",
       "apartado": "0",
       "reason": "Preámbulo: encuadre, no regulación"
+    },
+    {
+      "law": "instruccion-17-2025-ige-supervision-pec",
+      "article": "art-3",
+      "apartado": "3",
+      "reason": "Ruta de ITACA (PGA › documentación) para verificar las modificaciones del PEC: mención de pasada"
+    },
+    {
+      "law": "instruccion-3-2026-ige-gestion-economica",
+      "article": "art-3",
+      "apartado": "a",
+      "reason": "Habla del PGAA, el plan de actuación de la Inspección, no de la PGA del centro"
+    },
+    {
+      "law": "instruccion-3-2026-ige-gestion-economica",
+      "article": "anexo-1-f",
+      "apartado": "0",
+      "reason": "Preguntas F.5.a y F.6.a; se cita el nodo entero como efecto"
+    },
+    {
+      "law": "instruccion-3-2026-ige-gestion-economica",
+      "article": "anexo-2-f",
+      "apartado": "0",
+      "reason": "Criterios de las mismas preguntas F.5.a y F.6.a; se cita el cuestionario (anexo I, F)"
+    },
+    {
+      "law": "resolucion-pgaa-inspeccion-2026-2027",
+      "article": "anexo-2-1",
+      "apartado": "0",
+      "reason": "AP1 (supervisión y evaluación de centros) se desarrolla en la Instrucción 10/2026, limitada a Infantil, Primaria, ESO y Bachillerato: en 2026-2027 no alcanza a los conservatorios"
+    },
+    {
+      "law": "resolucion-pgaa-inspeccion-2026-2027",
+      "article": "apartado-1",
+      "apartado": "0",
+      "reason": "Habla del PGAA, el plan de actuación de la Inspección, no de la PGA del centro"
+    },
+    {
+      "law": "resolucion-pgaa-inspeccion-2026-2027",
+      "article": "apartado-2",
+      "apartado": "0",
+      "reason": "Habla del PGAA, el plan de actuación de la Inspección, no de la PGA del centro"
+    },
+    {
+      "law": "resolucion-pgaa-inspeccion-2026-2027",
+      "article": "apartado-3",
+      "apartado": "0",
+      "reason": "Habla del PGAA, el plan de actuación de la Inspección, no de la PGA del centro"
+    },
+    {
+      "law": "resolucion-pgaa-inspeccion-2026-2027",
+      "article": "anexo-1",
+      "apartado": "0",
+      "reason": "Habla del PGAA, el plan de actuación de la Inspección, no de la PGA del centro"
+    },
+    {
+      "law": "resolucion-pgaa-inspeccion-2026-2027",
+      "article": "anexo-3",
+      "apartado": "0",
+      "reason": "Habla del PGAA, el plan de actuación de la Inspección, no de la PGA del centro"
+    },
+    {
+      "law": "resolucion-pgaa-inspeccion-2026-2027",
+      "article": "anexo-6-1",
+      "apartado": "0",
+      "reason": "Habla del PGAA, el plan de actuación de la Inspección, no de la PGA del centro"
+    },
+    {
+      "law": "resolucion-pgaa-inspeccion-2026-2027",
+      "article": "anexo-6-2",
+      "apartado": "b",
+      "reason": "Habla del PGAA, el plan de actuación de la Inspección, no de la PGA del centro"
+    },
+    {
+      "law": "resolucion-pgaa-inspeccion-2026-2027",
+      "article": "anexo-6-2",
+      "apartado": "c",
+      "reason": "Habla del PGAA, el plan de actuación de la Inspección, no de la PGA del centro"
+    },
+    {
+      "law": "resolucion-pgaa-inspeccion-2026-2027",
+      "article": "anexo-6-2",
+      "apartado": "g",
+      "reason": "Habla del PGAA, el plan de actuación de la Inspección, no de la PGA del centro"
+    },
+    {
+      "law": "instruccion-7-2026-ige-pgaa",
+      "article": "preambulo",
+      "apartado": "0",
+      "reason": "Habla del PGAA, el plan de actuación de la Inspección, no de la PGA del centro"
+    },
+    {
+      "law": "instruccion-7-2026-ige-pgaa",
+      "article": "anexo-1",
+      "apartado": "0",
+      "reason": "Tabla de actuaciones habituales: se cita el anexo entero como efecto (HAB31)"
+    },
+    {
+      "law": "instruccion-7-2026-ige-pgaa",
+      "article": "anexo-2",
+      "apartado": "actuaciones-habituales-con-una-participa",
+      "reason": "Cronograma de las actuaciones habituales; la supervisión de la PGA se cita en el anexo I (HAB31)"
     }
   ]
 }

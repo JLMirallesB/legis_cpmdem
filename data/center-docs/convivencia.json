@@ -22,7 +22,7 @@
     "bienestar y proteccion",
     "benestar i proteccio"
   ],
-  "updatedAt": "2026-11-06",
+  "updatedAt": "2026-11-23",
   "refs": [
     {
       "law": "ley-organica-2-2006",
@@ -234,6 +234,24 @@
       "article": "preambulo",
       "apartado": "0",
       "reason": "Preámbulo; el protocolo atiende al personal agredido y no regula el plan de convivencia"
+    },
+    {
+      "law": "instruccion-17-2025-ige-supervision-pec",
+      "article": "anexo-1-tipo-ii-centros-integrados-fp",
+      "apartado": "proyecto-funcional-del-centro",
+      "reason": "Lista de comprobación de los centros integrados de FP (tipo II), no de conservatorios"
+    },
+    {
+      "law": "instruccion-17-2025-ige-supervision-pec",
+      "article": "anexo-1-tipo-iii-conservatorios",
+      "apartado": "proyecto-educativo",
+      "reason": "Ítem de la lista de comprobación del PEC del conservatorio: solo comprueba que el PEC lo recoge; está en la ficha del PEC (ítem 72, plan de convivencia)"
+    },
+    {
+      "law": "resolucion-pgaa-inspeccion-2026-2027",
+      "article": "anexo-2-1",
+      "apartado": "0",
+      "reason": "AP1 (supervisión y evaluación de centros) se desarrolla en la Instrucción 10/2026, limitada a Infantil, Primaria, ESO y Bachillerato: en 2026-2027 no alcanza a los conservatorios"
     }
   ],
   "related": [

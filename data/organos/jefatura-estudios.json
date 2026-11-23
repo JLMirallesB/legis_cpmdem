@@ -21,7 +21,7 @@
     "prefectura d'estudis",
     "cap d'estudis"
   ],
-  "updatedAt": "2026-11-06",
+  "updatedAt": "2026-11-23",
   "refs": [
     {
       "law": "circular-1-2026-ausencias",
@@ -488,6 +488,12 @@
         "anexo-8-3#8.3.1.3.d"
       ],
       "reason": "Menciones incidentales: la norma nombra la figura sin atribuirle nada"
+    },
+    {
+      "law": "instruccion-3-2026-ige-gestion-economica",
+      "article": "anexo-2-e",
+      "apartado": "0",
+      "reason": "Cuenta corriente del centro (firmas, entidades con convenio): mención de pasada, no atribuye funciones"
     }
   ],
   "titleTerms": [
