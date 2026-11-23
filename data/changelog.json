@@ -1,5 +1,63 @@
 [
   {
+    "version": "2.21.0",
+    "date": "2026-11-23",
+    "entries": {
+      "es": [
+        {
+          "type": "nuevo",
+          "description": "Resolución de 21 de julio de 2026 que aprueba el Plan general de actuación anual de la Inspección Educativa para el curso 2026-2027 (DOGV): objetivos, actuaciones prioritarias con su calendario, áreas de trabajo y formación. La actuación prioritaria de supervisión y evaluación de centros de este curso se limita a Infantil, Primaria, ESO y Bachillerato, así que no alcanza a los conservatorios."
+        },
+        {
+          "type": "nuevo",
+          "description": "Instrucción 7/2026 de la Inspección General de Educación, que desarrolla ese plan: las 59 actuaciones habituales de la Inspección (entre ellas, supervisar la PGA y la memoria final) y su calendario."
+        },
+        {
+          "type": "nuevo",
+          "description": "Instrucción de la Secretaría Autonómica de Educación sobre las incidencias de inicio del curso 2026-2027: cómo comunica la dirección a la inspección lo que impide abrir el centro o empezar las clases, con el enlace al formulario."
+        },
+        {
+          "type": "nuevo",
+          "description": "Instrucción 3/2026 de la Inspección General de Educación, de supervisión de la gestión económica de los centros públicos (curso 2025-2026), con el cuestionario que se pasa al centro y los criterios de revisión: ingresos y fondos europeos (F), gastos y facturas (G), tarjetas bancarias (E.8.e) y comisiones de servicio (I)."
+        },
+        {
+          "type": "nuevo",
+          "description": "Instrucción 17/2025 de la Inspección General de Educación, de supervisión del PEC (curso 2025-2026), con la lista de comprobación propia de los conservatorios profesionales de música y danza (ítems 61-80)."
+        },
+        {
+          "type": "mejora",
+          "description": "Las fichas del PEC, la PGA, la memoria final, el proyecto de gestión y la dirección recogen lo que revisa la Inspección según estas normas."
+        }
+      ],
+      "va": [
+        {
+          "type": "nou",
+          "description": "Resolució de 21 de juliol de 2026 que aprova el Pla general d'actuació anual de la Inspecció Educativa per al curs 2026-2027 (DOGV): objectius, actuacions prioritàries amb el calendari, àrees de treball i formació. L'actuació prioritària de supervisió i avaluació de centres d'este curs es limita a Infantil, Primària, ESO i Batxillerat, així que no arriba als conservatoris."
+        },
+        {
+          "type": "nou",
+          "description": "Instrucció 7/2026 de la Inspecció General d'Educació, que desenrotlla eixe pla: les 59 actuacions habituals de la Inspecció (entre elles, supervisar la PGA i la memòria final) i el calendari."
+        },
+        {
+          "type": "nou",
+          "description": "Instrucció de la Secretaria Autonòmica d'Educació sobre les incidències d'inici del curs 2026-2027: com comunica la direcció a la inspecció el que impedix obrir el centre o començar les classes, amb l'enllaç al formulari."
+        },
+        {
+          "type": "nou",
+          "description": "Instrucció 3/2026 de la Inspecció General d'Educació, de supervisió de la gestió econòmica dels centres públics (curs 2025-2026), amb el qüestionari que es passa al centre i els criteris de revisió: ingressos i fons europeus (F), despeses i factures (G), targetes bancàries (E.8.e) i comissions de servei (I)."
+        },
+        {
+          "type": "nou",
+          "description": "Instrucció 17/2025 de la Inspecció General d'Educació, de supervisió del PEC (curs 2025-2026), amb la llista de comprovació pròpia dels conservatoris professionals de música i dansa (ítems 61-80)."
+        },
+        {
+          "type": "millora",
+          "description": "Les fitxes del PEC, la PGA, la memòria final, el projecte de gestió i la direcció recullen el que revisa la Inspecció segons estes normes."
+        }
+      ]
+    }
+  },
+  {
     "version": "2.20.1",
     "date": "2026-11-22",
     "entries": {

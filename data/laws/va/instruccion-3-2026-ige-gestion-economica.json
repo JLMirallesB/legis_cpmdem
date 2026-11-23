@@ -1,0 +1,362 @@
+{
+  "id": "instruccion-3-2026-ige-gestion-economica",
+  "slug": "instruccion-3-2026-ige-gestion-economica",
+  "type": "instrucciones",
+  "number": "3/2026",
+  "date": "2026-01-23",
+  "publishedIn": {
+    "source": "CEICE",
+    "number": "3/2026",
+    "date": "2026-01-26",
+    "url": "",
+    "pdfUrl": "https://ceice.gva.es/documents/161863009/401225310/IGE%2BInstrucci%C3%B3%2B3-26.%2BSupervisi%C3%B3%2Bgesti%C3%B3%2Becon%C3%B2mica_firmado/496ff84c-e03a-287d-2ac3-f04485086ceb"
+  },
+  "title": "Instrucció 3/2026 de la Inspecció General d'Educació, per la qual s'establix el procediment d'actuació per a la supervisió de la gestió econòmica dels centres públics de titularitat de la Generalitat Valenciana en el curs 2025-2026",
+  "titleShort": "Instrucció 3/2026 IGE - Supervisió de la gestió econòmica 2025-2026",
+  "category": "economica",
+  "vigpiracy": {
+    "status": "vigente",
+    "statusLabel": "Vigent",
+    "effectiveDate": "2026-01-23"
+  },
+  "structure": [
+    {
+      "type": "preambulo",
+      "id": "preambulo",
+      "title": "Preàmbul",
+      "content": "La Llei 1/2015, de 6 de febrer, de la Generalitat, d'Hisenda Pública, del Sector Públic Instrumental i de Subvencions establix en l'article 92 que correspon a la Intervenció General de la Generalitat el control intern de la gestió econòmica i financera del sector públic de la Generalitat, a través dels seus servicis centrals o de les seues intervencions delegades.\n\nLa Llei 8/2023, de 27 de desembre, de Pressupostos de la Generalitat per a l'exercici 2024 establix en el seu article 13 que els centres docents públics no universitaris se sotmetran al control financer que establix el capítol III del títol VI de la Llei 1/2015, de 6 de febrer, de la Generalitat.\n\nLi llei orgànica 2/2006, de 3 de maig, d'Educació, en la seua redacció donada per la LOMLOE, establix entre les funcions de la Inspecció Educativa, en el seu article 151. “a) Supervisar, avaluar i controlar, des del punt de vista pedagògic i organitzatiu, el funcionament dels centres educatius, així com els projectes i programes que desenrotllen, amb respecte al marc d'autonomia que esta Llei empara”.\n\nAixí mateix, el seu article 153 establix com a atribució de la Inspecció Educativa “b) Examinar i comprovar la documentació acadèmica, pedagògica i administrativa dels centres”.\n\nEn el marc de la Comunitat Valenciana, el Decret 80/2017, de 23 de juny, del Consell, pel qual es regula l'actuació, el funcionament i l'organització de la Inspecció d'Educació de la Comunitat Valenciana i l'Orde 17/2019, de 16 d'abril, de la Conselleria d'Educació, Investigació, Cultura i Esport, per la qual es desenrotlla l'actuació, el funcionament i l'organització de la Inspecció d'Educació de la Comunitat Valenciana establixen com a funció de la inspecció educativa “b) Informar la pròpia administració per a la millora de la qualitat de l'ensenyança, tenint en compte els resultats de les avaluacions”.\n\nL'Orde de 18 de maig de 1995, de la Conselleria d'Educació i Ciència, delega en les direccions dels centres docents no universitaris de titularitat de la Generalitat Valenciana determinades facultats ordinàries en matèria de contractació i aprova les normes que regulen la gestió econòmica d'estos centres.\n\nLa Resolució de 17 d'octubre de 2023, de la Secretaria Autonòmica d'Educació, per la qual s'aprova el Pla plurianual de la Inspecció Educativa de la Comunitat Valenciana per al període 2023-2027, establix com a objectiu estratègic: “Potenciar la incidència de les actuacions de la Inspecció Educativa en la garantia de l'exercici dels drets i el compliment dels deures de tots els membres de la comunitat educativa, així com en la millora contínua del sistema educatiu de la Comunitat Valenciana, els seus centres, servicis i programes”. Així mateix, en el seu apartat 4 s'establix la supervisió del Projecte de Gestió i Règim Econòmic en els centres de titularitat de la Generalitat Valenciana com una de les actuacions a realitzar per a la implementació dels objectius estratègics del pla plurianual.\n\nD'acord amb l'anterior, la Resolució de 24 de juliol de 2025, de la Secretaria Autonòmica d'Educació, per la qual s'aprova el Pla general d'actuació anual de la Inspecció Educativa de la Comunitat Valenciana per al curs 2025-2026 establix com una de les actuacions prioritàries per al curs 2025-2026 la supervisió de la gestió econòmica dels centres de titularitat de la Generalitat Valenciana, a la qual atorga caràcter cíclic.\n\nEn el curs 2024-2025 es va completar el primer cicle de supervisió quadrianual de la gestió econòmica dels centres docents públics. D'acord amb les dades obtingudes al llarg d'este cicle, la realització d'esta supervisió ha permés millorar la gestió realitzada en els centres, la qual cosa s'ha reflectit en la progressiva disminució d'incidències i irregularitats en els diversos apartats avaluats. Per esta raó, és convenient iniciar un nou cicle de supervisió i mantindre el model d'informe utilitzat, que ha sigut valorat positivament per diversos òrgans de fiscalització financera i econòmica de l'administració de la Generalitat.\n\nAixí doncs, amb la finalitat d'assegurar el compliment de la normativa fins ací exposada i, d'acord amb el que s'establix en l'article 7.1. del Decret 38/2025, de 4 de març, del Consell, d'aprovació del Reglament orgànic i funcional de la Conselleria d'Educació, Cultura, Universitats i Ocupació, i l'article 4 de l'Orde 6/2025, de 9 d'abril, de la Conselleria d'Educació, Cultura, Universitats i Ocupació, per la qual es desenrotlla el Decret 38/2025, de 4 de març, de 2025, del Consell, d'aprovació del Reglament orgànic i funcional de la Conselleria d'Educació, Cultura, Universitats i Ocupació, es dicten les següents instruccions:"
+    },
+    {
+      "type": "articulo",
+      "id": "art-1",
+      "number": "1",
+      "title": "Primera. Objecte i àmbit de la supervisió",
+      "content": "L'objecte d'esta instrucció és regular el procediment d'actuació de la Inspecció Educativa per a la supervisió parcial de la gestió econòmica en els centres públics de titularitat de la Generalitat Valenciana, així com establir l'informe normalitzat i marcar orientacions per a esta actuació.\n\nEsta actuació, d'acord amb la Resolució de 24 de juliol de 2025, de la Secretaria Autonòmica d'Educació, per la qual s'aprova el Pla general d'actuació anual de la Inspecció Educativa de la Comunitat Valenciana per al curs 2025-2026 té caràcter cíclic, per la qual cosa es realitzarà sobre el 25% dels centres de la zona de supervisió de cada inspector i inspectora, de manera que es complete la totalitat de centres supervisats en un període de quatre anys.\n\nLa supervisió de la gestió econòmica es realitzarà, en tot cas, en centres que hagen tingut activitat docent durant tot l'any 2025."
+    },
+    {
+      "type": "articulo",
+      "id": "art-2",
+      "number": "2",
+      "title": "Segona. Objectius de l’actuació",
+      "content": "L'objectiu general d'esta actuació és impulsar la millora contínua dels centres educatius a través de la supervisió parcial realitzada sobre la gestió econòmica de centres educatius no universitaris en titularitat de la Generalitat Valenciana i l'assessorament per a la millora corresponent.\n\nAixí mateix, en la planificació i desenrotllament d'esta actuació es determinen els següents objectius específics:\n\na) Supervisar si la comptabilitat dels centres educatius es realitza d'acord amb el que s'establix en la normativa que regula la gestió econòmica dels centres docents públics no universitaris.\n\nb) Elaborar informes sobre la gestió econòmica dels centres supervisats a través de l'aplicació informàtica que s'habilite a este efecte.\n\nc) Detectar necessitats i realitzar propostes en matèria de formació permanent dirigida als equips directius per a la millora contínua de la gestió econòmica.\n\nd) Realitzar el seguiment del resultat de l'anterior supervisió de la gestió econòmica.\n\ne) Assessorar els equips directius en l'adequat compliment de les funcions relacionades amb la gestió econòmica dels centres, explicitades en el marc normatiu vigent, així com en l'adequació del projecte de gestió i de règim econòmic, si és el cas."
+    },
+    {
+      "type": "articulo",
+      "id": "art-3",
+      "number": "3",
+      "title": "Tercera. Procediment",
+      "content": "Els inspectors i les inspectores d'Educació realitzaran les actuacions necessàries que permeten una supervisió adequada de la gestió econòmica del 25% dels centres públics de la Generalitat de la seua zona d'actuació, amb un màxim de 5 centres. Queden exclosos d'esta supervisió els centres la gestió econòmica dels quals haja sigut supervisada durant el curs 2024-2025.\n\nEl procediment d'actuació s'estructura en les següents fases:\n\na) Determinació de centres a supervisar per part de cada inspector i inspectora.\n\nD'acord amb el PGAA del curs 2025-2026, es realitzarà una supervisió del 25% dels centres docents de la zona d'inspecció, amb un màxim de 5. Els centres docents seleccionats per a la seua supervisió en este curs es faran constar en el Pla d'actuació individualitzat (PAI), en la plataforma TEAMS, fins al 30 de gener de 2026.\n\nb) Autoavaluació dels centres\n\nLa Inspecció General d'Educació comunicarà esta actuació als centres objecte de supervisió i remetrà un enllaç a un formulari d'autoavaluació de la gestió econòmica. La direcció del centre realitzarà esta autoavaluació i remetran el document PDF resultant d'esta autoavaluació a la inspectora o l'inspector de zona a través del correu electrònic fins al 16 de febrer de 2026.\n\nc) Anàlisi de la informació i visita d'inspecció\n\nAnalitzada la informació disponible per mitjans electrònics i el formulari d'autoavaluació remés pels centres, es realitzarà visita al centre, amb la finalitat d'obtindre un coneixement real dels elements a supervisar relacionats amb esta instrucció. En esta visita l'inspector o la inspectora del centre podrà ser acompanyat per un altre inspectora o inspectora, previ coneixement i acceptació del seu coordinador/a.\n\nd) Elaboració d'informes\n\nL'informe de supervisió de la gestió econòmica dels centres corresponents es realitzarà fins al 31 de maig de 2026.\n\ne) Informar i assessorar els equips directius\n\nEn els centres docents en els quals es realitze la supervisió de la gestió econòmica de l'any 2025 s'informarà del procediment a seguir i es resoldran els dubtes previs que puguen plantejar-se per part dels equips directius.\n\nAixí mateix, una vegada emés l'informe, els inspectors i les inspectores comunicaran al centre docent les observacions sobre la gestió econòmica que consideren rellevants per a la seua millora, en la forma en què s'establisca en l'aplicació informàtica."
+    },
+    {
+      "type": "articulo",
+      "id": "art-4",
+      "number": "4",
+      "title": "Quarta. Model d’informe",
+      "content": "El model d'informe normalitzat és l'establit en l'annex I de la present instrucció.\n\nPer a la realització de l'informe s'accedirà a l'aplicació “Pla d'Actuació Individualitzat” de la plataforma TEAMS. Tota la informació referent a esta actuació estarà accessible en esta plataforma i en SHAREPOINT."
+    },
+    {
+      "type": "articulo",
+      "id": "art-5",
+      "number": "5",
+      "title": "Quinta. Coordinació",
+      "content": "La supervisió de la gestió econòmica dels centres seleccionats es realitzarà d'acord amb el marc normatiu vigent i els criteris que s'integren com a annex II, elaborats per la Inspecció General d'Educació en coordinació amb les Inspeccions Territorials."
+    },
+    {
+      "type": "articulo",
+      "id": "art-6",
+      "number": "6",
+      "title": "Sexta. Seguiment dels centres prèviament supervisats",
+      "content": "Independentment dels centres seleccionats per a la seua supervisió en el marc d'esta actuació, si en la supervisió de l'exercici 2024 es van detectar irregularitats o anomalies en la gestió econòmica d'algun centre docent de la seua zona d'intervenció, els inspectors i les inspectores comprovaran que s'han esmenat les anomalies o errors detectats en estos centres."
+    },
+    {
+      "type": "articulo",
+      "id": "art-7",
+      "number": "7",
+      "title": "Sèptima. Supervisió específica de centres",
+      "content": "La Inspecció General d'Educació podrà determinar la realització de la supervisió de la gestió econòmica en aquells centres docents en què es considere oportú, sense perjuí que s'haja realitzat en els exercicis anteriors."
+    },
+    {
+      "type": "articulo",
+      "id": "art-8",
+      "number": "8",
+      "title": "Octava. Informació a les inspeccions territorial",
+      "content": "Les inspeccions territorials d'Educació informaran del procediment, els terminis, el contingut de l'informe normalitzat i les orientacions a seguir per a garantir l'adequat desenrotllament d'esta actuació. Quan s'hagen produït canvis de centres docents i/o d'inspector o inspectora en una zona d'intervenció, les direccions del servici realitzaran les actuacions oportunes per a garantir que se supervisa la totalitat dels centres pendents de supervisió."
+    },
+    {
+      "type": "articulo",
+      "id": "art-9",
+      "number": "9",
+      "title": "Novena. Avaluació de l’actuació",
+      "content": "La Inspecció General d'Educació impulsarà l'avaluació per a la millora contínua de les actuacions inspectores. Per a això, s'inclouen en l'informe qüestions que permeten recaptar observacions i suggeriments sobre l'actuació."
+    },
+    {
+      "type": "articulo",
+      "id": "art-10",
+      "number": "10",
+      "title": "Dècima. Durada de les actuacions",
+      "content": "Les actuacions relacionades amb la supervisió de la gestió econòmica dels centres públics de la Generalitat es podran iniciar a partir de la firma d'estes instruccions i hauran d'haver finalitzat el 31 de maig de 2026."
+    },
+    {
+      "type": "anexo",
+      "id": "anexo-1",
+      "number": "I",
+      "title": "Annex I. Supervisió de la gestió econòmica respecte de l'exercici comptable de l'any 2025",
+      "children": [
+        {
+          "type": "seccion",
+          "id": "anexo-1-a",
+          "title": "A. IDENTIFICACIÓ DEL CENTRE",
+          "content": "**(A.1)** Codi del centre\n\n**(A.2)** Denominació del centre\n\n**(A.3)** Municipi del centre\n\n**(A.4)** NIF del centre\n\n**(A.5)** Número de Circumscripció"
+        },
+        {
+          "type": "seccion",
+          "id": "anexo-1-b",
+          "title": "B. INSTRUMENTACIÓ COMPTABLE: EL PRESSUPOST",
+          "content": "**(B.1)** En el moment en el qual es realitza la revisió econòmica, el PRESSUPOST...\n\n(Responga entre alguna d'estes 3 opcions: Sí / Hi ha un error. És necessari realitzar ajustos / No)\n\n**(B.1.a)** de 2026, s'ha aprovat fins al 30 de gener de 2026 per part del Consell Escolar?\n\n**(B.1.b)** s'ha remés còpia del pressupost de 2026 a la DT?\n\n**(B.1.c)** consten les actes del Consell Escolar on es tracten seguiments del pressupost anual de l'exercici 2025?\n\n**(B.1.d)** de 2025 s'han realitzat ajustos respecte al pressupost inicial?\n\n**(B.1.e)** en cas d'haver-se realitzat ajustos respecte al pressupost inicial, es va sotmetre a aprovació per part del Consell Escolar i es va remetre a la DT?"
+        },
+        {
+          "type": "seccion",
+          "id": "anexo-1-c",
+          "title": "C. INSTRUMENTACIÓ COMPTABLE: LLIBRES DE COMPTES",
+          "content": "**(C.1)** En el moment… (Responga entre alguna d'estes 3 opcions: Sí / Hi ha un error. És necessari realitzar ajustos / No)\n\n**(C.1.a)** en el qual es realitza la revisió econòmica, la comptabilitat del centre està assentada en el mòdul “gestió econòmica” d'ITACA?\n\n**(C.1.b)** Introduïsca el saldo del compte bancari del moment en què es realitza la revisió econòmica.\n\n(Resposta numèrica)\n\n**(C.1.c.)** Introduïsca el saldo del compte de gestió en ITACA del moment en què es realitza la revisió econòmica.\n\n(Resposta numèrica)\n\n**(C.2)** En el moment… (Responga entre alguna d'estes 3 opcions: Sí / Hi ha un error. És necessari realitzar ajustos / No)\n\n**(C.2.a)** de tancament de l'any comptable objecte de supervisió, està conciliat el llibre de registre del compte de gestió amb el compte d'ITACA?\n\n**(C.2.b)** Introduïsca el saldo del compte bancari en el moment de tancament de l'any comptable objecte de supervisió.\n\n(Resposta numèrica)\n\n**(C.2.c.)** Introduïsca el saldo del compte de gestió en ITACA bancària en el moment de tancament de l'any comptable objecte de supervisió.\n\n**(C.3)** es fan operacions en efectiu a través de la caixa? (Sí / No)\n\nSi el centre té caixa:\n\n**(C.3.a)** Introduïsca el saldo resultant de l'arqueig de caixa del moment en què es realitzarà la revisió econòmica.\n\n(Resposta numèrica)\n\n**(C.3.b)** està conciliat el llibre de registre de Caixa amb l'arqueig de l'efectiu existent en la caixa?\n\n(Responga Sí / No)\n\n**(C.3.c)** És coincident la quantitat del compte de gestió d'ITACA amb la suma del compte bancari i la caixa del moment en què es realitzarà la revisió econòmica?\n\n(Responga Sí / No)\n\n**(C.3.d)** Introduïsca la diferència de les dos quantitats.\n\n(Resposta numèrica)\n\n**(C.3.e)** Quina justificació per a esta diferència aporta la direcció del centre?\n\n(Resposta oberta) (Esta pregunta hauria de desaparéixer si la resposta a l'anterior és 0)\n\n**(C.3.f)** Existix arqueig de caixa registrat en el llibre de caixa en la data de tancament de l'exercici comptable objecte de la supervisió?\n\n(Responga Sí / No)\n\n(Si la resposta a la pregunta anterior és SI)\n\n**(C.3.g)** Introduïsca el saldo de l'arqueig de caixa de la data de tancament de l'exercici comptable objecte de la supervisió.\n\n**(C.3.h)** Són la direcció del centre i la persona secretària les úniques persones responsables de la utilització de la caixa?\n\n(Responga Sí / No)\n\n**(C.3.i)** Introduïsca la quantitat de persones responsables de la utilització de la caixa\n\n(Resposta numèrica) (Si la resposta a la pregunta anterior és SI, esta i la següent pregunta haurien de desaparéixer)\n\n**(C.3.j)** Quina justificació aporta la direcció del centre?\n\n(Resposta oberta)\n\n**(C.3.k)** Els fons de la caixa es custodien en una caixa forta o caixa sota clau?\n\n(Responga Sí / No)\n\nSi el centre NO té caixa:\n\n**(C.4)** És coincident la quantitat del compte de gestió en ITACA amb el compte bancari del moment en què es realitzarà la revisió econòmica?\n\n(Responga Sí / No)\n\n**(C.5)** Introduïsca la diferència de les dos quantitats.\n\n(Resposta numèrica) (Si la resposta a la pregunta anterior és SI, esta i la següent preguntes haurien de desaparéixer)\n\n**(C.6)** Quina justificació per a esta diferència aporta la direcció del centre?\n\n(Resposta oberta)"
+        },
+        {
+          "type": "seccion",
+          "id": "anexo-1-d",
+          "title": "D. INSTRUMENTACIÓ COMPTABLE: LES ACTES",
+          "content": "**(D.1)** Consten les actes del Consell Escolar on es tracten seguiments i aprovacions en el compte de gestió?\n\n(Responga Sí / No)\n\n**(D.2)** Consten les actes de la Comissió Econòmica on es tracten seguiments i aprovacions en el compte de gestió?\n\n(Responga Sí / No)\n\n**(D.3)** Es produïxen almenys trimestralment les reunions de la Comissió Econòmica i es traslladen les seues conclusions al Consell Escolar?\n\n(Responga Sí / No)\n\n**(D.4)** Especifique el motiu pel qual no es produïxen almenys trimestralment les reunions de la Comissió Econòmica i/o no es traslladen les conclusions al Consell Escolar.\n\n(Resposta oberta) (Esta pregunta hauria de desaparéixer si la resposta a l'anterior és SÍ)\n\n**(D.5)** En ocasió dels canvis de direcció, s'ha realitzat el traspàs de la documentació i l'acta diligenciada pel Consell Escolar amb el balanç de la situació econòmica?\n\n(Responga Sí / No / No s’ha donat la situació)\n\n**(D.6)** Especifique el motiu pel qual no s'ha realitzat el traspàs de la documentació i/o l'acta diligenciada pel Consell Escolar amb el balanç de la situació econòmica.\n\n(Resposta oberta)"
+        },
+        {
+          "type": "seccion",
+          "id": "anexo-1-e",
+          "title": "E. COMPTE CORRENT DEL CENTRE",
+          "content": "Relació d’entitats amb conveni:\n\n- Sabadell\n- BBVA\n- Caixabank\n- Cajamar\n   – Cajamar Caja Rural\n   – Caixa Rural Torrent\n   – Caixa Rural Vila-real\n   – Caixaltea\n   – Caixa Rural Burriana\n   – Caixa Rural Nules\n   – Caixacallosa\n   – Caixapetrer\n   – Caixalqueries\n   – Caixa Sant Vicent\n   – Caja Rural de Cheste\n   – Caixa Rural d‘Alginet\n   – Caja Rural de Villar\n   – Caixa Turís\n   – Caixa Rural Vilavella\n   – Caixa Rural Almenara\n   – Caixa Rural Vilafamés\n   – Caixa Rural Xilxes\n- IberCaja\n- Bankia\n- CaixaOntinyent\n- Banco de Santander\n- ABANCA\n- Caixa d'Enginyers\n- Banc Cooperatiu\n- Altres\n\nBANC COOPERATIU inclou: Caixa Rural Central, Caixa Popular, Caixa Rural de L’Alcúdia, Caixa Rural La Vall San Isidro, Caixa Rural l’Alcora, Caixa Rural d’Algemesí, Caixa Rural d’Almassora, Caixa Rural d’Onda, Caixa Rural Betxí, Caixa Rural d’Albal, Caixa Rural de Benicarló, Caixa Rural Vinaròs, Caixa Rural les Coves de Vinromà\n\n**(E.1)** Disposa el centre d'un únic compte bancari?\n\n(Responga Sí / No)\n\n**(E.2)** Indique l'entitat bancària d'este compte.\n\n(Resposta oberta)\n\n**(E.3)** Especifique el motiu pel qual disposa de més d'un compte.\n\n(Resposta oberta) (Esta pregunta hauria de desaparéixer si la resposta a E.1 és SI, també l'E.5 i E.6)\n\n**(E.4)** Indique l'entitat bancària del compte 1.\n\n(Resposta oberta)\n\n**(E.5)** Indique l'entitat bancària del compte 2.\n\n(Resposta oberta)\n\n**(E.6)** Quin saldo té el compte 2 en el moment en el qual es realitza la supervisió econòmica?\n\n(Resposta numèrica)\n\n**(E.7)** En el cas de tindre una entitat diferent de les que té conveni amb la Generalitat Valenciana per a la prestació de servicis financers, especifique el motiu.\n\n(Resposta oberta)\n\n**(E.8)** Revisant la documentació que arriba de l'entitat bancària i els ingressos o les transferències d'altres comptes, si n'hi ha, es constata que…\n\n(Responga Sí / No)\n\n**(E.8.a)** s’utilitza la banca electrònica?\n\n**(E.8.b)** revisades 5 factures, es comprova que estan acompanyades d'un registre de les ordes de transferència, tiquets o talons i es corresponen amb els seients del llibre del compte bancari?\n\n**(E.8.c)** les firmes en els mitjans de pagaments són mancomunades?\n\n**(E.8.d)** s'utilitza el talonari com a mitjà de pagament?\n\n**(E.8.e)** hi ha càrrecs efectuats amb una targeta bancària?\n\n**(E.8.f)** arxiven anualment en paper els llibres de gestió, de caixa i de compte corrent?\n\n**(E.9)** estan previstes les persones suplents per a les firmes mancomunades?\n\n(Responga Sí / No)\n\n**(E.10)** són les persones suplents que determina el ROF?\n\n(Responga Sí / No)\n\n**(E.11)** En cas d'utilitzar la banca electrònica, identifique els càrrecs unipersonals del centre amb accés a les claus electròniques.\n\nMarque les opcions que corresponguen.\n\n- Director/a\n- Vicedirector/a\n- Cap d’estudis 1\n- Cap d’estudis 2\n- Secretari/a\n- Vicesecretari/a\n- Persona encarregada del menjador escolar\n- Altre docent"
+        },
+        {
+          "type": "seccion",
+          "id": "anexo-1-f",
+          "title": "F. INGRESSOS",
+          "content": "**(F.1)** El registre dels Fons Europeus es consigna en el compte anual de gestió / estat lletra B?\n\n(Responga Sí / No / No es reben Fons Europeus)\n\n**(F.2)** En el compte anual de gestió / estat lletra B / recursos d'altres procedències, figuren els ingressos relatius a:\n\n(Responga entre alguna d'estes 3 opcions: No hi ha ingressos d'este tipus /Sí hi ha ingressos i estan registrats/ Sí que hi ha ingressos, però no estan ingressats)\n\n- Prestació de servicis\n- Llegats i donacions\n- Venda de béns\n- Interessos bancaris\n- Fons Europeus\n\nAltres fons finalistes de procedència diferent de la Generalitat\n\n**(F.3)** S'obtenen ingressos de l'alumnat per a conceptes derivats de la venda de béns i prestació de servicis diferents dels gravats per les taxes i els preus públics?\n\n(Responga Sí / No)\n\n**(F.4)** L’ingrés de la pregunta anterior\n\n(Responga Sí / No)\n\n**(F.4.a)** es registra en el llibre de gestió?\n\n**(F.4.b)** està aprovat pel Consell Escolar?\n\n**(F.4.c)** són ingressos que obeïxen a justificacions pedagògiques?\n\n**(F.5)** El centre realitza activitats complementàries? (Sí / No)\n\nActivitats complementàries:\n\n(Responga Sí / No)\n\n**(F.5.a)** Estan incloses en la PGA?\n\n**(F.5.b)** Hi ha ingressos per activitats complementàries?\n\n**(F.5.c)** Hi ha registres comptables sobre les activitats complementàries realitzades?\n\n**F.5.d)** Hi ha finalitat lucrativa en el desenrotllament de les activitats complementàries? (la quantitat cobrada a les famílies supera en més d'un 10% els gastos ocasionats per la realització d'estes)\n\n**(F.5.e)** Se satisfan conforme a norma les quantitats econòmiques en concepte de comissió per raó de servici al personal docent o no docent quan estos participen en activitats complementàries? (únicament quan les activitats ocasionen gastos de desplaçament o es desenrotllen més enllà de la finalització de la jornada escolar).\n\n**(F.5.f)** El registre de les activitats complementàries, quan hi ha aportacions externes, es consignen en la costa anual de gestió / estat lletra B?\n\n**(F.6)** El centre realitza activitats extraescolars? (Sí / No)\n\nActivitats extraescolars:\n\n(Responga Sí / No)\n\n**(F.6.a)** Estan incloses en la PGA?\n\n**(F.6.b)** Hi ha ingressos per activitats extraescolars?\n\n**(F.6.c)** Hi ha registres comptables sobre les activitats extraescolars registrades?\n\n**(F.6.d)** Hi ha una finalitat lucrativa en el desenrotllament de les activitats extraescolars? (la quantitat cobrada a les famílies supera en més d'un 10% els gastos ocasionats per a la realització d'estes)\n\n**(F.6.e)** El registre de les activitats extraescolars, quan hi ha aportacions externes, es consignen en el compte anual de gestió / estat lletra B?\n\n**(F.7)** El centre desenrotlla activitats extraescolars realitzades en la jornada escolar fora de l'horari lectiu, en el marc de l'Orde 9/2022? (Sí / No)\n\nSi la resposta és afirmativa…\n\n(Responga Sí / No)\n\n**(F.7.a)** Les activitats extraescolars realitzades en la jornada escolar fora de l'horari lectiu, en el marc d'esta Orde 9/2022, han sigut aprovades pel Consell Escolar del Centre i estan dins del Programa anual d'activitats complementàries i extraescolars i servicis complementaris, amb referència expressa al seu cost, si és el cas?\n\n**(F.7.b)** En el cas que les activitats extraescolars tinguen cost econòmic per a l'alumnat, este cost ha sigut aprovat pel Consell Escolar del Centre?\n\n**(F.8).** ¿ El centre rep ingressos per participació en programes d'innovació de la Direcció general d'inclusió i innovació educativa? (Sí/No)\n\n(Responga Sí/No)\n\n**(F.8.a).** En cas de rebre ingressos per este concepte, estan comptabilitzats en el compte de gestió en ITACA 3?"
+        },
+        {
+          "type": "seccion",
+          "id": "anexo-1-g",
+          "title": "G. GASTOS",
+          "content": "**(G.1)** En relació amb les factures corresponents a l'exercici 2025, tenint en compte diferents registres seleccionats de la documentació aportada en el moment de la visita.\n\n(Responga entre alguna d'estes 4 opcions: La totalitat / Algun cas no consta i és esmenable / Algun cas no consta i és difícilment esmenable / No el fan mai o no ho fan amb regularitat)\n\n**(G.1.a)** estan arxivades en orde cronològic de recepció?\n\n**(G.1.b)** es registren en ITACA les factures pendents de pagament?\n\n**(G.1.c)** tots els gastos es correlacionen amb factures, o factures simplificades? (quan corresponga)\n\n**(G.1.d)** estan degudament formalitzades? (dades de l'empresa, IVA diferenciat, segellades i firmades)\n\n**(G.1.e)** estan degudament registrades amb el concepte i apartat adequat de la comptabilitat d'ITACA?\n\n**(G.1.f)** contemplen clarament el concepte del gasto?\n\n**(G.1.g)** hi ha assentaments comptables que inclouen més d'una factura (en bloc)?\n\n**(G.1.h)** els gastos es corresponen amb la finalitat educativa i de manteniment de les instal·lacions?\n\n**(G.1.i)** contenen la data, el mètode de pagament i la conformitat del gasto?\n\n**(G.2)** Seleccione 10 gastos inclosos en el concepte “altres”, “gastos varis”, “material d'oficina”, o “treballs realitzats per uns altres”. Verifique que es justifiquen amb factura correcta (amb data i Vistiplau de l'adreça del pagament) i, si és el cas, s'apliquen les oportunes retencions d'IRPF.\n\n(Resposta oberta)\n\n**(G.3)** Obtinga l'import a data 01/01/2026 de les factures pendents de pagament.\n\n(Resposta numèrica)\n\n**(G.4)** S'utilitza el sistema de facturació electrònica amb els proveïdors?\n\n(Responga Sí / No)\n\n**(G.5)** El centre té gastos superiors a 1.803,04 euros, per obres, subministraments i assistències o servicis (sense IVA)? (Sí / No) (Si la resposta és NO, es passa a la pregunta G.6)\n\n**(G.5.a)** Nombre d'apunts comptables corresponents a gastos superiors a 1.803,04 euros, per obres, subministraments i assistències o servicis (sense IVA).\n\n(Resposta numèrica)\n\nEn relació amb la pregunta anterior\n\n(Responga entre alguna d'estes 2 opcions: En la totalitat dels casos / Hi ha algun cas d'incompliment esmenable)\n\n**(G.5.b)** s'ha obert un expedient d'adjudicació per cada apunt comptable segons la norma quinta de l'Orde de 18 de maig de 1995?\n\n**(G.5.c)** s'han presentat tres pressupostos al Consell Escolar i s'ha aprovat el menor import?\n\n**(G.5.d)** s'han comunicat a la Direcció Territorial?\n\n**(G.6)** Els gastos destinats a reparacions, que van excedir el mer manteniment del centre i els destinats a l'adquisició de mobiliari i equips didàctics en l'exercici 2025…\n\n(Responga Sí / No / No s’ha donat el cas)\n\n**(G.6.a)** queda suficientment acreditat que s'han cobert la resta de les obligacions ordinàries del centre, prèviament a esta mena de gasto?\n\n**(G.6.b)** sobrepassen la quantitat de 75.000 euros?\n\n**(G.6.c)** en el cas excepcional de realitzar obres de reparacions que incrementen en 75.000 euros l'import especificat en l'ítem anterior (75.000 euros), s'ha demanat autorització a la Direcció Territorial?\n\n**(G.7)** El centre realitza el model 347 de declaració anual d'operacions amb terceres persones?\n\n(Responga Sí / No)\n\n**(G.8)** Es realitzen contractes a nom del centre per períodes superiors a l'any? (rènting fotocopiadores, manteniment informàtic, ascensor, etc.).\n\n(Responga Sí / No)\n\n**(G.9)** Especifique el cas i el motiu.\n\n(Resposta oberta)"
+        },
+        {
+          "type": "seccion",
+          "id": "anexo-1-h",
+          "title": "H. INVENTARI DE BÉNS",
+          "content": "**(H.1)** Trie la resposta adequada per a cada entrada:\n\n(Responga entre alguna d'estes 6 opcions: Sí, anual / Sí, biennal / Sí, quadriennal / Sí, en cada canvi de Direcció / Sí, però sense protocol de periodicitat / No)\n\n**(H.1.a)** Es manté un registre d'inventari actualitzat?\n\n**(H.1.b)** Tenen com a política efectuar inventaris físics periòdicament?\n\n**(H.2)** Trie la resposta adequada per a cada entrada:\n\n(Responga entre alguna d'estes 3 opcions: Satisfactori / Satisfactori parcialment / No satisfactori)\n\n**(H.2.a)** Disposem d'un sistema per a etiquetar els béns inventariables?\n\n**(H.2.b)** Es deixa constància dels recomptes físics duts a terme respecte a l'inventari?\n\n**(H.3)** Seleccione aleatòriament tres elements inventariats i verifique la seua existència física. El resultat ha sigut…\n\n(Resposta oberta)\n\n**(H.4)** Trie quatre apunts dels grups 6.2 o 6.3 de l'Orde de 18 de maig de 1995 (mobiliari i equip) i comprove que els articles adquirits han sigut assentats en l'inventari. El resultat ha sigut…\n\n(Resposta oberta)"
+        },
+        {
+          "type": "seccion",
+          "id": "anexo-1-i",
+          "title": "I. INDEMNITZACIONS PER RAÓ DEL SERVICI",
+          "content": "**(I.1)** Respecte als indemnitzacions per raó del servici…\n\n(Responga entre alguna d'estes 4 opcions: No es produïxen / Es produïxen però no es registren / Es produïxen i es registren però amb errors esmenables / Es produïxen i es registren correctament conformades)\n\n**(I.1.a)** les eixides del centre pel personal treballador per a la realització de servicis?\n\n(Únicament en el cas d'existir)\n\n**(I.1.b)** s'autoritzen de manera prèvia a la seua realització? (Únicament en el cas d'existir)\n\n**(I.1.c)** les quantitats lliurades per estos conceptes són les legalment establides?"
+        },
+        {
+          "type": "seccion",
+          "id": "anexo-1-j",
+          "title": "J. SEGUR ESCOLAR",
+          "content": "Només centres amb alumnat matriculat a partir de 3r d'ESO o equivalent, fins als 28 anys.\n\n**(J.1)** S'ha liquidat el segur escolar obligatori?\n\n(Responga Sí / No / No és aplicable en este centre)\n\n**(J.2)** Es realitza de manera telemàtica?\n\n(Responga Sí / No / No és aplicable en este centre)"
+        },
+        {
+          "type": "seccion",
+          "id": "anexo-1-k",
+          "title": "K. MENJADOR ESCOLAR",
+          "content": "**(K.1)** Disposa de menjador escolar en les seues dependències?\n\n(Responga Sí / No)\n\n**(K.2)** Manera de gestionar el menjador escolar. Contractació del servici de menjador mitjançant…\n\n(Marque l'opció que corresponga)\n\n- el subministrament i elaboració de menjars en el centre educatiu, a càrrec d'una empresa d'alimentació.\n- el subministrament de menjars elaborats en cuines centrals i transportades al centre educatiu, a càrrec d'una empresa d'alimentació.\n\n**(K.3)** Trie la resposta adequada per a cada entrada.\n\n(Responga Sí / No)\n\n**(K.3.a)** Existix el pressupost del menjador escolar?\n\n**(K.3.b)** Està aprovat el pressupost del menjador escolar pel Consell Escolar?\n\n**(K.3.c)** S'ha actualitzat el compte del menjador escolar a data d'1 de setembre?\n\n**(K.3.d)** Es cobra el mateix preu als comensals habituals i als esporàdics?\n\n**(K.3.e)** El preu cobrat es troba dins del límit màxim establit en la normativa?\n\n**(K.3.f)** Es manté un registre de comptes a cobrar de persones usuàries de menjador?\n\n**(K.3.g)** Els pagaments es realitzen en funció dels dies efectius de prestació del servici i amb conformitat amb els imports establits en les corresponents instruccions?\n\n**(K.3.h)** En cas d'absències convenientment justificades, es retorna el 100% dels servicis no prestats?\n\n**(K.3.i)** Es cobra l'import per menú servit al personal usuari del menjador que no pertany a l'alumnat del centre (docents, personal, etc.)?\n\n**(K.3.j)** Es realitzen retencions d'IRPF a les persones que exercixen càrrecs de menjador en els pagaments?\n\n**(K.3.k)** S'emplenen els models 111 (trimestral) i 190 (anual) relacionats amb la retenció de l'IRPF del personal?\n\n**(K.3.l)** El centre té superàvit de menjador?\n\n**(K.3.m)** La persona que exercix la secretaria rep compensació econòmica per servicis prestats en el menjador?\n\n**(K.3.n)** Existixen “gratuïtats” concedides per l'empresa que presta el servici?\n\n**(K.4)** Mitjana mensual aproximada de comensals.\n\n(Resposta numèrica)\n\n**(K.5)** Import diari cobrat als comensals habituals.\n\n(Resposta numèrica)\n\n**(K.6)** Import diari cobrat als comensals esporàdics.\n\n(Resposta numèrica)\n\n**(K.7)** S'ha incrementat el preu màxim per comensal, prèvia autorització de la Direcció General competent?\n\n**(K.8)** El preu cobrat s'establix de manera diària o mensual?\n\n(Marque l’opció que corresponga)\n\n- Diària\n- Mensual\n\n**(K.9)** Sobre la facturació: …\n\n(Responga entre alguna d'estes 3 opcions: Resultat satisfactori / Resultat satisfactori parcial / No satisfactori)\n\n**(K.9.a)** La facturació realitzada per l'empresa subministradora del servici de menjador és conforme a les condicions pactades en la contractació: nombre de persones monitors i preu del menú?\n\n**(K.9.b)** Hi ha contractes de persones monitores inferiors a 2 hores?\n\nEn cas afirmatiu, (K.9.c) disposen de l’autorització de la DT?\n\n**(K.9.d)** Les factures expliciten el període facturat correctament?\n\n**(K.9.e)** Les factures expliciten el concepte facturat correctament?\n\n**(K.9.f)** El total de menús facturats mensualment coincidixen amb el nombre de comensals introduïts en ITACA?\n\n**(K.9.g)** S'admeten factures en suport paper?\n\n**(K.9.h)** Es troben correctament comptabilitzades les factures segons els comptes i subcomptes habituals en ITACA? (22617 – Menjador escolar, 226171 - Empresa d'alimentació...)\n\n**(K.9.i)** Existixen factures de les empreses d'alimentació i personal monitor pendents de pagament, havent-hi saldo suficient en el centre?"
+        },
+        {
+          "type": "seccion",
+          "id": "anexo-1-l",
+          "title": "L. OBSERVACIONS",
+          "content": "En este apartat es poden consignar totes aquelles observacions que es consideren rellevants, distingint entre un apartat d'observacions relatives a la gestió econòmica del centre docent supervisat, per a la seua millora, i un altre apartat per a observacions i suggeriments per a la millora de l'actuació en si mateixa.\n\nL1. Observacions sobre la supervisió de la gestió econòmica del centre docent:\n\nSeleccione el bloc o blocs sobre els quals vol realitzar les observacions:\n\nB. INSTRUMENTACIÓ COMPTABLE: EL PRESSUPOST\nC. INSTRUMENTACIÓ COMPTABLE: LLIBRES DE COMPTES\nD. INSTRUMENTACIÓ COMPTABLE: LES ACTES\nE. COMPTE CORRENT DEL CENTRE\nF. INGRESSOS\nG. GASTOS\nH. INVENTARI DE BÉNS\nI. INDEMNITZACIONS POR RAÓ DEL SERVICI\nJ. SEGUR ESCOLAR\nK. MENJADOR ESCOLAR\n\nL2. Observacions i suggeriments sobre l’actuació.\n\nSeleccione el bloc o blocs sobre els quals vol realitzar les observacions:\n\nB. INSTRUMENTACIÓ COMPTABLE: EL PRESSUPOST\nC. INSTRUMENTACIÓ COMPTABLE: LLIBRES DE COMPTES\nD. INSTRUMENTACIÓ COMPTABLE: LES ACTES\nE. COMPTE CORRENT DEL CENTRE\nF. INGRESSOS\nG. GASTOS\nH. INVENTARI DE BÉNS\nI. INDEMNITZACIONS PER RAÓ DEL SERVICI\nJ. SEGUR ESCOLAR\nK. MENJADOR ESCOLAR\n\nSi desitja realitzar observacions i suggeriments de millora, este apartat només haurà d'emplenar-lo en un dels centres supervisats.\n\nGràcies per la seua col·laboració."
+        }
+      ]
+    },
+    {
+      "type": "anexo",
+      "id": "anexo-2",
+      "number": "II",
+      "title": "Annex II. Criteris per a l'emplenament del qüestionari de supervisió parcial de la gestió econòmica en centres docents públics no universitaris",
+      "content": "**INSTRUMENTACIÓ COMPTABLE**",
+      "children": [
+        {
+          "type": "seccion",
+          "id": "anexo-2-b",
+          "title": "B. INSTRUMENTACIÓ COMPTABLE: EL PRESSUPOST",
+          "content": "| B. INSTRUMENTACIÓ COMPTABLE: EL PRESSUPOST | Referent normatiu abreujat i criteris per a la supervisió |\n|---|---|\n| (B.1.a) de 2026, s'ha aprovat fins al 30 de gener de 2026 per part del Consell Escolar? (B.1.b) s'ha remés còpia del pressupost de 2026 a la DT? (B.1.c) consten les actes del Consell Escolar on es tracten seguiments del pressupost anual de 2025? (B.1.d) s'han realitzat ajustos respecte al pressupost inicial? (B.1.e) en cas d'haver-se realitzat ajustos respecte al pressupost inicial, s'ha sotmés a aprovació per part del Consell Escolar i es va remetre a la DT? | - Decret 253/2019- INF-PRIM.: - art 27, g) - art 63. - Decret 252/2019- SECUND.: - art 28, g) - art 78. - Orde 18 de maig de 1995, norma tercera. CRITERI: Comprovació d'actes de Comissió Econòmica i Consell Escolar. Comprovar si després de rebre quantitats importants extraordinàries, s'ha fet una modificació pressupostària. |"
+        },
+        {
+          "type": "seccion",
+          "id": "anexo-2-c",
+          "title": "C. INSTRUMENTACIÓ COMPTABLE: LLIBRES DE COMPTES",
+          "content": "| C. INSTRUMENTACIÓ COMPTABLE: LLIBRES DE COMPTES | Referent normatiu abreujat i criteris per a la supervisió |\n|---|---|\n| (C.1.a) La comptabilitat del centre, està assentada en el mòdul “gestió econòmica d'ITACA? | - Decret 51/2011, sistema de comunicació de dades a la Conselleria (ITACA), annex I. - Resolució de 14 de setembre de 2010 s'aprova el sistema ITACA. - Decret 252/2019 Art. 80.2 i Decret 253/2019, Art. 65.2 |\n| (C.2.a) En el tancament comptable de l'exercici supervisat, està conciliat el llibre de registre del compte de gestió amb el compte d'ITACA? (C.3.b) Està conciliat el llibre del registre de caixa amb l'arqueig de l'efectiu existent en la caixa? (C.3.c) És coincident la quantitat del compte de gestió en ITACA amb la suma del compte bancari i la caixa del moment en el qual es realitza la revisió econòmica? (C.3.f) Existix arqueig de caixa registrat en el llibre de caixa en la data de tancament de l'exercici comptable objecte de la supervisió? | -Norma novena de l'Orde de 18 de maig de 1995. Instrumentació comptable. CRITERI: Es realitzarà la conciliació de manera periòdica, és aconsellable que en el moment de la visita estiga actualitzada la comptabilitat perquè estiga tot conciliat. |\n| (C.3.h) Són la direcció del centre i la persona secretària les úniques persones responsables de la utilització de la caixa? (C.3.i) Introduïsca la quantitat de persones responsables de la utilització de la caixa. | Decret 253/2019 Art. 18 i 21. Decret 252/2019 Art. 17 i 21. |\n| (C.3.j) Quina justificació aporta la direcció del centre? |  |\n| (C.3.k) Els fons de la caixa, es custodien en una caixa forta o caixa sota clau? | Es recomana, almenys, una caixa sota clau. |"
+        },
+        {
+          "type": "seccion",
+          "id": "anexo-2-d",
+          "title": "D. INSTRUMENTACIÓ COMPTABLE: LES ACTES",
+          "content": "| D. INSTRUMENTACIÓ COMPTABLE: LES ACTES | Referent normatiu abreujat i criteris per a la supervisió |\n|---|---|\n| (D.1 y D.2) Consten les actes del Consell Escolar i Comissió Econòmica on es tracten seguiments i aprovacions en el compte de gestió? (D.3) Es produïxen almenys trimestralment les reunions de la Comissió Econòmica i es traslladen les seues conclusions al Consell Escolar? | - Llei Orgànica 3/2020 (LOMLOE) - Art. 127 m) - Norma sèptima de l’Orde 18/5/95 - Decret 253/2019- INF-PRIM.: - Art. 30 (constitució comissions) - Art. 63 (pressupost) - Decret 252/2019- SECUND.: - Art. 31 (constitució comissions) - Art. 78 (pressupost) |\n| (D.5 y D.6) En ocasió dels canvis de direcció del centre, s'ha realitzat el traspàs de la documentació i l'acta diligenciada pel Consell Escolar amb el balanç de la situació econòmica? | - Norma onzena de l'Orde 18/5/95. CRITERI: Comprovació de l'existència de l'acta i documents de l'estat de comptes, en el moment de fer el traspàs entre la direcció entrant i sortint. |"
+        },
+        {
+          "type": "seccion",
+          "id": "anexo-2-e",
+          "title": "E. COMPTE CORRENT DEL CENTRE",
+          "content": "| E. COMPTE CORRENT DEL CENTRE | Referent normatiu abreujat i criteris per a la supervisió |\n|---|---|\n| (E.1) Disposa el centre d'un únic compte bancari? | - Norma octava de l’Orde 18/5/95. CRITERI: En el cas de ser més d’1, seria convenient justificar el motiu. |\n| (E.2) Indique l’entitat. | -Comunicat S.DG. Tresoreria 01/2017. CRITERI: Comprovar que es corresponen ambdues, que tenen contracte de Servicis financers amb GVA i si és una entitat diferent especifique el motiu. |\n| (E.8.a) S'utilitza la banca electrònica? | -Comunicat S.DG. Tresoreria 01/2017. CRITERIS: -Només entitats amb contracte de servicis financers amb la Generalitat. La Tresoreria de la Generalitat paga una tarifa plana a les entitats vinculades que inclou manteniment i administració de comptes i Banca Electrònica gratuïta. -Si les entitats amb contracte de servicis financers han fet cobraments en els centres, és necessari reclamar la devolució de les comissions. |\n| (E.8.b) Revisades 5 factures, es comprova que estan acompanyades d'un registre de les ordes de transferència, tiquets o talons i es corresponen amb els seients del llibre del compte bancari? | -Norma novena (Orde 18/05/1995) Instrumentació comptable. |\n| (E.8.c) Les firmes en els mitjans de pagament són mancomunades? (E.9) Estan previstes les persones suplents per a les firmes mancomunades? (E.10) Són les persones suplents que determina el ROF? | - Decret 253/2019 Art. 14 i del Decret 252/2019 Art. 13 - Norma octava de l’Orde 18/5/95. |\n| (E.8.d) S'utilitza el talonari com a mitjà de pagament? | CRITERI: Si existixen, comprovar que no hi ha firmats en blanc o amb la firma d'una persona. |\n| (E.8.f) Arxiven anualment en paper els llibres de gestió, de caixa i de compte corrent? | -Norma onzena (Orde 18/05/1995) CRITERIS: - És necessari disposar dels llibres comptables: compte de gestió, llibre de compte corrent i llibre de caixa. -Caldria informar que la documentació comptable ha de custodiar-se indefinidament. |\n| (E.8.e) Existixen càrrecs efectuats amb una targeta bancària? | -Comunicat Tresoreria 01/2017 CRITERIS: - Els centres educatius no poden contractar targetes bancàries. - Si n'hi haguera no es compliria la norma octava de l'Orde 18/05/1995. |\n| (E.11) En cas d'utilitzar la banca electrònica, identifique els càrrecs unipersonals del centre amb accés a les claus electròniques: Director/a - Vicedirector/a - Cap d’estudis 1 – Cap d’estudis 2 - Secretari/a - Vicesecretari/a - Persona encarregada del menjador escolar – Un altre/a docent | CRITERIS: - Haurien d'ajustar-se a les suplències previstes en el Decret 253/2019 Art. 14 i en el Decret 252/2019 Art. 13 -Haurien de coincidir amb les persones autoritzades i amb firma mancomunada. |"
+        },
+        {
+          "type": "seccion",
+          "id": "anexo-2-f",
+          "title": "F. INGRESSOS",
+          "content": "| F. INGRESSOS | Referent normatiu abreujat i criteris per a la supervisió |\n|---|---|\n| (F.1) El registre dels Fons Europeus es consigna en el compte anual de gestió / estat lletra B? | -Orde 18/05/1995, norma sèptima. CRITERI: - El recurs serà de tipus \"B\", ja que l'ingrés prové d'una altra entitat que no és Conselleria. |\n| (F.2) En el compte anual de gestió / estat lletra B / recursos d'altres procedències, figuren els ingressos relatius a: Prestació de servicis Llegats i donacions Venda de béns Interessos bancaris Fons Europeus Altres fons finalistes de procedència distinta a la Generalitat. | -Orde 18/05/1995 i Llei de Pressupostos de la Generalitat 10/2019 i 4/2020, Article 10. CRITERIS: - Prestació de servicis i venta de béns: només de manera excepcional i a conseqüència de l'exercici de la docència en el seu vessant pràctic. - Llegats i donacions de qualsevol forma admissible en dret. - Interessos bancaris: Aquells que es deriven del compte corrent bancari. No està permés contractar altres productes financers. - Fons europeus, Ex: Proj. ERASMUS+. -Altres fons finalistes de procedència diferent de Generalitat, Ex: Progr. PROA+. |\n| (F.3) S'obtenen ingressos de l'alumnat per conceptes derivats de la venda de béns i prestació de servicis distints als gravats per les taxes i els preus públics? (F.4.a) Es registra en el llibre de gestió? (F.4.b) Està aprovat en el Consell Escolar? (F.4.c) Són ingressos que obeïxen a justificacions pedagògiques? | - Orde 18/05/1995 i Llei de Pressupostos de la Generalitat 10/2019 i 4/2020, Art. 10. CRITERIS: - Els centres no poden cobrar a l'alumnat cap quantitat pels sobres de documentació per a la matrícula, ni cap altra que no estiga degudament regulada per normativa (taxa o preu públic). Així queda establit en el Decret 48/2024 (Art. 3.3) pel qual es regula l'admissió en els centres docents públics i privats concertats, determinant-se en el mateix la prohibició de percebre quantitats de les famílies per les ensenyances de caràcter gratuït, així com d'aportacions en concepte de matrícula o reserva de plaça. - En cas d'existir cobraments (amb la justificació pedagògica i l'aprovació del CE), haurien d'identificar-se a les persones que realitzen els ingressos de manera individual. Es recomana tindre la relació de persones que han realitzat els ingressos registrats. |\n| (F.5) Activitats complementàries (F.5.a) Estan incloses en la PGA? (F.5.b) Hi ha ingressos per a activitats complementàries? (F.5.c) Hi ha registres comptables sobre les activitats complementàries realitzades? (F.5.d) Existix finalitat lucrativa en el desenrotllament de les activitats complementàries? (la quantitat cobrada a les famílies supera en més d'un 10% els gastos ocasionats per a la realització d'estes) | - Decret 253/2019 Art. 57 i en el Decret 252/2019 Art. 72. - Resolucions d'inici de curs 2024-2025 i 2025- 2026 (Apartats 4.2.1.8 Primària i 4.2.1.9 Secundària). CRITERIS: - Si el centre disposa de saldo positiu no hauria de cobrar-se a les famílies. - Estes activitats haurien de ser amb caràcter general gratuïtes i assumides pel centre amb l'estat de la lletra A (Recursos de Conselleria). - En cas de cobrar a les famílies és un recurs de tipus \"B\", ja que és d'una altra procedència diferent de Conselleria. Es considera prestació de servicis. |\n| (F.5.e) Se satisfan conforme a norma les quantitats econòmiques en concepte de comissió per raó de servici al personal docent o no docent quan estos participen en activitats complementàries? (Únicament quan les activitats ocasionen gastos de desplaçament o es desenrotllen més enllà de la finalització de la jornada escolar). | Veure l’apartat G d’este document. |\n| (F.5.f) El registre de les activitats complementàries quan hi ha aportacions externes es consignen en el compte anual de gestió/estat lletra B ? | - Orde 18/05/1995. |\n| (F.6) Activitats extraescolars (F.6.a) Estan incloses en la PGA? (F.6.b) Hi ha ingressos per activitats extraescolars? (F.6.c) Existixen registres comptables sobre les activitats extraescolars realitzades? (F.6.d) Existix finalitat lucrativa en el desenrotllament de les activitats extraescolars? (la quantitat cobrada a les famílies supera en més d'un 10% els gastos ocasionats per a la realització de les mateixes) (F.6.e) El registre de les activitats extraescolars quan hi ha aportacions externes es consignen en el compte anual de gestió/estat lletra B? | - Resolucions d’inici de curs 2024-2025 i 2025- 2026 (Apartats 4.2.1.8 Primària i 4.2.1.9 Secundària) - Decret 253/2019 Art. 58 i en el Decret 252/2019 Art. 73 CRITERIS: - El recurs serà de tipus \"B\", ja que és d'una altra procedència diferent de Conselleria. Es considera prestació de servicis. Es realitzen fora del període lectiu i són voluntàries per a les famílies i no han de tindre ànim de lucre. |\n| (F.7) En els centres de infantil i primària amb jornada contínua autoritzada, (F.7.a) Les activitats extraescolars realitzades en la ornada escolar fora de l’horari lectiu han sigut aprovades pel Consell Escolar del centre i estan dins del Programa anual d’activitats complementàries i extraescolars i servicis complementaris? (F.7.b) En el cas que les activitats extraescolars tinguen cost econòmic per a l’alumnat, este cost ha sigut aprovat pel Consell Escolar del Centre? | - Resolucions d’inici de curs d’infantil i primària 2024-2025 i 2025-2026, Apartat 4.2.1.8. - Decret 253/2019 (Art 58) Oferta obligada. - ORDE 9/2022, de 25 de febrer (Art 4) CRITERIS: - Es tracta de veure si estes activitats estan referides en el PAACESC i, en cas que alguna tinga cost econòmic, si este cost ha sigut aprovat pel Consell Escolar del centre. |\n| (F.8). El centre rep ingressos per participació en programes d’innovació de la Direcció general d’innovació i inclusió educativa? (Responga Sí/No) (F.8.a). En cas de rebre ingressos per este concepte, estan comptabilitzats en el compte de gestió en ITACA 3? | - Llistat de centres participants en els diferents programes d’innovació facilitat per la DGIIE (SHAREPOINT). - Els programes “Alimentació Saludable”, “PCT MATE” y “PROA+” es consignen en el compte 226 “Gastos diversos”, subcomptes 226ALIMENT (recurs A); 226MATE (Programa de Reforç de la Competència Matemàtica) i 226PROA (Programa per a l’orientació, avanç i enriquiment educatiu PROA+). |"
+        },
+        {
+          "type": "seccion",
+          "id": "anexo-2-g",
+          "title": "G. GASTOS",
+          "content": "| G. GASTOS | Referent normatiu abreujat i criteris per a la supervisió |\n|---|---|\n| (G.1.a) Estan arxivades en orde cronològic de recepció ? | - Orde 18/05/1995 norma onzena. |\n| (G.1.b) Es registren en ITACA les factures pendents de pagament? |  |\n| (G.1.c) Tots els gastos es correlacionen amb factures, o factures simplificades? (quan corresponga) (G.1.d) Estan degudament formalitzades? (dades de l'empresa, IVA diferenciat, segellades i firmades) (G.1.e) Estan degudament registrades en el concepte i apartat adequat de la comptabilitat d'ITACA? (G.1.f) Contemplen clarament el concepte del gasto? | - Real Decret 1619/2012, de 30 de novembre, que regula les obligacions d’expedir factura i factura simplificada, així com el contingut d’estes. -[Manual d’activitats econòmiques de la pàgina web de l’agència tributària](https://www.agenciatributaria.es/AEAT.internet/va_es/Inicio/Ayuda/Manuales__Folletos_y_Videos/Manuales_practicos/_Ayuda_Folleto_Actividades_economicas/_Ayuda_Folleto_Actividades_economicas.html). |\n| (G.1.g) Existixen assentaments comptables que incloguen més d'una factura (en bloc)? | -Orde de 27 de desembre de 2001 per la qual s’aproven els codis de classificació econòmica dels pressupostos. CRITERI: Cada apunt comptable requerix el seu codi. |\n| (G.1.h) Els gastos es corresponen amb la finalitat educativa i de manteniment de les instal·lacions? |  |\n| (G.2) Seleccione 10 gastos inclosos en els conceptes \"altres\", \"gastos diversos\", \"material d'oficina\" o \"treballs realitzats per uns altres\". Verifiquen que se suporten amb factura correcta (amb data i vistiplau de l'adreça del pagament) i, si és el cas, s'apliquen les oportunes retencions d'IRPF. | -Real Decret 1619/2012, de 30 de novembre que regula les obligacions d’expedir factura i factura simplificada, així com el contingut d’estes. - Orde 18/05/1995. CRITERI: Si es detecten irregularitats insalvables, serà necessari realitzar una supervisió més exhaustiva d'este apartat. |\n| (G.4) S'utilitza el sistema de facturació electrònica amb els proveïdors ? | Instruccions de la Conselleria d'Educació, Investigació, Cultura i Esport, per a la implantació de la factura electrònica i del registre unificat de factures en centres docents públics de titularitat GVA. |\n| (G.5) Gastos superiors a 1.803,04 euros: (G.5.b) S'ha obert un expedient d'adjudicació per cada apunt comptable segons la norma quinta de l'Orde de 18 de maig de 1995? (G.5.c) S'han presentat tres pressupostos al Consell Escolar i s'ha aprovat el de menor import? (G.5.d) S'han comunicat a la Direcció Territorial? | - Orde 18/05/1995 normes quarta i quinta. |\n| (G.6) Els gastos destinats a reparacions, que van excedir el mer manteniment del centre i els destinats a l'adquisició de mobiliari i equips didàctics en l'exercici 2025. (G.6.a) Els gastos destinats a reparacions, que van excedir el mer manteniment del centre i els destinats a l'adquisició de mobiliari i equips didàctics en l'exercici 2025? (G.6.b) Sobrepassen la quantitat de 75.000 euros? (G.6.c) En el cas excepcional de realitzar obres de reparacions que incrementen en 75.000 euros l'import especificat en l'ítem anterior (75.000 euros), s'ha demanat autorització a la Direcció Territorial? | - Llei 6/2025, de 30 de maig, de pressupostos de la Generalitat per a l’exercici 2025. |\n| (G.7) El centre realitza el model 347 de declaració anual d'operacions amb terceres persones? | Modelo 347 de la página web de la agencia tributaria (operaciones con proveedores que en su conjunto superan los 3.005,06 euros) |\n| (G.8) Es realitzen contractes a nom del centre per períodes superiors a l'any (rènting fotocopiadores, manteniment informàtic, ascensor, etc.) (G.9) Especifique el cas i el motiu | - Llei 9/2017, de 8 de novembre, de Contractes del Sector Públic. - Orde 18/5/95, norma sexta. |"
+        },
+        {
+          "type": "seccion",
+          "id": "anexo-2-h",
+          "title": "H. INVENTARI DE BÉNS",
+          "content": "| H. INVENTARI DE BÉNS | Referent normatiu abreujat i criteris per a la supervisió |\n|---|---|\n| (H.1.b) Periodicitat i actualització Tenen com a política efectuar inventaris físics periòdicament? (H.2.a) Disposem d'un sistema per a etiquetar? (H.2.b) Es deixa constància dels recomptes físics realitzats respecte a l'inventari? (H.3) Seleccione aleatòriament tres elements inventariats i verifique la seua existència física. El resultat ha sigut: (H.4) Trie quatre apunts dels grups 6.2 o 6.3 de l'Orde de 18 de maig de 1995 (mobiliari i equip) i comprove que els articles adquirits han sigut assentats en l'inventari. | - Orde 18/05/1995 norma dotzena. - Resolució de 26/6/2013 (procediment per aplicacions i equips informàtics). La direcció certificarà anualment que l'inventari TIC arreplega tota la informació, entre el primer i últim dia laborable de juliol. - Resolució 23/10/2018 competències per a l'adquisició de material TIC (DELEGATIC). |"
+        },
+        {
+          "type": "seccion",
+          "id": "anexo-2-i",
+          "title": "I. INDEMNITZACIONS PER RAÓ DE SERVICI",
+          "content": "| I. INDEMNITZACIONS PER RAÓ DE SERVICI | Referent normatiu abreujat i criteris per a la supervisió |\n|---|---|\n| (I.1.a) Les eixides del centre pel personal treballador per a la realització de servicis (Només en el cas d'existir). (I.1.b) S'autoritzen de manera prèvia a la seua realització (Només en el cas d'existir). (I.1.c) Les quantitats entregades per estos conceptes són les legalment establides. | - Orde 18/05/1995 norma dotzena i Annex model comissió servicis. - Decret 24/1997, sobre indemnitzacions per raó del servici i gratificacions per servicis extraordinaris. - Decret 175/2006 (modificat per Decret 68/2012). - Decret 64/2011, modifica el Decret 24/1997. Establix les quantitats. - Decret 95/2014, modifica el Decret 24/1997. - Orde 44/2012, per la qual es regula al professorat que presta servicis en més d'un centre. |"
+        },
+        {
+          "type": "seccion",
+          "id": "anexo-2-j",
+          "title": "J. SEGUR ESCOLAR",
+          "content": "| J. SEGUR ESCOLAR | Referent normatiu abreujat i criteris per a la supervisió |\n|---|---|\n| (J.1) Només centres amb alumnat matriculat a partir de 3r d'ESO o equivalent fins als 28 anys S'ha liquidat el segur escolar obligatori? (J.2) Es realitza de manera telemàtica? | - Llei de 17 de juliol de 1953, de segur escolar en l'Estat espanyol. D'acord amb l'RD 1633/1985, de 28 d'agost, en vigor des del curs 1985/1986. - Instruccions de 15/09/2019 de la D. General de centres i personal Docent sobre la tramitació de l'assegurança. CRITERIS: - L'assegurança s'abona a l'inici de curs acadèmic en el moment de la matrícula (1,12 euros per alumne). - L'alumnat que es matricula en diferents ensenyances abonarà només una quota. - La direcció liquida el segur escolar de la totalitat de l'alumnat amb un únic pagament telemàtic. |"
+        },
+        {
+          "type": "seccion",
+          "id": "anexo-2-k",
+          "title": "K. MENJADOR ESCOLAR",
+          "content": "- ORDE 53/2012, de 8 d'agost, de la Conselleria d'Educació, Formació i Ocupació, per la qual es regula el servici de menjador escolar en els centres docents no universitaris de titularitat de la Generalitat dependents de la conselleria amb competència en matèria d'educació, modificada per l'ORDE 43/2016. - Instruccions sobre gestió econòmica i funcionament del servici de menjador escolar dels diversos tipus de centre docent dels cursos 2024-2025.\n\n| K. MENJADOR ESCOLAR | Referent normatiu abreujat i criteris per a la supervisió |\n|---|---|\n| (K.2) Manera de gestionar el menjador escolar. Contractació del servici de menjador escolar mitjançant… - el subministrament i elaboració de menjars en el centre educatiu, a càrrec d'una empresa d'alimentació. - el subministrament de menjars elaborats a cuines centrals i transportades al centre educatiu, a càrrec d'una empresa d'alimentació. | - Orde 43/2016 que modifica l'Orde 53/2012 que regula el servici de menjador. CRITERI: En este apartat només és necessari determinar si el menjar s'elabora en el centre o en cuina central fora d'esta. |\n| (K.3.a) Existix el pressupost del menjador escolar? (K.3.b) Està aprovat el pressupost del menjador escolar pel Consell Escolar? |  |\n| (K.3.c) S'ha actualitzat el compte del menjador escolar a data 1 de setembre? | CRITERI: Comprovar que el saldo comptable a data 31 d'agost està actualitzat i coincidix amb el romanent del menjador a data 1 de setembre. |\n| (K.3.d) Es cobra el mateix preu als comensals habituals i als esporàdics? | - Instruccions de la DG de centres sobre el funcionament del menjador escolar del curs corresponent. CRITERIS: - La normativa encarrega al Consell Escolar establir \"el preu\" de servici de menjador no \"els preus\" del servici de menjador. - L'import ha de ser el mateix per a totes les persones usuàries. |\n| (K.3.e) El preu a cobrar es troba dins del límit màxim establit en la normativa? | - Instruccions de la DG de centres sobre el funcionament del menjador escolar del curs corresponent. CRITERI: Màxim 4,35€ |\n| (K.3.f) Es manté un registre de comptes a cobrar d'usuaris de menjador? | CRITERI: L'encarregat/a de menjador ha de portar un registre diari de comptes a cobrar de tots els usuaris del servici. |\n| (K.3.g) Els pagaments es realitzen en funció dels dies efectius de prestació del servici i de conformitat amb els imports establits en les corresponents instruccions? | CRITERIS: - L'import a cobrar es calcula d'acord amb el nombre de dies en què s'ha fet ús efectiu del servici, sense perjuí del supòsit explicitat en l'apartat K.3.j. - En cas d'haver-hi gratuïtats, han d'ajustar-se a criteris prèviament establits pel consell escolar. |\n| (K.3.h) En cas d'absències convenientment justificades, es retorna el 100% dels servicis no prestats? | CRITERIS: - D'acord amb les normes d'organització i funcionament del menjador escolar, les absències justificades motivaran la devolució del 100% del corresponent import. - Comprovar-ho demanant tres transferències de devolució o apunts en efectiu de caixa. |\n| (K.3.i) Es cobra l'import per menú servit al personal usuari del menjador que no pertany a l'alumnat del centre (docents, personal, etc.)? | CRITERI: El personal que treballa en el centre, si fa ús del servici de menjador, ha de pagar el preu total del menú. |\n| (K.3.j) Es realitzen retencions de l'IRPF als càrrecs de menjador en els pagaments? (K.3.k) S'emplenen els models 111 (trimestral) i 190 (anual) relacionats amb la retenció d'IRPF del personal? | - Model 111 i Model 190 es poden consultar en la pàgina web de l'agència tributària. - Instruccions de la DG de centres sobre el funcionament del menjador escolar del curs corresponent. CRITERI: Caldria comprovar si l'apunt de pagament als càrrecs ve justificat pel certificat d'incentius (nòmina de menjador) on consten les retencions d'IRPF. |\n| (K.3.l) El centre té superàvit de menjador? (K.3.m) La persona que exercix la secretaria rep compensació econòmica per servicis prestats en el menjador? | - Instruccions de la DG de centres sobre el funcionament del menjador escolar del curs corresponent. CRITERI: Segons les instruccions d'inici de curs sobre el menjador escolar, el secretari/a pot percebre compensació econòmica si el menjador té superàvit. En cas contrari ha de constar el retorn. |\n| (K.3.n) Existixen \"gratuïtats\" concedides per l'empresa que presta el servici? | CRITERI: Comprovar una factura de menús. |\n| (K.5-6) Import diari cobrat als comensals habituals I Import diari cobrat als comensals esporàdics | CRITERI: Comprovar la quantitat cobrada. |\n| (K.7) S'ha incrementat el preu màxim per comensal, prèvia autorització de la Direcció General competent ? | - Instruccions de la DG de centres sobre el funcionament del menjador escolar del curs corresponent. |\n| (K.8) El preu cobrat s'establix de manera diària o mensual? | CRITERI: l'import es calcula segons el nombre de dies que té el mes. Evitar prorratejar l'import. |\n| (K.9) Sobre la facturació: (K.9.a) La facturació realitzada per l'empresa subministradora del servici de menjador és conforme a les condicions pactades en la contractació: nombre de persones monitores i preu del menú? | CRITERI: Comprovar si les factures s'ajusten als menús servits i les persones monitores contractades per a la prestació del servici. |\n| (K.9.b-c) Existixen contractes de persones monitors inferiors a 2 hores? Disposen de l'autorització de la DT? | CRITERIS: - El conveni col·lectiu d'hostaleria només contempla contractacions iguals o superiors a 2 hores diàries. - Si són de menys de 2 hores diàries és necessari que ho autoritze la Direcció Territorial. |\n| (K.8.d) Les factures expliciten el període facturat correctament? (K.8.e) Les factures expliciten el concepte facturat correctament? (K.8.f) El total de menús facturats mensualment coincidix amb el nombre de comensals introduïts en ITACA? | CRITERIS: - Les factures de personal monitor i de menús han de ser específiques per a cadascun i contemplar la quantitat de menús. - Comprovar el registre d'assistència diària de l'alumnat en ITACA. Verificació el mateix dia de la visita. |\n| (K.8.g) S'admeten factures en suport paper? | CRITERI: La facturació corresponent a menús i personal monitor hauria de ser electrònica. |\n| (K.8.h) Es troben correctament comptabilitzades les factures segons els comptes i subcomptes habilitats per a això en ITACA? | CRITERI: Comprovar els codis: 22617- Menjador escolar; 226171-Empresa d'alimentació ... |\n| (K.8.i) Existixen factures de les empreses d'alimentació i personal monitor pendents de pagament, havent-hi saldo suficient en el centre? | CRITERI: Les instruccions anuals de menjador establixen que, si hi ha saldo en el centre, han de satisfer-se els pagaments. |\n\nVersió: 3/2025\nData de l’última revisió: 7/01/2026"
+        }
+      ]
+    }
+  ],
+  "legalAnalysis": {
+    "enactedPursuantTo": [
+      {
+        "title": "Decret 38/2025, de 4 de març, del Consell, d'aprovació del Reglament orgànic i funcional de la Conselleria d'Educació, Cultura, Universitats i Ocupació",
+        "articles": [
+          "art-7"
+        ],
+        "relationship": "habilitante"
+      },
+      {
+        "title": "Orde 6/2025, de 9 d'abril, de la Conselleria d'Educació, Cultura, Universitats i Ocupació, per la qual es desenrotlla el Decret 38/2025",
+        "articles": [
+          "art-4"
+        ],
+        "relationship": "habilitante"
+      },
+      {
+        "title": "Decret 80/2017, de 23 de juny, del Consell, pel qual es regula l'actuació, el funcionament i l'organització de la Inspecció d'Educació de la Comunitat Valenciana",
+        "relationship": "conformidad"
+      },
+      {
+        "title": "Orde 17/2019, de 16 d'abril, de la Conselleria d'Educació, Investigació, Cultura i Esport, per la qual es desenrotlla l'actuació, el funcionament i l'organització de la Inspecció d'Educació de la Comunitat Valenciana",
+        "relationship": "conformidad"
+      },
+      {
+        "title": "Resolució de 17 d'octubre de 2023, de la Secretaria Autonòmica d'Educació, per la qual s'aprova el Pla plurianual de la Inspecció Educativa de la Comunitat Valenciana per al període 2023-2027",
+        "relationship": "conformidad"
+      },
+      {
+        "title": "Resolució de 24 de juliol de 2025, de la Secretaria Autonòmica d'Educació, per la qual s'aprova el Pla general d'actuació anual de la Inspecció Educativa de la Comunitat Valenciana per al curs 2025-2026",
+        "relationship": "desarrollo"
+      }
+    ],
+    "priorAffectations": [],
+    "posteriorAffectations": [],
+    "derogations": [],
+    "concordances": [
+      {
+        "lawId": "orden-gestion-economica-1995",
+        "title": "Orde de 18 de maig de 1995, de la Conselleria d'Educació i Ciència (gestió econòmica dels centres docents públics no universitaris)",
+        "description": "Normes de gestió econòmica que se supervisen; és el referent principal dels criteris de l'annex II (pressupost, llibres, compte corrent, gastos, inventari i indemnitzacions)"
+      },
+      {
+        "lawId": "ley-organica-2-2006",
+        "title": "Llei orgànica 2/2006, de 3 de maig, d'Educació",
+        "description": "Arts. 151 i 153: funcions i atribucions de la Inspecció Educativa; art. 127.m), citat en el bloc D de l'annex II"
+      },
+      {
+        "title": "Llei 1/2015, de 6 de febrer, de la Generalitat, d'Hisenda Pública, del Sector Públic Instrumental i de Subvencions",
+        "description": "Art. 92: control intern de la gestió econòmica i financera per la Intervenció General"
+      },
+      {
+        "title": "Llei 8/2023, de 27 de desembre, de Pressupostos de la Generalitat per a l'exercici 2024",
+        "description": "Art. 13: sotmetiment dels centres docents públics no universitaris al control financer"
+      },
+      {
+        "lawId": "decreto-252-2019",
+        "title": "Decret 252/2019 (organització i funcionament dels centres d'ESO, Batxillerat i FP)",
+        "description": "Referent dels blocs B a E de l'annex II per als instituts (pressupost, caixa, firmes mancomunades i suplències)"
+      },
+      {
+        "title": "Decret 253/2019, de 29 de novembre, del Consell (organització i funcionament dels centres d'Educació Infantil i Primària)",
+        "description": "Referent equivalent per als centres d'Infantil i Primària en l'annex II"
+      },
+      {
+        "lawId": "decreto-57-2020",
+        "title": "Decret 57/2020 (organització i funcionament dels conservatoris professionals de Música i de Dansa)",
+        "description": "Norma d'organització dels conservatoris; l'annex II només cita els Decrets 252/2019 i 253/2019"
+      },
+      {
+        "title": "Comunicat 01/2017 de la Subdirecció General de Tresoreria",
+        "description": "Entitats amb contracte de servicis financers, banca electrònica i prohibició de targetes bancàries (bloc E de l'annex II)"
+      },
+      {
+        "title": "Reial decret 1619/2012, de 30 de novembre, pel qual s'aprova el Reglament pel qual es regulen les obligacions de facturació",
+        "description": "Requisits de les factures (bloc G de l'annex II)"
+      },
+      {
+        "title": "Llei 9/2017, de 8 de novembre, de contractes del sector públic",
+        "description": "Contractes plurianuals (G.8 de l'annex II)"
+      }
+    ]
+  },
+  "promulgation": {
+    "place": "València",
+    "date": "2026-01-23",
+    "signatories": [
+      {
+        "name": "Rosario Arolas Romero",
+        "role": "Inspectora general d'Educació"
+      }
+    ]
+  },
+  "externalResources": [
+    {
+      "id": "anexo-1-pdf",
+      "title": "Annex I. Model d'informe (PDF)",
+      "url": "https://ceice.gva.es/documents/161863009/401225310/Annex+I+-+Model+Informe+Supervisi%C3%B3+de+la+gesti%C3%B3+econ%C3%B2mica+2025/12559d6e-6863-5c3b-ecbf-25725f2f7e79"
+    },
+    {
+      "id": "anexo-2-pdf",
+      "title": "Annex II. Criteris i orientacions (PDF)",
+      "url": "https://ceice.gva.es/documents/161863009/401225310/Annex+II+-+Criteris+i+orientacions+2025/e67f318e-b568-bafc-936d-5df64ac77696"
+    }
+  ],
+  "scope": "general",
+  "territory": "autonomico",
+  "temporality": {
+    "type": "anual",
+    "schoolYear": "25-26",
+    "expiresDate": "2026-09-01"
+  },
+  "docType": "documentos"
+}

@@ -1,0 +1,189 @@
+{
+  "id": "instruccion-17-2025-ige-supervision-pec",
+  "slug": "instruccion-17-2025-ige-supervision-pec",
+  "type": "instrucciones",
+  "number": "17/2025",
+  "date": "2025-10-13",
+  "publishedIn": {
+    "source": "CEICE",
+    "number": "17/2025",
+    "date": "2025-10-13",
+    "url": "",
+    "pdfUrl": "https://ceice.gva.es/documents/161863009/397405943/IGE%2BInstrucci%C3%B3%2B17-25.%2BSupervisi%C3%B3%2Bdel%2BPEC_firmado/86e8f734-721e-a298-9029-cc8d7ee113a9"
+  },
+  "title": "Instrucció 17/2025, de la Inspecció General d'Educació, per la qual s'establix el procediment de supervisió del Projecte Educatiu de Centre (PEC) dels centres sostinguts amb fons públics de la Comunitat Valenciana per al curs 2025-2026",
+  "titleShort": "Instrucció 17/2025 IGE - Supervisió del PEC 2025-2026",
+  "category": "organizacion",
+  "vigpiracy": {
+    "status": "vigente",
+    "statusLabel": "Vigent",
+    "effectiveDate": "2025-10-13"
+  },
+  "structure": [
+    {
+      "type": "preambulo",
+      "id": "preambulo",
+      "title": "Preàmbul",
+      "content": "L'article 5 del Decret 80/2017, de 23 de juny, del Consell, pel qual es regula l'actuació, el funcionament i l'organització de la Inspecció d'Educació de la Comunitat Valenciana establix la planificació entre els principis organitzatius de la Inspecció Educativa. Per part seua, l'article 19 del citat Decret determina que la Inspecció Educativa desenrotllarà les seues tasques mitjançant una planificació que es concreta en els plans prèviament establits que determinen el seu funcionament.\n\nLa planificació de les actuacions de la Inspecció Educativa de la Comunitat Valenciana per al període 2023-2027 es va concretar, en primer lloc, mitjançant l'aprovació de la Resolució de 17 d'octubre de 2023, de la Secretaria Autonòmica d'Educació, per la qual s'aprova el Pla Plurianual de la Inspecció Educativa de la Comunitat Valenciana per al període 2023-2027.\n\nPer al curs 2025-2026 s'ha concretat en la Resolució de 24 de juliol de 2025, de la Secretaria Autonòmica d'Educació, per la qual s'aprova el Pla General d'Actuació Anual de la Inspecció Educativa de la Comunitat Valenciana per al curs 2025-2026.\n\nEn la citada Resolució i en l'art. 2.1.c, s'establix com a actuació prioritària la supervisió dels projectes, plans i mesures que formen part del PEC.\n\nEl marc d'actuació d'esta supervisió a nivell legislatiu ve determinada en l'art. 121 de la Llei orgànica d'Educació 2/2006, així com en la normativa autonòmica que el desenrotlla per a cada una de les ensenyances.\n\nDECRET 253/2019, de 29 de novembre, del Consell, de regulació de l'organització i el funcionament dels centres públics que impartixen ensenyances d'Educació Infantil o d'Educació Primària.\n\nDECRET 252/2019, de 29 de novembre, del Consell, de regulació de l'organització i el funcionament dels centres públics que impartixen ensenyances d'Educació Secundària Obligatòria, Batxillerat i Formació Professional.\n\nDECRET 105/2022, de 5 d'agost, del Consell, d'organització i funcionament dels centres d'Educació Especial.\n\nORDE 21/2019, de 30 d'abril, de la Conselleria d'Educació, Investigació, Cultura i Esport, per la qual es regula l'organització i el funcionament de les escoles infantils de primer cicle de titularitat pública.\n\nRESOLUCIÓ de 7 de juliol de 2025, de la Secretaria Autonòmica d'Educació, per la qual s'aproven les instruccions per a l'organització i el funcionament dels centres que impartixen Educació Infantil de segon cicle i Educació Primària durant el curs 2025-2026.\n\nRESOLUCIÓ de 7 de juliol de 2025, de la Secretaria Autonòmica d'Educació, per la qual s'aproven les instruccions per a l'organització i el funcionament dels centres que impartixen Educació Secundària Obligatòria i Batxillerat durant el curs 2025-2026.\n\nRESOLUCIÓ de 16 de juliol de 2025, de la Secretaria Autonòmica d'Educació, per la qual s'aproven les instruccions per a l'organització i el funcionament de les escoles infantils de primer cicle de titularitat de la Generalitat durant el curs acadèmic 2025-2026.\n\nRESOLUCIÓ de 18 de juliol de 2025, del Secretaria Autonòmica d'Educació, per la qual s'aproven les instruccions per a l'organització i el funcionament dels centres d'Educació de Persones Adultes durant el curs acadèmic 2025-2026.\n\nRESOLUCIÓ de 30 de juliol de 2025, de la Secretària Autonòmica d'Educació, per la qual es dicten instruccions en termes d'ordenació acadèmica i organització de les escoles oficials d'idiomes de la Comunitat Valenciana durant el curs 2025-2026.\n\nDECRET 57/2020, de 8 de maig, del Consell, de regulació de l'organització i el funcionament dels conservatoris professionals de Música i de Dansa dependents de la Generalitat.\n\nRESOLUCIÓ de 29 de juliol de 2025, de la Secretaria Autonòmica d'Educació, per la qual es dicten instruccions en matèria d'ordenació acadèmica i d'organització de l'activitat docent dels conservatoris i centres autoritzats d'ensenyances artístiques elementals i professionals de Música i Dansa de la Comunitat Valenciana per al curs 2025-2026.\n\nDECRET 193/2021, de 3 de desembre, del Consell, d'organització i funcionament dels centres integrats públics de Formació Professional de la Comunitat Valenciana.\n\nREIAL DECRET 596/2007, de 4 de maig, pel qual s'establix l'ordenació general de les ensenyances professionals d'arts plàstiques i disseny.\n\nDECRET 132/2012, de 31 d'agost, del Consell, pel qual es regulen les ensenyances esportives de règim especial en la Comunitat Valenciana.\n\nRESOLUCIÓ de 29 de juliol de 2025, de la Secretaria Autonòmica d'Educació, per la qual s'aproven instruccions en matèria d'ordenació acadèmica i d'organització de l'activitat docent en els centres que impartixen ensenyances esportives de règim especial en la Comunitat Valenciana, durant el curs 2025-2026.\n\nAixí doncs, d'acord amb el que s'establix en l'article 7.1. del Decret 38/2025, de 4 de març, del Consell, d'aprovació del Reglament orgànic i funcional de la Conselleria d'Educació, Cultura, Universitats i Ocupació, i l'article 4 de l'Orde 6/2025, de 9 d'abril, de la Conselleria d'Educació, Cultura, Universitats i Ocupació, per la qual es desenrotlla el Decret 38/2025, de 4 de març, de 2025, del Consell, d'aprovació del Reglament orgànic i funcional de la Conselleria d'Educació, Cultura, Universitats i Ocupació, es dicten les següents instruccions:"
+    },
+    {
+      "type": "articulo",
+      "id": "art-1",
+      "number": "1",
+      "title": "Primera. Objecte i àmbit",
+      "content": "L'objecte d'estes instruccions és determinar el procediment per a la supervisió de la documentació institucional del centre referent al projecte educatiu i si és el cas projecte funcional dels centres sostinguts amb fons públics que impartisquen els següents nivells: educació infantil, educació primària, ESO, batxillerat, formació professional, formació de persones adultes, idiomes, ensenyances professionals de música i dansa, arts plàstiques i disseny i ensenyances esportives.\n\nEn el cas de les ensenyances d'Educació Infantil de primer cicle, seran objecte de supervisió les escoles infantils de titularitat de la GVA. Quant a les escoles infantils municipals de primer cicle, la supervisió del PEC es realitzarà en el marc de la instrucció de la IGE sobre la gratuïtat de 0 a 3 anys d'estes ensenyances.\n\nL'actuació es definix en la Resolució de 24 de juliol de 2025 com una actuació prioritària de caràcter cíclic que es desenrotllarà segons el cronograma de la Resolució entre octubre i juny.\n\nDonat el seu caràcter cíclic, en este curs la supervisió es realitzarà sobre el 25% dels centres que formen part de la seua zona de circumscripció, deixant-ho reflectit en l'aplicació informàtica corresponent."
+    },
+    {
+      "type": "articulo",
+      "id": "art-2",
+      "number": "2",
+      "title": "Segona. Aplicació informàtica",
+      "content": "S'utilitzarà ITACA3 per a la recollida de dades.\n\nS'utilitzarà per a la supervisió una aplicació denominada Documentació PEC i es realitzarà a través de TEAMS en l'Equip Inspecció Educativa Comunitat Valenciana."
+    },
+    {
+      "type": "articulo",
+      "id": "art-3",
+      "number": "3",
+      "title": "Tercera. Actuacions",
+      "content": "S'han elaborat seguint la normativa vigent que definix el contingut del PEC un llistat dels elements que el conformen tant quant a qüestions pedagògiques, com a qüestions organitzatives. Sobre este llistat es realitzaran les següents actuacions:\n\n1. Comprovar l'existència i degut registre en ITACA3 dels documents i elements actualitzats que conformen el contingut del PEC. La llista de control de l'annex I servix de referència per a esta comprovació. Analitzar el seu contingut i ajust a la normativa i si és el cas, si l'inspector /al considera oportú realitzar una primera visita.\n\n2. Del resultat anterior, el programa extraurà un informe resum amb les observacions i, si és el cas, modificacions a realitzar pel centre educatiu. L'inspector/a podrà veure i afegir les observacions que considere oportunes. Quan este informe estiga complet, l'inspector/a podrà realitzar les dos actuacions que finalitzen el procediment registrant-les en la mateixa plataforma:\n1. Informar el centre des del botó disponible en l'aplicació informàtica de les observacions i incidències a realitzar i/o millorar, informació que el centre rebrà automàticament per correu electrònic.\n2. Registrar la visita de caràcter explicatiu i informatiu de les conclusions en la plataforma amb la icona corresponent.\n\n3. Realitzar el seguiment de les modificacions a realitzar i verificar-les, si és el cas, amb la següent ruta: ITACA3 administrativa, PGA, Documentació, projecte Educatiu.\n\nAmb estes tres actuacions finalitza el procediment."
+    },
+    {
+      "type": "articulo",
+      "id": "art-4",
+      "number": "4",
+      "title": "Quarta. Model d’informe",
+      "content": "El model d'informe s'elaborarà a través de l'aplicació informàtica i es completarà la llista de control que donarà lloc a l'informe, segons l'annex I.\n\nPer a realitzar l'adequada valoració de la documentació analitzada, cada ítem es valorarà en els següents termes:\n\nSÍ. Quan l'ítem està actualitzat.\n\nNO. Quan la informació analitzada no està actualitzada o no hi ha evidències d'esta.\n\nNO APLICA. Perquè no correspon pel tipus d'ensenyança.\n\nEn el cas que es conteste que SÍ, s'emplenarà el camp d'observacions triant l'ítem que més s'adequa entre els següents:\n\n1. Acceptable: S'ha elaborat en xifres superiors al 50%.\n\n2. Satisfactori: L'ítem sobre el qual es pregunta s'ha desplegat en més del 75%.\n\n3. Sistemàtica implantada: El tema s'ha desplegat amb èxit i podria servir com a model de pràctica educativa d'èxit.\n\nEn el cas que es valore amb un NO, s'especificarà en observacions els següents paràmetres:\n\n1. No hi ha evidències.\n\n2. En inici. El tema pel qual es pregunta està en fase de planificació.\n\n3. Parcial. En progrés. El tema pel qual es pregunta està en fase de desplegament parcial menor al 50%."
+    },
+    {
+      "type": "anexo",
+      "id": "anexo-1",
+      "number": "I",
+      "title": "Annex I. Supervisió de la documentació institucional del centre: PEC",
+      "children": [
+        {
+          "type": "seccion",
+          "id": "anexo-1-tipo-i-centros-docentes",
+          "title": "Tipus I. Centres docents sostinguts amb fons públics",
+          "content": "[Llista de control de l'informe de supervisió. En l'original va encapçalada pel camp «Data de l’informe» i cada ítem porta les columnes SÍ, NO, NO APLICA i OBSERVACIONS, en blanc per a emplenar; ací no es reproduïxen.]\n\n**Centres docents sostinguts amb fons públics que impartisquen els següents nivells: Educació Infantil, Educació Primària, ESO, Batxillerat, Formació Professional, Formació de Persones Adultes, Idiomes, Ensenyances Professionals d'Arts Plàstiques i Disseny, Ensenyances Esportives.**\n\n**Bloc I: Contingut del PEC**\n\nAssenyale amb una X la presència o no de documentació referida al contingut del PEC\n\n| Núm. | Ítem |\n|---|---|\n| 1 | Objectius i prioritats d'actuació. |\n| 2 | Les característiques de l'entorn social i cultural. |\n| 3 | La línia pedagògica. |\n| 4 | La concreció dels currículums establits per l'Administració educativa per a les diferents ensenyances impartides en el centre. |\n| 5 | Programa de llengües vehiculars del centre. |\n| 6 | Pla d'ús de les llengües en l'àmbit no curricular. |\n| 7 | Programa de reutilització, reposició i renovació de llibres de text i material curricular. |\n| 8 | Mesures per al foment de la lectura. |\n| 9 | Organització i actuacions de l'orientació educativa i professional. |\n| 10 | Mesures de resposta educativa per a la inclusió de l'alumnat. |\n| 11 | Mesures per a la promoció i la gestió de la igualtat i convivència. |\n| 12 | Mesures d'acolliment i continuïtat entre nivells, cicles, etapes i modalitats d'escolarització. |\n| 13 | Acció tutorial. |\n| 14 | Projecte educatiu de menjador escolar. |\n| 15 | Pla Digital de Centre. |\n| 16 | Carta de compromís educatiu del centre amb les famílies de l'alumnat. |\n\n**Altres programes i projectes**\n\n| Núm. | Ítem |\n|---|---|\n| 17 | Projectes d'Innovació i Inclusió Educativa (PIIE). |\n| 18 | Projecte d'innovació Biblioinnova’t. |\n| 19 | Projecte d'esport, activitat física i salut en el centre escolar (PEAFS). |\n| 20 | Programa de Coordinació Horària. |\n| 21 | «Segell de vida saludable». |\n| 22 | Programa “Centre Educatiu Digital” (CED). |\n| 23 | iMou-te. |\n| 24 | iMou-Tech. |\n| 25 | Aules transformadores. |\n| 26 | Programes europeus. |\n| 27 | Programa d'acompanyament, motivació i reforç escolar. |\n| 28 | Projectes d'intercanvis escolars d'alumnat de centres públics “Fil” (Foment d’Intercanvis Lingüístics) i “Rapsodes”. |\n| 29 | Programa de salut bucodental. |\n| 30 | Promoció de la salut i prevenció de la malaltia. |\n| 31 | Els projectes relacionats amb les infraestructures educatives: “condicions de confort tèrmic en els centres educatius i transformació de Patis escolars. |\n| 32 | Projectes d'innovació i transferència Acord. |\n| 33 | El projecte d'innovació Guardabosc. |\n| 34 | Programa experimental de doble titulació de Batxiller-Baccalauréat (Batxibac). |\n| 35 | Plans d’acció comunitària. |\n| 36 | Uns altres a especificar. |\n\n**Bloc II: Normes d’organització i funcionament**\n\n| Núm. | Ítem |\n|---|---|\n| 37 | Consideracions generals sobre l'organització i el funcionament del centre: participació de la comunitat educativa, repartiment de responsabilitats no definides en la normativa, procediments d’actuació CE, organització d'espais, Normes d’igualtat i Convivència, ús de l'uniforme… |\n| 38 | Incidències d’inici de curs. |\n| 39 | Accés als centres. |\n| 40 | Criteris per a la constitució de grups i confecció d’horaris. |\n| 41 | Atenció a l’alumnat en cas d’absència de professorat. |\n| 42 | Participació de l'alumnat, de les famílies, així com de voluntariat i d'un altre personal extern en els centres docents. |\n| 43 | Mitjans de difusió dels centres docents. |\n| 44 | Ús social dels centres educatius. La coordinació amb els servicis del municipi, les relacions amb institucions públiques i privades i la possible utilització de les instal·lacions del centre per part d'altres entitats per a realitzar activitats educatives, culturals, esportives o altres de caràcter social. |\n| 45 | Competències de les Forces i Cossos de Seguretat davant el requeriment i comprovació de documentació personal sobre alumnat menor d'edat en centres escolars. |\n| 46 | Salut i seguretat en els centres educatius. |\n| 47 | Assistència sanitària a l'alumnat. |\n| 48 | Mesures d'emergència i plans d'autoprotecció del centre. |\n| 49 | Prevenció de riscos laborals en el sector docent. |\n| 50 | Canvis de denominació. |"
+        },
+        {
+          "type": "seccion",
+          "id": "anexo-1-tipo-ii-centros-integrados-fp",
+          "title": "Tipus II. Centres integrats d’FP",
+          "content": "[Llista de control de l'informe de supervisió. En l'original cada ítem porta les columnes SÍ, NO i OBSERVACIONS, en blanc per a emplenar; ací no es reproduïxen.]\n\n**Projecte funcional del centre**\n\n| Núm. | Ítem |\n|---|---|\n| 51 | Les directrius del consell social en les quals es basa. |\n| 52 | Els objectius, procediments i indicadors d'avaluació del projecte. |\n| 53 | El pla d'actuació del centre integrat. |\n| 54 | El pla d’acció tutorial. |\n| 55 | El pla d'informació i orientació educativa i professional. |\n| 56 | El reglament de règim intern. |\n| 57 | El pla d'igualtat i convivència. |\n| 58 | El pla d'autoprotecció i mesures d'emergència. |\n| 59 | Pla d'ús de les llengües en l'àmbit no curricular |\n| 60 | Altres plans i projectes de gestió basats en processos de millora contínua i criteris organitzatius i de participació que hagen de regir la vida del centre. |"
+        },
+        {
+          "type": "seccion",
+          "id": "anexo-1-tipo-iii-conservatorios",
+          "title": "Tipus III. Conservatoris professionals de Música i Dansa",
+          "content": "[Llista de control de l'informe de supervisió. En l'original cada ítem porta les columnes SÍ, NO i OBSERVACIONS, en blanc per a emplenar; ací no es reproduïxen.]\n\n**Projecte educatiu**\n\n| Núm. | Ítem |\n|---|---|\n| 61 | Els valors, els objectius i les prioritats d'actuació. |\n| 62 | Els objectius particulars que el conservatori es proposa aconseguir, partint de la seua realitat. |\n| 63 | Objectius propis per a la millora del rendiment escolar i la continuïtat de l'alumnat en el sistema educatiu. |\n| 64 | Línies generals d'actuació pedagògica. |\n| 65 | Coordinació i concreció dels continguts curriculars. |\n| 66 | Els criteris pedagògics per a la determinació dels òrgans de coordinació docent del conservatori. |\n| 67 | Els procediments i criteris d'avaluació, promoció de l'alumnat i titulació de l'alumnat. |\n| 68 | La manera d'atenció a la diversitat de l'alumnat. |\n| 69 | L'organització de les activitats de recuperació per a l'alumnat amb matèries o assignatures pendents d'avaluació positiva. |\n| 70 | El pla d'orientació i acció tutorial. |\n| 71 | El procediment per a subscriure compromisos educatius i de convivència amb les famílies. |\n| 72 | El pla de convivència. |\n| 73 | Les directrius del pla de formació del professorat. |\n| 74 | Els criteris per a organitzar i distribuir el temps escolar, així com els objectius i programes d'intervenció per a desenrotllar programes de coordinació horària amb els centres d'ensenyances de règim general. |\n| 75 | Els procediments d'avaluació interna. |\n| 76 | Els criteris per a establir els agrupaments de l'alumnat i l'assignació de les tutories. |\n| 77 | Els criteris per a determinar l'estratègia d'oferta d'assignatures optatives. |\n| 78 | Els criteris generals per a l'elaboració de les programacions didàctiques de les ensenyances. |\n| 79 | Pla d'ús de les llengües en l'àmbit no curricular. |\n| 80 | Uns altres a especificar. |"
+        }
+      ]
+    }
+  ],
+  "legalAnalysis": {
+    "enactedPursuantTo": [
+      {
+        "title": "Decret 38/2025, de 4 de març, del Consell, d'aprovació del Reglament orgànic i funcional de la Conselleria d'Educació, Cultura, Universitats i Ocupació",
+        "articles": [
+          "art-7"
+        ],
+        "relationship": "habilitante"
+      },
+      {
+        "title": "Orde 6/2025, de 9 d'abril, de la Conselleria d'Educació, Cultura, Universitats i Ocupació, per la qual es desenrotlla el Decret 38/2025",
+        "articles": [
+          "art-4"
+        ],
+        "relationship": "habilitante"
+      },
+      {
+        "title": "Decret 80/2017, de 23 de juny, del Consell, pel qual es regula l'actuació, el funcionament i l'organització de la Inspecció d'Educació de la Comunitat Valenciana",
+        "articles": [
+          "art-5",
+          "art-19"
+        ],
+        "relationship": "conformidad"
+      },
+      {
+        "title": "Resolució de 17 d'octubre de 2023, de la Secretaria Autonòmica d'Educació, per la qual s'aprova el Pla Plurianual de la Inspecció Educativa de la Comunitat Valenciana per al període 2023-2027",
+        "relationship": "conformidad"
+      },
+      {
+        "title": "Resolució de 24 de juliol de 2025, de la Secretaria Autonòmica d'Educació, per la qual s'aprova el Pla General d'Actuació Anual de la Inspecció Educativa de la Comunitat Valenciana per al curs 2025-2026",
+        "relationship": "desarrollo"
+      }
+    ],
+    "priorAffectations": [],
+    "posteriorAffectations": [],
+    "derogations": [],
+    "concordances": [
+      {
+        "lawId": "ley-organica-2-2006",
+        "title": "Llei orgànica 2/2006, de 3 de maig, d'educació",
+        "description": "Art. 121: marc del projecte educatiu que se supervisa"
+      },
+      {
+        "lawId": "decreto-57-2020",
+        "title": "Decret 57/2020 (organització i funcionament dels conservatoris professionals de Música i de Dansa)",
+        "description": "Contingut del projecte educatiu dels conservatoris: base de la llista de control del tipus III"
+      },
+      {
+        "lawId": "resolucion-inicio-curso-2025-2026",
+        "title": "Resolució de 29/07/2025 (instruccions d'inici de curs 2025-2026 de conservatoris)",
+        "description": "Instruccions d'organització i funcionament dels conservatoris citades en el preàmbul"
+      },
+      {
+        "lawId": "decreto-252-2019",
+        "title": "Decret 252/2019 (organització i funcionament dels centres d'ESO, Batxillerat i FP)",
+        "description": "Normativa de referència per als centres del tipus I"
+      },
+      {
+        "title": "Decret 253/2019, de 29 de novembre, del Consell (organització i funcionament dels centres d'Educació Infantil i Primària)",
+        "description": "Normativa de referència per als centres del tipus I"
+      },
+      {
+        "title": "Decret 105/2022, de 5 d'agost, del Consell (organització i funcionament dels centres d'Educació Especial)",
+        "description": "Normativa de referència citada en el preàmbul"
+      },
+      {
+        "title": "Orde 21/2019, de 30 d'abril (organització i funcionament de les escoles infantils de primer cicle de titularitat pública)",
+        "description": "Normativa de referència citada en el preàmbul"
+      },
+      {
+        "title": "Resolucions de 7, 16, 18 i 30 de juliol de 2025, de la Secretaria Autonòmica d'Educació (instruccions d'inici de curs 2025-2026 d'Infantil i Primària, ESO i Batxillerat, escoles infantils de primer cicle, persones adultes i escoles oficials d'idiomes)",
+        "description": "Instruccions anuals dels altres tipus de centre citades en el preàmbul"
+      },
+      {
+        "title": "Decret 193/2021, de 3 de desembre, del Consell (organització i funcionament dels centres integrats públics de Formació Professional)",
+        "description": "Projecte funcional dels centres integrats (tipus II)"
+      },
+      {
+        "title": "Reial decret 596/2007, de 4 de maig (ordenació general de les ensenyances professionals d'arts plàstiques i disseny)",
+        "description": "Normativa de referència citada en el preàmbul"
+      },
+      {
+        "title": "Decret 132/2012, de 31 d'agost, del Consell (ensenyances esportives de règim especial) i Resolució de 29 de juliol de 2025 (instruccions 2025-2026 dels centres d'ensenyances esportives)",
+        "description": "Normativa de referència citada en el preàmbul"
+      }
+    ]
+  },
+  "promulgation": {
+    "place": "València",
+    "date": "2025-10-13",
+    "signatories": [
+      {
+        "name": "Vicente Marchante Villanueva",
+        "role": "Inspector general d'Educació"
+      }
+    ]
+  },
+  "scope": "general",
+  "territory": "autonomico",
+  "temporality": {
+    "type": "anual",
+    "schoolYear": "25-26",
+    "expiresDate": "2026-09-01"
+  },
+  "docType": "documentos"
+}

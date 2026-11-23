@@ -1,0 +1,235 @@
+{
+  "id": "resolucion-pgaa-inspeccion-2026-2027",
+  "slug": "resolucion-pgaa-inspeccion-2026-2027",
+  "type": "resolucion",
+  "number": "21/07/2026",
+  "date": "2026-07-21",
+  "publishedIn": {
+    "source": "DOGV",
+    "number": "10418",
+    "date": "2026-07-31",
+    "url": "https://dogv.gva.es/va/resultat-dogv?signatura=2026/25861",
+    "pdfUrl": "https://dogv.gva.es/datos/2026/07/31/pdf/2026_25861_va.pdf"
+  },
+  "title": "Resolució de 21 de juliol de 2026, de la Secretaria Autonòmica d'Educació, per la qual s'aprova el Pla general d'actuació anual de la Inspecció Educativa de la Comunitat Valenciana per al curs 2026-2027",
+  "titleShort": "Res 21/07/2026 - Pla general d'actuació de la Inspecció 2026-2027",
+  "category": "organizacion",
+  "vigpiracy": {
+    "status": "vigente",
+    "statusLabel": "Vigent",
+    "effectiveDate": "2026-07-31"
+  },
+  "structure": [
+    {
+      "type": "preambulo",
+      "id": "preambulo",
+      "title": "Preàmbul",
+      "content": "D'acord amb els principis organitzatius de la Inspecció Educativa establits per l'article 5 del Decret 80/2017, de 23 de juny, del Consell, pel qual es regula l'actuació, el funcionament i l'organització de la Inspecció d'Educació de la Comunitat Valenciana, la Inspecció Educativa desenrotlla les seues tasques mitjançant una planificació, que es concreta en plans prèviament establits que determinen el seu funcionament.\n\nLa Resolució de 17 d'octubre de 2023, de la Secretaria Autonòmica d'Educació, per la qual s'aprova el Pla plurianual de la Inspecció Educativa de la Comunitat Valenciana per al període 2023-2027, afirma, en el seu preàmbul, que mitjançant l'aprovació del Pla plurianual no sols s'establia un pla de treball de la Inspecció Educativa per als següents quatre anys, sinó que este pla plurianual constituïa també un punt de partida d'un procés de potenciació i actualització de la Inspecció Educativa de la Comunitat Valenciana, pel qual, en el marc de les directrius emeses per la conselleria competent en matèria d'educació i a través dels processos de participació de la mateixa Inspecció que establix la normativa reguladora, la Inspecció Educativa no sols hauria de fer un salt qualitatiu en la seua proximitat als centres i en el seu paper de referència normativa i lideratge pedagògic, sinó que també hauria d'actualitzar i modernitzar la seua pròpia organització i funcionament, integrant els elements tecnològics i aprofitant i desenrotllant el talent de les persones que la integren.\n\nA este efecte, es van formular cinc objectius estratègics per al període 2023-2027. Amb el propòsit de potenciar la incidència de les actuacions de la Inspecció Educativa en la garantia dels drets i el compliment dels deures de tots els membres de la comunitat educativa, així com en la millora contínua del sistema educatiu de la Comunitat Valenciana, els seus centres, servicis i programes es va formular l'objectiu estratègic 1. Així mateix, l'objectiu estratègic 2 plantejava l'impuls de l'avaluació del sistema educatiu de la Comunitat Valenciana per a la seua millora, incidint en l'avaluació de la pràctica docent com a garantia de la qualitat de l'ensenyança i aprenentatge.\n\nNo és de menor importància per a la nostra organització l'objectiu estratègic 4, Avançar en l'eficiència i eficàcia de l'organització i funcionament de la Inspecció Educativa. En este sentit, l'experiència adquirida a través de les actuacions de caràcter cíclic, la implantació de les àrees específiques interterritorials, l'existència d'una aplicació pròpia de gestió, l'elaboració i la tramitació d'informes i assumptes i els processos d'internacionalització de l'organització, mitjançant la participació en projectes europeus i la pertinença a la Standing International Conference of Inspectorates, en què un gran nombre d'inspectors i inspectores han pogut observar directament la metodologia de treball de les inspeccions i òrgans de supervisió i avaluació de diversos països europeus, fan necessari fer un pas més en l'evolució del model d'Inspecció Educativa establit en la Llei orgànica 2/2006, de 3 de maig, i el Decret 80/2017, de 23 de juny, així com la seua normativa de desenrotllament, amb la finalitat que esta responga als reptes socials, tecnològics i educatius que se li plantegen i puga ser realment un factor essencial de qualitat en el sistema educatiu.\n\nEn compliment del que s'establix en la Resolució de 17 d'octubre de 2023, de la Secretaria Autonòmica d'Educació, este pla concreta els diferents tipus d'actuacions per al curs 2026-2027 i, de conformitat amb l'article 19 del Decret 80/2017, de 23 de juny, ha de ser la base dels plans territorials d'actuació, elaborats per les inspeccions territorials, que respectaran i adequaran el contingut d'este pla general d'actuació anual al seu àmbit geogràfic, i disposaran de capacitat d'ajust de les actuacions als contextos i situacions pròpies de cada territori. Així mateix, establix les bases per al desenrotllament del Pla institucional de formació permanent de la Inspecció Educativa per al mateix període.\n\nD'acord amb el que preveu l'article 29 del Decret 80/2017, la Inspecció General d'Educació establirà un sistema de seguiment i avaluació per a determinar el grau de consecució dels objectius proposats i la valoració dels resultats de les diferents activitats.\n\nPer tot això, a proposta de la Inspecció General d'Educació, i en virtut del que establix l'article 7.1. del Decret 68/2026, de 4 de maig, del Consell, d'aprovació del Reglament orgànic i funcional de la Conselleria d'Educació, Cultura i Universitats, i els articles 4 i 5 de l'Orde 6/2025, de 9 d'abril, de la Conselleria d'Educació, Cultura, Universitats i Ocupació, per la qual es desenrotlla el Decret 38/2025, de 4 de març de 2025, del Consell, d'aprovació del Reglament orgànic i funcional de la Conselleria d'Educació, Cultura, Universitats i Ocupació,"
+    },
+    {
+      "type": "articulo",
+      "id": "apartado-1",
+      "number": "1",
+      "title": "Primer",
+      "content": "Aprovar el Pla general d'actuació anual, d'ara en avant PGAA, de la Inspecció Educativa de la Comunitat Valenciana per al curs 2026-2027, que consta en l'annex d'esta resolució."
+    },
+    {
+      "type": "articulo",
+      "id": "apartado-2",
+      "number": "2",
+      "title": "Segon",
+      "content": "La Inspecció General d'Educació adoptarà totes les mesures necessàries per a assegurar el desenrotllament i el compliment del PGAA de la Inspecció Educativa."
+    },
+    {
+      "type": "articulo",
+      "id": "apartado-3",
+      "number": "3",
+      "title": "Tercer",
+      "content": "El PGAA podrà ser objecte de revisió i modificació a conseqüència de les necessitats, demandes o canvis normatius que afecten el sistema educatiu o l'actuació de la Inspecció Educativa."
+    },
+    {
+      "type": "articulo",
+      "id": "apartado-4",
+      "number": "4",
+      "title": "Quart",
+      "content": "Esta resolució es publicarà en el Portal de Transparència de la Generalitat i en el Diari Oficial de la Generalitat Valenciana."
+    },
+    {
+      "type": "anexo",
+      "id": "anexo",
+      "title": "Annex. Pla general d'actuació anual (PGAA) de la Inspecció Educativa de la Comunitat Valenciana per al curs 2026-2027",
+      "children": [
+        {
+          "type": "seccion",
+          "id": "anexo-1",
+          "title": "1. Objectius estratègics del PGAA relacionats amb el Pla plurianual de la Inspecció Educativa",
+          "content": "Els objectius estratègics d'este PGAA es corresponen amb els establits per la Resolució de 17 d'octubre de 2023, de la Secretaria Autonòmica d'Educació, per la qual s'aprova el Pla plurianual de la Inspecció Educativa de la Comunitat Valenciana per al període 2023-2027:\n\na) Potenciar la incidència de les actuacions de la Inspecció Educativa en la garantia de l'exercici dels drets i el compliment dels deures de tots els membres de la comunitat educativa, així com en la millora contínua del sistema educatiu de la Comunitat Valenciana, els seus centres, servicis i programes.\n\nb) Impulsar l'avaluació del sistema educatiu de la Comunitat Valenciana per a millorar-lo, incidint en l'avaluació de la pràctica docent com a garantia de qualitat de l'ensenyança i aprenentatge.\n\nc) Informar l'administració educativa de la supervisió i avaluació realitzada i fer propostes de millora de la normativa i de la formació del professorat.\n\nd) Avançar en l'eficiència i eficàcia de l'organització i funcionament de la Inspecció Educativa.\n\ne) Consolidar un model de formació inicial i contínua de la Inspecció Educativa, enfocat al desenrotllament de les competències professionals dels inspectors i inspectores i l'aprofitament del talent, en col·laboració amb altres òrgans de l'administració educativa, altres administracions, inspeccions educatives d'altres comunitats autònomes i mitjançant la participació en programes europeus."
+        },
+        {
+          "type": "seccion",
+          "id": "anexo-2",
+          "title": "2. Actuacions de la Inspecció Educativa",
+          "content": "Les actuacions de la Inspecció Educativa per al període 2026-2027 es corresponen amb les que establix l'apartat tercer del Pla plurianual de la Inspecció Educativa.\n\nEstes actuacions hauran d'incloure's en els plans territorials d'actuació anual que s'elaboren en desenrotllament d'este Pla general d'actuació anual, adaptant i desenrotllant el seu contingut a les característiques específiques de cada inspecció territorial.",
+          "children": [
+            {
+              "type": "articulo",
+              "id": "anexo-2-1",
+              "title": "2.1. Actuacions prioritàries",
+              "content": "Estes actuacions tenen per objecte la consecució dels objectius estratègics establits per l'òrgan superior amb competències en matèria d'educació que exercisca la superior direcció de la Inspecció Educativa de la Comunitat Valenciana.\n\nD'acord amb el coneixement i l'observació de la realitat dels centres docents per part de la Inspecció Educativa, així com les evidències i dades disponibles, correspon a la Inspecció General d'Educació la formulació, planificació, coordinació i avaluació d'estes actuacions prioritàries, a través de les instruccions que determine, que concretaran el protocol d'actuació, la planificació temporal, els instruments i indicadors per al seu desenrotllament i les indicacions o especificacions de caràcter informàtic, si és el cas, en què es produirà l'actuació.\n\nEn el curs 2026-2027 es continuarà amb la realització de determinades actuacions de caràcter cíclic, amb la finalitat que al final del període d'adscripció de l'inspector o la inspectora a la seua zona d'intervenció s'haja supervisat la totalitat dels centres que pertanyen a la zona d'intervenció o a una mostra determinada. En estes actuacions la seua condició de cícliques s'indica amb els caràcters \"(C)\".\n\nAixí mateix, amb caràcter experimental i com a fruit de l'experiència adquirida en este període, en el curs 2026-2027 es realitzarà una actuació prioritària de supervisió i avaluació de centres docents amb caràcter globalitzador i col·legiat, conforme a criteris objectius de risc i evidències, que aprofundisca en diversos elements del centre docent des d'un punt de vista holístic i permeta obtindre una visió més profunda i de conjunt, amb la finalitat que les actuacions de supervisió i avaluació aconseguisquen arribar a un major impacte en la realitat dels centres docents i del sistema educatiu, per a contribuir a la seua millora.\n\nPer al curs 2026-2027, les actuacions prioritàries, amb indicació del seu caràcter, són:\n\nAP1. Supervisió i avaluació de centres docents:\nÀmbit pedagògic: projectes, plans i mesures que formen part del PEC. concreció curricular, propostes pedagògiques i programacions d'aula instruments d'avaluació i criteris de qualificació d'acord\nÀmbit organitzatiu: Programació general anual Gestió econòmica (centres de titularitat de la Generalitat Valenciana).\nÀmbit de convivència i inclusió Funcionament de les aules UECO, si és el cas. Recursos humans per a la resposta a la inclusió Pla de convivència\n\nAP2. Supervisió i control del compliment de la gratuïtat de l'escolarització, matrícula o reserva de plaça en els centres autoritzats d'Educació Infantil i escoles infantils de primer cicle de la Comunitat Valenciana. (C)\n\nAP3. Supervisió de l'atribució docent i l'horari del personal docent de centres privats concertats, així com la correspondència del pagament delegat amb el professorat registrat en ITACA 3 i la distribució dels recursos personals associats a la dotació REMA i resta de programes anuals. (C)\n\nAP4. Supervisió de la implantació dels programes formatius autoritzats en centres de Formació de Persones Adultes municipals, d'acord amb el Decret 77/2025, de 27 de maig, del Consell.\n\nAP5. Assessorament sobre les modificacions curriculars en aplicació del Decret 96/2026, de 19 de juny, del Consell, pel qual es modifica el Decret 106/2022, de 5 d'agost, del Consell, d'ordenació i currículum de l'etapa d'Educació Primària i el Decret 103/2026, de 26 de juny, del Consell, de modificació del Decret 108/2022, de 5 d'agost, del Consell, pel qual s'establixen l'ordenació i el currículum de Batxillerat.\n\nA continuació, s'oferix un cronograma del període en què es duran a terme les actuacions prioritàries en el curs 2026-2027, per a facilitar la planificació de les actuacions dels inspectors i de les inspectores.\n\nEn este cronograma es precisa el volum de centres docents sobre els quals es realitzarà cada actuació determinada, siga en termes de percentatge d'entre el conjunt de centres de la zona d'intervenció de cada inspector o inspectora, a la seua elecció, o d'acord amb les característiques específiques de l'actuació, o en termes de nombre de centres docents a supervisar. Així mateix, es detalla si són actuacions prioritàries que impliquen la totalitat de la plantilla (general) o una part variable d'esta, d'acord amb la composició de la seua zona d'intervenció (parcial).\n\n[El cronograma de l'original és una taula amb una columna per mes, de setembre a juliol, en què s'ombregen els mesos de cada actuació. Ací la columna «Període» recull els mesos ombrejats i el text escrit en ells.]\n\n| Actuació | Núm. centr./insp | Insp. implic. | Període |\n|---|---|---|---|\n| AP1. Supervisió i avaluació de centres docents: Àmbit pedagògic: – projectes, plans i mesures que formen part del PEC. – concreció curricular, propostes pedagògiques i programacions d'aula – instruments d'avaluació i criteris de qualificació d'acord; Àmbit organitzatiu: – Programació general anual – Gestió econòmica (centres de titularitat de la Generalitat Valenciana). Àmbit de convivència i inclusió – Funcionament de les aules UECO, si és el cas. – Recursos humans per a la resposta a la inclusió – Pla de convivència | 5 | General | Setembre a novembre: Selecció de centres docents i contacte amb els centres seleccionats; Creació d'equips de supervisió; Planificació de l'actuació; Anàlisi documental. Desembre a juliol: Visita als centres i elaboració d'informes |\n| AP2. Supervisió i control del compliment de la gratuïtat de l'escolarització, matrícula o reserva de plaça en els centres autoritzats d'Educació Infantil i escoles infantils de primer cicle de la Comunitat Valenciana. (C) | 3 | PARCIAL | Setembre a novembre |\n| AP3. Supervisió de l'atribució docent i l'horari del personal docent de centres privats concertats, així com la correspondència del pagament delegat amb el professorat registrat en ITACA 3 i la distribució dels recursos personals associats a la dotació REMA i resta de programes anuals. (C) | 25 % | General | Setembre a novembre |\n| AP4. Supervisió de la implantació dels programes formatius autoritzats en centres de Formació de Persones Adultes municipals, d'acord amb el Decret 77/2025, de 27 de maig, del Consell. | Mínim 2 | General | Setembre a juny |\n| AP5. Assessorament sobre les modificacions curriculars en aplicació del Decret 96/2026, de 19 de juny, del Consell, pel qual es modifica el Decret 106/2022, de 5 d'agost, del Consell, d'ordenació i currículum de l'etapa d'Educació Primària i el Decret 103/2026, de 26 de juny, del Consell, de modificació del Decret 108/2022, de 5 d'agost, del Consell, pel qual s'establixen l'ordenació i el currículum de Batxillerat | 100 % | General | Setembre a juny |"
+            },
+            {
+              "type": "articulo",
+              "id": "anexo-2-2",
+              "title": "2.2. Actuacions específiques per a la millora de la Inspecció Educativa",
+              "content": "Estes actuacions tenen com a finalitat la millora dels processos realitzats per la Inspecció Educativa en l'exercici de les seues funcions. La seua planificació, coordinació i impuls correspon a la Inspecció General d'Educació, en coordinació amb les inspeccions territorials.\n\nPer al curs 2026-2027 es determinen les actuacions específiques següents:\n\na) Implementació d'un itinerari formatiu per a la formació inicial dels inspectors i de les inspectores d'educació de nova incorporació.\n\nb) Implementació del pla de formació permanent per al desenrotllament de les competències professionals dels inspectors i de les inspectores d'educació, d'acord amb el Marc de referència per a la formació i actualització institucional.\n\nc) Millora de la coordinació interterritorial de les àrees específiques i equips de treball per a garantir l'homogeneïtat dels procediments i actuacions.\n\nd) Promoció i participació en projectes Erasmus+ i altres organismes internacionals sobre matèria educativa.\n\ne) Aprofundiment en el treball en equip i de fórmules de col·laboració entre inspectors i inspectores en la realització de les actuacions.\n\nf) g) Disseny i desenrotllament de l'aplicació informàtica específica de tramitació d'informes i de gestió de les actuacions de la Inspecció Educativa."
+            },
+            {
+              "type": "articulo",
+              "id": "anexo-2-3",
+              "title": "2.3. Actuacions habituals",
+              "content": "Les actuacions habituals són totes aquelles actuacions de la Inspecció Educativa que procedixen de l'exercici ordinari de les funcions i atribucions en les seues tasques de supervisió, control, avaluació i assessorament als centres, servicis i programes assignats.\n\nD'acord amb el Pla de qualitat elaborat per l'equip de treball creat a este efecte i en el context de la necessitat de simplificació administrativa impulsada per la Conselleria d'Educació, Cultura i Universitats, s'han eliminat o, si és el cas, simplificat algunes de les actuacions habituals que este pla considera que no són pròpies de l'activitat de la Inspecció Educativa o que no afigen valor tècnic pedagògic afegit, començant per aquelles que no estan basades en cap normativa o la regulació de les quals pot ser modificada a curt termini per l'òrgan directiu que les emet.\n\nLa seua concreció s'establirà en el marc de les instruccions de la Inspecció General d'Educació en què es desenrotlle el Pla general d'actuació anual, i en estes es farà una relació de les actuacions habituals i la seua distribució temporal prevista.\n\nTindran la consideració d'actuació habitual:\n\na) aquelles que es desprenguen de les sol·licituds dels diversos òrgans directius i que es formulen en el marc del desenrotllament normatiu o de la seua aplicació, amb l'avaluació prèvia per part de la IGE en el marc de les funcions i atribucions de la Inspecció Educativa i posterior determinació del procediment de realització.\n\nb) les derivades de la participació en qualsevol tipus de comissions específiques o reunions convocades a través de la IGE o les inspeccions territorials pels òrgans directius de la Conselleria.\n\nc) les actuacions realitzades en procediments d'instrucció d'expedients disciplinaris.\n\nd) l'assistència dels inspectors i inspectores d'Educació, nomenats i nomenades en representació de l'administració educativa, a les reunions d'òrgans col·legiats com consells socials de CIPFP, consells escolars municipals, comissions d'escolarització i qualsevol altre òrgan o comissió legalment constituïts. Per a l'assistència a estes comissions s'haurà de comptar amb la convocatòria i la seua autorització es farà d'acord amb el procediment habitual d'autorització de visites ordinàries."
+            },
+            {
+              "type": "articulo",
+              "id": "anexo-2-4",
+              "title": "2.4. Actuacions incidentals",
+              "content": "Les actuacions incidentals són aquelles actuacions que, en el marc de les competències de la Inspecció Educativa, procedixen de circumstàncies no previsibles i situacions amb caràcter urgent i immediat que poden donar-se en els centres, servicis i programes assignats als inspectors i inspectores, que poden requerir d'accions puntuals de supervisió i assessorament o d'emissió d'informes, així com de col·laboració i suport als diversos òrgans de l'administració educativa."
+            }
+          ]
+        },
+        {
+          "type": "seccion",
+          "id": "anexo-3",
+          "title": "3. Àrees específiques i equips de treball",
+          "content": "L'article 17 del Decret 80/2017, establix que les àrees específiques i les agrupacions per equips de treball tenen com a objecte organitzar la intervenció de la Inspecció d'Educació en els aspectes directament relacionats amb les seues funcions o amb aspectes transversals a les diferents funcions. Al seu torn, l'article 16.5 de l'Orde 17/2019, de 16 d'abril, atorga a la persona titular de la Secretaria Autonòmica d'Educació la potestat de modificar la relació d'àrees de treball, en el marc del PGAA.\n\nAixí mateix, l'article 5 del Decret 80/2017 establix els principis d'actuació de la Inspecció Educativa, entre els quals s'inclouen els principis de coordinació, especialització i treball en equip.\n\nPer això, s'establixen les següents àrees específiques de treball per al curs 2026-2027:\n\na) Centres docents\n\nb) Personal docent\n\nc) Innovació, avaluació i qualitat educativa\n\nd) Ordenació acadèmica i política lingüística\n\ne) Formació i qualificació professional\n\nf) Ensenyances de règim especial\n\ng) Inclusió educativa\n\nh) Processos interns de la Inspecció Educativa Internacionalització\n\nRespecte a l'organització i funcionament de les àrees específiques i equips de treball és aplicable el que s'establix en la Resolució de 5 de febrer de 2024, de la Secretaria Autonòmica d'Educació, per la qual es regula el funcionament de les àrees específiques i equips de treball de la Inspecció Educativa de la Comunitat Valenciana.\n\nD'acord amb esta resolució, són funcions de les àrees específiques:\n\na) Informar, coordinar i assessorar sobre les actuacions relacionades amb l'àrea.\n\nb) Col·laborar en el disseny, el desenrotllament i l'avaluació de les actuacions relacionades amb l'àrea.\n\nc) Impulsar i col·laborar en activitats de formació referides als continguts de l'àrea.\n\nd) Elaborar protocols de procediments i models d'informes relacionats amb l'àrea.\n\nAixí mateix, s'impulsarà el funcionament de grups de treball interterritorials, de coordinació i desenrotllament de les àrees específiques per a la realització de tasques específiques vinculades amb actuacions previstes en el Pla general d'actuació anual.\n\nPer a dur a terme estes funcions es podran fer reunions interterritorials, després de la convocatòria de l'inspector o la inspectora de referència d'àmbit autonòmic i a proposta de l'inspector o la inspectora responsable d'àrea específica d'àmbit interterritorial.\n\nPel que fa als equips de treball, d'acord amb la resolució que els regula, estos realitzaran les funcions següents:\n\na) Coordinar l'àrea específica a nivell interterritorial, a fi d'homogeneïtzar l'actuació de la Inspecció Educativa de la Comunitat Valenciana.\n\nb) Organitzar les actuacions de l'àrea d'acord amb les tasques específiques previstes en el Pla plurianual de la Inspecció Educativa i el Pla general d'actuació anual.\n\nc) Assessorar en temes relatius a l'àrea sobre les qüestions plantejades en l'àmbit territorial.\n\nd) Participar en les comissions que establisquen els òrgans directius de la Conselleria d'Educació en relació amb temes propis de l'àrea específica.\n\ne) Intervindre en el disseny, desenrotllament i implementació dels procediments relacionats amb l'àrea específica impulsant la coordinació interterritorial.\n\nf) Elaborar materials i instruments de treball que agilitzen les actuacions de la Inspecció Educativa i mantindre actualitzat el repositori de Sharepoint.\n\nS'establixen els següents equips de treball per al curs 2026-2027:\n\na) Impuls de la millora de la Inspecció Educativa\n\nb) Expedients disciplinaris\n\nc) Pilotatge i desenrotllament de noves capacitats de TIRANT"
+        },
+        {
+          "type": "seccion",
+          "id": "anexo-4",
+          "title": "4. Plans territorials d'actuació anual (PTAA)",
+          "content": "Cada inspecció territorial elaborarà un Pla territorial d'actuació anual en desenrotllament i concreció del Pla general d'actuació anual, d'acord amb el seu contingut. D'acord amb l'article 19.4. del Decret 80/2017, de 23 de juny, el PTAA de cada inspecció territorial serà aprovat per la persona titular de l'òrgan al qual estiguen adscrites orgànicament les inspeccions territorials.\n\nPer a això serà remés a la Inspecció General d'Educació abans del 30 de setembre de 2026.\n\nEl PTAA integrarà, almenys, els apartats següents:\n\na) Objectius específics del Pla territorial\n\nb) Organització territorial:\nb.1. Estructura de funcionament\nb.2. Planificació setmanal del treball\nb.3. Criteris i mecanismes per a la distribució eficaç dels centres educatius davant de l'absència o malaltia temporal de les inspectores o dels inspectors d'Educació\nb.4. Calendari de reunions de coordinació interna\n\nc) Àrees específiques de treball: organització dels seus responsables i calendari de reunions de coordinació\n\nd) Actuacions per a l'acolliment de les inspectores i dels inspectors de nova incorporació\n\ne) Actuacions de formació i perfeccionament en la Inspecció Territorial d'Educació\n\nf) Seguiment i avaluació del Pla territorial d'actuació anual\n\nEls aspectes indicats a continuació s'inclouran directament en l'aplicació informàtica ITACA3-PER:\n• Assignació d'inspectors i inspectores a les diferents circumscripcions, àrees específiques i agrupacions per equips de treball.\n• Assignació de tasques i temes específics als diferents inspectors i inspectores.\n• Assignació de dies de guàrdia i atenció al públic per inspectors i inspectores i per circumscripcions.\n• Planificació de les visites setmanals, incloent-hi les reunions amb òrgans directius de la Conselleria i les diferents comissions."
+        },
+        {
+          "type": "seccion",
+          "id": "anexo-5",
+          "title": "5. Pla institucional de formació i actualització de la Inspecció Educativa",
+          "content": "La Resolució de 10 de novembre de 2023, de la Secretaria Autonòmica d'Educació, per la qual s'aprova el Marc de referència per a la formació i actualització institucional de la Inspecció Educativa de la Comunitat Valenciana per al període 2023-2027 establix les línies de desenrotllament de les competències professionals de la Inspecció Educativa per a este període.\n\nEn este marc de referència es consideren més rellevants, i no de manera exhaustiva, les competències professionals següents: cientificopedagògica, legislativa, comunicativa, digital, col·laborativa, innovació i internacionalització, lideratge i aprenentatge permanent al llarg de la seua carrera.\n\nD'acord amb l'objectiu estratègic 5 del Pla plurianual de la Inspecció Educativa, el Pla institucional de formació i actualització anirà dirigit al desenrotllament de les competències professionals necessàries per a l'exercici de les funcions atribuïdes a la Inspecció Educativa, garantint que els inspectors i les inspectores d'educació reben una formació inicial i permanent que s'adapte a les contínues transformacions que experimenta el sistema educatiu.\n\nEsta formació s'estructurarà en tres àmbits que afecten el treball de l'inspector i de la inspectora d'educació: la formació individual, l'organitzada per les inspeccions territorials i l'oferida per la Inspecció General d'Educació.\n\nEl desenrotllament específic de les línies formatives relacionades amb les competències i àmbits descrits es concretaran mitjançant instruccions de la Inspecció General d'Educació."
+        },
+        {
+          "type": "seccion",
+          "id": "anexo-6",
+          "title": "6. Memòria anual de la Inspecció Educativa de la Comunitat Valenciana",
+          "children": [
+            {
+              "type": "articulo",
+              "id": "anexo-6-1",
+              "title": "6.1. Memòria anual de les inspeccions territorials",
+              "content": "La memòria anual de la inspecció territorial, el model i el contingut de la qual serà establit per la Inspecció General d'Educació, inclourà les actuacions realitzades, el grau de consecució dels objectius del pla i la seua valoració, així com la contribució dels inspectors d'educació del seu àmbit territorial a la consecució d'estos objectius.\n\nEl contingut de la memòria territorial haurà d'incloure, almenys, els apartats següents:\n• Valoració sobre el grau de compliment de les actuacions prioritàries i específiques establides en el PGAA i en el PTAA, així com sobre el resultat de la seua execució.\n• Valoració sobre la realització de les actuacions habituals.\n• Valoració sobre les actuacions incidentals.\n• Valoració sobre el funcionament dels òrgans de govern i coordinació.\n• Valoració sobre l'organització i funcionament de les àrees específiques de treball.\n• Valoració sobre el Pla de formació inicial i permanent de la Inspecció Educativa desenrotllat en el si de la inspecció territorial.\n• Avaluació global del PTAA, anàlisi de les dificultats trobades i propostes de millora, entre les quals es podran incloure propostes d'actuacions prioritàries i específiques per al següent PGAA.\n\nLa memòria anual es remetrà a la Inspecció General d'Educació abans del 20 de juliol de 2027."
+            },
+            {
+              "type": "articulo",
+              "id": "anexo-6-2",
+              "title": "6.2. Memòria anual de la Inspecció General d'Educació",
+              "content": "Per a l'elaboració d'esta memòria, es demanarà la informació aportada per les inspeccions territorials d'Educació i el seu contingut donarà resposta als elements fonamentals següents:\n\na) Valoració del grau de consecució dels objectius estratègics del Pla plurianual de la Inspecció Educativa, segons les actuacions prioritàries i específiques.\n\nb) Valoració del grau de realització de les actuacions prioritàries del PGAA i dificultats trobades.\n\nc) Valoració del grau de realització de les actuacions específiques per a la millora de la mateixa inspecció incloses en el PGAA i dificultats trobades.\n\nd) Valoració global sobre la realització de les actuacions habituals i dificultats trobades.\n\ne) Valoració global sobre les actuacions incidentals realitzades: anàlisi de la seua tipologia i de la seua resposta.\n\nf) Valoració del Pla institucional de formació inicial i permanent.\n\ng) Propostes d'actuacions i de millora per al PGAA del curs 2027-2028.\n\nLa memòria anual de la Inspecció Educativa de la Comunitat Valenciana s'elevarà a l'òrgan superior amb competències en educació i es publicarà en el Portal de transparència de la Generalitat i en la pàgina web de la conselleria competent en matèria d'educació."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "legalAnalysis": {
+    "enactedPursuantTo": [
+      {
+        "title": "Decret 80/2017, de 23 de juny, del Consell, pel qual es regula l'actuació, el funcionament i l'organització de la Inspecció d'Educació de la Comunitat Valenciana",
+        "articles": [
+          "art-5",
+          "art-17",
+          "art-19",
+          "art-29"
+        ],
+        "relationship": "desarrollo"
+      },
+      {
+        "title": "Resolució de 17 d'octubre de 2023, de la Secretaria Autonòmica d'Educació, per la qual s'aprova el Pla plurianual de la Inspecció Educativa de la Comunitat Valenciana per al període 2023-2027",
+        "relationship": "desarrollo"
+      },
+      {
+        "title": "Decret 68/2026, de 4 de maig, del Consell, d'aprovació del Reglament orgànic i funcional de la Conselleria d'Educació, Cultura i Universitats",
+        "articles": [
+          "art-7"
+        ],
+        "relationship": "habilitante"
+      },
+      {
+        "title": "Orde 6/2025, de 9 d'abril, de la Conselleria d'Educació, Cultura, Universitats i Ocupació, per la qual es desenrotlla el Decret 38/2025",
+        "articles": [
+          "art-4",
+          "art-5"
+        ],
+        "relationship": "habilitante"
+      }
+    ],
+    "priorAffectations": [],
+    "posteriorAffectations": [],
+    "derogations": [],
+    "concordances": [
+      {
+        "lawId": "ley-organica-2-2006",
+        "title": "Llei orgànica 2/2006, de 3 de maig, d'educació",
+        "description": "Model d'inspecció educativa que el pla desenrotlla (citada en el preàmbul)"
+      },
+      {
+        "title": "Orde 17/2019, de 16 d'abril",
+        "description": "Art. 16.5: la Secretaria Autonòmica pot modificar les àrees de treball en el marc del PGAA (apartat 3 de l'annex)"
+      },
+      {
+        "title": "Resolució de 5 de febrer de 2024, de la Secretaria Autonòmica d'Educació, per la qual es regula el funcionament de les àrees específiques i equips de treball de la Inspecció Educativa de la Comunitat Valenciana",
+        "description": "Organització i funcions de les àrees específiques i equips de treball (apartat 3 de l'annex)"
+      },
+      {
+        "title": "Resolució de 10 de novembre de 2023, de la Secretaria Autonòmica d'Educació, per la qual s'aprova el Marc de referència per a la formació i actualització institucional de la Inspecció Educativa de la Comunitat Valenciana per al període 2023-2027",
+        "description": "Pla institucional de formació de la Inspecció (apartat 5 de l'annex)"
+      },
+      {
+        "title": "Decret 77/2025, de 27 de maig, del Consell",
+        "description": "Programes formatius dels centres municipals de Formació de Persones Adultes (actuació prioritària AP4)"
+      },
+      {
+        "title": "Decret 96/2026, de 19 de juny, del Consell, pel qual es modifica el Decret 106/2022 (ordenació i currículum d'Educació Primària)",
+        "description": "Modificacions curriculars objecte d'assessorament (actuació prioritària AP5)"
+      },
+      {
+        "title": "Decret 103/2026, de 26 de juny, del Consell, de modificació del Decret 108/2022 (ordenació i currículum de Batxillerat)",
+        "description": "Modificacions curriculars objecte d'assessorament (actuació prioritària AP5)"
+      },
+      {
+        "lawId": "decreto-108-2022",
+        "title": "Decret 108/2022, de 5 d'agost, del Consell, pel qual s'establixen l'ordenació i el currículum de Batxillerat",
+        "description": "Currículum de Batxillerat modificat pel Decret 103/2026 (actuació prioritària AP5)"
+      },
+      {
+        "lawId": "instruccion-7-2026-ige-pgaa",
+        "title": "Instrucció 7/2026 de la Inspecció General d'Educació, per la qual es desenrotlla el Pla General d'Actuació Anual de la Inspecció Educativa per al curs 2026-2027",
+        "description": "Desenrotlla este pla: aplicacions informàtiques i relació d'actuacions habituals"
+      }
+    ]
+  },
+  "promulgation": {
+    "place": "València",
+    "date": "2026-07-21",
+    "signatories": [
+      {
+        "name": "Daniel McEvoy Bravo",
+        "role": "Secretaria Autonòmica d'Educació"
+      }
+    ]
+  },
+  "scope": "general",
+  "territory": "autonomico",
+  "temporality": {
+    "type": "anual",
+    "schoolYear": "26-27",
+    "expiresDate": "2027-09-01"
+  },
+  "docType": "normativa"
+}
