@@ -10,7 +10,7 @@ Hipervínculos de un PDF con el texto visible que los lleva.
 Sirve para encontrar los enlaces que el PDF esconde tras un texto (un nombre de
 proyecto, el UUID de un documento…) y que la extracción de texto pierde. En el
 JSON se transcriben como `[texto visible](url)`: ver «Hipervínculos ocultos»
-en CLAUDE.md.
+en `.claude/skills/ingesta-legis/referencias/urls.md`.
 
 Necesita pypdf (está en el Python del sistema) y pdftotext (poppler).
 Un hipervínculo que ocupa dos líneas sale como dos filas, una por rectángulo.

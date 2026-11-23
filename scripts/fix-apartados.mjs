@@ -6,7 +6,7 @@
  *   node scripts/fix-apartados.mjs            informe
  *   node scripts/fix-apartados.mjs --write    aplica
  *
- * Es un defecto conocido de ingesta (lo avisa CLAUDE.md): sin `\n\n` entre
+ * Es un defecto conocido de ingesta (lo avisa la skill `ingesta-legis`, paso 6 bis): sin `\n\n` entre
  * apartados no se pueden anclar citas y el texto se lee peor en la web.
  *
  * El corte es conservador a propósito: solo parte donde aparece el marcador
