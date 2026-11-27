@@ -96,6 +96,11 @@
     "derogations": [],
     "concordances": [
       {
+        "lawId": "real-decreto-ley-42-2026",
+        "title": "Reial decret llei 42/2026 - Permisos per dol, ajuda per a morir, naixement i reducció de jornada (TREBEP i ET)",
+        "description": "Eleva a vint les dènou setmanes de permís per naixement i adopció que aquesta circular va incorporar al Manual"
+      },
+      {
         "lawId": "decreto-234-2022",
         "title": "Decret 234/2022 - Permisos i llicències del personal docent",
         "description": "Norma base que regula els permisos i llicències del personal docent"

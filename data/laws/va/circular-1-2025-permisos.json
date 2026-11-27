@@ -658,7 +658,13 @@
       }
     ],
     "derogations": [],
-    "concordances": []
+    "concordances": [
+      {
+        "lawId": "real-decreto-ley-42-2026",
+        "title": "Reial decret llei 42/2026 - Permisos per dol, ajuda per a morir, naixement i reducció de jornada (TREBEP i ET)",
+        "description": "Eleva el permís per naixement i per adopció a vint setmanes, amb tres de cura del menor (apts. II.5, II.6 i II.11), amplia el permís per defunció (II.14) i el de cura de menor amb càncer o malaltia greu (II.12), i afig el dia de la prestació d'ajuda per a morir, que el Manual no recull"
+      }
+    ]
   },
   "promulgation": {
     "place": "València",

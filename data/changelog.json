@@ -1,5 +1,39 @@
 [
   {
+    "version": "2.22.0",
+    "date": "2026-11-27",
+    "entries": {
+      "es": [
+        {
+          "type": "nuevo",
+          "description": "Real Decreto-ley 42/2026, de 24 de noviembre (BOE), que reescribe los permisos de los artículos 48 y 49 del Estatuto Básico del Empleado Público y los del Estatuto de los Trabajadores. Permiso por fallecimiento de diez días hábiles por cónyuge, pareja o familiar de primer grado de consanguinidad, a iniciar dentro de las cuatro semanas y también en días sueltos; nacimiento y adopción de veinte semanas, con tres de cuidado del menor; nuevo permiso por el día de la prestación de ayuda para morir; y más supuestos en el permiso por cuidado de menor con cáncer o enfermedad grave. En vigor desde el 26 de noviembre de 2026; la semana adicional por nacimiento se puede pedir desde el 1 de marzo de 2027."
+        },
+        {
+          "type": "actualizado",
+          "description": "Decreto 234/2022, Manual de permisos y licencias (Circular 1/2025) y Circulares 6/2025 y 2/2026: su análisis jurídico enlaza ahora el Real Decreto-ley 42/2026 y explica qué apartados quedan desfasados (fallecimiento, nacimiento y adopción, cuidado de menor con cáncer) y que la letra del TREBEP a la que remite el artículo 10 del decreto ha cambiado."
+        },
+        {
+          "type": "mejora",
+          "description": "Nuevo tipo de norma «Real decreto-ley» en el catálogo, el buscador y las citas APA."
+        }
+      ],
+      "va": [
+        {
+          "type": "nuevo",
+          "description": "Reial decret llei 42/2026, de 24 de novembre (BOE), que reescriu els permisos dels articles 48 i 49 de l'Estatut bàsic de l'empleat públic i els de l'Estatut dels Treballadors. Permís per defunció de deu dies hàbils per cònjuge, parella o familiar de primer grau de consanguinitat, que es pot començar dins de les quatre setmanes i també en dies solts; naixement i adopció de vint setmanes, amb tres de cura del menor; nou permís pel dia de la prestació d'ajuda per a morir; i més supòsits en el permís per cura de menor amb càncer o malaltia greu. En vigor des del 26 de novembre de 2026; la setmana addicional per naixement es pot demanar des de l'1 de març de 2027."
+        },
+        {
+          "type": "actualizado",
+          "description": "Decret 234/2022, Manual de permisos i llicències (Circular 1/2025) i Circulars 6/2025 i 2/2026: la seua anàlisi jurídica enllaça ara el Reial decret llei 42/2026 i explica quins apartats queden desfasats (defunció, naixement i adopció, cura de menor amb càncer) i que la lletra del TREBEP a què remet l'article 10 del decret ha canviat."
+        },
+        {
+          "type": "mejora",
+          "description": "Nou tipus de norma «Reial decret llei» en el catàleg, el cercador i les cites APA."
+        }
+      ]
+    }
+  },
+  {
     "version": "2.21.0",
     "date": "2026-11-23",
     "entries": {

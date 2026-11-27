@@ -67,6 +67,11 @@
     "derogations": [],
     "concordances": [
       {
+        "lawId": "real-decreto-ley-42-2026",
+        "title": "Real Decreto-ley 42/2026 - Permisos por duelo, ayuda para morir, nacimiento y reducción de jornada (TREBEP y ET)",
+        "description": "Vuelve a redactar el art. 49.e) del TREBEP que desarrolla esta circular: lo extiende a la monoparentalidad, basta la hospitalización o el tratamiento continuado y suprime la exigencia de ingreso hospitalario de larga duración"
+      },
+      {
         "title": "Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido de la Ley del Estatuto Básico del Empleado Público",
         "description": "Artículo 49.e): normativa básica estatal del permiso"
       },

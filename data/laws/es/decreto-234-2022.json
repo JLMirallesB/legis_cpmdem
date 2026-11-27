@@ -366,6 +366,11 @@
     ],
     "concordances": [
       {
+        "lawId": "real-decreto-ley-42-2026",
+        "title": "Real Decreto-ley 42/2026 - Permisos por duelo, ayuda para morir, nacimiento y reducción de jornada (TREBEP y ET)",
+        "description": "Da nueva redacción a los arts. 48 y 49 del TREBEP (en vigor desde el 26/11/2026). Los arts. 9, 10, 11, 14, 15 y 23 remiten a ellos y se aplican con el texto nuevo; la letra 49.c) a la que remite el art. 10 es ahora el permiso parental, y el permiso del progenitor distinto de la madre biológica está en la 49.a). El art. 17 (fallecimiento) queda por debajo del nuevo mínimo básico del art. 48.a bis) del TREBEP: diez días hábiles por cónyuge, pareja de hecho o familiar de primer grado de consanguinidad, y tres o cinco por el resto, a iniciar dentro de las cuatro semanas y también en días discontinuos"
+      },
+      {
         "title": "Real Decreto Legislativo 5/2015 - TREBEP (Texto Refundido del Estatuto Básico del Empleado Público)",
         "description": "Múltiples artículos remiten a las condiciones del TREBEP"
       },

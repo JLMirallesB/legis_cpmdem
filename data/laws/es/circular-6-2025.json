@@ -96,6 +96,11 @@
     "derogations": [],
     "concordances": [
       {
+        "lawId": "real-decreto-ley-42-2026",
+        "title": "Real Decreto-ley 42/2026 - Permisos por duelo, ayuda para morir, nacimiento y reducción de jornada (TREBEP y ET)",
+        "description": "Eleva a veinte las diecinueve semanas de permiso por nacimiento y adopción que esta circular incorporó al Manual"
+      },
+      {
         "lawId": "decreto-234-2022",
         "title": "Decreto 234/2022 - Permisos y licencias del personal docente",
         "description": "Norma base que regula los permisos y licencias del personal docente"

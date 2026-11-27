@@ -784,6 +784,13 @@
       "status": "ingested",
       "category": "organizacion",
       "notes": "Documento (no normativa). Instrucción de la Inspección General de Educación (web de la Inspección, 13/10/2025), PDF bilingüe a dos columnas, firmada por Vicente Marchante Villanueva. Supervisión del PEC (actuación prioritaria cíclica del PGAA 2025-2026, 25 % de centros por zona). Preámbulo + Primera-Cuarta + anexo I con las listas de comprobación por tipo de centro, en tabla (tipo I: ítems 1-50; tipo II CIPFP: 51-60; tipo III conservatorios profesionales de música y danza: 61-80). Columnas SÍ/NO/OBSERVACIONES no reproducidas. General, autonómica, anual (25-26)."
+    },
+    {
+      "slug": "real-decreto-ley-42-2026",
+      "title": "Real Decreto-ley 42/2026 - Permisos por duelo, ayuda para morir, nacimiento y reducción de jornada",
+      "status": "ingested",
+      "category": "profesorado",
+      "notes": "Real decreto-ley estatal (BOE 293, 25/11/2026; en vigor el 26/11/2026; pendiente de convalidación por el Congreso). Nueva redacción de los arts. 48 y 49 del TREBEP y de los arts. 34.8, 37.3, 37.6, 48.4 y 48.5 del ET; modifica también el art. 177 LGSS y el 61.2 de la Ley 55/2003 (esta última, no relativa a conservatorios). Solo en castellano. No modifica expresamente ninguna norma ingestada: el D. 234/2022 y la Circular 1/2025 remiten al TREBEP o quedan por debajo de su nuevo mínimo (concordancias en ambos sentidos)."
     }
   ]
 }

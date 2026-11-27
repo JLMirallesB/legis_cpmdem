@@ -35,6 +35,7 @@ const TYPE_LABELS_ES: Record<LawType, string> = {
   ley_organica: 'Ley Orgánica',
   ley: 'Ley',
   real_decreto: 'Real Decreto',
+  real_decreto_ley: 'Real Decreto-ley',
   decreto: 'Decreto',
   orden: 'Orden',
   resolucion: 'Resolución',

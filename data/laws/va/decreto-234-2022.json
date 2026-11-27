@@ -366,6 +366,11 @@
     ],
     "concordances": [
       {
+        "lawId": "real-decreto-ley-42-2026",
+        "title": "Reial decret llei 42/2026 - Permisos per dol, ajuda per a morir, naixement i reducció de jornada (TREBEP i ET)",
+        "description": "Dona nova redacció als arts. 48 i 49 del TREBEP (en vigor des del 26/11/2026). Els arts. 9, 10, 11, 14, 15 i 23 hi remeten i s'apliquen amb el text nou; la lletra 49.c) a què remet l'art. 10 és ara el permís parental, i el permís del progenitor diferent de la mare biològica és en la 49.a). L'art. 17 (defunció) queda per davall del nou mínim bàsic de l'art. 48.a bis) del TREBEP: deu dies hàbils per cònjuge, parella de fet o familiar de primer grau de consanguinitat, i tres o cinc per a la resta, que es poden començar dins de les quatre setmanes i també en dies discontinus"
+      },
+      {
         "title": "Reial decret legislatiu 5/2015 - TREBEP (Text refós de l'Estatut bàsic de l'empleat públic)",
         "description": "Múltiples articles remeten a les condicions del TREBEP"
       },

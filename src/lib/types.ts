@@ -6,6 +6,7 @@ export type LawType =
   | 'ley_organica'
   | 'ley'
   | 'real_decreto'
+  | 'real_decreto_ley'
   | 'decreto'
   | 'orden'
   | 'resolucion'
