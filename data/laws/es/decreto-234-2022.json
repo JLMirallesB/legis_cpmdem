@@ -377,6 +377,31 @@
       {
         "title": "Decreto 42/2019, de 22 de marzo, del Consell, de regulación de las condiciones de trabajo del personal funcionario",
         "description": "Marco general de condiciones de trabajo de funcionarios de la Generalitat"
+      },
+      {
+        "lawId": "circular-1-2025-permisos",
+        "title": "Circular 1/2025 - Manual de permisos y licencias del personal docente",
+        "description": "Manual de permisos y licencias que desarrolla este decreto."
+      },
+      {
+        "lawId": "circular-6-2025",
+        "title": "Circular 6/2025 - Modificación permisos por RDL 9/2025",
+        "description": "Adapta los apartados del Manual sobre nacimiento, adopción y lactancia (arts. 9, 10, 11 y 14) al RDL 9/2025."
+      },
+      {
+        "lawId": "circular-2-2026",
+        "title": "Circular 2/2026 - Permiso por cuidado de menor con cáncer o enfermedad grave",
+        "description": "Regula de nuevo el permiso por cuidado de menor con cáncer o enfermedad grave (art. 15)."
+      },
+      {
+        "lawId": "circular-1-2026-ausencias",
+        "title": "Circular 1/2026 - Ausencias del personal docente",
+        "description": "Instrucciones sobre las ausencias del personal docente; sus anexos remiten a los permisos y licencias de este decreto."
+      },
+      {
+        "lawId": "instruccion-1-2026-asuntos-particulares",
+        "title": "Instrucción 1/2026 - Asuntos particulares retribuidos del personal docente",
+        "description": "Regula el permiso por asuntos particulares, que este decreto no recoge."
       }
     ]
   },

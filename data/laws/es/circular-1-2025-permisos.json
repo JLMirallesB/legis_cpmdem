@@ -663,6 +663,16 @@
         "lawId": "real-decreto-ley-42-2026",
         "title": "Real Decreto-ley 42/2026 - Permisos por duelo, ayuda para morir, nacimiento y reducción de jornada (TREBEP y ET)",
         "description": "Eleva el permiso por nacimiento y por adopción a veinte semanas, con tres de cuidado del menor (apdos. II.5, II.6 y II.11), amplía el permiso por fallecimiento (II.14) y el de cuidado de menor con cáncer o enfermedad grave (II.12), y añade el día de la prestación de ayuda para morir, que el Manual no recoge"
+      },
+      {
+        "lawId": "circular-1-2026-ausencias",
+        "title": "Circular 1/2026 - Ausencias del personal docente",
+        "description": "Instrucciones sobre las ausencias del personal docente; sus anexos remiten a los apartados de este Manual para cada permiso."
+      },
+      {
+        "lawId": "instruccion-1-2026-asuntos-particulares",
+        "title": "Instrucción 1/2026 - Asuntos particulares retribuidos del personal docente",
+        "description": "Regula el permiso por asuntos particulares, que este Manual no recoge."
       }
     ]
   },

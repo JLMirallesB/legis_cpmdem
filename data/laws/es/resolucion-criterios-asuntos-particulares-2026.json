@@ -28,16 +28,7 @@
         "relationship": "desarrollo"
       }
     ],
-    "priorAffectations": [
-      {
-        "lawId": "instruccion-1-2026-asuntos-particulares",
-        "title": "Instrucción 1/2026 - Asuntos particulares retribuidos del personal docente",
-        "type": "modifica",
-        "articles": [],
-        "date": "2026-10-19",
-        "description": "Instrucción cuya aplicación se aclara: grabación en ITACA, plazo de resolución, cómputo de la escala de permisos diarios, criterios de prelación, personal interino, puestos itinerantes, profesorado de religión y personal experto/especialista"
-      }
-    ],
+    "priorAffectations": [],
     "posteriorAffectations": [],
     "derogations": [],
     "concordances": [

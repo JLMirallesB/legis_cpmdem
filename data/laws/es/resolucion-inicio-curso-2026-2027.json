@@ -130,6 +130,11 @@
         "lawId": "real-decreto-303-2010",
         "title": "Real Decreto 303/2010 (requisitos mínimos de centros)",
         "description": "Ratios para la constitución de grupos, sección 3.2.3"
+      },
+      {
+        "lawId": "circular-1-2026-ausencias",
+        "title": "Circular 1/2026 - Ausencias del personal docente",
+        "description": "Regula las ausencias del profesorado y su justificación; esta resolución remite el control de asistencia al sistema que fijen las normas de organización y funcionamiento del centro (apdo. 6.1.1.8)."
       }
     ]
   },

@@ -377,6 +377,31 @@
       {
         "title": "Decret 42/2019, de 22 de març, del Consell, de regulació de les condicions de treball del personal funcionari",
         "description": "Marc general de condicions de treball dels funcionaris de la Generalitat"
+      },
+      {
+        "lawId": "circular-1-2025-permisos",
+        "title": "Circular 1/2025 - Manual de permisos i llicències del personal docent",
+        "description": "Manual de permisos i llicències que desplega este decret."
+      },
+      {
+        "lawId": "circular-6-2025",
+        "title": "Circular 6/2025 - Modificació permisos per RDL 9/2025",
+        "description": "Adapta els apartats del Manual sobre naixement, adopció i lactància (arts. 9, 10, 11 i 14) al RDL 9/2025."
+      },
+      {
+        "lawId": "circular-2-2026",
+        "title": "Circular 2/2026 - Permís per cura de menor amb càncer o malaltia greu",
+        "description": "Regula de nou el permís per cura de menor amb càncer o malaltia greu (art. 15)."
+      },
+      {
+        "lawId": "circular-1-2026-ausencias",
+        "title": "Circular 1/2026 - Absències del personal docent",
+        "description": "Instruccions sobre les absències del personal docent; els seus annexos remeten als permisos i llicències d’este decret."
+      },
+      {
+        "lawId": "instruccion-1-2026-asuntos-particulares",
+        "title": "Instrucció 1/2026 - Assumptes particulars retribuïts del personal docent",
+        "description": "Regula el permís per assumptes particulars, que este decret no arreplega."
       }
     ]
   },

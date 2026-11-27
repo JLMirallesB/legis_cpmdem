@@ -1,5 +1,39 @@
 [
   {
+    "version": "2.22.1",
+    "date": "2026-11-27",
+    "entries": {
+      "es": [
+        {
+          "type": "corregido",
+          "description": "Resolución de criterios de asuntos particulares (19/10/2026): ya no figura como norma que modifica la Instrucción 1/2026, porque solo aclara cómo se aplica sin cambiar su texto. Ahora las dos fichas se enlazan como concordancia."
+        },
+        {
+          "type": "corregido",
+          "description": "Decreto 140/2026 (comisiones de servicios): la relación con la Circular 2/2026 explica ahora lo que dice de verdad la circular, que solo afecta a la solicitud del permiso por cuidado de menor con cáncer o enfermedad grave."
+        },
+        {
+          "type": "actualizado",
+          "description": "Enlaces de vuelta entre normas de permisos: el Decreto 234/2022 enlaza el Manual de permisos y las circulares e instrucciones que lo desarrollan; el Manual enlaza la Circular 1/2026 de ausencias y la Instrucción 1/2026 de asuntos particulares; y la resolución de inicio de curso 2026-2027 enlaza la Circular 1/2026."
+        }
+      ],
+      "va": [
+        {
+          "type": "corregit",
+          "description": "Resolució de criteris d’assumptes particulars (19/10/2026): ja no figura com a norma que modifica la Instrucció 1/2026, perquè només aclarix com s’aplica sense canviar-ne el text. Ara les dues fitxes s’enllacen com a concordança."
+        },
+        {
+          "type": "corregit",
+          "description": "Decret 140/2026 (comissions de servicis): la relació amb la Circular 2/2026 explica ara el que diu de veritat la circular, que només afecta la sol·licitud del permís per cura de menor amb càncer o malaltia greu."
+        },
+        {
+          "type": "actualitzat",
+          "description": "Enllaços de tornada entre normes de permisos: el Decret 234/2022 enllaça el Manual de permisos i les circulars i instruccions que el despleguen; el Manual enllaça la Circular 1/2026 d’absències i la Instrucció 1/2026 d’assumptes particulars; i la resolució d’inici de curs 2026-2027 enllaça la Circular 1/2026."
+        }
+      ]
+    }
+  },
+  {
     "version": "2.22.0",
     "date": "2026-11-27",
     "entries": {
@@ -19,15 +53,15 @@
       ],
       "va": [
         {
-          "type": "nuevo",
+          "type": "nou",
           "description": "Reial decret llei 42/2026, de 24 de novembre (BOE), que reescriu els permisos dels articles 48 i 49 de l'Estatut bàsic de l'empleat públic i els de l'Estatut dels Treballadors. Permís per defunció de deu dies hàbils per cònjuge, parella o familiar de primer grau de consanguinitat, que es pot començar dins de les quatre setmanes i també en dies solts; naixement i adopció de vint setmanes, amb tres de cura del menor; nou permís pel dia de la prestació d'ajuda per a morir; i més supòsits en el permís per cura de menor amb càncer o malaltia greu. En vigor des del 26 de novembre de 2026; la setmana addicional per naixement es pot demanar des de l'1 de març de 2027."
         },
         {
-          "type": "actualizado",
+          "type": "actualitzat",
           "description": "Decret 234/2022, Manual de permisos i llicències (Circular 1/2025) i Circulars 6/2025 i 2/2026: la seua anàlisi jurídica enllaça ara el Reial decret llei 42/2026 i explica quins apartats queden desfasats (defunció, naixement i adopció, cura de menor amb càncer) i que la lletra del TREBEP a què remet l'article 10 del decret ha canviat."
         },
         {
-          "type": "mejora",
+          "type": "millora",
           "description": "Nou tipus de norma «Reial decret llei» en el catàleg, el cercador i les cites APA."
         }
       ]

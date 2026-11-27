@@ -663,6 +663,16 @@
         "lawId": "real-decreto-ley-42-2026",
         "title": "Reial decret llei 42/2026 - Permisos per dol, ajuda per a morir, naixement i reducció de jornada (TREBEP i ET)",
         "description": "Eleva el permís per naixement i per adopció a vint setmanes, amb tres de cura del menor (apts. II.5, II.6 i II.11), amplia el permís per defunció (II.14) i el de cura de menor amb càncer o malaltia greu (II.12), i afig el dia de la prestació d'ajuda per a morir, que el Manual no recull"
+      },
+      {
+        "lawId": "circular-1-2026-ausencias",
+        "title": "Circular 1/2026 - Absències del personal docent",
+        "description": "Instruccions sobre les absències del personal docent; els seus annexos remeten als apartats d’este Manual per a cada permís."
+      },
+      {
+        "lawId": "instruccion-1-2026-asuntos-particulares",
+        "title": "Instrucció 1/2026 - Assumptes particulars retribuïts del personal docent",
+        "description": "Regula el permís per assumptes particulars, que este Manual no arreplega."
       }
     ]
   },

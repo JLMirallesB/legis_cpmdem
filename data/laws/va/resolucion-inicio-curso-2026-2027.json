@@ -130,6 +130,11 @@
         "lawId": "real-decreto-303-2010",
         "title": "Reial Decret 303/2010 (requisits mínims de centres)",
         "description": "Ràtios per a la constitució de grups, secció 3.2.3"
+      },
+      {
+        "lawId": "circular-1-2026-ausencias",
+        "title": "Circular 1/2026 - Absències del personal docent",
+        "description": "Regula les absències del professorat i la seua justificació; esta resolució remet el control d’assistència al sistema que fixen les normes d’organització i funcionament del centre (apt. 6.1.1.8)."
       }
     ]
   },

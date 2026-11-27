@@ -87,16 +87,7 @@
       }
     ],
     "priorAffectations": [],
-    "posteriorAffectations": [
-      {
-        "lawId": "resolucion-criterios-asuntos-particulares-2026",
-        "title": "Resolución de 19/10/2026 (DG Personal Docente) - Criterios de aplicación de la Instrucción 1/2026",
-        "type": "modifica",
-        "articles": [],
-        "date": "2026-10-19",
-        "description": "Establece criterios interpretativos sin modificar el texto: grabación en ITACA, resolución con 6 días naturales de antelación, escala referida a los puestos docentes a 1 de septiembre, criterios de prelación entre solicitudes, días proporcionales del personal interino (3·X/365), puestos itinerantes, profesorado de religión y personal experto/especialista"
-      }
-    ],
+    "posteriorAffectations": [],
     "derogations": [],
     "concordances": [
       {
@@ -112,6 +103,11 @@
       {
         "title": "Acuerdo de 25 de mayo de 2026 entre la Conselleria y las organizaciones sindicales ANPE y CSIF por la mejora del sistema educativo de la Comunitat Valenciana",
         "description": "Establece la implantación de 6 días de libre disposición a partir del curso 26/27 (3 lectivos y 3 no lectivos)"
+      },
+      {
+        "lawId": "resolucion-criterios-asuntos-particulares-2026",
+        "title": "Criterios de aplicación de la Instrucción 1/2026 - Asuntos particulares del personal docente",
+        "description": "Criterios de aplicación de esta instrucción, sin modificar su texto: grabación en ITACA, resolución con 6 días naturales de antelación, escala referida a los puestos docentes a 1 de septiembre, prelación entre solicitudes, días proporcionales del personal interino (3·X/365), puestos itinerantes, profesorado de religión y personal experto o especialista."
       }
     ]
   },

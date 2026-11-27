@@ -28,16 +28,7 @@
         "relationship": "desarrollo"
       }
     ],
-    "priorAffectations": [
-      {
-        "lawId": "instruccion-1-2026-asuntos-particulares",
-        "title": "Instrucció 1/2026 - Assumptes particulars retribuïts del personal docent",
-        "type": "modifica",
-        "articles": [],
-        "date": "2026-10-19",
-        "description": "Instrucció l’aplicació de la qual s’aclarix: gravació en ITACA, termini de resolució, còmput de l’escala de permisos diaris, criteris de prelació, personal interí, llocs itinerants, professorat de religió i personal expert/especialista"
-      }
-    ],
+    "priorAffectations": [],
     "posteriorAffectations": [],
     "derogations": [],
     "concordances": [
